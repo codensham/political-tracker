@@ -9,4 +9,4 @@ REGISTRY: dict[str, Callable[[], object]] = {}
 
 # Modules imported by the CLI so their REGISTRY entries exist.
 # Later tasks append their module here (e.g. "tracker.collectors.fec").
-BUILTIN_MODULES: tuple[str, ...] = ()
+BUILTIN_MODULES: tuple[str, ...] = ("tracker.collectors.fec",)
