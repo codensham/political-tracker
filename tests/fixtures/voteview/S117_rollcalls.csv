@@ -1,0 +1,7 @@
+congress,chamber,rollnumber,date,session,clerk_rollnumber,majority_requirement,yea_count,nay_count,nominate_mid_1,nominate_mid_2,nominate_spread_1,nominate_spread_2,nominate_log_likelihood,bill_number,vote_result,vote_desc,vote_question,dtl_desc
+117,Senate,1,2021-01-06,1,1,1/2,6,93,-0.695,0.62,0.115,-1.472,-19.013,,Objection Not Sustained,,On the Objection,
+117,Senate,2,2021-01-07,1,2,1/2,7,92,-0.767,0.609,0.119,-1.265,-19.568,,Objection Not Sustained,,On the Objection,
+117,Senate,3,2021-01-20,1,3,1/2,84,10,0.541,0.841,0.45,0.34,-15.092,PN7810,Nomination Confirmed,"Avril Danica Haines, of New York, to be Director of National Intelligence",On the Nomination,
+117,Senate,4,2021-01-21,1,4,3/5,69,27,-0.787,0.617,-0.132,-0.259,-51.555,HR335,Bill Passed,A bill to provide for an exception to a limitation against appointment of persons as Secretary of Defense within seven years of relief from active duty as a regular commissioned officer of the Armed Forces.,On Passage of the Bill,
+117,Senate,5,2021-01-22,1,5,1/2,93,2,0.0,0.0,0.0,0.0,0.0,PN781,Nomination Confirmed,"Lloyd James Austin, of Georgia, to be Secretary of Defense",On the Nomination,
+117,Senate,6,2021-01-25,1,6,1/2,84,15,-0.045,0.999,0.129,0.67,-24.053,PN7824,Nomination Confirmed,"Janet Louise Yellen, of California, to be Secretary of the Treasury",On the Nomination,
