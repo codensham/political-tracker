@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "topics": [
+    { "id": "economy", "label": "Economy" },
+    { "id": "taxes", "label": "Taxes" },
+    { "id": "healthcare", "label": "Healthcare" },
+    { "id": "immigration", "label": "Immigration" },
+    { "id": "foreign-policy", "label": "Foreign policy" },
+    { "id": "defense", "label": "Defense" },
+    { "id": "climate-energy", "label": "Climate and energy" },
+    { "id": "environment", "label": "Environment" },
+    { "id": "guns", "label": "Guns" },
+    { "id": "abortion", "label": "Abortion" },
+    { "id": "criminal-justice", "label": "Criminal justice" },
+    { "id": "education", "label": "Education" },
+    { "id": "civil-rights", "label": "Civil rights" },
+    { "id": "labor", "label": "Labor" },
+    { "id": "trade", "label": "Trade" },
+    { "id": "technology", "label": "Technology" },
+    { "id": "elections-democracy", "label": "Elections and democracy" },
+    { "id": "government-ethics", "label": "Government ethics" },
+    { "id": "housing", "label": "Housing" },
+    { "id": "agriculture", "label": "Agriculture" }
+  ]
+}

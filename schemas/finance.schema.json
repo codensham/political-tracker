@@ -1,0 +1,27 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Finance record (type-specific fields)",
+  "description": "Composed with base.schema.json by tracker.validate; unevaluatedProperties is false over the union.",
+  "type": "object",
+  "required": [
+    "cycle",
+    "receipts",
+    "disbursements",
+    "cash_on_hand_end",
+    "debts_owed",
+    "coverage_start",
+    "coverage_end",
+    "fec_candidate_id"
+  ],
+  "properties": {
+    "type": { "const": "finance" },
+    "cycle": { "type": "integer" },
+    "receipts": { "type": "number" },
+    "disbursements": { "type": "number" },
+    "cash_on_hand_end": { "type": "number" },
+    "debts_owed": { "type": "number" },
+    "coverage_start": { "type": "string", "format": "date" },
+    "coverage_end": { "type": "string", "format": "date" },
+    "fec_candidate_id": { "type": "string" }
+  }
+}

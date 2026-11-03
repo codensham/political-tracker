@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Candidate record (type-specific fields)",
+  "description": "Composed with base.schema.json by tracker.validate; unevaluatedProperties is false over the union.",
+  "type": "object",
+  "required": [
+    "name",
+    "party",
+    "status",
+    "fec_candidate_ids",
+    "icpsr",
+    "bioguide_id",
+    "official_site",
+    "inclusion_reason"
+  ],
+  "properties": {
+    "type": { "const": "candidate" },
+    "name": { "type": "string", "minLength": 1 },
+    "party": { "type": "string", "minLength": 1 },
+    "status": {
+      "type": "string",
+      "enum": ["potential", "declared", "withdrawn", "nominee"]
+    },
+    "fec_candidate_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "icpsr": { "type": ["integer", "null"] },
+    "bioguide_id": { "type": ["string", "null"] },
+    "official_site": { "type": ["string", "null"], "format": "uri" },
+    "inclusion_reason": { "type": "string", "minLength": 1 }
+  }
+}
