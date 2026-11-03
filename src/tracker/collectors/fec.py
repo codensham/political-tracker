@@ -38,7 +38,26 @@ class FecFinanceCollector:
                     sleep=self._sleep,
                 )
                 for row in payload.get("results", []):
+                    # A row with null core fields cannot be a valid record. Skip it so one
+                    # bad row does not abort the run for every candidate.
+                    if not _complete(row):
+                        continue
                     yield _to_record(cand["id"], fec_id, row)
+
+
+_REQUIRED_FEC_FIELDS = (
+    "cycle",
+    "receipts",
+    "disbursements",
+    "last_cash_on_hand_end_period",
+    "last_debts_owed_by_committee",
+    "coverage_start_date",
+    "coverage_end_date",
+)
+
+
+def _complete(row: dict) -> bool:
+    return all(row.get(f) is not None for f in _REQUIRED_FEC_FIELDS)
 
 
 def _to_record(candidate_id: str, fec_id: str, row: dict) -> dict:

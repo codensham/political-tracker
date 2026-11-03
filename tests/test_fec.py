@@ -159,3 +159,17 @@ def test_cli_nonzero_on_failure(tmp_path: Path, monkeypatch):
     assert code != 0
     assert validate_tree(data) == {}
     assert any((data / "finance").rglob("*.json"))
+
+
+def test_rows_with_null_fields_skipped_not_fatal():
+    bad_debts = {**ROW, "last_debts_owed_by_committee": None}
+    bad_start = {**ROW, "coverage_start_date": None, "cycle": 2029}
+    good = {**ROW, "cycle": 2030}
+    payload = {**FIXTURE, "results": [bad_debts, bad_start, good]}
+
+    def handler(request: httpx.Request) -> httpx.Response:
+        return httpx.Response(200, json=payload)
+
+    client = httpx.Client(transport=httpx.MockTransport(handler))
+    records = list(FecFinanceCollector(client, sleep=lambda s: None).collect([CANDIDATE]))
+    assert [r["cycle"] for r in records] == [2030]

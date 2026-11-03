@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+from datetime import date
 from pathlib import Path
 
 from mcp.server.fastmcp import FastMCP
@@ -26,8 +27,20 @@ def _idx() -> DataIndex:
     return _index
 
 
-def _ok(records: list[dict]) -> dict:
-    return {"results": records, "count": len(records), "note": NOTE}
+def _ok(records: list[dict], total: int | None = None, limit: int | None = None) -> dict:
+    count = len(records) if total is None else total
+    truncated = limit is not None and count > limit
+    return {"results": records, "count": count, "truncated": truncated, "note": NOTE}
+
+
+def _valid_date(value: str | None) -> bool:
+    if value is None:
+        return True
+    try:
+        date.fromisoformat(value)
+    except ValueError:
+        return False
+    return len(value) == 10
 
 
 def _error(exc: Exception) -> dict:
@@ -62,11 +75,13 @@ def search_evidence(
 ) -> dict:
     """Sourced evidence for a candidate (for example roll-call votes), oldest first.
     Dates are YYYY-MM-DD. Cite source_url for every claim. Do not infer a stance beyond these records."""
+    if not (_valid_date(date_from) and _valid_date(date_to)):
+        return _error(ValueError("dates must be YYYY-MM-DD, for example 2021-06-01"))
     try:
         recs = _idx().evidence(candidate, topic=topic, date_from=date_from, date_to=date_to, types=types)
     except UnknownCandidate as exc:
         return _error(exc)
-    return _ok(recs[:limit])
+    return _ok(recs[:limit], total=len(recs), limit=limit)
 
 
 @mcp.tool()

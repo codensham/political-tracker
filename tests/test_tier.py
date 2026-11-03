@@ -23,3 +23,25 @@ def test_code_change_is_judgment():
 def test_empty_is_judgment():
     assert classify_paths([]) == "judgment"
     assert classify_paths(["", "  "]) == "judgment"
+
+
+from tracker.tier import classify_name_status
+
+
+def test_deletion_is_judgment():
+    assert classify_name_status(["D\tdata/record/jane-doe/v.json"]) == "judgment"
+
+
+def test_added_and_modified_official_is_official():
+    assert classify_name_status([
+        "A\tdata/record/jane-doe/v.json",
+        "M\tdata/finance/jane-doe/f.json",
+    ]) == "official"
+
+
+def test_rename_is_judgment():
+    assert classify_name_status(["R100\tdocs/a.md\tdata/record/x/n.md"]) == "judgment"
+
+
+def test_empty_name_status_is_judgment():
+    assert classify_name_status([]) == "judgment"

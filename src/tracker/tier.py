@@ -15,8 +15,26 @@ def classify_paths(paths: list[str]) -> Literal["official", "judgment"]:
     return "judgment"
 
 
+def classify_name_status(lines: list[str]) -> Literal["official", "judgment"]:
+    """Classify `git diff --name-status --no-renames` output.
+
+    Only additions and modifications under official folders are official. A deletion,
+    rename, copy or type change always needs review.
+    """
+    paths: list[str] = []
+    for line in lines:
+        if not line.strip():
+            continue
+        fields = line.split("\t")
+        status, path = fields[0], fields[-1]
+        if status[:1] not in ("A", "M"):
+            return "judgment"
+        paths.append(path)
+    return classify_paths(paths)
+
+
 def main() -> int:
-    print(classify_paths(sys.stdin.read().splitlines()))
+    print(classify_name_status(sys.stdin.read().splitlines()))
     return 0
 
 

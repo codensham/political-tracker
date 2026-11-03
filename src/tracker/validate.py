@@ -48,7 +48,7 @@ def validate_record(record: dict) -> list[str]:
     ]
 
     for topic in record.get("topics", []):
-        if topic not in _topic_ids():
+        if not isinstance(topic, str) or topic not in _topic_ids():
             errors.append(f"topics: unknown topic {topic!r}")
 
     if record_type == "candidate" and record.get("id") not in record.get("candidate_ids", []):
@@ -58,9 +58,22 @@ def validate_record(record: dict) -> list[str]:
 
 
 def validate_tree(root: Path) -> dict[Path, list[str]]:
-    """Validate every record file under root. Return only the files that have errors."""
+    """Validate every file under root. Return only the files that have errors.
+
+    Fails closed: a file with no schema (unknown folder, non-JSON) is an error, so
+    nothing unvalidated can ride along on an auto-merged pull request.
+    """
     root = Path(root)
     report: dict[Path, list[str]] = {}
+    known_dirs = set(TYPE_DIRS.values())
+    for path in sorted(root.rglob("*")):
+        if path.is_dir():
+            continue
+        rel = path.relative_to(root)
+        if rel.parts[0] not in known_dirs:
+            report.setdefault(path, []).append(f"no schema for folder {rel.parts[0]!r}")
+        elif path.suffix != ".json":
+            report.setdefault(path, []).append("not a JSON record file")
     for record_type, dirname in TYPE_DIRS.items():
         base = root / dirname
         if not base.exists():

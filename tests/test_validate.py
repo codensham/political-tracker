@@ -121,3 +121,34 @@ def test_cli_exit_codes(tmp_path: Path):
     )
     assert fail.returncode == 1
     assert "not-a-topic" in fail.stdout
+
+
+def test_bad_source_url_fails():
+    assert any("source_url" in e for e in validate_record(vote(source_url="not a url at all")))
+
+
+def test_bad_collected_at_fails():
+    assert any("collected_at" in e for e in validate_record(vote(collected_at="yesterday")))
+
+
+def test_bad_published_at_fails():
+    assert any("published_at" in e for e in validate_record(vote(published_at="whenever")))
+
+
+def test_malformed_topic_reported_not_crash():
+    assert validate_record(vote(topics=[{"a": 1}]))
+
+
+def test_unknown_folder_flagged(tmp_path: Path):
+    folder = tmp_path / "disclosures" / "jane-doe"
+    folder.mkdir(parents=True)
+    (folder / "2026.json").write_text("{}", encoding="utf-8")
+    report = validate_tree(tmp_path)
+    assert any("no schema" in e for errs in report.values() for e in errs)
+
+
+def test_non_json_file_flagged(tmp_path: Path):
+    write_record(vote(), tmp_path)
+    (tmp_path / "record" / "jane-doe" / "notes.md").write_text("x", encoding="utf-8")
+    report = validate_tree(tmp_path)
+    assert any("not a JSON" in e for errs in report.values() for e in errs)
