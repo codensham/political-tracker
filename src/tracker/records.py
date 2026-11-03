@@ -1,0 +1,53 @@
+"""Read and write record JSON files, one record per file."""
+
+from __future__ import annotations
+
+import json
+from datetime import datetime, timezone
+from pathlib import Path
+from typing import Iterator
+
+TYPE_DIRS: dict[str, str] = {
+    "candidate": "candidates",
+    "finance": "finance",
+    "vote": "record",
+}
+
+
+def now_iso() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+
+
+def record_path(record: dict, root: Path) -> Path:
+    root = Path(root)
+    if record["type"] == "candidate":
+        return root / "candidates" / f"{record['id']}.json"
+    return root / TYPE_DIRS[record["type"]] / record["candidate_ids"][0] / f"{record['id']}.json"
+
+
+def _content(record: dict) -> dict:
+    return {k: v for k, v in record.items() if k != "collected_at"}
+
+
+def write_record(record: dict, root: Path) -> bool:
+    """Write the record. Return False and leave the file alone if only collected_at differs."""
+    path = record_path(record, root)
+    if path.exists():
+        existing = json.loads(path.read_text(encoding="utf-8"))
+        if _content(existing) == _content(record):
+            return False
+    path.parent.mkdir(parents=True, exist_ok=True)
+    text = json.dumps(record, indent=2, sort_keys=True, ensure_ascii=False) + "\n"
+    path.write_text(text, encoding="utf-8", newline="\n")
+    return True
+
+
+def load_records(root: Path, type: str | None = None) -> Iterator[dict]:
+    root = Path(root)
+    types = [type] if type is not None else list(TYPE_DIRS)
+    for t in types:
+        base = root / TYPE_DIRS[t]
+        if not base.exists():
+            continue
+        for path in sorted(base.rglob("*.json")):
+            yield json.loads(path.read_text(encoding="utf-8"))
