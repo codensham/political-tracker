@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-04103",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2022-04103",
+  "published_at": "2022-02-24",
+  "signing_date": "2022-02-18",
+  "source_url": "https://www.federalregister.gov/documents/2022/02/24/2022-04103/day-of-remembrance-of-japanese-american-incarceration-during-world-war-ii",
+  "title": "Day of Remembrance of Japanese American Incarceration During World War II",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-17041",
+  "document_type": "executive_order",
+  "executive_order_number": "13220",
+  "id": "exec-01-17041",
+  "published_at": "2001-07-05",
+  "signing_date": "2001-07-02",
+  "source_url": "https://www.federalregister.gov/documents/2001/07/05/01-17041/waiver-under-the-trade-act-of-1974-with-respect-to-the-republic-of-belarus",
+  "title": "Waiver Under the Trade Act of 1974 With Respect to the Republic of Belarus",
+  "topics": [],
+  "type": "executive_action"
+}

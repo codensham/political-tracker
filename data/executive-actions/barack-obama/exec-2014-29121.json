@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-29121",
+  "document_type": "executive_order",
+  "executive_order_number": "13682",
+  "id": "exec-2014-29121",
+  "published_at": "2014-12-10",
+  "signing_date": "2014-12-05",
+  "source_url": "https://www.federalregister.gov/documents/2014/12/10/2014-29121/closing-of-executive-departments-and-agencies-of-the-federal-government-on-friday-december-26-2014",
+  "title": "Closing of Executive Departments and Agencies of the Federal Government on Friday, December 26, 2014",
+  "topics": [],
+  "type": "executive_action"
+}

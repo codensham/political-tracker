@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-26219",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-26219",
+  "published_at": "2021-12-01",
+  "signing_date": "2021-11-24",
+  "source_url": "https://www.federalregister.gov/documents/2021/12/01/2021-26219/thanksgiving-day-2021",
+  "title": "Thanksgiving Day, 2021",
+  "topics": [],
+  "type": "executive_action"
+}

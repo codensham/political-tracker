@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-27777",
+  "document_type": "executive_order",
+  "executive_order_number": "13479",
+  "id": "exec-e8-27777",
+  "published_at": "2008-11-20",
+  "signing_date": "2008-11-18",
+  "source_url": "https://www.federalregister.gov/documents/2008/11/20/E8-27777/transformation-of-the-national-air-transportation-system",
+  "title": "Transformation of the National Air Transportation System",
+  "topics": [],
+  "type": "executive_action"
+}

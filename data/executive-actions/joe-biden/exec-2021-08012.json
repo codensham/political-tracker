@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-08012",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-08012",
+  "published_at": "2021-04-16",
+  "signing_date": "2021-04-13",
+  "source_url": "https://www.federalregister.gov/documents/2021/04/16/2021-08012/160th-anniversary-of-the-unification-of-italy-and-the-establishment-of-united-states-italy",
+  "title": "160th Anniversary of the Unification of Italy and the Establishment of United States-Italy Diplomatic Relations",
+  "topics": [],
+  "type": "executive_action"
+}

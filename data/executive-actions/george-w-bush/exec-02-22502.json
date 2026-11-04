@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-22502",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-02-22502",
+  "published_at": "2002-08-30",
+  "signing_date": "2002-08-28",
+  "source_url": "https://www.federalregister.gov/documents/2002/08/30/02-22502/to-implement-an-agreement-regarding-imports-of-line-pipe-under-section-203-of-the-trade-act-of-1974",
+  "title": "To Implement an Agreement Regarding Imports of Line Pipe Under Section 203 of the Trade Act of 1974",
+  "topics": [],
+  "type": "executive_action"
+}

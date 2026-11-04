@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-27106",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2015-27106",
+  "published_at": "2015-10-22",
+  "signing_date": "2015-10-16",
+  "source_url": "https://www.federalregister.gov/documents/2015/10/22/2015-27106/national-character-counts-week-2015",
+  "title": "National Character Counts Week, 2015",
+  "topics": [],
+  "type": "executive_action"
+}

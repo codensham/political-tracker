@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-15758",
+  "document_type": "executive_order",
+  "executive_order_number": "13217",
+  "id": "exec-01-15758",
+  "published_at": "2001-06-21",
+  "signing_date": "2001-06-18",
+  "source_url": "https://www.federalregister.gov/documents/2001/06/21/01-15758/community-based-alternatives-for-individuals-with-disabilities",
+  "title": "Community-Based Alternatives for Individuals With Disabilities",
+  "topics": [],
+  "type": "executive_action"
+}

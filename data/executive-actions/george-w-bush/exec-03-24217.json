@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-24217",
+  "document_type": "executive_order",
+  "executive_order_number": "13316",
+  "id": "exec-03-24217",
+  "published_at": "2003-09-23",
+  "signing_date": "2003-09-17",
+  "source_url": "https://www.federalregister.gov/documents/2003/09/23/03-24217/continuance-of-certain-federal-advisory-committees",
+  "title": "Continuance of Certain Federal Advisory Committees",
+  "topics": [],
+  "type": "executive_action"
+}

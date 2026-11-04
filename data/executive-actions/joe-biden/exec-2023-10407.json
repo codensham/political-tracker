@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-10407",
+  "document_type": "executive_order",
+  "executive_order_number": "14099",
+  "id": "exec-2023-10407",
+  "published_at": "2023-05-15",
+  "signing_date": "2023-05-09",
+  "source_url": "https://www.federalregister.gov/documents/2023/05/15/2023-10407/moving-beyond-covid-19-vaccination-requirements-for-federal-workers",
+  "title": "Moving Beyond COVID-19 Vaccination Requirements for Federal Workers",
+  "topics": [],
+  "type": "executive_action"
+}

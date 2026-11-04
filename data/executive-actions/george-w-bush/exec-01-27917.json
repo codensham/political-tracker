@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-27917",
+  "document_type": "executive_order",
+  "executive_order_number": "13233",
+  "id": "exec-01-27917",
+  "published_at": "2001-11-05",
+  "signing_date": "2001-11-01",
+  "source_url": "https://www.federalregister.gov/documents/2001/11/05/01-27917/further-implementation-of-the-presidential-records-act",
+  "title": "Further Implementation of the Presidential Records Act",
+  "topics": [],
+  "type": "executive_action"
+}

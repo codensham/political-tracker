@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-00611",
+  "document_type": "executive_order",
+  "executive_order_number": "14136",
+  "id": "exec-2025-00611",
+  "published_at": "2025-01-13",
+  "signing_date": "2025-01-03",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/13/2025-00611/providing-an-order-of-succession-within-the-department-of-justice",
+  "title": "Providing an Order of Succession Within the Department of Justice",
+  "topics": [],
+  "type": "executive_action"
+}

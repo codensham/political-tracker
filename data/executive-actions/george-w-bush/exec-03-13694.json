@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-13694",
+  "document_type": "executive_order",
+  "executive_order_number": "13304",
+  "id": "exec-03-13694",
+  "published_at": "2003-05-29",
+  "signing_date": "2003-05-28",
+  "source_url": "https://www.federalregister.gov/documents/2003/05/29/03-13694/termination-of-emergencies-with-respect-to-yugoslavia-and-modification-of-executive-order-13219-of",
+  "title": "Termination of Emergencies With Respect to Yugoslavia and Modification of Executive Order 13219 of June 26, 2001",
+  "topics": [],
+  "type": "executive_action"
+}

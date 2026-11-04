@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-14889",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-05-14889",
+  "published_at": "2005-07-26",
+  "signing_date": "2005-07-21",
+  "source_url": "https://www.federalregister.gov/documents/2005/07/26/05-14889/assignment-of-certain-functions-under-section-337-of-the-tariff-act-of-1930",
+  "title": "Assignment of Certain Functions Under Section 337 of the Tariff Act of 1930",
+  "topics": [],
+  "type": "executive_action"
+}

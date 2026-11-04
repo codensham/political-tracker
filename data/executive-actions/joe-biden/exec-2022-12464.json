@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-12464",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2022-12464",
+  "published_at": "2022-06-08",
+  "signing_date": "2022-06-03",
+  "source_url": "https://www.federalregister.gov/documents/2022/06/08/2022-12464/delegation-of-authority-under-sections-1209-and-1236-of-the-national-defense-authorization-act-for",
+  "title": "Delegation of Authority Under Sections 1209 and 1236 of the National Defense Authorization Act for Fiscal Year 2015, as Amended",
+  "topics": [],
+  "type": "executive_action"
+}

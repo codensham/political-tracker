@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-1885",
+  "document_type": "executive_order",
+  "executive_order_number": "13491",
+  "id": "exec-e9-1885",
+  "published_at": "2009-01-27",
+  "signing_date": "2009-01-22",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/27/E9-1885/ensuring-lawful-interrogations",
+  "title": "Ensuring Lawful Interrogations",
+  "topics": [],
+  "type": "executive_action"
+}

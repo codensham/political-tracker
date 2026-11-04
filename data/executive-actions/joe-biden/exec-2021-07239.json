@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-07239",
+  "document_type": "executive_order",
+  "executive_order_number": "14022",
+  "id": "exec-2021-07239",
+  "published_at": "2021-04-07",
+  "signing_date": "2021-04-01",
+  "source_url": "https://www.federalregister.gov/documents/2021/04/07/2021-07239/termination-of-emergency-with-respect-to-the-international-criminal-court",
+  "title": "Termination of Emergency With Respect to the International Criminal Court",
+  "topics": [],
+  "type": "executive_action"
+}

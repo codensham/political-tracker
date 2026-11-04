@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-29567",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-e8-29567",
+  "published_at": "2008-12-11",
+  "signing_date": "2008-12-09",
+  "source_url": "https://www.federalregister.gov/documents/2008/12/11/E8-29567/designation-of-officers-of-the-pension-benefit-guaranty-corporation-to-act-as-director-of-the",
+  "title": "Designation of Officers of the Pension Benefit Guaranty Corporation To Act As Director of the Pension Benefit Guaranty Corporation",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-04610",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2022-04610",
+  "published_at": "2022-03-03",
+  "signing_date": "2022-02-28",
+  "source_url": "https://www.federalregister.gov/documents/2022/03/03/2022-04610/american-red-cross-month-2022",
+  "title": "American Red Cross Month, 2022",
+  "topics": [],
+  "type": "executive_action"
+}

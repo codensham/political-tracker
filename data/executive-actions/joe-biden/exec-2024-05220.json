@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-05220",
+  "document_type": "executive_order",
+  "executive_order_number": "14119",
+  "id": "exec-2024-05220",
+  "published_at": "2024-03-11",
+  "signing_date": "2024-03-06",
+  "source_url": "https://www.federalregister.gov/documents/2024/03/11/2024-05220/scaling-and-expanding-the-use-of-registered-apprenticeships-in-industries-and-the-federal-government",
+  "title": "Scaling and Expanding the Use of Registered Apprenticeships in Industries and the Federal Government and Promoting Labor-Management Forums",
+  "topics": [],
+  "type": "executive_action"
+}

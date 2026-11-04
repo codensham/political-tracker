@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-02561",
+  "document_type": "executive_order",
+  "executive_order_number": "14010",
+  "id": "exec-2021-02561",
+  "published_at": "2021-02-05",
+  "signing_date": "2021-02-02",
+  "source_url": "https://www.federalregister.gov/documents/2021/02/05/2021-02561/creating-a-comprehensive-regional-framework-to-address-the-causes-of-migration-to-manage-migration",
+  "title": "Creating a Comprehensive Regional Framework To Address the Causes of Migration, To Manage Migration Throughout North and Central America, and To Provide Safe and Orderly Processing of Asylum Seekers at the United States Border",
+  "topics": [],
+  "type": "executive_action"
+}

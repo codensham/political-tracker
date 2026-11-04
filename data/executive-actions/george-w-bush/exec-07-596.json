@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-596",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-07-596",
+  "published_at": "2007-02-08",
+  "signing_date": "2007-02-02",
+  "source_url": "https://www.federalregister.gov/documents/2007/02/08/07-596/national-consumer-protection-week-2007",
+  "title": "National Consumer Protection Week, 2007",
+  "topics": [],
+  "type": "executive_action"
+}

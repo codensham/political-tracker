@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-8834",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-04-8834",
+  "published_at": "2004-04-16",
+  "signing_date": "2004-04-13",
+  "source_url": "https://www.federalregister.gov/documents/2004/04/16/04-8834/pan-american-day-and-pan-american-week-2004",
+  "title": "Pan American Day and Pan American Week, 2004",
+  "topics": [],
+  "type": "executive_action"
+}

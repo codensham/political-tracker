@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-30020",
+  "document_type": "executive_order",
+  "executive_order_number": "13523",
+  "id": "exec-e9-30020",
+  "published_at": "2009-12-16",
+  "signing_date": "2009-12-11",
+  "source_url": "https://www.federalregister.gov/documents/2009/12/16/E9-30020/half-day-closing-of-executive-departments-and-agencies-on-thursday-december-24-2009",
+  "title": "Half-Day Closing of Executive Departments and Agencies on Thursday, December 24, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

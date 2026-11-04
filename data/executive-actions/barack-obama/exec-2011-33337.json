@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-33337",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2011-33337",
+  "published_at": "2011-12-27",
+  "signing_date": "2011-12-21",
+  "source_url": "https://www.federalregister.gov/documents/2011/12/27/2011-33337/flexible-implementation-of-the-mercury-and-air-toxics-standards-rule",
+  "title": "Flexible Implementation of the Mercury and Air Toxics Standards Rule",
+  "topics": [],
+  "type": "executive_action"
+}

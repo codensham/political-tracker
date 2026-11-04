@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-23898",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2010-23898",
+  "published_at": "2010-09-22",
+  "signing_date": "2010-09-16",
+  "source_url": "https://www.federalregister.gov/documents/2010/09/22/2010-23898/constitution-day-and-citizenship-day-constitution-week-2010",
+  "title": "Constitution Day and Citizenship Day, Constitution Week, 2010",
+  "topics": [],
+  "type": "executive_action"
+}

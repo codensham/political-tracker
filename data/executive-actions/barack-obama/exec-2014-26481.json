@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-26481",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-26481",
+  "published_at": "2014-11-05",
+  "signing_date": "2014-10-31",
+  "source_url": "https://www.federalregister.gov/documents/2014/11/05/2014-26481/national-alzheimers-disease-awareness-month-2014",
+  "title": "National Alzheimer's Disease Awareness Month, 2014",
+  "topics": [],
+  "type": "executive_action"
+}

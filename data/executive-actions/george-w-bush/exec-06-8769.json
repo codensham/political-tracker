@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-8769",
+  "document_type": "executive_order",
+  "executive_order_number": "13412",
+  "id": "exec-06-8769",
+  "published_at": "2006-10-17",
+  "signing_date": "2006-10-13",
+  "source_url": "https://www.federalregister.gov/documents/2006/10/17/06-8769/blocking-property-of-and-prohibiting-transactions-with-the-government-of-sudan",
+  "title": "Blocking Property of and Prohibiting Transactions With the Government of Sudan",
+  "topics": [],
+  "type": "executive_action"
+}

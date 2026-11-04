@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-6558",
+  "document_type": "executive_order",
+  "executive_order_number": "13205",
+  "id": "exec-01-6558",
+  "published_at": "2001-03-14",
+  "signing_date": "2001-03-09",
+  "source_url": "https://www.federalregister.gov/documents/2001/03/14/01-6558/establishing-an-emergency-board-to-investigate-a-dispute-between-northwest-airlines-inc-and-its",
+  "title": "Establishing an Emergency Board To Investigate a Dispute Between Northwest Airlines, Inc., and Its Employees Represented by the Aircraft Mechanics Fraternal Association",
+  "topics": [],
+  "type": "executive_action"
+}

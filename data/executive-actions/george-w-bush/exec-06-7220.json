@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-7220",
+  "document_type": "executive_order",
+  "executive_order_number": "13410",
+  "id": "exec-06-7220",
+  "published_at": "2006-08-28",
+  "signing_date": "2006-08-22",
+  "source_url": "https://www.federalregister.gov/documents/2006/08/28/06-7220/promoting-quality-and-efficient-health-care-in-federal-government-administered-or-sponsored-health",
+  "title": "Promoting Quality and Efficient Health Care in Federal Government Administered or Sponsored Health Care Programs",
+  "topics": [],
+  "type": "executive_action"
+}

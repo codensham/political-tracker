@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-19520",
+  "document_type": "executive_order",
+  "executive_order_number": "13651",
+  "id": "exec-2013-19520",
+  "published_at": "2013-08-09",
+  "signing_date": "2013-08-06",
+  "source_url": "https://www.federalregister.gov/documents/2013/08/09/2013-19520/prohibiting-certain-imports-of-burmese-jadeite-and-rubies",
+  "title": "Prohibiting Certain Imports of Burmese Jadeite and Rubies",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-1137",
+  "document_type": "executive_order",
+  "executive_order_number": "13426",
+  "id": "exec-07-1137",
+  "published_at": "2007-03-08",
+  "signing_date": "2007-03-06",
+  "source_url": "https://www.federalregister.gov/documents/2007/03/08/07-1137/establishing-a-commission-on-care-for-americas-returning-wounded-warriors-and-a-task-force-on",
+  "title": "Establishing a Commission on Care for America's Returning Wounded Warriors and a Task Force on Returning Global War on Terror Heroes",
+  "topics": [],
+  "type": "executive_action"
+}

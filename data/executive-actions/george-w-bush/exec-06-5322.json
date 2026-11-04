@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-5322",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-06-5322",
+  "published_at": "2006-06-09",
+  "signing_date": "2006-06-06",
+  "source_url": "https://www.federalregister.gov/documents/2006/06/09/06-5322/flag-day-and-national-flag-week-2006",
+  "title": "Flag Day and National Flag Week, 2006",
+  "topics": [],
+  "type": "executive_action"
+}

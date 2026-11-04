@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-11991",
+  "document_type": "executive_order",
+  "executive_order_number": "13341",
+  "id": "exec-04-11991",
+  "published_at": "2004-05-25",
+  "signing_date": "2004-05-20",
+  "source_url": "https://www.federalregister.gov/documents/2004/05/25/04-11991/further-amendment-to-executive-order-11023-providing-for-the-performance-by-the-secretary-of",
+  "title": "Further Amendment to Executive Order 11023, Providing for the Performance by the Secretary of Commerce of Certain Functions Relating to the National Oceanic and Atmospheric Administration",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-10378",
+  "document_type": "executive_order",
+  "executive_order_number": "13337",
+  "id": "exec-04-10378",
+  "published_at": "2004-05-05",
+  "signing_date": "2004-04-30",
+  "source_url": "https://www.federalregister.gov/documents/2004/05/05/04-10378/issuance-of-permits-with-respect-to-certain-energy-related-facilities-and-land-transportation",
+  "title": "Issuance of Permits With Respect to Certain Energy-Related Facilities and Land Transportation Crossings on the International Boundaries of the United States",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-12506",
+  "document_type": "executive_order",
+  "executive_order_number": "14034",
+  "id": "exec-2021-12506",
+  "published_at": "2021-06-11",
+  "signing_date": "2021-06-09",
+  "source_url": "https://www.federalregister.gov/documents/2021/06/11/2021-12506/protecting-americans-sensitive-data-from-foreign-adversaries",
+  "title": "Protecting Americans' Sensitive Data From Foreign Adversaries",
+  "topics": [],
+  "type": "executive_action"
+}

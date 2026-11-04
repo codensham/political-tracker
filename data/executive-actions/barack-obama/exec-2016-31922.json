@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-31922",
+  "document_type": "executive_order",
+  "executive_order_number": "13757",
+  "id": "exec-2016-31922",
+  "published_at": "2017-01-03",
+  "signing_date": "2016-12-28",
+  "source_url": "https://www.federalregister.gov/documents/2017/01/03/2016-31922/taking-additional-steps-to-address-the-national-emergency-with-respect-to-significant-malicious",
+  "title": "Taking Additional Steps to Address the National Emergency With Respect to Significant Malicious Cyber- Enabled Activities",
+  "topics": [],
+  "type": "executive_action"
+}

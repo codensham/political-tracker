@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-32486",
+  "document_type": "executive_order",
+  "executive_order_number": "13593",
+  "id": "exec-2011-32486",
+  "published_at": "2011-12-16",
+  "signing_date": "2011-12-13",
+  "source_url": "https://www.federalregister.gov/documents/2011/12/16/2011-32486/2011-amendments-to-the-manual-for-courts-martial-united-states",
+  "title": "2011 Amendments to the Manual for Courts-Martial, United States",
+  "topics": [],
+  "type": "executive_action"
+}

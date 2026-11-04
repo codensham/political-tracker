@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-20271",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e8-20271",
+  "published_at": "2008-08-29",
+  "signing_date": "2008-08-26",
+  "source_url": "https://www.federalregister.gov/documents/2008/08/29/E8-20271/national-preparedness-month-2008",
+  "title": "National Preparedness Month, 2008",
+  "topics": [],
+  "type": "executive_action"
+}

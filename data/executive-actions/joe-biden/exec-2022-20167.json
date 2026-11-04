@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-20167",
+  "document_type": "executive_order",
+  "executive_order_number": "14081",
+  "id": "exec-2022-20167",
+  "published_at": "2022-09-15",
+  "signing_date": "2022-09-12",
+  "source_url": "https://www.federalregister.gov/documents/2022/09/15/2022-20167/advancing-biotechnology-and-biomanufacturing-innovation-for-a-sustainable-safe-and-secure-american",
+  "title": "Advancing Biotechnology and Biomanufacturing Innovation for a Sustainable, Safe, and Secure American Bioeconomy",
+  "topics": [],
+  "type": "executive_action"
+}

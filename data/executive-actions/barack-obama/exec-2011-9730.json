@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-9730",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2011-9730",
+  "published_at": "2011-04-20",
+  "signing_date": "2011-04-15",
+  "source_url": "https://www.federalregister.gov/documents/2011/04/20/2011-9730/national-park-week-2011",
+  "title": "National Park Week, 2011",
+  "topics": [],
+  "type": "executive_action"
+}

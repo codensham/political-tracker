@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-25292",
+  "document_type": "executive_order",
+  "executive_order_number": "13680",
+  "id": "exec-2014-25292",
+  "published_at": "2014-10-23",
+  "signing_date": "2014-10-16",
+  "source_url": "https://www.federalregister.gov/documents/2014/10/23/2014-25292/ordering-the-selected-reserve-and-certain-individual-ready-reserve-members-of-the-armed-forces-to",
+  "title": "Ordering the Selected Reserve and Certain Individual Ready Reserve Members of the Armed Forces to Active Duty",
+  "topics": [],
+  "type": "executive_action"
+}

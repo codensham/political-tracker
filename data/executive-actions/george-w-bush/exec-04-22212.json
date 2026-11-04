@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-22212",
+  "document_type": "executive_order",
+  "executive_order_number": "13358",
+  "id": "exec-04-22212",
+  "published_at": "2004-09-30",
+  "signing_date": "2004-09-28",
+  "source_url": "https://www.federalregister.gov/documents/2004/09/30/04-22212/assignment-of-functions-relating-to-certain-appointments-promotions-and-commissions-in-the-armed",
+  "title": "Assignment of Functions Relating to Certain Appointments, Promotions, and Commissions in the Armed Forces",
+  "topics": [],
+  "type": "executive_action"
+}

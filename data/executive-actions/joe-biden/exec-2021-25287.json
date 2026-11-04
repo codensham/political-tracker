@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-25287",
+  "document_type": "executive_order",
+  "executive_order_number": "14053",
+  "id": "exec-2021-25287",
+  "published_at": "2021-11-18",
+  "signing_date": "2021-11-15",
+  "source_url": "https://www.federalregister.gov/documents/2021/11/18/2021-25287/improving-public-safety-and-criminal-justice-for-native-americans-and-addressing-the-crisis-of",
+  "title": "Improving Public Safety and Criminal Justice for Native Americans and Addressing the Crisis of Missing or Murdered Indigenous People",
+  "topics": [],
+  "type": "executive_action"
+}

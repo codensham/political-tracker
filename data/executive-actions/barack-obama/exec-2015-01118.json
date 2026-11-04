@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-01118",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2015-01118",
+  "published_at": "2015-01-21",
+  "signing_date": "2015-01-15",
+  "source_url": "https://www.federalregister.gov/documents/2015/01/21/2015-01118/modernizing-federal-leave-policies-for-childbirth-adoption-and-foster-care-to-recruit-and-retain",
+  "title": "Modernizing Federal Leave Policies for Childbirth, Adoption, and Foster Care To Recruit and Retain Talent and Improve Productivity",
+  "topics": [],
+  "type": "executive_action"
+}

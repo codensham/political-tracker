@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-14537",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2012-14537",
+  "published_at": "2012-06-13",
+  "signing_date": "2012-06-07",
+  "source_url": "https://www.federalregister.gov/documents/2012/06/13/2012-14537/improving-repayment-options-for-federal-student-loan-borrowers",
+  "title": "Improving Repayment Options for Federal Student Loan Borrowers",
+  "topics": [],
+  "type": "executive_action"
+}

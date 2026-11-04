@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-2606",
+  "document_type": "executive_order",
+  "executive_order_number": "13285",
+  "id": "exec-03-2606",
+  "published_at": "2003-02-03",
+  "signing_date": "2003-01-29",
+  "source_url": "https://www.federalregister.gov/documents/2003/02/03/03-2606/presidents-council-on-service-and-civic-participation",
+  "title": "President's Council on Service and Civic Participation",
+  "topics": [],
+  "type": "executive_action"
+}

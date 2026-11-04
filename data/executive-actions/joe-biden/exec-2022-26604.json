@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-26604",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2022-26604",
+  "published_at": "2022-12-06",
+  "signing_date": "2022-11-28",
+  "source_url": "https://www.federalregister.gov/documents/2022/12/06/2022-26604/promoting-accountability-for-conflict-related-sexual-violence",
+  "title": "Promoting Accountability for Conflict-Related Sexual Violence",
+  "topics": [],
+  "type": "executive_action"
+}

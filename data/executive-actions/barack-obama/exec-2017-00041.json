@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-00041",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2017-00041",
+  "published_at": "2017-01-05",
+  "signing_date": "2016-12-28",
+  "source_url": "https://www.federalregister.gov/documents/2017/01/05/2017-00041/national-slavery-and-human-trafficking-prevention-month-2017",
+  "title": "National Slavery and Human Trafficking Prevention Month, 2017",
+  "topics": [],
+  "type": "executive_action"
+}

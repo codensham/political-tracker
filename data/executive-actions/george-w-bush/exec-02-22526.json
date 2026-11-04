@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-22526",
+  "document_type": "executive_order",
+  "executive_order_number": "13273",
+  "id": "exec-02-22526",
+  "published_at": "2002-09-03",
+  "signing_date": "2002-08-21",
+  "source_url": "https://www.federalregister.gov/documents/2002/09/03/02-22526/further-amending-executive-order-10173-as-amended-prescribing-regulations-relating-to-the",
+  "title": "Further Amending Executive Order 10173, as Amended, Prescribing Regulations Relating to the Safeguarding of Vessels, Harbors, Ports, and Waterfront Facilities of the United States",
+  "topics": [],
+  "type": "executive_action"
+}

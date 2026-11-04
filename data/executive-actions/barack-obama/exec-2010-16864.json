@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-16864",
+  "document_type": "executive_order",
+  "executive_order_number": "13546",
+  "id": "exec-2010-16864",
+  "published_at": "2010-07-08",
+  "signing_date": "2010-07-02",
+  "source_url": "https://www.federalregister.gov/documents/2010/07/08/2010-16864/optimizing-the-security-of-biological-select-agents-and-toxins-in-the-united-states",
+  "title": "Optimizing the Security of Biological Select Agents and Toxins in the United States",
+  "topics": [],
+  "type": "executive_action"
+}

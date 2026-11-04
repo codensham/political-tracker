@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-16757",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-04-16757",
+  "published_at": "2004-07-21",
+  "signing_date": "2004-07-16",
+  "source_url": "https://www.federalregister.gov/documents/2004/07/21/04-16757/captive-nations-week-2004",
+  "title": "Captive Nations Week, 2004",
+  "topics": [],
+  "type": "executive_action"
+}

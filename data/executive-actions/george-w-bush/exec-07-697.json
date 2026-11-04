@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-697",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-07-697",
+  "published_at": "2007-02-13",
+  "signing_date": "2007-02-05",
+  "source_url": "https://www.federalregister.gov/documents/2007/02/13/07-697/assignment-of-functions-under-section-556-of-the-john-warner-national-defense-authorization-act-for",
+  "title": "Assignment of Functions Under Section 556 of the John Warner National Defense Authorization Act for Fiscal Year 2007",
+  "topics": [],
+  "type": "executive_action"
+}

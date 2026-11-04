@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-22937",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2011-22937",
+  "published_at": "2011-09-07",
+  "signing_date": "2011-09-01",
+  "source_url": "https://www.federalregister.gov/documents/2011/09/07/2011-22937/national-ovarian-cancer-awareness-month-2011",
+  "title": "National Ovarian Cancer Awareness Month, 2011",
+  "topics": [],
+  "type": "executive_action"
+}

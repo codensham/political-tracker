@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-25866",
+  "document_type": "executive_order",
+  "executive_order_number": "13361",
+  "id": "exec-04-25866",
+  "published_at": "2004-11-19",
+  "signing_date": "2004-11-16",
+  "source_url": "https://www.federalregister.gov/documents/2004/11/19/04-25866/assignment-of-functions-under-the-united-states-leadership-against-hivaids-tuberculosis-and-malaria",
+  "title": "Assignment of Functions Under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003",
+  "topics": [],
+  "type": "executive_action"
+}

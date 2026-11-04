@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-9770",
+  "document_type": "executive_order",
+  "executive_order_number": "13418",
+  "id": "exec-06-9770",
+  "published_at": "2006-12-18",
+  "signing_date": "2006-12-14",
+  "source_url": "https://www.federalregister.gov/documents/2006/12/18/06-9770/amendment-to-executive-order-13317-volunteers-for-prosperity",
+  "title": "Amendment to Executive Order 13317, Volunteers for Prosperity",
+  "topics": [],
+  "type": "executive_action"
+}

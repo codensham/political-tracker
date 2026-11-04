@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-11271",
+  "document_type": "executive_order",
+  "executive_order_number": "13339",
+  "id": "exec-04-11271",
+  "published_at": "2004-05-17",
+  "signing_date": "2004-05-13",
+  "source_url": "https://www.federalregister.gov/documents/2004/05/17/04-11271/increasing-economic-opportunity-and-business-participation-of-asian-americans-and-pacific-islanders",
+  "title": "Increasing Economic Opportunity and Business Participation of Asian Americans and Pacific Islanders",
+  "topics": [],
+  "type": "executive_action"
+}

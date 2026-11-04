@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-23630",
+  "document_type": "executive_order",
+  "executive_order_number": "13707",
+  "id": "exec-2015-23630",
+  "published_at": "2015-09-18",
+  "signing_date": "2015-09-15",
+  "source_url": "https://www.federalregister.gov/documents/2015/09/18/2015-23630/using-behavioral-science-insights-to-better-serve-the-american-people",
+  "title": "Using Behavioral Science Insights To Better Serve the American People",
+  "topics": [],
+  "type": "executive_action"
+}

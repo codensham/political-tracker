@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-26130",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-26130",
+  "published_at": "2009-10-28",
+  "signing_date": "2009-10-23",
+  "source_url": "https://www.federalregister.gov/documents/2009/10/28/E9-26130/declaration-of-a-national-emergency-with-respect-to-the-2009-h1n1-influenza-pandemic",
+  "title": "Declaration of a National Emergency With Respect to the 2009 H1N1 Influenza Pandemic",
+  "topics": [],
+  "type": "executive_action"
+}

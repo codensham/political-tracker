@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-31380",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-02-31380",
+  "published_at": "2002-12-11",
+  "signing_date": "2002-12-06",
+  "source_url": "https://www.federalregister.gov/documents/2002/12/11/02-31380/national-pearl-harbor-remembrance-day-2002",
+  "title": "National Pearl Harbor Remembrance Day, 2002",
+  "topics": [],
+  "type": "executive_action"
+}

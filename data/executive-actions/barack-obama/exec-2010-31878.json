@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-31878",
+  "document_type": "executive_order",
+  "executive_order_number": "13560",
+  "id": "exec-2010-31878",
+  "published_at": "2010-12-17",
+  "signing_date": "2010-12-14",
+  "source_url": "https://www.federalregister.gov/documents/2010/12/17/2010-31878/white-house-council-for-community-solutions",
+  "title": "White House Council for Community Solutions",
+  "topics": [],
+  "type": "executive_action"
+}

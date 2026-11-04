@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-19218",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2013-19218",
+  "published_at": "2013-08-07",
+  "signing_date": "2013-07-29",
+  "source_url": "https://www.federalregister.gov/documents/2013/08/07/2013-19218/delegation-of-authority-pursuant-to-sections-110d4-and-110f-of-the-trafficking-victims-protection",
+  "title": "Delegation of Authority Pursuant to Sections 110(d)(4) and 110(f) of the Trafficking Victims Protection Act of 2000, as Amended",
+  "topics": [],
+  "type": "executive_action"
+}

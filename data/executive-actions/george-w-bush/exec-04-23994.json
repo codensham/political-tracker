@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-23994",
+  "document_type": "executive_order",
+  "executive_order_number": "13359",
+  "id": "exec-04-23994",
+  "published_at": "2004-10-25",
+  "signing_date": "2004-10-20",
+  "source_url": "https://www.federalregister.gov/documents/2004/10/25/04-23994/amendment-to-executive-order-13173-interagency-task-force-on-the-economic-development-of-the-central",
+  "title": "Amendment to Executive Order 13173, Interagency Task Force on the Economic Development of the Central San Joaquin Valley",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-12128",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2022-12128",
+  "published_at": "2022-06-03",
+  "signing_date": "2022-05-31",
+  "source_url": "https://www.federalregister.gov/documents/2022/06/03/2022-12128/national-immigrant-heritage-month-2022",
+  "title": "National Immigrant Heritage Month, 2022",
+  "topics": [],
+  "type": "executive_action"
+}

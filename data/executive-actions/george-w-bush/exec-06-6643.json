@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-6643",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-06-6643",
+  "published_at": "2006-08-01",
+  "signing_date": "2006-07-27",
+  "source_url": "https://www.federalregister.gov/documents/2006/08/01/06-6643/50th-anniversary-of-our-national-motto-in-god-we-trust-2006",
+  "title": "50th Anniversary of Our National Motto, \"In God We Trust,\" 2006",
+  "topics": [],
+  "type": "executive_action"
+}

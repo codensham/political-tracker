@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-12745",
+  "document_type": "executive_order",
+  "executive_order_number": "13342",
+  "id": "exec-04-12745",
+  "published_at": "2004-06-03",
+  "signing_date": "2004-06-01",
+  "source_url": "https://www.federalregister.gov/documents/2004/06/03/04-12745/responsibilities-of-the-departments-of-commerce-and-veterans-affairs-and-the-small-business",
+  "title": "Responsibilities of the Departments of Commerce and Veterans Affairs and the Small Business Administration With Respect to Faith-Based and Community Initiatives",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-4652",
+  "document_type": "executive_order",
+  "executive_order_number": "13403",
+  "id": "exec-06-4652",
+  "published_at": "2006-05-16",
+  "signing_date": "2006-05-12",
+  "source_url": "https://www.federalregister.gov/documents/2006/05/16/06-4652/amendments-to-executive-orders-11030-13279-13339-13381-and-13389-and-revocation-of-executive-order",
+  "title": "Amendments to Executive Orders 11030, 13279, 13339, 13381, and 13389, and Revocation of Executive Order 13011",
+  "topics": [],
+  "type": "executive_action"
+}

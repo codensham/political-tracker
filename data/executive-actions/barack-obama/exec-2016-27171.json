@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-27171",
+  "document_type": "executive_order",
+  "executive_order_number": "13747",
+  "id": "exec-2016-27171",
+  "published_at": "2016-11-09",
+  "signing_date": "2016-11-04",
+  "source_url": "https://www.federalregister.gov/documents/2016/11/09/2016-27171/advancing-the-global-health-security-agenda-to-achieve-a-world-safe-and-secure-from-infectious",
+  "title": "Advancing the Global Health Security Agenda To Achieve a World Safe and Secure From Infectious Disease Threats",
+  "topics": [],
+  "type": "executive_action"
+}

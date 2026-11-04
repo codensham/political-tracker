@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-3113",
+  "document_type": "executive_order",
+  "executive_order_number": "13502",
+  "id": "exec-e9-3113",
+  "published_at": "2009-02-11",
+  "signing_date": "2009-02-06",
+  "source_url": "https://www.federalregister.gov/documents/2009/02/11/E9-3113/use-of-project-labor-agreements-for-federal-construction-projects",
+  "title": "Use of Project Labor Agreements for Federal Construction Projects",
+  "topics": [],
+  "type": "executive_action"
+}

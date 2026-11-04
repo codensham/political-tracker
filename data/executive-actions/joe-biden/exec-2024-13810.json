@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-13810",
+  "document_type": "executive_order",
+  "executive_order_number": "14123",
+  "id": "exec-2024-13810",
+  "published_at": "2024-06-21",
+  "signing_date": "2024-06-14",
+  "source_url": "https://www.federalregister.gov/documents/2024/06/21/2024-13810/white-house-council-on-supply-chain-resilience",
+  "title": "White House Council on Supply Chain Resilience",
+  "topics": [],
+  "type": "executive_action"
+}

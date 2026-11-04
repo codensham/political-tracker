@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-17348",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2016-17348",
+  "published_at": "2016-07-20",
+  "signing_date": "2016-07-15",
+  "source_url": "https://www.federalregister.gov/documents/2016/07/20/2016-17348/honoring-the-victims-of-the-attack-in-nice-france",
+  "title": "Honoring the Victims of the Attack in Nice, France",
+  "topics": [],
+  "type": "executive_action"
+}

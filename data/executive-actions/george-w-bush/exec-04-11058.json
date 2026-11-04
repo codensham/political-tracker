@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-11058",
+  "document_type": "executive_order",
+  "executive_order_number": "13338",
+  "id": "exec-04-11058",
+  "published_at": "2004-05-13",
+  "signing_date": "2004-05-11",
+  "source_url": "https://www.federalregister.gov/documents/2004/05/13/04-11058/blocking-property-of-certain-persons-and-prohibiting-the-export-of-certain-goods-to-syria",
+  "title": "Blocking Property of Certain Persons and Prohibiting the Export of Certain Goods to Syria",
+  "topics": [],
+  "type": "executive_action"
+}

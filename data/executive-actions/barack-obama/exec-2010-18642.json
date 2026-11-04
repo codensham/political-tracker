@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-18642",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-18642",
+  "published_at": "2010-07-28",
+  "signing_date": "2010-07-22",
+  "source_url": "https://www.federalregister.gov/documents/2010/07/28/2010-18642/designation-of-the-national-science-and-technology-council-to-coordinate-certain-activities-under",
+  "title": "Designation of the National Science and Technology Council to Coordinate Certain Activities Under the Arctic Research and Policy Act of 1984",
+  "topics": [],
+  "type": "executive_action"
+}

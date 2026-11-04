@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-5712",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-02-5712",
+  "published_at": "2002-03-07",
+  "signing_date": "2002-03-05",
+  "source_url": "https://www.federalregister.gov/documents/2002/03/07/02-5712/action-under-section-203-of-the-trade-act-of-1974-concerning-certain-steel-products",
+  "title": "Action Under Section 203 of the Trade Act of 1974 Concerning Certain Steel Products",
+  "topics": [],
+  "type": "executive_action"
+}

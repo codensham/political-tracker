@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-11314",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-11314",
+  "published_at": "2009-05-13",
+  "signing_date": "2009-05-08",
+  "source_url": "https://www.federalregister.gov/documents/2009/05/13/E9-11314/mothers-day-2009",
+  "title": "Mother's Day, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

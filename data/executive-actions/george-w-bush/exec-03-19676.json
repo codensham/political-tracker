@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-19676",
+  "document_type": "executive_order",
+  "executive_order_number": "13312",
+  "id": "exec-03-19676",
+  "published_at": "2003-07-31",
+  "signing_date": "2003-07-29",
+  "source_url": "https://www.federalregister.gov/documents/2003/07/31/03-19676/implementing-the-clean-diamond-trade-act",
+  "title": "Implementing the Clean Diamond Trade Act",
+  "topics": [],
+  "type": "executive_action"
+}

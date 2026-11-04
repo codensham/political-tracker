@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-10710",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-10710",
+  "published_at": "2009-05-06",
+  "signing_date": "2009-05-01",
+  "source_url": "https://www.federalregister.gov/documents/2009/05/06/E9-10710/asian-american-and-pacific-islander-heritage-month-2009",
+  "title": "Asian American and Pacific Islander Heritage Month, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

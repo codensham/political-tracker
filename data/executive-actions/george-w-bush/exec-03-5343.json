@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-5343",
+  "document_type": "executive_order",
+  "executive_order_number": "13286",
+  "id": "exec-03-5343",
+  "published_at": "2003-03-05",
+  "signing_date": "2003-02-28",
+  "source_url": "https://www.federalregister.gov/documents/2003/03/05/03-5343/amendment-of-executive-orders-and-other-actions-in-connection-with-the-transfer-of-certain-functions",
+  "title": "Amendment of Executive Orders, and Other Actions, in Connection With the Transfer of Certain Functions to the Secretary of Homeland Security",
+  "topics": [],
+  "type": "executive_action"
+}

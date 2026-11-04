@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-3008",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-3008",
+  "published_at": "2003-02-05",
+  "signing_date": "2003-02-01",
+  "source_url": "https://www.federalregister.gov/documents/2003/02/05/03-3008/honoring-the-memory-of-the-astronauts-aboard-space-shuttle-columbia",
+  "title": "Honoring the Memory of the Astronauts Aboard Space Shuttle Columbia",
+  "topics": [],
+  "type": "executive_action"
+}

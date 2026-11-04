@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-08956",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2015-08956",
+  "published_at": "2015-04-16",
+  "signing_date": "2015-04-13",
+  "source_url": "https://www.federalregister.gov/documents/2015/04/16/2015-08956/national-equal-pay-day-2015",
+  "title": "National Equal Pay Day, 2015",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-20049",
+  "document_type": "executive_order",
+  "executive_order_number": "13353",
+  "id": "exec-04-20049",
+  "published_at": "2004-09-01",
+  "signing_date": "2004-08-27",
+  "source_url": "https://www.federalregister.gov/documents/2004/09/01/04-20049/establishing-the-presidents-board-on-safeguarding-americans-civil-liberties",
+  "title": "Establishing the President's Board on Safeguarding Americans' Civil Liberties",
+  "topics": [],
+  "type": "executive_action"
+}

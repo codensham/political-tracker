@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-07837",
+  "document_type": "executive_order",
+  "executive_order_number": "13639",
+  "id": "exec-2013-07837",
+  "published_at": "2013-04-03",
+  "signing_date": "2013-03-28",
+  "source_url": "https://www.federalregister.gov/documents/2013/04/03/2013-07837/establishment-of-the-presidential-commission-on-election-administration",
+  "title": "Establishment of the Presidential Commission on Election Administration",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-29822",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-29822",
+  "published_at": "2014-12-18",
+  "signing_date": "2014-12-15",
+  "source_url": "https://www.federalregister.gov/documents/2014/12/18/2014-29822/70th-anniversary-of-the-battle-of-the-bulge",
+  "title": "70th Anniversary of the Battle of the Bulge",
+  "topics": [],
+  "type": "executive_action"
+}

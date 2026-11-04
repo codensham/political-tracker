@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-06383",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2015-06383",
+  "published_at": "2015-03-18",
+  "signing_date": "2015-03-13",
+  "source_url": "https://www.federalregister.gov/documents/2015/03/18/2015-06383/providing-an-order-of-succession-within-the-council-on-environmental-quality",
+  "title": "Providing an Order of Succession Within the Council on Environmental Quality",
+  "topics": [],
+  "type": "executive_action"
+}

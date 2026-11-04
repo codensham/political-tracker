@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-13182",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-13182",
+  "published_at": "2005-06-30",
+  "signing_date": "2005-06-29",
+  "source_url": "https://www.federalregister.gov/documents/2005/06/30/05-13182/to-modify-duty-free-treatment-under-the-generalized-system-of-preferences-and-certain-rules-of",
+  "title": "To Modify Duty-Free Treatment Under the Generalized System of Preferences and Certain Rules of Origin Under the North American Free Trade Agreement, and for Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-6363",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-6363",
+  "published_at": "2010-03-22",
+  "signing_date": "2010-03-10",
+  "source_url": "https://www.federalregister.gov/documents/2010/03/22/2010-6363/delegation-of-certain-functions-under-section-204c-of-the-united-states-india-nuclear-cooperation",
+  "title": "Delegation of Certain Functions Under Section 204(c) of the United States-India Nuclear Cooperation Approval and Nonproliferation Enhancement Act (Public Law 110-369)",
+  "topics": [],
+  "type": "executive_action"
+}

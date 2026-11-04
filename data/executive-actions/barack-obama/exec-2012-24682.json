@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-24682",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2012-24682",
+  "published_at": "2012-10-04",
+  "signing_date": "2012-10-01",
+  "source_url": "https://www.federalregister.gov/documents/2012/10/04/2012-24682/national-domestic-violence-awareness-month-2012",
+  "title": "National Domestic Violence Awareness Month, 2012",
+  "topics": [],
+  "type": "executive_action"
+}

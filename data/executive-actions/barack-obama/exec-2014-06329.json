@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-06329",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-06329",
+  "published_at": "2014-03-20",
+  "signing_date": "2014-03-14",
+  "source_url": "https://www.federalregister.gov/documents/2014/03/20/2014-06329/national-poison-prevention-week-2014",
+  "title": "National Poison Prevention Week, 2014",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-02084",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2016-02084",
+  "published_at": "2016-02-02",
+  "signing_date": "2016-01-29",
+  "source_url": "https://www.federalregister.gov/documents/2016/02/02/2016-02084/delegation-of-certain-authority-and-assignment-of-certain-functions-under-section-103a1a-and-section",
+  "title": "Delegation of Certain Authority and Assignment of Certain Functions Under Section 103(a)(1)(A) and Section 103(b)(1) of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015",
+  "topics": [],
+  "type": "executive_action"
+}

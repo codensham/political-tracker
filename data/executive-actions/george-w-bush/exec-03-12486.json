@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-12486",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-03-12486",
+  "published_at": "2003-05-16",
+  "signing_date": "2003-05-07",
+  "source_url": "https://www.federalregister.gov/documents/2003/05/16/03-12486/report-to-the-congress-on-tibet-negotiations",
+  "title": "Report to the Congress on Tibet Negotiations",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-19724",
+  "document_type": "executive_order",
+  "executive_order_number": "13736",
+  "id": "exec-2016-19724",
+  "published_at": "2016-08-17",
+  "signing_date": "2016-08-12",
+  "source_url": "https://www.federalregister.gov/documents/2016/08/17/2016-19724/providing-an-order-of-succession-within-the-department-of-veterans-affairs",
+  "title": "Providing an Order of Succession Within the Department of Veterans Affairs",
+  "topics": [],
+  "type": "executive_action"
+}

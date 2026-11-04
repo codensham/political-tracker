@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-26459",
+  "document_type": "executive_order",
+  "executive_order_number": "14056",
+  "id": "exec-2021-26459",
+  "published_at": "2021-12-03",
+  "signing_date": "2021-12-01",
+  "source_url": "https://www.federalregister.gov/documents/2021/12/03/2021-26459/the-national-space-council",
+  "title": "The National Space Council",
+  "topics": [],
+  "type": "executive_action"
+}

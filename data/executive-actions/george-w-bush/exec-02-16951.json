@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-16951",
+  "document_type": "executive_order",
+  "executive_order_number": "13268",
+  "id": "exec-02-16951",
+  "published_at": "2002-07-03",
+  "signing_date": "2002-07-02",
+  "source_url": "https://www.federalregister.gov/documents/2002/07/03/02-16951/termination-of-emergency-with-respect-to-the-taliban-and-amendment-of-executive-order-13224-of",
+  "title": "Termination of Emergency With Respect to the Taliban and Amendment of Executive Order 13224 of September 23, 2001",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-13381",
+  "document_type": "executive_order",
+  "executive_order_number": "13213",
+  "id": "exec-01-13381",
+  "published_at": "2001-05-24",
+  "signing_date": "2001-05-22",
+  "source_url": "https://www.federalregister.gov/documents/2001/05/24/01-13381/additional-measures-with-respect-to-prohibiting-the-importation-of-rough-diamonds-from-sierra-leone",
+  "title": "Additional Measures With Respect To Prohibiting the Importation of Rough Diamonds From Sierra Leone",
+  "topics": [],
+  "type": "executive_action"
+}

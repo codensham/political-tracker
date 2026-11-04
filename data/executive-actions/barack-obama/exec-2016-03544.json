@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-03544",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2016-03544",
+  "published_at": "2016-02-18",
+  "signing_date": "2016-02-12",
+  "source_url": "https://www.federalregister.gov/documents/2016/02/18/2016-03544/establishment-of-the-mojave-trails-national-monument",
+  "title": "Establishment of the Mojave Trails National Monument",
+  "topics": [],
+  "type": "executive_action"
+}

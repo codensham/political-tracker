@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01765",
+  "document_type": "executive_order",
+  "executive_order_number": "13990",
+  "id": "exec-2021-01765",
+  "published_at": "2021-01-25",
+  "signing_date": "2021-01-20",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01765/protecting-public-health-and-the-environment-and-restoring-science-to-tackle-the-climate-crisis",
+  "title": "Protecting Public Health and the Environment and Restoring Science To Tackle the Climate Crisis",
+  "topics": [],
+  "type": "executive_action"
+}

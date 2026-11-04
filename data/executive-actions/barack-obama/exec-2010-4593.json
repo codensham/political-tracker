@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-4593",
+  "document_type": "executive_order",
+  "executive_order_number": "13532",
+  "id": "exec-2010-4593",
+  "published_at": "2010-03-03",
+  "signing_date": "2010-02-26",
+  "source_url": "https://www.federalregister.gov/documents/2010/03/03/2010-4593/promoting-excellence-innovation-and-sustainability-at-historically-black-colleges-and-universities",
+  "title": "Promoting Excellence, Innovation, and Sustainability at Historically Black Colleges and Universities",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-9988",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-03-9988",
+  "published_at": "2003-04-21",
+  "signing_date": "2003-04-17",
+  "source_url": "https://www.federalregister.gov/documents/2003/04/21/03-9988/authority-to-hold-harmless-and-indemnify-in-certain-circumstances-under-one-contract",
+  "title": "Authority to Hold Harmless and Indemnify in Certain Circumstances Under One Contract",
+  "topics": [],
+  "type": "executive_action"
+}

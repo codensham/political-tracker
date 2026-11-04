@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-31075",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-31075",
+  "published_at": "2003-12-15",
+  "signing_date": "2003-12-10",
+  "source_url": "https://www.federalregister.gov/documents/2003/12/15/03-31075/human-rights-day-bill-of-rights-day-and-human-rights-week-2003",
+  "title": "Human Rights Day, Bill of Rights Day, and Human Rights Week, 2003",
+  "topics": [],
+  "type": "executive_action"
+}

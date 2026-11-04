@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-07756",
+  "document_type": "executive_order",
+  "executive_order_number": "14023",
+  "id": "exec-2021-07756",
+  "published_at": "2021-04-14",
+  "signing_date": "2021-04-09",
+  "source_url": "https://www.federalregister.gov/documents/2021/04/14/2021-07756/establishment-of-the-presidential-commission-on-the-supreme-court-of-the-united-states",
+  "title": "Establishment of the Presidential Commission on the Supreme Court of the United States",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-7160",
+  "document_type": "executive_order",
+  "executive_order_number": "13290",
+  "id": "exec-03-7160",
+  "published_at": "2003-03-24",
+  "signing_date": "2003-03-20",
+  "source_url": "https://www.federalregister.gov/documents/2003/03/24/03-7160/confiscating-and-vesting-certain-iraqi-property",
+  "title": "Confiscating and Vesting Certain Iraqi Property",
+  "topics": [],
+  "type": "executive_action"
+}

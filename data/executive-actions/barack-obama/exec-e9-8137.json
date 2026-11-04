@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-8137",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-8137",
+  "published_at": "2009-04-08",
+  "signing_date": "2009-04-03",
+  "source_url": "https://www.federalregister.gov/documents/2009/04/08/E9-8137/education-and-sharing-day-usa-2009",
+  "title": "Education and Sharing Day, U.S.A., 2009",
+  "topics": [],
+  "type": "executive_action"
+}

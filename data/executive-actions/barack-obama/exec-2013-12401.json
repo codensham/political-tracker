@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-12401",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2013-12401",
+  "published_at": "2013-05-22",
+  "signing_date": "2013-05-17",
+  "source_url": "https://www.federalregister.gov/documents/2013/05/22/2013-12401/world-trade-week-2013",
+  "title": "World Trade Week, 2013",
+  "topics": [],
+  "type": "executive_action"
+}

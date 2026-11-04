@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-11193",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2024-11193",
+  "published_at": "2024-05-20",
+  "signing_date": "2024-05-14",
+  "source_url": "https://www.federalregister.gov/documents/2024/05/20/2024-11193/actions-by-the-united-states-related-to-the-statutory-4-year-review-of-the-section-301-investigation",
+  "title": "Actions by the United States Related to the Statutory 4-Year Review of the Section 301 Investigation of China's Acts, Policies, and Practices Related to Technology Transfer, Intellectual Property, and Innovation",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-31127",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2010-31127",
+  "published_at": "2010-12-09",
+  "signing_date": "2010-12-06",
+  "source_url": "https://www.federalregister.gov/documents/2010/12/09/2010-31127/50th-anniversary-of-the-arctic-national-wildlife-refuge",
+  "title": "50th Anniversary of the Arctic National Wildlife Refuge",
+  "topics": [],
+  "type": "executive_action"
+}

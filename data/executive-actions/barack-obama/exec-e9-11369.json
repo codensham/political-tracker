@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-11369",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-e9-11369",
+  "published_at": "2009-05-14",
+  "signing_date": "2009-04-30",
+  "source_url": "https://www.federalregister.gov/documents/2009/05/14/E9-11369/delegation-of-certain-functions-under-sections-603-604-and-699-of-the-foreign-relations",
+  "title": "Delegation of Certain Functions Under Sections 603-604 and 699 of the Foreign Relations Authorization Act, Fiscal Year 2003 (Public Law 107-228)",
+  "topics": [],
+  "type": "executive_action"
+}

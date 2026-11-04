@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-30042",
+  "document_type": "executive_order",
+  "executive_order_number": "13482",
+  "id": "exec-e8-30042",
+  "published_at": "2008-12-16",
+  "signing_date": "2008-12-12",
+  "source_url": "https://www.federalregister.gov/documents/2008/12/16/E8-30042/closing-of-executive-departments-and-agencies-of-the-federal-government-on-friday-december-26-2008",
+  "title": "Closing of Executive Departments and Agencies of the Federal Government on Friday, December 26, 2008",
+  "topics": [],
+  "type": "executive_action"
+}

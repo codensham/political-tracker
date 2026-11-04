@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-26812",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-02-26812",
+  "published_at": "2002-10-18",
+  "signing_date": "2002-10-16",
+  "source_url": "https://www.federalregister.gov/documents/2002/10/18/02-26812/notification-to-the-congress-of-trade-negotiation",
+  "title": "Notification to the Congress of Trade Negotiation",
+  "topics": [],
+  "type": "executive_action"
+}

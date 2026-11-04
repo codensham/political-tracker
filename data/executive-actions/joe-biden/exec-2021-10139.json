@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-10139",
+  "document_type": "executive_order",
+  "executive_order_number": "14027",
+  "id": "exec-2021-10139",
+  "published_at": "2021-05-12",
+  "signing_date": "2021-05-07",
+  "source_url": "https://www.federalregister.gov/documents/2021/05/12/2021-10139/establishment-of-the-climate-change-support-office",
+  "title": "Establishment of the Climate Change Support Office",
+  "topics": [],
+  "type": "executive_action"
+}

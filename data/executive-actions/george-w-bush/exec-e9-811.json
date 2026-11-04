@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-811",
+  "document_type": "executive_order",
+  "executive_order_number": "13484",
+  "id": "exec-e9-811",
+  "published_at": "2009-01-14",
+  "signing_date": "2009-01-09",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/14/E9-811/amending-the-order-of-succession-within-the-department-of-agriculture",
+  "title": "Amending the Order of Succession Within the Department of Agriculture",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-00203",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2013-00203",
+  "published_at": "2013-01-07",
+  "signing_date": "2012-12-31",
+  "source_url": "https://www.federalregister.gov/documents/2013/01/07/2013-00203/national-slavery-and-human-trafficking-prevention-month-2013",
+  "title": "National Slavery and Human Trafficking Prevention Month, 2013",
+  "topics": [],
+  "type": "executive_action"
+}

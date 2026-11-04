@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-1399",
+  "document_type": "executive_order",
+  "executive_order_number": "13466",
+  "id": "exec-08-1399",
+  "published_at": "2008-06-27",
+  "signing_date": "2008-06-26",
+  "source_url": "https://www.federalregister.gov/documents/2008/06/27/08-1399/continuing-certain-restrictions-with-respect-to-north-korea-and-north-korean-nationals",
+  "title": "Continuing Certain Restrictions With Respect to North Korea and North Korean Nationals",
+  "topics": [],
+  "type": "executive_action"
+}

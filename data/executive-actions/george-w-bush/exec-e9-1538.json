@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-1538",
+  "document_type": "executive_order",
+  "executive_order_number": "13487",
+  "id": "exec-e9-1538",
+  "published_at": "2009-01-22",
+  "signing_date": "2009-01-16",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/22/E9-1538/establishment-of-a-temporary-organization-to-facilitate-united-states-government-support-for",
+  "title": "Establishment of a Temporary Organization To Facilitate United States Government Support for Afghanistan",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-29372",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-02-29372",
+  "published_at": "2002-11-18",
+  "signing_date": "2002-11-13",
+  "source_url": "https://www.federalregister.gov/documents/2002/11/18/02-29372/to-implement-modifications-to-the-caribbean-basin-economic-recovery-act-and-the-african-growth-and",
+  "title": "To Implement Modifications to the Caribbean Basin Economic Recovery Act and the African Growth and Opportunity Act",
+  "topics": [],
+  "type": "executive_action"
+}

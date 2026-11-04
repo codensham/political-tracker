@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-23042",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2012-23042",
+  "published_at": "2012-09-17",
+  "signing_date": "2012-08-29",
+  "source_url": "https://www.federalregister.gov/documents/2012/09/17/2012-23042/delegation-of-certain-functions-and-authority-under-section-5a-of-the-tom-lantos-block-burmese",
+  "title": "Delegation of Certain Functions and Authority Under Section 5(a) of the Tom Lantos Block Burmese Junta's Anti-Democratic Efforts Act of 2008",
+  "topics": [],
+  "type": "executive_action"
+}

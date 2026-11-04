@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-12019",
+  "document_type": "executive_order",
+  "executive_order_number": "14032",
+  "id": "exec-2021-12019",
+  "published_at": "2021-06-07",
+  "signing_date": "2021-06-03",
+  "source_url": "https://www.federalregister.gov/documents/2021/06/07/2021-12019/addressing-the-threat-from-securities-investments-that-finance-certain-companies-of-the-peoples",
+  "title": "Addressing the Threat From Securities Investments That Finance Certain Companies of the People's Republic of China",
+  "topics": [],
+  "type": "executive_action"
+}

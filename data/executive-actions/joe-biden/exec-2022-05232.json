@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-05232",
+  "document_type": "executive_order",
+  "executive_order_number": "14066",
+  "id": "exec-2022-05232",
+  "published_at": "2022-03-10",
+  "signing_date": "2022-03-08",
+  "source_url": "https://www.federalregister.gov/documents/2022/03/10/2022-05232/prohibiting-certain-imports-and-new-investments-with-respect-to-continued-russian-federation-efforts",
+  "title": "Prohibiting Certain Imports and New Investments With Respect to Continued Russian Federation Efforts To Undermine the Sovereignty and Territorial Integrity of Ukraine",
+  "topics": [],
+  "type": "executive_action"
+}

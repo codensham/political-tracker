@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-11798",
+  "document_type": "executive_order",
+  "executive_order_number": "13610",
+  "id": "exec-2012-11798",
+  "published_at": "2012-05-14",
+  "signing_date": "2012-05-10",
+  "source_url": "https://www.federalregister.gov/documents/2012/05/14/2012-11798/identifying-and-reducing-regulatory-burdens",
+  "title": "Identifying and Reducing Regulatory Burdens",
+  "topics": [],
+  "type": "executive_action"
+}

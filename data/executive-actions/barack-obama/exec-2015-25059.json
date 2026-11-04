@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-25059",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2015-25059",
+  "published_at": "2015-09-30",
+  "signing_date": "2015-09-25",
+  "source_url": "https://www.federalregister.gov/documents/2015/09/30/2015-25059/national-hunting-and-fishing-day-2015",
+  "title": "National Hunting and Fishing Day, 2015",
+  "topics": [],
+  "type": "executive_action"
+}

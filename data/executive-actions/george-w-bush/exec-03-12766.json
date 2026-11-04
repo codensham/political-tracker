@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-12766",
+  "document_type": "executive_order",
+  "executive_order_number": "13302",
+  "id": "exec-03-12766",
+  "published_at": "2003-05-20",
+  "signing_date": "2003-05-15",
+  "source_url": "https://www.federalregister.gov/documents/2003/05/20/03-12766/amending-executive-order-13212-actions-to-expedite-energy-related-projects",
+  "title": "Amending Executive Order 13212, Actions to Expedite Energy-Related Projects",
+  "topics": [],
+  "type": "executive_action"
+}

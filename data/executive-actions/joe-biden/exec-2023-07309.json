@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-07309",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2023-07309",
+  "published_at": "2023-04-05",
+  "signing_date": "2023-03-31",
+  "source_url": "https://www.federalregister.gov/documents/2023/04/05/2023-07309/month-of-the-military-child-2023",
+  "title": "Month of the Military Child, 2023",
+  "topics": [],
+  "type": "executive_action"
+}

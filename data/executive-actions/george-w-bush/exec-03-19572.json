@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-19572",
+  "document_type": "executive_order",
+  "executive_order_number": "13309",
+  "id": "exec-03-19572",
+  "published_at": "2003-07-30",
+  "signing_date": "2003-07-25",
+  "source_url": "https://www.federalregister.gov/documents/2003/07/30/03-19572/amendments-to-executive-order-12994-and-renaming-the-presidents-committee-on-mental-retardation-as",
+  "title": "Amendments to Executive Order 12994, and Renaming the President's Committee on Mental Retardation as the President's Committee for People with Intellectual Disabilities",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-04770",
+  "document_type": "executive_order",
+  "executive_order_number": "13720",
+  "id": "exec-2016-04770",
+  "published_at": "2016-03-02",
+  "signing_date": "2016-02-26",
+  "source_url": "https://www.federalregister.gov/documents/2016/03/02/2016-04770/delegation-of-certain-authorities-and-assignment-of-certain-functions-under-the-trade-preferences",
+  "title": "Delegation of Certain Authorities and Assignment of Certain Functions Under the Trade Preferences Extension Act of 2015",
+  "topics": [],
+  "type": "executive_action"
+}

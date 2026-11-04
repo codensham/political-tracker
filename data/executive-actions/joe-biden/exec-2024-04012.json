@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-04012",
+  "document_type": "executive_order",
+  "executive_order_number": "14116",
+  "id": "exec-2024-04012",
+  "published_at": "2024-02-26",
+  "signing_date": "2024-02-21",
+  "source_url": "https://www.federalregister.gov/documents/2024/02/26/2024-04012/amending-regulations-relating-to-the-safeguarding-of-vessels-harbors-ports-and-waterfront-facilities",
+  "title": "Amending Regulations Relating to the Safeguarding of Vessels, Harbors, Ports, and Waterfront Facilities of the United States",
+  "topics": [],
+  "type": "executive_action"
+}

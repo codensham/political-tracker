@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-18872",
+  "document_type": "executive_order",
+  "executive_order_number": "13734",
+  "id": "exec-2016-18872",
+  "published_at": "2016-08-08",
+  "signing_date": "2016-08-03",
+  "source_url": "https://www.federalregister.gov/documents/2016/08/08/2016-18872/amending-executive-order-13675-to-expand-membership-on-the-presidents-advisory-council-on-doing",
+  "title": "Amending Executive Order 13675 To Expand Membership on the President's Advisory Council on Doing Business in Africa",
+  "topics": [],
+  "type": "executive_action"
+}

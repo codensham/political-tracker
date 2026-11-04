@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-14955",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-01-14955",
+  "published_at": "2001-06-12",
+  "signing_date": "2001-05-31",
+  "source_url": "https://www.federalregister.gov/documents/2001/06/12/01-14955/delegation-of-authority-under-section-703-of-the-security-assistance-act-of-2000",
+  "title": "Delegation of Authority Under Section 703 of the Security Assistance Act of 2000",
+  "topics": [],
+  "type": "executive_action"
+}

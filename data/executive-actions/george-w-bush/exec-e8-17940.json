@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-17940",
+  "document_type": "executive_order",
+  "executive_order_number": "13470",
+  "id": "exec-e8-17940",
+  "published_at": "2008-08-04",
+  "signing_date": "2008-07-30",
+  "source_url": "https://www.federalregister.gov/documents/2008/08/04/E8-17940/further-amendments-to-executive-order-12333-united-states-intelligence-activities",
+  "title": "Further Amendments to Executive Order 12333, United States Intelligence Activities",
+  "topics": [],
+  "type": "executive_action"
+}

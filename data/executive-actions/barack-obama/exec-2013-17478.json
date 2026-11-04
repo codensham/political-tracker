@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-17478",
+  "document_type": "executive_order",
+  "executive_order_number": "13649",
+  "id": "exec-2013-17478",
+  "published_at": "2013-07-18",
+  "signing_date": "2013-07-15",
+  "source_url": "https://www.federalregister.gov/documents/2013/07/18/2013-17478/accelerating-improvements-in-hiv-prevention-and-care-in-the-united-states-through-the-hiv-care",
+  "title": "Accelerating Improvements in HIV Prevention and Care in the United States Through the HIV Care Continuum Initiative",
+  "topics": [],
+  "type": "executive_action"
+}

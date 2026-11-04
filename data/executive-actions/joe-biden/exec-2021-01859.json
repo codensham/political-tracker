@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01859",
+  "document_type": "executive_order",
+  "executive_order_number": "13998",
+  "id": "exec-2021-01859",
+  "published_at": "2021-01-26",
+  "signing_date": "2021-01-21",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/26/2021-01859/promoting-covid-19-safety-in-domestic-and-international-travel",
+  "title": "Promoting COVID-19 Safety in Domestic and International Travel",
+  "topics": [],
+  "type": "executive_action"
+}

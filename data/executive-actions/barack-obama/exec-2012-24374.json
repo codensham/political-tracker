@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-24374",
+  "document_type": "executive_order",
+  "executive_order_number": "13627",
+  "id": "exec-2012-24374",
+  "published_at": "2012-10-02",
+  "signing_date": "2012-09-25",
+  "source_url": "https://www.federalregister.gov/documents/2012/10/02/2012-24374/strengthening-protections-against-trafficking-in-persons-in-federal-contracts",
+  "title": "Strengthening Protections Against Trafficking in Persons in Federal Contracts",
+  "topics": [],
+  "type": "executive_action"
+}

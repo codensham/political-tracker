@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-01470",
+  "document_type": "executive_order",
+  "executive_order_number": "14144",
+  "id": "exec-2025-01470",
+  "published_at": "2025-01-17",
+  "signing_date": "2025-01-16",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/17/2025-01470/strengthening-and-promoting-innovation-in-the-nations-cybersecurity",
+  "title": "Strengthening and Promoting Innovation in the Nation's Cybersecurity",
+  "topics": [],
+  "type": "executive_action"
+}

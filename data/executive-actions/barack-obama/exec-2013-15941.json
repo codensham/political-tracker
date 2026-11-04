@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-15941",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2013-15941",
+  "published_at": "2013-07-01",
+  "signing_date": "2013-06-25",
+  "source_url": "https://www.federalregister.gov/documents/2013/07/01/2013-15941/power-sector-carbon-pollution-standards",
+  "title": "Power Sector Carbon Pollution Standards",
+  "topics": [],
+  "type": "executive_action"
+}

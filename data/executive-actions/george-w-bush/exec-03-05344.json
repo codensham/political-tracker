@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-05344",
+  "document_type": "executive_order",
+  "executive_order_number": "13287",
+  "id": "exec-03-05344",
+  "published_at": "2003-03-05",
+  "signing_date": "2003-03-03",
+  "source_url": "https://www.federalregister.gov/documents/2003/03/05/03-05344/preserve-america",
+  "title": "Preserve America",
+  "topics": [],
+  "type": "executive_action"
+}

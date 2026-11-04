@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-13056",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-01-13056",
+  "published_at": "2001-05-22",
+  "signing_date": "2001-05-17",
+  "source_url": "https://www.federalregister.gov/documents/2001/05/22/01-13056/national-safe-boating-week-2001",
+  "title": "National Safe Boating Week, 2001",
+  "topics": [],
+  "type": "executive_action"
+}

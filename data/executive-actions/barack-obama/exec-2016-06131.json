@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-06131",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2016-06131",
+  "published_at": "2016-03-16",
+  "signing_date": "2016-03-11",
+  "source_url": "https://www.federalregister.gov/documents/2016/03/16/2016-06131/delegation-of-authority-under-section-11-of-the-export--import-bank-reauthorization-act-of-2012",
+  "title": "Delegation of Authority Under Section 11 of the Export- Import Bank Reauthorization Act of 2012",
+  "topics": [],
+  "type": "executive_action"
+}

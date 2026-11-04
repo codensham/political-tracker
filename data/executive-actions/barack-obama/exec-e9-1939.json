@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-1939",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-e9-1939",
+  "published_at": "2009-01-28",
+  "signing_date": "2009-01-26",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/28/E9-1939/state-of-california-request-for-waiver-under-42-usc-7543b-the-clean-air-act",
+  "title": "State of California Request for Waiver Under 42 U.S.C. 7543(b), the Clean Air Act",
+  "topics": [],
+  "type": "executive_action"
+}

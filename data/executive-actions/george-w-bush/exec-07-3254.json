@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-3254",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-07-3254",
+  "published_at": "2007-07-02",
+  "signing_date": "2007-06-26",
+  "source_url": "https://www.federalregister.gov/documents/2007/07/02/07-3254/assignment-of-functions-under-section-1035-of-the-john-warner-national-defense-authorization-act-for",
+  "title": "Assignment of Functions Under Section 1035 of the John Warner National Defense Authorization Act for Fiscal Year 2007",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-04097",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-04097",
+  "published_at": "2021-02-25",
+  "signing_date": "2021-02-22",
+  "source_url": "https://www.federalregister.gov/documents/2021/02/25/2021-04097/remembering-the-500000-americans-lost-to-covid--19",
+  "title": "Remembering the 500,000 Americans Lost to COVID- 19",
+  "topics": [],
+  "type": "executive_action"
+}

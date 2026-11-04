@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-16740",
+  "document_type": "executive_order",
+  "executive_order_number": "14125",
+  "id": "exec-2024-16740",
+  "published_at": "2024-07-29",
+  "signing_date": "2024-07-24",
+  "source_url": "https://www.federalregister.gov/documents/2024/07/29/2024-16740/establishing-an-emergency-board-to-investigate-a-dispute-between-new-jersey-transit-rail-operations",
+  "title": "Establishing an Emergency Board To Investigate a Dispute Between New Jersey Transit Rail Operations and Its Locomotive Engineers Represented by the Brotherhood of Locomotive Engineers and Trainmen",
+  "topics": [],
+  "type": "executive_action"
+}

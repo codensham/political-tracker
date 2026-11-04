@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-32617",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2010-32617",
+  "published_at": "2010-12-27",
+  "signing_date": "2010-12-21",
+  "source_url": "https://www.federalregister.gov/documents/2010/12/27/2010-32617/national-mentoring-month-2011",
+  "title": "National Mentoring Month, 2011",
+  "topics": [],
+  "type": "executive_action"
+}

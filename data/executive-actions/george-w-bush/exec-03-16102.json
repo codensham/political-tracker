@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-16102",
+  "document_type": "executive_order",
+  "executive_order_number": "13308",
+  "id": "exec-03-16102",
+  "published_at": "2003-06-24",
+  "signing_date": "2003-06-20",
+  "source_url": "https://www.federalregister.gov/documents/2003/06/24/03-16102/further-amendment-to-executive-order-12580-as-amended-superfund-implementation",
+  "title": "Further Amendment to Executive Order 12580, as Amended, Superfund Implementation",
+  "topics": [],
+  "type": "executive_action"
+}

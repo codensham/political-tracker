@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E6-15292",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e6-15292",
+  "published_at": "2006-09-13",
+  "signing_date": "2006-09-08",
+  "source_url": "https://www.federalregister.gov/documents/2006/09/13/E6-15292/national-historically-black-colleges-and-universities-week-2006",
+  "title": "National Historically Black Colleges and Universities Week, 2006",
+  "topics": [],
+  "type": "executive_action"
+}

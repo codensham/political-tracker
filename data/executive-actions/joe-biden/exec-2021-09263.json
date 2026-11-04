@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-09263",
+  "document_type": "executive_order",
+  "executive_order_number": "14026",
+  "id": "exec-2021-09263",
+  "published_at": "2021-04-30",
+  "signing_date": "2021-04-27",
+  "source_url": "https://www.federalregister.gov/documents/2021/04/30/2021-09263/increasing-the-minimum-wage-for-federal-contractors",
+  "title": "Increasing the Minimum Wage for Federal Contractors",
+  "topics": [],
+  "type": "executive_action"
+}

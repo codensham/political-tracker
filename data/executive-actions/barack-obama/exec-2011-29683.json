@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-29683",
+  "document_type": "executive_order",
+  "executive_order_number": "13589",
+  "id": "exec-2011-29683",
+  "published_at": "2011-11-15",
+  "signing_date": "2011-11-09",
+  "source_url": "https://www.federalregister.gov/documents/2011/11/15/2011-29683/promoting-efficient-spending",
+  "title": "Promoting Efficient Spending",
+  "topics": [],
+  "type": "executive_action"
+}

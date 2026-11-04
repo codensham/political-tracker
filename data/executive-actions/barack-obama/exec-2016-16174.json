@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-16174",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2016-16174",
+  "published_at": "2016-07-06",
+  "signing_date": "2016-06-30",
+  "source_url": "https://www.federalregister.gov/documents/2016/07/06/2016-16174/to-implement-the-world-trade-organization-declaration-on-the-expansion-of-trade-in-information",
+  "title": "To Implement the World Trade Organization Declaration on the Expansion of Trade in Information Technology Products and for Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

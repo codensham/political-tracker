@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-9159",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-9159",
+  "published_at": "2005-05-05",
+  "signing_date": "2005-05-03",
+  "source_url": "https://www.federalregister.gov/documents/2005/05/05/05-9159/national-observance-of-the-60th-anniversary-of-the-end-of-world-war-ii-2005",
+  "title": "National Observance of the 60th Anniversary of the End of World War II, 2005",
+  "topics": [],
+  "type": "executive_action"
+}

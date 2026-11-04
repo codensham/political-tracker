@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-13659",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-13659",
+  "published_at": "2010-06-07",
+  "signing_date": "2010-05-19",
+  "source_url": "https://www.federalregister.gov/documents/2010/06/07/2010-13659/designating-the-chairperson-of-the-defense-production-act-committee",
+  "title": "Designating the Chairperson of the Defense Production Act Committee",
+  "topics": [],
+  "type": "executive_action"
+}

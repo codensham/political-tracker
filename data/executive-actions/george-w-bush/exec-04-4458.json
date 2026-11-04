@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-4458",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-04-4458",
+  "published_at": "2004-02-27",
+  "signing_date": "2004-02-23",
+  "source_url": "https://www.federalregister.gov/documents/2004/02/27/04-4458/delegation-of-certain-authority-under-the-united-states-leadership-against-hivaids-tuberculosis-and",
+  "title": "Delegation of Certain Authority Under the United States Leadership Against HIV/AIDS, Tuberculosis, and Malaria Act of 2003",
+  "topics": [],
+  "type": "executive_action"
+}

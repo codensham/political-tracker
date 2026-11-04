@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-818",
+  "document_type": "executive_order",
+  "executive_order_number": "13486",
+  "id": "exec-e9-818",
+  "published_at": "2009-01-14",
+  "signing_date": "2009-01-09",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/14/E9-818/strengthening-laboratory-biosecurity-in-the-united-states",
+  "title": "Strengthening Laboratory Biosecurity in the United States",
+  "topics": [],
+  "type": "executive_action"
+}

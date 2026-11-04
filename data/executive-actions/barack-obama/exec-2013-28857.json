@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-28857",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2013-28857",
+  "published_at": "2013-11-29",
+  "signing_date": "2013-10-28",
+  "source_url": "https://www.federalregister.gov/documents/2013/11/29/2013-28857/delegation-of-functions-under-sections-1261b-and-1262a-of-public-law-112-239",
+  "title": "Delegation of Functions Under Sections 1261(b) and 1262(a) of Public Law 112-239",
+  "topics": [],
+  "type": "executive_action"
+}

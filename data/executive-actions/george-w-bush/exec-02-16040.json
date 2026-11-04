@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-16040",
+  "document_type": "executive_order",
+  "executive_order_number": "13266",
+  "id": "exec-02-16040",
+  "published_at": "2002-06-24",
+  "signing_date": "2002-06-20",
+  "source_url": "https://www.federalregister.gov/documents/2002/06/24/02-16040/activities-to-promote-personal-fitness",
+  "title": "Activities To Promote Personal Fitness",
+  "topics": [],
+  "type": "executive_action"
+}

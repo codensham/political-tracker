@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-11978",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-11978",
+  "published_at": "2021-06-07",
+  "signing_date": "2021-06-01",
+  "source_url": "https://www.federalregister.gov/documents/2021/06/07/2021-11978/national-immigrant-heritage-month-2021",
+  "title": "National Immigrant Heritage Month, 2021",
+  "topics": [],
+  "type": "executive_action"
+}

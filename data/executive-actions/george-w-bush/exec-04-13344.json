@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-13344",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-04-13344",
+  "published_at": "2004-06-10",
+  "signing_date": "2004-06-03",
+  "source_url": "https://www.federalregister.gov/documents/2004/06/10/04-13344/command-and-control-of-national-guard-for-2004-group-of-eight-g8-summit",
+  "title": "Command and Control of National Guard for 2004 Group of Eight (\"G8\") Summit",
+  "topics": [],
+  "type": "executive_action"
+}

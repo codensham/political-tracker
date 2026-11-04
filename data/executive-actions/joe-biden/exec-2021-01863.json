@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01863",
+  "document_type": "executive_order",
+  "executive_order_number": "13999",
+  "id": "exec-2021-01863",
+  "published_at": "2021-01-26",
+  "signing_date": "2021-01-21",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/26/2021-01863/protecting-worker-health-and-safety",
+  "title": "Protecting Worker Health and Safety",
+  "topics": [],
+  "type": "executive_action"
+}

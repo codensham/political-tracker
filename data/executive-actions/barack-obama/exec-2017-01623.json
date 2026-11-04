@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-01623",
+  "document_type": "executive_order",
+  "executive_order_number": "13764",
+  "id": "exec-2017-01623",
+  "published_at": "2017-01-23",
+  "signing_date": "2017-01-17",
+  "source_url": "https://www.federalregister.gov/documents/2017/01/23/2017-01623/amending-the-civil-service-rules-executive-order-13488-and-executive-order-13467-to-modernize-the",
+  "title": "Amending the Civil Service Rules, Executive Order 13488, and Executive Order 13467 To Modernize the Executive Branch-Wide Governance Structure and Processes for Security Clearances, Suitability and Fitness for Employment, and Credentialing, and Related Matters",
+  "topics": [],
+  "type": "executive_action"
+}

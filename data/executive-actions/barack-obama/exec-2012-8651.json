@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-8651",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2012-8651",
+  "published_at": "2012-04-09",
+  "signing_date": "2012-04-03",
+  "source_url": "https://www.federalregister.gov/documents/2012/04/09/2012-8651/education-and-sharing-day-usa-2012",
+  "title": "Education and Sharing Day, U.S.A., 2012",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-01261",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-01261",
+  "published_at": "2014-01-21",
+  "signing_date": "2014-01-15",
+  "source_url": "https://www.federalregister.gov/documents/2014/01/21/2014-01261/reserving-certain-submerged-lands-in-the-commonwealth-of-the-northern-mariana-islands",
+  "title": "Reserving Certain Submerged Lands in the Commonwealth of the Northern Mariana Islands",
+  "topics": [],
+  "type": "executive_action"
+}

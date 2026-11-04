@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-14497",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-14497",
+  "published_at": "2021-07-06",
+  "signing_date": "2021-06-30",
+  "source_url": "https://www.federalregister.gov/documents/2021/07/06/2021-14497/50th-anniversary-of-the-26th-amendment",
+  "title": "50th Anniversary of the 26th Amendment",
+  "topics": [],
+  "type": "executive_action"
+}

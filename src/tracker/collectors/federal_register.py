@@ -16,7 +16,12 @@ from tracker.http import get_json
 API_URL = "https://www.federalregister.gov/api/v1/documents.json"
 
 # Tracked candidate id -> Federal Register president identifier. Set by hand, never inferred.
-PRESIDENT_SLUGS: dict[str, str] = {"donald-trump": "donald-trump"}
+PRESIDENT_SLUGS: dict[str, str] = {
+    "george-w-bush": "george-w-bush",
+    "barack-obama": "barack-obama",
+    "donald-trump": "donald-trump",
+    "joe-biden": "joe-biden",
+}  # Presidents who held office (D-035). Slugs confirmed against the API.
 
 DOCUMENT_TYPES = ("executive_order", "proclamation", "memorandum")
 

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-1594",
+  "document_type": "executive_order",
+  "executive_order_number": "13253",
+  "id": "exec-02-1594",
+  "published_at": "2002-01-18",
+  "signing_date": "2002-01-16",
+  "source_url": "https://www.federalregister.gov/documents/2002/01/18/02-1594/amendment-to-executive-order-13223-ordering-the-ready-reserve-of-the-armed-forces-to-active-duty-and",
+  "title": "Amendment to Executive Order 13223, Ordering the Ready Reserve of the Armed Forces to Active Duty and Delegating Certain Authorities to the Secretary of Defense and the",
+  "topics": [],
+  "type": "executive_action"
+}

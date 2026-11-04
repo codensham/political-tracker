@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-4085",
+  "document_type": "executive_order",
+  "executive_order_number": "13399",
+  "id": "exec-06-4085",
+  "published_at": "2006-04-28",
+  "signing_date": "2006-04-25",
+  "source_url": "https://www.federalregister.gov/documents/2006/04/28/06-4085/blocking-property-of-additional-persons-in-connection-with-the-national-emergency-with-respect-to",
+  "title": "Blocking Property of Additional Persons in Connection With the National Emergency With Respect to Syria",
+  "topics": [],
+  "type": "executive_action"
+}

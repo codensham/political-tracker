@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-1077",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-07-1077",
+  "published_at": "2007-03-06",
+  "signing_date": "2007-02-28",
+  "source_url": "https://www.federalregister.gov/documents/2007/03/06/07-1077/amending-proclamation-8031-of-june-15-2006-to-read-establishment-of-the-papahanaumokuakea-marine",
+  "title": "Amending Proclamation 8031 of June 15, 2006, To Read, \"Establishment of the Papahanaumokuakea Marine National Monument\"",
+  "topics": [],
+  "type": "executive_action"
+}

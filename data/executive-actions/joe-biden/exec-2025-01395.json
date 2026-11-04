@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-01395",
+  "document_type": "executive_order",
+  "executive_order_number": "14141",
+  "id": "exec-2025-01395",
+  "published_at": "2025-01-17",
+  "signing_date": "2025-01-14",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/17/2025-01395/advancing-united-states-leadership-in-artificial-intelligence-infrastructure",
+  "title": "Advancing United States Leadership in Artificial Intelligence Infrastructure",
+  "topics": [],
+  "type": "executive_action"
+}

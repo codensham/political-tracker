@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-22768",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2011-22768",
+  "published_at": "2011-09-02",
+  "signing_date": "2011-08-31",
+  "source_url": "https://www.federalregister.gov/documents/2011/09/02/2011-22768/national-preparedness-month-2011",
+  "title": "National Preparedness Month, 2011",
+  "topics": [],
+  "type": "executive_action"
+}

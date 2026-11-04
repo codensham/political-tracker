@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-5919",
+  "document_type": "executive_order",
+  "executive_order_number": "13452",
+  "id": "exec-07-5919",
+  "published_at": "2007-11-30",
+  "signing_date": "2007-11-28",
+  "source_url": "https://www.federalregister.gov/documents/2007/11/30/07-5919/establishing-an-emergency-board-to-investigate-disputes-between-the-national-railroad-passenger",
+  "title": "Establishing an Emergency Board To Investigate Disputes Between the National Railroad Passenger Corporation and Certain of Its Employees Represented by Certain Labor Organizations",
+  "topics": [],
+  "type": "executive_action"
+}

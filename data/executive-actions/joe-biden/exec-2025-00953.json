@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-00953",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2025-00953",
+  "published_at": "2025-01-14",
+  "signing_date": "2025-01-08",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/14/2025-00953/delegation-of-certain-authorities-under-section-7271-of-title-10-united-states-code",
+  "title": "Delegation of Certain Authorities Under Section 7271 of Title 10, United States Code",
+  "topics": [],
+  "type": "executive_action"
+}

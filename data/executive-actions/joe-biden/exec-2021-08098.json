@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-08098",
+  "document_type": "executive_order",
+  "executive_order_number": "14024",
+  "id": "exec-2021-08098",
+  "published_at": "2021-04-19",
+  "signing_date": "2021-04-15",
+  "source_url": "https://www.federalregister.gov/documents/2021/04/19/2021-08098/blocking-property-with-respect-to-specified-harmful-foreign-activities-of-the-government-of-the",
+  "title": "Blocking Property With Respect To Specified Harmful Foreign Activities of the Government of the Russian Federation",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-8160",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-8160",
+  "published_at": "2003-04-02",
+  "signing_date": "2003-03-28",
+  "source_url": "https://www.federalregister.gov/documents/2003/04/02/03-8160/to-take-certain-actions-under-the-african-growth-and-opportunity-act-with-respect-to-the-republic-of",
+  "title": "To Take Certain Actions Under the African Growth and Opportunity Act With Respect to the Republic of The Gambia and the Democratic Republic of Congo",
+  "topics": [],
+  "type": "executive_action"
+}

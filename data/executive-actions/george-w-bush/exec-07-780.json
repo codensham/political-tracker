@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-780",
+  "document_type": "executive_order",
+  "executive_order_number": "13425",
+  "id": "exec-07-780",
+  "published_at": "2007-02-20",
+  "signing_date": "2007-02-14",
+  "source_url": "https://www.federalregister.gov/documents/2007/02/20/07-780/trial-of-alien-unlawful-enemy-combatants-by-military-commission",
+  "title": "Trial of Alien Unlawful Enemy Combatants by Military Commission",
+  "topics": [],
+  "type": "executive_action"
+}

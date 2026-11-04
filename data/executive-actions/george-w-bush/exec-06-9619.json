@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-9619",
+  "document_type": "executive_order",
+  "executive_order_number": "13416",
+  "id": "exec-06-9619",
+  "published_at": "2006-12-07",
+  "signing_date": "2006-12-05",
+  "source_url": "https://www.federalregister.gov/documents/2006/12/07/06-9619/strengthening-surface-transportation-security",
+  "title": "Strengthening Surface Transportation Security",
+  "topics": [],
+  "type": "executive_action"
+}

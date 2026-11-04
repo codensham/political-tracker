@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-28195",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2014-28195",
+  "published_at": "2014-11-26",
+  "signing_date": "2014-11-21",
+  "source_url": "https://www.federalregister.gov/documents/2014/11/26/2014-28195/modernizing-and-streamlining-the-us-immigrant-visa-system-for-the-21st-century",
+  "title": "Modernizing and Streamlining the U.S. Immigrant Visa System for the 21st Century",
+  "topics": [],
+  "type": "executive_action"
+}

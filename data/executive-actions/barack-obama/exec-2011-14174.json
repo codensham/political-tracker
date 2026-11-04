@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-14174",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2011-14174",
+  "published_at": "2011-06-07",
+  "signing_date": "2011-05-31",
+  "source_url": "https://www.federalregister.gov/documents/2011/06/07/2011-14174/lesbian-gay-bisexual-and-transgender-pride-month-2011",
+  "title": "Lesbian, Gay, Bisexual, And Transgender Pride Month, 2011",
+  "topics": [],
+  "type": "executive_action"
+}

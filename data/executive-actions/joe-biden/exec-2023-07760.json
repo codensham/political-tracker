@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-07760",
+  "document_type": "executive_order",
+  "executive_order_number": "14094",
+  "id": "exec-2023-07760",
+  "published_at": "2023-04-11",
+  "signing_date": "2023-04-06",
+  "source_url": "https://www.federalregister.gov/documents/2023/04/11/2023-07760/modernizing-regulatory-review",
+  "title": "Modernizing Regulatory Review",
+  "topics": [],
+  "type": "executive_action"
+}

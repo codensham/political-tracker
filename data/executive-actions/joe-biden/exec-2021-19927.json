@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-19927",
+  "document_type": "executive_order",
+  "executive_order_number": "14043",
+  "id": "exec-2021-19927",
+  "published_at": "2021-09-14",
+  "signing_date": "2021-09-09",
+  "source_url": "https://www.federalregister.gov/documents/2021/09/14/2021-19927/requiring-coronavirus-disease-2019-vaccination-for-federal-employees",
+  "title": "Requiring Coronavirus Disease 2019 Vaccination for Federal Employees",
+  "topics": [],
+  "type": "executive_action"
+}

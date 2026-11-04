@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-05471",
+  "document_type": "executive_order",
+  "executive_order_number": "14067",
+  "id": "exec-2022-05471",
+  "published_at": "2022-03-14",
+  "signing_date": "2022-03-09",
+  "source_url": "https://www.federalregister.gov/documents/2022/03/14/2022-05471/ensuring-responsible-development-of-digital-assets",
+  "title": "Ensuring Responsible Development of Digital Assets",
+  "topics": [],
+  "type": "executive_action"
+}

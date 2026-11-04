@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-11842",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-03-11842",
+  "published_at": "2003-05-09",
+  "signing_date": "2003-05-06",
+  "source_url": "https://www.federalregister.gov/documents/2003/05/09/03-11842/delegation-of-the-functions-of-the-president-under-the-heading-iraq-relief-and-reconstruction-fund",
+  "title": "Delegation of the Functions of the President Under the Heading \"Iraq Relief and Reconstruction Fund\" in the Emergency Wartime Supplemental Appropriations Act, 2003",
+  "topics": [],
+  "type": "executive_action"
+}

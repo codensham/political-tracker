@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-21505",
+  "document_type": "executive_order",
+  "executive_order_number": "13582",
+  "id": "exec-2011-21505",
+  "published_at": "2011-08-22",
+  "signing_date": "2011-08-17",
+  "source_url": "https://www.federalregister.gov/documents/2011/08/22/2011-21505/blocking-property-of-the-government-of-syria-and-prohibiting-certain-transactions-with-respect-to",
+  "title": "Blocking Property of the Government of Syria and Prohibiting Certain Transactions With Respect to Syria",
+  "topics": [],
+  "type": "executive_action"
+}

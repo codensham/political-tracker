@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-4549",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-07-4549",
+  "published_at": "2007-09-12",
+  "signing_date": "2007-09-08",
+  "source_url": "https://www.federalregister.gov/documents/2007/09/12/07-4549/assignment-of-reporting-functions-relating-to-the-information-sharing-environment",
+  "title": "Assignment of Reporting Functions Relating to the Information Sharing Environment",
+  "topics": [],
+  "type": "executive_action"
+}

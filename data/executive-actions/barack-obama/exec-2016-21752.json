@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-21752",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2016-21752",
+  "published_at": "2016-09-08",
+  "signing_date": "2016-08-31",
+  "source_url": "https://www.federalregister.gov/documents/2016/09/08/2016-21752/national-childhood-obesity-awareness-month-2016",
+  "title": "National Childhood Obesity Awareness Month, 2016",
+  "topics": [],
+  "type": "executive_action"
+}

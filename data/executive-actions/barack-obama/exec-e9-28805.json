@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-28805",
+  "document_type": "executive_order",
+  "executive_order_number": "13521",
+  "id": "exec-e9-28805",
+  "published_at": "2009-11-30",
+  "signing_date": "2009-11-24",
+  "source_url": "https://www.federalregister.gov/documents/2009/11/30/E9-28805/establishing-the-presidential-commission-for-the-study-of-bioethical-issues",
+  "title": "Establishing the Presidential Commission for the Study of Bioethical Issues",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-08357",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2015-08357",
+  "published_at": "2015-04-09",
+  "signing_date": "2015-04-06",
+  "source_url": "https://www.federalregister.gov/documents/2015/04/09/2015-08357/national-public-health-week-2015",
+  "title": "National Public Health Week, 2015",
+  "topics": [],
+  "type": "executive_action"
+}

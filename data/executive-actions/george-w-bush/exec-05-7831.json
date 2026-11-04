@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-7831",
+  "document_type": "executive_order",
+  "executive_order_number": "13377",
+  "id": "exec-05-7831",
+  "published_at": "2005-04-18",
+  "signing_date": "2005-04-13",
+  "source_url": "https://www.federalregister.gov/documents/2005/04/18/05-7831/designating-the-african-union-as-a-public-international-organization-entitled-to-enjoy-certain",
+  "title": "Designating the African Union as a Public International Organization Entitled To Enjoy Certain Privileges, Exemptions, and Immunities",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-1969",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-02-1969",
+  "published_at": "2002-01-24",
+  "signing_date": "2002-01-17",
+  "source_url": "https://www.federalregister.gov/documents/2002/01/24/02-1969/martin-luther-king-jr-federal-holiday-2002",
+  "title": "Martin Luther King, Jr., Federal Holiday, 2002",
+  "topics": [],
+  "type": "executive_action"
+}

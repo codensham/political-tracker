@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-658",
+  "document_type": "executive_order",
+  "executive_order_number": "13459",
+  "id": "exec-08-658",
+  "published_at": "2008-02-12",
+  "signing_date": "2008-02-07",
+  "source_url": "https://www.federalregister.gov/documents/2008/02/12/08-658/improving-the-coordination-and-effectiveness-of-youth-programs",
+  "title": "Improving the Coordination and Effectiveness of Youth Programs",
+  "topics": [],
+  "type": "executive_action"
+}

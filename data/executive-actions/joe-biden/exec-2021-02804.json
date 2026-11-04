@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-02804",
+  "document_type": "executive_order",
+  "executive_order_number": "14013",
+  "id": "exec-2021-02804",
+  "published_at": "2021-02-09",
+  "signing_date": "2021-02-04",
+  "source_url": "https://www.federalregister.gov/documents/2021/02/09/2021-02804/rebuilding-and-enhancing-programs-to-resettle-refugees-and-planning-for-the-impact-of-climate-change",
+  "title": "Rebuilding and Enhancing Programs To Resettle Refugees and Planning for the Impact of Climate Change on Migration",
+  "topics": [],
+  "type": "executive_action"
+}

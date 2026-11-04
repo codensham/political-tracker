@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-13290",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2016-13290",
+  "published_at": "2016-06-03",
+  "signing_date": "2016-05-24",
+  "source_url": "https://www.federalregister.gov/documents/2016/06/03/2016-13290/delegation-of-authority-under-section-106-of-the-bipartisan-congressional-trade-priorities-and",
+  "title": "Delegation of Authority Under Section 106 of the Bipartisan Congressional Trade Priorities and Accountability Act of 2015",
+  "topics": [],
+  "type": "executive_action"
+}

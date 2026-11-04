@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-1229",
+  "document_type": "executive_order",
+  "executive_order_number": "13529",
+  "id": "exec-2010-1229",
+  "published_at": "2010-01-21",
+  "signing_date": "2010-01-16",
+  "source_url": "https://www.federalregister.gov/documents/2010/01/21/2010-1229/ordering-the-selected-reserve-and-certain-individual-ready-reserve-members-of-the-armed-forces-to",
+  "title": "Ordering the Selected Reserve and Certain Individual Ready Reserve Members of the Armed Forces to Active Duty",
+  "topics": [],
+  "type": "executive_action"
+}

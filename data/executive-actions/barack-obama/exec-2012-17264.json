@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-17264",
+  "document_type": "executive_order",
+  "executive_order_number": "13619",
+  "id": "exec-2012-17264",
+  "published_at": "2012-07-13",
+  "signing_date": "2012-07-11",
+  "source_url": "https://www.federalregister.gov/documents/2012/07/13/2012-17264/blocking-property-of-persons-threatening-the-peace-security-or-stability-of-burma",
+  "title": "Blocking Property of Persons Threatening the Peace, Security, or Stability of Burma",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-20764",
+  "document_type": "executive_order",
+  "executive_order_number": "13314",
+  "id": "exec-03-20764",
+  "published_at": "2003-08-13",
+  "signing_date": "2003-08-08",
+  "source_url": "https://www.federalregister.gov/documents/2003/08/13/03-20764/waiver-under-the-trade-act-of-1974-with-respect-to-turkmenistan",
+  "title": "Waiver Under the Trade Act of 1974 With Respect to Turkmenistan",
+  "topics": [],
+  "type": "executive_action"
+}

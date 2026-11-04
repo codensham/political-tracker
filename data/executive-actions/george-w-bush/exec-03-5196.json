@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-5196",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-03-5196",
+  "published_at": "2003-03-04",
+  "signing_date": "2003-02-12",
+  "source_url": "https://www.federalregister.gov/documents/2003/03/04/03-5196/designation-of-officers-of-the-department-of-veterans-affairs-to-act-as-secretary-of-veterans",
+  "title": "Designation of Officers of the Department of Veterans Affairs To Act as Secretary of Veterans Affairs",
+  "topics": [],
+  "type": "executive_action"
+}

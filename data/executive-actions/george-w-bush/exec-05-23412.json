@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-23412",
+  "document_type": "executive_order",
+  "executive_order_number": "13391",
+  "id": "exec-05-23412",
+  "published_at": "2005-11-25",
+  "signing_date": "2005-11-22",
+  "source_url": "https://www.federalregister.gov/documents/2005/11/25/05-23412/blocking-property-of-additional-persons-undermining-democratic-processes-or-institutions-in-zimbabwe",
+  "title": "Blocking Property of Additional Persons Undermining Democratic Processes or Institutions in Zimbabwe",
+  "topics": [],
+  "type": "executive_action"
+}

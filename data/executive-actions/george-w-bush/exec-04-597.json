@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-597",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-04-597",
+  "published_at": "2004-01-09",
+  "signing_date": "2003-12-05",
+  "source_url": "https://www.federalregister.gov/documents/2004/01/09/04-597/transfer-of-funds-appropriated-to-the-president-under-the-heading-operating-expenses-of-the",
+  "title": "Transfer of Funds Appropriated to the President under the heading Operating Expenses of the Coalition Provisional Authority, and Delegation of the Functions of the President under the heading Iraq Relief and Reconstruction Fund, in the Emergency Supplemental Appropriations Act for Defense and for the Reconstruction of Iraq and Afghanistan, 2004",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-14415",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-e9-14415",
+  "published_at": "2009-06-18",
+  "signing_date": "2009-06-08",
+  "source_url": "https://www.federalregister.gov/documents/2009/06/18/E9-14415/delegation-of-certain-functions-under-section-201-of-public-law-110-429",
+  "title": "Delegation of Certain Functions Under Section 201 of Public Law 110-429",
+  "topics": [],
+  "type": "executive_action"
+}

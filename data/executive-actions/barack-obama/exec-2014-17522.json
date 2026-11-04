@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-17522",
+  "document_type": "executive_order",
+  "executive_order_number": "13672",
+  "id": "exec-2014-17522",
+  "published_at": "2014-07-23",
+  "signing_date": "2014-07-21",
+  "source_url": "https://www.federalregister.gov/documents/2014/07/23/2014-17522/further-amendments-to-executive-order-11478-equal-employment-opportunity-in-the-federal-government",
+  "title": "Further Amendments to Executive Order 11478, Equal Employment Opportunity in the Federal Government, and Executive Order 11246, Equal Employment Opportunity",
+  "topics": [],
+  "type": "executive_action"
+}

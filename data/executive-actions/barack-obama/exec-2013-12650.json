@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-12650",
+  "document_type": "executive_order",
+  "executive_order_number": "13644",
+  "id": "exec-2013-12650",
+  "published_at": "2013-05-24",
+  "signing_date": "2013-05-21",
+  "source_url": "https://www.federalregister.gov/documents/2013/05/24/2013-12650/amendment-to-executive-order-13639",
+  "title": "Amendment to Executive Order 13639",
+  "topics": [],
+  "type": "executive_action"
+}

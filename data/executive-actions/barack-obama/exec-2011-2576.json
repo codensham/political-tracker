@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-2576",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2011-2576",
+  "published_at": "2011-02-03",
+  "signing_date": "2011-01-31",
+  "source_url": "https://www.federalregister.gov/documents/2011/02/03/2011-2576/national-teen-dating-violence-awareness-and-prevention-month-2011",
+  "title": "National Teen Dating Violence Awareness and Prevention Month, 2011",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-1223",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-08-1223",
+  "published_at": "2008-05-06",
+  "signing_date": "2008-04-30",
+  "source_url": "https://www.federalregister.gov/documents/2008/05/06/08-1223/law-day-usa-2008",
+  "title": "Law Day, U.S.A., 2008",
+  "topics": [],
+  "type": "executive_action"
+}

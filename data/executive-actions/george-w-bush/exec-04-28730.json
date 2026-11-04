@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-28730",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-04-28730",
+  "published_at": "2004-12-30",
+  "signing_date": "2004-12-08",
+  "source_url": "https://www.federalregister.gov/documents/2004/12/30/04-28730/assignment-of-functions-implementing-the-help-commission-act",
+  "title": "Assignment of Functions Implementing the HELP Commission Act",
+  "topics": [],
+  "type": "executive_action"
+}

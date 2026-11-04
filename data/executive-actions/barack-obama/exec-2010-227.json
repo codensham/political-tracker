@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-227",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-227",
+  "published_at": "2010-01-08",
+  "signing_date": "2009-12-15",
+  "source_url": "https://www.federalregister.gov/documents/2010/01/08/2010-227/directing-certain-actions-with-respect-to-acquisition-and-use-of-thomson-correctional-center-to",
+  "title": "Directing Certain Actions with Respect to Acquisition and Use of Thomson Correctional Center to Facilitate Closure of Detention Facilities at Guantanamo Bay Naval Base",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-19156",
+  "document_type": "executive_order",
+  "executive_order_number": "13581",
+  "id": "exec-2011-19156",
+  "published_at": "2011-07-27",
+  "signing_date": "2011-07-24",
+  "source_url": "https://www.federalregister.gov/documents/2011/07/27/2011-19156/blocking-property-of-transnational-criminal-organizations",
+  "title": "Blocking Property of Transnational Criminal Organizations",
+  "topics": [],
+  "type": "executive_action"
+}

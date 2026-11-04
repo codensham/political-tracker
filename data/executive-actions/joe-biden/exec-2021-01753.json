@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01753",
+  "document_type": "executive_order",
+  "executive_order_number": "13985",
+  "id": "exec-2021-01753",
+  "published_at": "2021-01-25",
+  "signing_date": "2021-01-20",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01753/advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government",
+  "title": "Advancing Racial Equity and Support for Underserved Communities Through the Federal Government",
+  "topics": [],
+  "type": "executive_action"
+}

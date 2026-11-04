@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-9896",
+  "document_type": "executive_order",
+  "executive_order_number": "13420",
+  "id": "exec-06-9896",
+  "published_at": "2006-12-26",
+  "signing_date": "2006-12-21",
+  "source_url": "https://www.federalregister.gov/documents/2006/12/26/06-9896/adjustments-of-certain-rates-of-pay",
+  "title": "Adjustments of Certain Rates of Pay",
+  "topics": [],
+  "type": "executive_action"
+}

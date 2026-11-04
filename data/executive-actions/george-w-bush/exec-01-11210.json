@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-11210",
+  "document_type": "executive_order",
+  "executive_order_number": "13209",
+  "id": "exec-01-11210",
+  "published_at": "2001-05-02",
+  "signing_date": "2001-04-30",
+  "source_url": "https://www.federalregister.gov/documents/2001/05/02/01-11210/amendment-to-executive-order-13183-establishment-of-the-presidents-task-force-on-puerto-ricos-statis",
+  "title": "Amendment to Executive Order 13183, Establishment of the President's Task Force on Puerto Rico's Statis",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-15347",
+  "document_type": "executive_order",
+  "executive_order_number": "14102",
+  "id": "exec-2023-15347",
+  "published_at": "2023-07-18",
+  "signing_date": "2023-07-13",
+  "source_url": "https://www.federalregister.gov/documents/2023/07/18/2023-15347/ordering-the-selected-reserve-and-certain-members-of-the-individual-ready-reserve-of-the-armed",
+  "title": "Ordering the Selected Reserve and Certain Members of the Individual Ready Reserve of the Armed Forces to Active Duty",
+  "topics": [],
+  "type": "executive_action"
+}

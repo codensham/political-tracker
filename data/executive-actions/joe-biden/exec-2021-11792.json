@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-11792",
+  "document_type": "executive_order",
+  "executive_order_number": "14031",
+  "id": "exec-2021-11792",
+  "published_at": "2021-06-03",
+  "signing_date": "2021-05-28",
+  "source_url": "https://www.federalregister.gov/documents/2021/06/03/2021-11792/advancing-equity-justice-and-opportunity-for-asian-americans-native-hawaiians-and-pacific-islanders",
+  "title": "Advancing Equity, Justice, and Opportunity for Asian Americans, Native Hawaiians, and Pacific Islanders",
+  "topics": [],
+  "type": "executive_action"
+}

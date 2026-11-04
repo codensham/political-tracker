@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-8572",
+  "document_type": "executive_order",
+  "executive_order_number": "13507",
+  "id": "exec-e9-8572",
+  "published_at": "2009-04-13",
+  "signing_date": "2009-04-08",
+  "source_url": "https://www.federalregister.gov/documents/2009/04/13/E9-8572/establishment-of-the-white-house-office-of-health-reform",
+  "title": "Establishment of the White House Office of Health Reform",
+  "topics": [],
+  "type": "executive_action"
+}

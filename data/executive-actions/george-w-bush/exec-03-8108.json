@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-8108",
+  "document_type": "executive_order",
+  "executive_order_number": "13293",
+  "id": "exec-03-8108",
+  "published_at": "2003-04-01",
+  "signing_date": "2003-03-28",
+  "source_url": "https://www.federalregister.gov/documents/2003/04/01/03-8108/amendment-to-executive-order-10448-establishing-the-national-defense-service-medal",
+  "title": "Amendment to Executive Order 10448, Establishing the National Defense Service Medal",
+  "topics": [],
+  "type": "executive_action"
+}

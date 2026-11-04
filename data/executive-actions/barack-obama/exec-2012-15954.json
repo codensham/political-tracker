@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-15954",
+  "document_type": "executive_order",
+  "executive_order_number": "13617",
+  "id": "exec-2012-15954",
+  "published_at": "2012-06-27",
+  "signing_date": "2012-06-25",
+  "source_url": "https://www.federalregister.gov/documents/2012/06/27/2012-15954/blocking-property-of-the-government-of-the-russian-federation-relating-to-the-disposition-of-highly",
+  "title": "Blocking Property of the Government of the Russian Federation Relating to the Disposition of Highly Enriched Uranium Extracted From Nuclear Weapons",
+  "topics": [],
+  "type": "executive_action"
+}

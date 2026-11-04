@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-26588",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-26588",
+  "published_at": "2021-12-07",
+  "signing_date": "2021-12-02",
+  "source_url": "https://www.federalregister.gov/documents/2021/12/07/2021-26588/international-day-of-persons-with-disabilities-2021",
+  "title": "International Day of Persons With Disabilities, 2021",
+  "topics": [],
+  "type": "executive_action"
+}

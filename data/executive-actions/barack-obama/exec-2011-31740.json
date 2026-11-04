@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-31740",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2011-31740",
+  "published_at": "2011-12-08",
+  "signing_date": "2011-07-19",
+  "source_url": "https://www.federalregister.gov/documents/2011/12/08/2011-31740/delegation-of-certain-function-and-authority-conferred-upon-the-president-by-section-1535c1-of-the",
+  "title": "Delegation of Certain Function and Authority Conferred Upon the President by Section 1535(c)(1) of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011",
+  "topics": [],
+  "type": "executive_action"
+}

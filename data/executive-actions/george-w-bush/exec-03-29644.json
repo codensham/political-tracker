@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-29644",
+  "document_type": "executive_order",
+  "executive_order_number": "13318",
+  "id": "exec-03-29644",
+  "published_at": "2003-11-25",
+  "signing_date": "2003-11-21",
+  "source_url": "https://www.federalregister.gov/documents/2003/11/25/03-29644/presidential-management-fellows-program",
+  "title": "Presidential Management Fellows Program",
+  "topics": [],
+  "type": "executive_action"
+}

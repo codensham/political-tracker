@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-3826",
+  "document_type": "executive_order",
+  "executive_order_number": "13256",
+  "id": "exec-02-3826",
+  "published_at": "2002-02-14",
+  "signing_date": "2002-02-12",
+  "source_url": "https://www.federalregister.gov/documents/2002/02/14/02-3826/presidents-board-of-advisors-on-historically-black-colleges-and-universities",
+  "title": "President's Board of Advisors on Historically Black Colleges and Universities",
+  "topics": [],
+  "type": "executive_action"
+}

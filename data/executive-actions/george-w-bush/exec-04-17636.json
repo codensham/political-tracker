@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-17636",
+  "document_type": "executive_order",
+  "executive_order_number": "13350",
+  "id": "exec-04-17636",
+  "published_at": "2004-07-30",
+  "signing_date": "2004-07-29",
+  "source_url": "https://www.federalregister.gov/documents/2004/07/30/04-17636/termination-of-emergency-declared-in-executive-order-12722-with-respect-to-iraq-and-modification-of",
+  "title": "Termination of Emergency Declared in Executive Order 12722 With Respect to Iraq and Modification of Executive Order 13290, Executive Order 13303, and Executive Order 13315",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-27025",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-02-27025",
+  "published_at": "2002-10-22",
+  "signing_date": "2002-10-17",
+  "source_url": "https://www.federalregister.gov/documents/2002/10/22/02-27025/year-of-clean-water-2002-2003",
+  "title": "Year of Clean Water, 2002-2003",
+  "topics": [],
+  "type": "executive_action"
+}

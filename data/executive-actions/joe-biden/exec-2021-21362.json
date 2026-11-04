@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-21362",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-21362",
+  "published_at": "2021-09-29",
+  "signing_date": "2021-09-24",
+  "source_url": "https://www.federalregister.gov/documents/2021/09/29/2021-21362/national-public-lands-day-2021",
+  "title": "National Public Lands Day, 2021",
+  "topics": [],
+  "type": "executive_action"
+}

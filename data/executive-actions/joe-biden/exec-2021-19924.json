@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-19924",
+  "document_type": "executive_order",
+  "executive_order_number": "14042",
+  "id": "exec-2021-19924",
+  "published_at": "2021-09-14",
+  "signing_date": "2021-09-09",
+  "source_url": "https://www.federalregister.gov/documents/2021/09/14/2021-19924/ensuring-adequate-covid-safety-protocols-for-federal-contractors",
+  "title": "Ensuring Adequate COVID Safety Protocols for Federal Contractors",
+  "topics": [],
+  "type": "executive_action"
+}

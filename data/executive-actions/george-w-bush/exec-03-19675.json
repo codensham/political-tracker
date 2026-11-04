@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-19675",
+  "document_type": "executive_order",
+  "executive_order_number": "13311",
+  "id": "exec-03-19675",
+  "published_at": "2003-07-31",
+  "signing_date": "2003-07-29",
+  "source_url": "https://www.federalregister.gov/documents/2003/07/31/03-19675/homeland-security-information-sharing",
+  "title": "Homeland Security Information Sharing",
+  "topics": [],
+  "type": "executive_action"
+}

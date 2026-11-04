@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-26637",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2012-26637",
+  "published_at": "2012-10-29",
+  "signing_date": "2012-10-10",
+  "source_url": "https://www.federalregister.gov/documents/2012/10/29/2012-26637/delegation-of-functions-to-the-secretary-of-state-to-support-assistance-by-international-financial",
+  "title": "Delegation of Functions to the Secretary of State To Support Assistance by International Financial Institutions for Burma",
+  "topics": [],
+  "type": "executive_action"
+}

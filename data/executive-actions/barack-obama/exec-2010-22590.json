@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-22590",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2010-22590",
+  "published_at": "2010-09-08",
+  "signing_date": "2010-09-01",
+  "source_url": "https://www.federalregister.gov/documents/2010/09/08/2010-22590/national-childhood-obesity-awareness-month-2010",
+  "title": "National Childhood Obesity Awareness Month, 2010",
+  "topics": [],
+  "type": "executive_action"
+}

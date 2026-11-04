@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-30513",
+  "document_type": "executive_order",
+  "executive_order_number": "13319",
+  "id": "exec-03-30513",
+  "published_at": "2003-12-08",
+  "signing_date": "2003-12-03",
+  "source_url": "https://www.federalregister.gov/documents/2003/12/08/03-30513/amendment-to-executive-order-13183-establishment-of-the-presidents-task-force-on-puerto-ricos-status",
+  "title": "Amendment to Executive Order 13183, Establishment of the President's Task Force on Puerto Rico's Status",
+  "topics": [],
+  "type": "executive_action"
+}

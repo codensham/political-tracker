@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "C1-2016-26070",
+  "document_type": "executive_order",
+  "executive_order_number": null,
+  "id": "exec-c1-2016-26070",
+  "published_at": "2016-11-22",
+  "signing_date": null,
+  "source_url": "https://www.federalregister.gov/documents/2016/11/22/C1-2016-26070/correction",
+  "title": "Correction",
+  "topics": [],
+  "type": "executive_action"
+}

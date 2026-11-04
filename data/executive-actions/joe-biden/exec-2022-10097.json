@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-10097",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2022-10097",
+  "published_at": "2022-05-09",
+  "signing_date": "2022-05-05",
+  "source_url": "https://www.federalregister.gov/documents/2022/05/09/2022-10097/military-spouse-appreciation-day-2022",
+  "title": "Military Spouse Appreciation Day, 2022",
+  "topics": [],
+  "type": "executive_action"
+}

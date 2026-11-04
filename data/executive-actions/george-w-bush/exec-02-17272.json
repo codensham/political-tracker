@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-17272",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-02-17272",
+  "published_at": "2002-07-08",
+  "signing_date": "2002-07-03",
+  "source_url": "https://www.federalregister.gov/documents/2002/07/08/02-17272/to-provide-for-the-efficient-and-fair-administration-of-safeguard-measures-on-imports-of-certain",
+  "title": "To Provide for the Efficient and Fair Administration of Safeguard Measures on Imports of Certain Steel Products",
+  "topics": [],
+  "type": "executive_action"
+}

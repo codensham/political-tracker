@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-18879",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2016-18879",
+  "published_at": "2016-08-08",
+  "signing_date": "2016-08-03",
+  "source_url": "https://www.federalregister.gov/documents/2016/08/08/2016-18879/delegation-of-authority-pursuant-to-section-4-and-section-7-of-the-electrify-africa-act-of-2015",
+  "title": "Delegation of Authority Pursuant to Section 4 and Section 7 of the Electrify Africa Act of 2015",
+  "topics": [],
+  "type": "executive_action"
+}

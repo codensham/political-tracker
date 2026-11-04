@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-8854",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-06-8854",
+  "published_at": "2006-10-23",
+  "signing_date": "2006-10-18",
+  "source_url": "https://www.federalregister.gov/documents/2006/10/23/06-8854/50th-anniversary-of-the-hungarian-revolution",
+  "title": "50th Anniversary of the Hungarian Revolution",
+  "topics": [],
+  "type": "executive_action"
+}

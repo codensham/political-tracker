@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-10754",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2013-10754",
+  "published_at": "2013-05-03",
+  "signing_date": "2013-04-30",
+  "source_url": "https://www.federalregister.gov/documents/2013/05/03/2013-10754/law-day-usa-2013",
+  "title": "Law Day, U.S.A., 2013",
+  "topics": [],
+  "type": "executive_action"
+}

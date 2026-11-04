@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-20259",
+  "document_type": "executive_order",
+  "executive_order_number": "13623",
+  "id": "exec-2012-20259",
+  "published_at": "2012-08-16",
+  "signing_date": "2012-08-10",
+  "source_url": "https://www.federalregister.gov/documents/2012/08/16/2012-20259/preventing-and-responding-to-violence-against-women-and-girls-globally",
+  "title": "Preventing and Responding to Violence Against Women and Girls Globally",
+  "topics": [],
+  "type": "executive_action"
+}

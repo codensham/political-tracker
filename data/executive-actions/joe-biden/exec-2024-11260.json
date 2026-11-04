@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-11260",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2024-11260",
+  "published_at": "2024-05-21",
+  "signing_date": "2024-05-16",
+  "source_url": "https://www.federalregister.gov/documents/2024/05/21/2024-11260/70th-anniversary-of-brown-v-board-of-education",
+  "title": "70th Anniversary of Brown v. Board of Education",
+  "topics": [],
+  "type": "executive_action"
+}

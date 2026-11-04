@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-7636",
+  "document_type": "executive_order",
+  "executive_order_number": "13604",
+  "id": "exec-2012-7636",
+  "published_at": "2012-03-28",
+  "signing_date": "2012-03-22",
+  "source_url": "https://www.federalregister.gov/documents/2012/03/28/2012-7636/improving-performance-of-federal-permitting-and-review-of-infrastructure-projects",
+  "title": "Improving Performance of Federal Permitting and Review of Infrastructure Projects",
+  "topics": [],
+  "type": "executive_action"
+}

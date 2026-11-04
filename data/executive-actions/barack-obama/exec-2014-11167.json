@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-11167",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-11167",
+  "published_at": "2014-05-13",
+  "signing_date": "2014-05-08",
+  "source_url": "https://www.federalregister.gov/documents/2014/05/13/2014-11167/military-spouse-appreciation-day-2014",
+  "title": "Military Spouse Appreciation Day, 2014",
+  "topics": [],
+  "type": "executive_action"
+}

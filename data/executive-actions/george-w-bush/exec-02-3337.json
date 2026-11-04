@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-3337",
+  "document_type": "executive_order",
+  "executive_order_number": "13255",
+  "id": "exec-02-3337",
+  "published_at": "2002-02-08",
+  "signing_date": "2002-02-06",
+  "source_url": "https://www.federalregister.gov/documents/2002/02/08/02-3337/amendment-to-executive-order-13227-presidents-commission-on-excellence-in-special-education",
+  "title": "Amendment to Executive Order 13227, President's Commission on Excellence in Special Education",
+  "topics": [],
+  "type": "executive_action"
+}

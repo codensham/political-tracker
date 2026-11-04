@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-05933",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2015-05933",
+  "published_at": "2015-03-13",
+  "signing_date": "2015-03-10",
+  "source_url": "https://www.federalregister.gov/documents/2015/03/13/2015-05933/student-aid-bill-of-rights-to-help-ensure-affordable-loan-repayment",
+  "title": "Student Aid Bill of Rights To Help Ensure Affordable Loan Repayment",
+  "topics": [],
+  "type": "executive_action"
+}

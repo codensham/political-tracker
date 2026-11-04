@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-5829",
+  "document_type": "executive_order",
+  "executive_order_number": "13407",
+  "id": "exec-06-5829",
+  "published_at": "2006-06-28",
+  "signing_date": "2006-06-26",
+  "source_url": "https://www.federalregister.gov/documents/2006/06/28/06-5829/public-alert-and-warning-system",
+  "title": "Public Alert and Warning System",
+  "topics": [],
+  "type": "executive_action"
+}

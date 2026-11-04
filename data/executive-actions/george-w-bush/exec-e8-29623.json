@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-29623",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-e8-29623",
+  "published_at": "2008-12-12",
+  "signing_date": "2008-12-09",
+  "source_url": "https://www.federalregister.gov/documents/2008/12/12/E8-29623/designation-of-officers-of-the-united-states-agency-for-international-development-to-act-as",
+  "title": "Designation of Officers of the United States Agency for International Development To Act As Administrator",
+  "topics": [],
+  "type": "executive_action"
+}

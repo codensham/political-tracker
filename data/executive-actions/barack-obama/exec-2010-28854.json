@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-28854",
+  "document_type": "executive_order",
+  "executive_order_number": "13558",
+  "id": "exec-2010-28854",
+  "published_at": "2010-11-15",
+  "signing_date": "2010-11-09",
+  "source_url": "https://www.federalregister.gov/documents/2010/11/15/2010-28854/export-enforcement-coordination-center",
+  "title": "Export Enforcement Coordination Center",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-31354",
+  "document_type": "executive_order",
+  "executive_order_number": "14130",
+  "id": "exec-2024-31354",
+  "published_at": "2024-12-27",
+  "signing_date": "2024-12-20",
+  "source_url": "https://www.federalregister.gov/documents/2024/12/27/2024-31354/2024-amendments-to-the-manual-for-courts-martial-united-states",
+  "title": "2024 Amendments to the Manual for Courts Martial, United States",
+  "topics": [],
+  "type": "executive_action"
+}

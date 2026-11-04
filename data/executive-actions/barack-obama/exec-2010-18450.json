@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-18450",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-18450",
+  "published_at": "2010-07-26",
+  "signing_date": "2010-07-21",
+  "source_url": "https://www.federalregister.gov/documents/2010/07/26/2010-18450/delegation-of-certain-functions-under-section-1264-of-the-victims-of-iranian-censorship-act-public",
+  "title": "Delegation of Certain Functions Under Section 1264 of the Victims of Iranian Censorship Act (Public Law 111-84, Subtitle D of the National Defense Authorization Act for Fiscal Year 2010)",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-23228",
+  "document_type": "executive_order",
+  "executive_order_number": "13677",
+  "id": "exec-2014-23228",
+  "published_at": "2014-09-26",
+  "signing_date": "2014-09-23",
+  "source_url": "https://www.federalregister.gov/documents/2014/09/26/2014-23228/climate-resilient-international-development",
+  "title": "Climate-Resilient International Development",
+  "topics": [],
+  "type": "executive_action"
+}

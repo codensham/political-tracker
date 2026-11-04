@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-24598",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-05-24598",
+  "published_at": "2005-12-27",
+  "signing_date": "2005-12-22",
+  "source_url": "https://www.federalregister.gov/documents/2005/12/27/05-24598/order-of-succession-of-officers-to-act-as-secretary-of-defense",
+  "title": "Order of Succession of Officers to Act as Secretary of Defense",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-22543",
+  "document_type": "executive_order",
+  "executive_order_number": "13315",
+  "id": "exec-03-22543",
+  "published_at": "2003-09-03",
+  "signing_date": "2003-08-28",
+  "source_url": "https://www.federalregister.gov/documents/2003/09/03/03-22543/blocking-property-of-the-former-iraqi-regime-its-senior-officials-and-their-family-members-and",
+  "title": "Blocking Property of the Former Iraqi Regime, Its Senior Officials and Their Family Members, and Taking Certain Other Actions",
+  "topics": [],
+  "type": "executive_action"
+}

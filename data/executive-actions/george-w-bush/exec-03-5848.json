@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-5848",
+  "document_type": "executive_order",
+  "executive_order_number": "13288",
+  "id": "exec-03-5848",
+  "published_at": "2003-03-10",
+  "signing_date": "2003-03-06",
+  "source_url": "https://www.federalregister.gov/documents/2003/03/10/03-5848/blocking-property-of-persons-undermining-democratic-processes-or-institutions-in-zimbabwe",
+  "title": "Blocking Property of Persons Undermining Democratic Processes or Institutions in Zimbabwe",
+  "topics": [],
+  "type": "executive_action"
+}

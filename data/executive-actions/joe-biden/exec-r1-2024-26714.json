@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "R1-2024-26714",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-r1-2024-26714",
+  "published_at": "2024-11-20",
+  "signing_date": "2024-11-08",
+  "source_url": "https://www.federalregister.gov/documents/2024/11/20/R1-2024-26714/to-facilitate-positive-adjustment-to-competition-from-imports-of-fine-denier-polyester-staple-fiber",
+  "title": "To Facilitate Positive Adjustment to Competition From Imports of Fine Denier Polyester Staple Fiber",
+  "topics": [],
+  "type": "executive_action"
+}

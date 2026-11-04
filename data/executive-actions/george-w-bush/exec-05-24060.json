@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-24060",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-24060",
+  "published_at": "2005-12-13",
+  "signing_date": "2005-12-09",
+  "source_url": "https://www.federalregister.gov/documents/2005/12/13/05-24060/human-rights-day-bill-of-rights-day-and-human-rights-week-2005",
+  "title": "Human Rights Day, Bill of Rights Day, and Human Rights Week, 2005",
+  "topics": [],
+  "type": "executive_action"
+}

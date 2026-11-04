@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-6101",
+  "document_type": "executive_order",
+  "executive_order_number": "13409",
+  "id": "exec-06-6101",
+  "published_at": "2006-07-07",
+  "signing_date": "2006-07-03",
+  "source_url": "https://www.federalregister.gov/documents/2006/07/07/06-6101/establishing-an-emergency-board-to-investigate-a-dispute-between-southeastern-pennsylvania",
+  "title": "Establishing an Emergency Board To Investigate a Dispute Between Southeastern Pennsylvania Transportation Authority and Its Locomotive Engineers Represented by the Brotherhood of Locomotive Engineers and Trainmen",
+  "topics": [],
+  "type": "executive_action"
+}

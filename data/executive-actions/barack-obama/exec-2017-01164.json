@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-01164",
+  "document_type": "executive_order",
+  "executive_order_number": "13758",
+  "id": "exec-2017-01164",
+  "published_at": "2017-01-17",
+  "signing_date": "2017-01-12",
+  "source_url": "https://www.federalregister.gov/documents/2017/01/17/2017-01164/amending-executive-order-11016-to-update-eligibility-criteria-for-award-of-the-purple-heart",
+  "title": "Amending Executive Order 11016 To Update Eligibility Criteria for Award of the Purple Heart",
+  "topics": [],
+  "type": "executive_action"
+}

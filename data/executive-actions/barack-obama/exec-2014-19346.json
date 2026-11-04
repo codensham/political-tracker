@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-19346",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-19346",
+  "published_at": "2014-08-13",
+  "signing_date": "2014-08-08",
+  "source_url": "https://www.federalregister.gov/documents/2014/08/13/2014-19346/national-health-center-week-2014",
+  "title": "National Health Center Week, 2014",
+  "topics": [],
+  "type": "executive_action"
+}

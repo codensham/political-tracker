@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-25236",
+  "document_type": "executive_order",
+  "executive_order_number": "13628",
+  "id": "exec-2012-25236",
+  "published_at": "2012-10-12",
+  "signing_date": "2012-10-09",
+  "source_url": "https://www.federalregister.gov/documents/2012/10/12/2012-25236/authorizing-the-implementation-of-certain-sanctions-set-forth-in-the-iran-threat-reduction-and-syria",
+  "title": "Authorizing the Implementation of Certain Sanctions Set Forth in the Iran Threat Reduction and Syria Human Rights Act of 2012 and Additional Sanctions With Respect to Iran",
+  "topics": [],
+  "type": "executive_action"
+}

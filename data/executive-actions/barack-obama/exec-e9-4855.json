@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-4855",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-4855",
+  "published_at": "2009-03-05",
+  "signing_date": "2009-03-02",
+  "source_url": "https://www.federalregister.gov/documents/2009/03/05/E9-4855/irish-american-heritage-month-2009",
+  "title": "Irish-American Heritage Month, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

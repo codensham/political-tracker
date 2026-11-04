@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-26585",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2015-26585",
+  "published_at": "2015-10-19",
+  "signing_date": "2015-10-09",
+  "source_url": "https://www.federalregister.gov/documents/2015/10/19/2015-26585/international-day-of-the-girl-2015",
+  "title": "International Day of the Girl, 2015",
+  "topics": [],
+  "type": "executive_action"
+}

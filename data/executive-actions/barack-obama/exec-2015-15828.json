@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-15828",
+  "document_type": "executive_order",
+  "executive_order_number": "13697",
+  "id": "exec-2015-15828",
+  "published_at": "2015-06-25",
+  "signing_date": "2015-06-22",
+  "source_url": "https://www.federalregister.gov/documents/2015/06/25/2015-15828/amendment-to-executive-order-11155-awards-for-special-capability-in-career-and-technical-education",
+  "title": "Amendment to Executive Order 11155, Awards for Special Capability in Career and Technical Education",
+  "topics": [],
+  "type": "executive_action"
+}

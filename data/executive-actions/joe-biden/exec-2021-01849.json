@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01849",
+  "document_type": "executive_order",
+  "executive_order_number": "13994",
+  "id": "exec-2021-01849",
+  "published_at": "2021-01-26",
+  "signing_date": "2021-01-21",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/26/2021-01849/ensuring-a-data-driven-response-to-covid-19-and-future-high-consequence-public-health-threats",
+  "title": "Ensuring a Data-Driven Response to COVID-19 and Future High-Consequence Public Health Threats",
+  "topics": [],
+  "type": "executive_action"
+}

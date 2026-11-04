@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-9796",
+  "document_type": "executive_order",
+  "executive_order_number": "13539",
+  "id": "exec-2010-9796",
+  "published_at": "2010-04-27",
+  "signing_date": "2010-04-21",
+  "source_url": "https://www.federalregister.gov/documents/2010/04/27/2010-9796/presidents-council-of-advisors-on-science-and-technology",
+  "title": "President's Council of Advisors on Science and Technology",
+  "topics": [],
+  "type": "executive_action"
+}

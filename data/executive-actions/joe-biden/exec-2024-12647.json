@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-12647",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2024-12647",
+  "published_at": "2024-06-07",
+  "signing_date": "2024-06-03",
+  "source_url": "https://www.federalregister.gov/documents/2024/06/07/2024-12647/securing-the-border",
+  "title": "Securing the Border",
+  "topics": [],
+  "type": "executive_action"
+}

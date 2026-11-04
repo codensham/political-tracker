@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-2408",
+  "document_type": "executive_order",
+  "executive_order_number": "13326",
+  "id": "exec-04-2408",
+  "published_at": "2004-02-03",
+  "signing_date": "2004-01-27",
+  "source_url": "https://www.federalregister.gov/documents/2004/02/03/04-2408/presidents-commission-on-implementation-of-united-states-space-exploration-policy",
+  "title": "President's Commission on Implementation of United States Space Exploration Policy",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-01522",
+  "document_type": "executive_order",
+  "executive_order_number": "13689",
+  "id": "exec-2015-01522",
+  "published_at": "2015-01-26",
+  "signing_date": "2015-01-21",
+  "source_url": "https://www.federalregister.gov/documents/2015/01/26/2015-01522/enhancing-coordination-of-national-efforts-in-the-arctic",
+  "title": "Enhancing Coordination of National Efforts in the Arctic",
+  "topics": [],
+  "type": "executive_action"
+}

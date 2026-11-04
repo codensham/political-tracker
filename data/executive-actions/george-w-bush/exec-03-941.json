@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-941",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-941",
+  "published_at": "2003-01-14",
+  "signing_date": "2003-01-10",
+  "source_url": "https://www.federalregister.gov/documents/2003/01/14/03-941/to-modify-duty-free-treatment-under-the-generalized-system-of-preferences",
+  "title": "To Modify Duty-Free Treatment Under the Generalized System of Preferences",
+  "topics": [],
+  "type": "executive_action"
+}

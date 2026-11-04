@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-17150",
+  "document_type": "executive_order",
+  "executive_order_number": "13347",
+  "id": "exec-04-17150",
+  "published_at": "2004-07-26",
+  "signing_date": "2004-07-22",
+  "source_url": "https://www.federalregister.gov/documents/2004/07/26/04-17150/individuals-with-disabilities-in-emergency-preparedness",
+  "title": "Individuals With Disabilities in Emergency Preparedness",
+  "topics": [],
+  "type": "executive_action"
+}

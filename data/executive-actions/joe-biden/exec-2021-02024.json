@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-02024",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-02024",
+  "published_at": "2021-01-28",
+  "signing_date": "2021-01-25",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/28/2021-02024/suspension-of-entry-as-immigrants-and-nonimmigrants-of-certain-additional-persons-who-pose-a-risk-of",
+  "title": "Suspension of Entry as Immigrants and Nonimmigrants of Certain Additional Persons Who Pose a Risk of Transmitting Coronavirus Disease 2019",
+  "topics": [],
+  "type": "executive_action"
+}

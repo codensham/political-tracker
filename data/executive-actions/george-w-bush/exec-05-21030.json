@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-21030",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-21030",
+  "published_at": "2005-10-19",
+  "signing_date": "2005-10-14",
+  "source_url": "https://www.federalregister.gov/documents/2005/10/19/05-21030/national-forest-products-week-2005",
+  "title": "National Forest Products Week, 2005",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-24349",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2015-24349",
+  "published_at": "2015-09-23",
+  "signing_date": "2015-09-18",
+  "source_url": "https://www.federalregister.gov/documents/2015/09/23/2015-24349/national-historically-black-colleges-and-universities-week-2015",
+  "title": "National Historically Black Colleges and Universities Week, 2015",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-06123",
+  "document_type": "executive_order",
+  "executive_order_number": "14120",
+  "id": "exec-2024-06123",
+  "published_at": "2024-03-21",
+  "signing_date": "2024-03-18",
+  "source_url": "https://www.federalregister.gov/documents/2024/03/21/2024-06123/advancing-womens-health-research-and-innovation",
+  "title": "Advancing Women's Health Research and Innovation",
+  "topics": [],
+  "type": "executive_action"
+}

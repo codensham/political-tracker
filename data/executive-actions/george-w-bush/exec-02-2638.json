@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-2638",
+  "document_type": "executive_order",
+  "executive_order_number": "13254",
+  "id": "exec-02-2638",
+  "published_at": "2002-02-01",
+  "signing_date": "2002-01-29",
+  "source_url": "https://www.federalregister.gov/documents/2002/02/01/02-2638/establishing-the-usa-freedom-corps",
+  "title": "Establishing the USA Freedom Corps",
+  "topics": [],
+  "type": "executive_action"
+}

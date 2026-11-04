@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-4621",
+  "document_type": "executive_order",
+  "executive_order_number": "13201",
+  "id": "exec-01-4621",
+  "published_at": "2001-02-22",
+  "signing_date": "2001-02-17",
+  "source_url": "https://www.federalregister.gov/documents/2001/02/22/01-4621/notification-of-employee-rights-concerning-payment-of-union-dues-or-fees",
+  "title": "Notification of Employee Rights Concerning Payment of Union Dues or Fees",
+  "topics": [],
+  "type": "executive_action"
+}

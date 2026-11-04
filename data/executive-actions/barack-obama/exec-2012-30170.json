@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-30170",
+  "document_type": "executive_order",
+  "executive_order_number": "13631",
+  "id": "exec-2012-30170",
+  "published_at": "2012-12-12",
+  "signing_date": "2012-12-07",
+  "source_url": "https://www.federalregister.gov/documents/2012/12/12/2012-30170/reestablishment-of-advisory-group",
+  "title": "Reestablishment of Advisory Group",
+  "topics": [],
+  "type": "executive_action"
+}

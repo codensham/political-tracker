@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-08332",
+  "document_type": "executive_order",
+  "executive_order_number": "14122",
+  "id": "exec-2024-08332",
+  "published_at": "2024-04-17",
+  "signing_date": "2024-04-12",
+  "source_url": "https://www.federalregister.gov/documents/2024/04/17/2024-08332/covid-19-and-public-health-preparedness-and-response",
+  "title": "COVID-19 and Public Health Preparedness and Response",
+  "topics": [],
+  "type": "executive_action"
+}

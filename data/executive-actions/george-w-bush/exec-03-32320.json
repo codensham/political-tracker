@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-32320",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-32320",
+  "published_at": "2003-12-31",
+  "signing_date": "2003-12-30",
+  "source_url": "https://www.federalregister.gov/documents/2003/12/31/03-32320/to-implement-the-united-states-singapore-free-trade-agreement",
+  "title": "To Implement the United States-Singapore Free Trade Agreement",
+  "topics": [],
+  "type": "executive_action"
+}

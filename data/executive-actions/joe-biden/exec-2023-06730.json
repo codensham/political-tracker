@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-06730",
+  "document_type": "executive_order",
+  "executive_order_number": "14093",
+  "id": "exec-2023-06730",
+  "published_at": "2023-03-30",
+  "signing_date": "2023-03-27",
+  "source_url": "https://www.federalregister.gov/documents/2023/03/30/2023-06730/prohibition-on-use-by-the-united-states-government-of-commercial-spyware-that-poses-risks-to",
+  "title": "Prohibition on Use by the United States Government of Commercial Spyware That Poses Risks to National Security",
+  "topics": [],
+  "type": "executive_action"
+}

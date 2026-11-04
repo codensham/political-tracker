@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-24507",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-05-24507",
+  "published_at": "2005-12-23",
+  "signing_date": "2005-12-20",
+  "source_url": "https://www.federalregister.gov/documents/2005/12/23/05-24507/designation-of-officers-of-the-office-of-the-director-of-national-intelligence-to-act-as-director-of",
+  "title": "Designation of Officers of the Office of the Director of National Intelligence To Act as Director of National Intelligence",
+  "topics": [],
+  "type": "executive_action"
+}

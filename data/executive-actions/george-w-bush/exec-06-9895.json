@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-9895",
+  "document_type": "executive_order",
+  "executive_order_number": "13419",
+  "id": "exec-06-9895",
+  "published_at": "2006-12-26",
+  "signing_date": "2006-12-20",
+  "source_url": "https://www.federalregister.gov/documents/2006/12/26/06-9895/national-aeronautics-research-and-development",
+  "title": "National Aeronautics Research and Development",
+  "topics": [],
+  "type": "executive_action"
+}

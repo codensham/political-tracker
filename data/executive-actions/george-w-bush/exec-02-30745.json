@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-30745",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-02-30745",
+  "published_at": "2002-12-02",
+  "signing_date": "2002-11-27",
+  "source_url": "https://www.federalregister.gov/documents/2002/12/02/02-30745/determination-under-the-interstate-commerce-commission-termination-act-of-1995",
+  "title": "Determination Under the Interstate Commerce Commission Termination Act of 1995",
+  "topics": [],
+  "type": "executive_action"
+}

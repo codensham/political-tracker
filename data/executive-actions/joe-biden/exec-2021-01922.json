@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01922",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-01922",
+  "published_at": "2021-01-27",
+  "signing_date": "2021-01-20",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/27/2021-01922/termination-of-emergency-with-respect-to-the-southern-border-of-the-united-states-and-redirection-of",
+  "title": "Termination of Emergency With Respect to the Southern Border of the United States and Redirection of Funds Diverted to Border Wall Construction",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-27841",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-27841",
+  "published_at": "2021-12-21",
+  "signing_date": "2021-12-16",
+  "source_url": "https://www.federalregister.gov/documents/2021/12/21/2021-27841/wright-brothers-day-2021",
+  "title": "Wright Brothers Day, 2021",
+  "topics": [],
+  "type": "executive_action"
+}

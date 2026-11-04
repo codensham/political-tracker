@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-113",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-113",
+  "published_at": "2009-01-07",
+  "signing_date": "2008-12-30",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/07/E9-113/national-mentoring-month-2009",
+  "title": "National Mentoring Month, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

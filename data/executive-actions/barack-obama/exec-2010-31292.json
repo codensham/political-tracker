@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-31292",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2010-31292",
+  "published_at": "2010-12-10",
+  "signing_date": "2010-12-07",
+  "source_url": "https://www.federalregister.gov/documents/2010/12/10/2010-31292/national-influenza-vaccination-week-2010",
+  "title": "National Influenza Vaccination Week, 2010",
+  "topics": [],
+  "type": "executive_action"
+}

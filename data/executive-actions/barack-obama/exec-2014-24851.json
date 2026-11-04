@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-24851",
+  "document_type": "executive_order",
+  "executive_order_number": "13679",
+  "id": "exec-2014-24851",
+  "published_at": "2014-10-17",
+  "signing_date": "2014-10-10",
+  "source_url": "https://www.federalregister.gov/documents/2014/10/17/2014-24851/establishing-an-emergency-board-to-investigate-a-dispute-between-the-southeastern-pennsylvania",
+  "title": "Establishing an Emergency Board To Investigate a Dispute Between the Southeastern Pennsylvania Transportation Authority and Its Locomotive Engineers Represented by the Brotherhood of Locomotive Engineers and Trainmen",
+  "topics": [],
+  "type": "executive_action"
+}

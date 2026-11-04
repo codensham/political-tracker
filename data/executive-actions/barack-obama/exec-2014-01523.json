@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-01523",
+  "document_type": "executive_order",
+  "executive_order_number": "13656",
+  "id": "exec-2014-01523",
+  "published_at": "2014-01-24",
+  "signing_date": "2014-01-17",
+  "source_url": "https://www.federalregister.gov/documents/2014/01/24/2014-01523/establishment-of-afghanistan-and-pakistan-strategic-partnership-office-and-amendment-to-executive",
+  "title": "Establishment of Afghanistan and Pakistan Strategic Partnership Office and Amendment to Executive Order 12163",
+  "topics": [],
+  "type": "executive_action"
+}

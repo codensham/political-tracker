@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-5903",
+  "document_type": "executive_order",
+  "executive_order_number": "13568",
+  "id": "exec-2011-5903",
+  "published_at": "2011-03-11",
+  "signing_date": "2011-03-08",
+  "source_url": "https://www.federalregister.gov/documents/2011/03/11/2011-5903/extending-provisions-of-the-international-organizations-immunities-act-to-the-office-of-the-high",
+  "title": "Extending Provisions of the International Organizations Immunities Act to the Office of the High Representative in Bosnia and Herzegovina and the International Civilian Office in Kosovo",
+  "topics": [],
+  "type": "executive_action"
+}

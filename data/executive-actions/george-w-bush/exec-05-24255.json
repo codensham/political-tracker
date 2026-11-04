@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-24255",
+  "document_type": "executive_order",
+  "executive_order_number": "13392",
+  "id": "exec-05-24255",
+  "published_at": "2005-12-19",
+  "signing_date": "2005-12-14",
+  "source_url": "https://www.federalregister.gov/documents/2005/12/19/05-24255/improving-agency-disclosure-of-information",
+  "title": "Improving Agency Disclosure of Information",
+  "topics": [],
+  "type": "executive_action"
+}

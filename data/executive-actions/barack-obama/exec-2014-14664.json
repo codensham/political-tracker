@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-14664",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-14664",
+  "published_at": "2014-06-20",
+  "signing_date": "2014-06-17",
+  "source_url": "https://www.federalregister.gov/documents/2014/06/20/2014-14664/national-day-of-making-2014",
+  "title": "National Day of Making, 2014",
+  "topics": [],
+  "type": "executive_action"
+}

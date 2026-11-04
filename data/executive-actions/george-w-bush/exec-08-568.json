@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-568",
+  "document_type": "executive_order",
+  "executive_order_number": "13458",
+  "id": "exec-08-568",
+  "published_at": "2008-02-06",
+  "signing_date": "2008-02-04",
+  "source_url": "https://www.federalregister.gov/documents/2008/02/06/08-568/implementation-of-the-protocol-additional-to-the-agreement-between-the-united-states-and-the",
+  "title": "Implementation of the Protocol Additional to the Agreement Between the United States and the International Atomic Energy Agency for the Application of Safeguards in the United States of America",
+  "topics": [],
+  "type": "executive_action"
+}

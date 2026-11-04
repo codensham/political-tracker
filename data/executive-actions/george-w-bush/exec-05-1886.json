@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-1886",
+  "document_type": "executive_order",
+  "executive_order_number": "13371",
+  "id": "exec-05-1886",
+  "published_at": "2005-01-31",
+  "signing_date": "2005-01-27",
+  "source_url": "https://www.federalregister.gov/documents/2005/01/31/05-1886/amendments-to-executive-order-13285-relating-to-the-presidents-council-on-service-and-civic",
+  "title": "Amendments to Executive Order 13285, Relating to the President's Council on Service and Civic Participation",
+  "topics": [],
+  "type": "executive_action"
+}

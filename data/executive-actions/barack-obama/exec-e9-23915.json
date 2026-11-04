@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-23915",
+  "document_type": "executive_order",
+  "executive_order_number": "13512",
+  "id": "exec-e9-23915",
+  "published_at": "2009-10-02",
+  "signing_date": "2009-09-29",
+  "source_url": "https://www.federalregister.gov/documents/2009/10/02/E9-23915/amending-executive-order-13390",
+  "title": "Amending Executive Order 13390",
+  "topics": [],
+  "type": "executive_action"
+}

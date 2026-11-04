@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-2486",
+  "document_type": "executive_order",
+  "executive_order_number": "13497",
+  "id": "exec-e9-2486",
+  "published_at": "2009-02-04",
+  "signing_date": "2009-01-30",
+  "source_url": "https://www.federalregister.gov/documents/2009/02/04/E9-2486/revocation-of-certain-executive-orders-concerning-regulatory-planning-and-review",
+  "title": "Revocation of Certain Executive Orders Concerning Regulatory Planning and Review",
+  "topics": [],
+  "type": "executive_action"
+}

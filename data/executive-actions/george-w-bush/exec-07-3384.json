@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-3384",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-07-3384",
+  "published_at": "2007-07-10",
+  "signing_date": "2007-07-03",
+  "source_url": "https://www.federalregister.gov/documents/2007/07/10/07-3384/assignment-of-certain-functions-relating-to-nuclear-energy-facilities",
+  "title": "Assignment of Certain Functions Relating to Nuclear Energy Facilities",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-15234",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2013-15234",
+  "published_at": "2013-06-24",
+  "signing_date": "2013-06-19",
+  "source_url": "https://www.federalregister.gov/documents/2013/06/24/2013-15234/delegation-of-reporting-functions-specified-in-section-491-of-title-10-united-state-code",
+  "title": "Delegation of Reporting Functions Specified in Section 491 of Title 10, United State Code",
+  "topics": [],
+  "type": "executive_action"
+}

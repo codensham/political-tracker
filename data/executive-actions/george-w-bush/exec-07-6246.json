@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-6246",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-07-6246",
+  "published_at": "2007-12-27",
+  "signing_date": "2007-12-20",
+  "source_url": "https://www.federalregister.gov/documents/2007/12/27/07-6246/to-implement-an-amendment-to-the-dominican-republic-central-america-united-states-free-trade",
+  "title": "To Implement an Amendment to the Dominican Republic-Central America-United States Free Trade Agreement",
+  "topics": [],
+  "type": "executive_action"
+}

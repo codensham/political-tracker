@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-24168",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2016-24168",
+  "published_at": "2016-10-04",
+  "signing_date": "2016-04-12",
+  "source_url": "https://www.federalregister.gov/documents/2016/10/04/2016-24168/delegations-of-authority-under-sections-610-614a1-and-506a2aiii-of-the-foreign-assistance-act-of",
+  "title": "Delegations of Authority Under Sections 610, 614(a)(1), and 506(a)(2)(A)(i)(II) of the Foreign Assistance Act of 1961",
+  "topics": [],
+  "type": "executive_action"
+}

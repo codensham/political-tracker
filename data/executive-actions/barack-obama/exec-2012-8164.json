@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-8164",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2012-8164",
+  "published_at": "2012-04-03",
+  "signing_date": "2012-03-30",
+  "source_url": "https://www.federalregister.gov/documents/2012/04/03/2012-8164/establishing-a-working-group-on-the-intersection-of-hivaids-violence-against-women-and-girls-and",
+  "title": "Establishing a Working Group on the Intersection of HIV/AIDS, Violence Against Women and Girls, and Gender-related Health Disparities",
+  "topics": [],
+  "type": "executive_action"
+}

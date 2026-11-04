@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-17205",
+  "document_type": "executive_order",
+  "executive_order_number": "13348",
+  "id": "exec-04-17205",
+  "published_at": "2004-07-27",
+  "signing_date": "2004-07-22",
+  "source_url": "https://www.federalregister.gov/documents/2004/07/27/04-17205/blocking-property-of-certain-persons-and-prohibiting-the-importation-of-certain-goods-from-liberia",
+  "title": "Blocking Property of Certain Persons and Prohibiting the Importation of Certain Goods from Liberia",
+  "topics": [],
+  "type": "executive_action"
+}

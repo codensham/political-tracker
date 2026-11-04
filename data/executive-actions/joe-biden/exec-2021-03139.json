@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-03139",
+  "document_type": "executive_order",
+  "executive_order_number": "14014",
+  "id": "exec-2021-03139",
+  "published_at": "2021-02-12",
+  "signing_date": "2021-02-10",
+  "source_url": "https://www.federalregister.gov/documents/2021/02/12/2021-03139/blocking-property-with-respect-to-the-situation-in-burma",
+  "title": "Blocking Property With Respect to the Situation in Burma",
+  "topics": [],
+  "type": "executive_action"
+}

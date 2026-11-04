@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-27771",
+  "document_type": "executive_order",
+  "executive_order_number": "13478",
+  "id": "exec-e8-27771",
+  "published_at": "2008-11-20",
+  "signing_date": "2008-11-18",
+  "source_url": "https://www.federalregister.gov/documents/2008/11/20/E8-27771/amendments-to-executive-order-9397-relating-to-federal-agency-use-of-social-security-numbers",
+  "title": "Amendments To Executive Order 9397 Relating To Federal Agency Use of Social Security Numbers",
+  "topics": [],
+  "type": "executive_action"
+}

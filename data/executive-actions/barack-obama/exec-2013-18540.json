@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-18540",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2013-18540",
+  "published_at": "2013-07-31",
+  "signing_date": "2013-07-25",
+  "source_url": "https://www.federalregister.gov/documents/2013/07/31/2013-18540/national-korean-war-veterans-armistice-day-2013",
+  "title": "National Korean War Veterans Armistice Day, 2013",
+  "topics": [],
+  "type": "executive_action"
+}

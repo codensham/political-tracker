@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-23332",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-23332",
+  "published_at": "2005-11-23",
+  "signing_date": "2005-11-21",
+  "source_url": "https://www.federalregister.gov/documents/2005/11/23/05-23332/national-family-week-2005",
+  "title": "National Family Week, 2005",
+  "topics": [],
+  "type": "executive_action"
+}

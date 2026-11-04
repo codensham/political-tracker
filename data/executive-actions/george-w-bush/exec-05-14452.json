@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-14452",
+  "document_type": "executive_order",
+  "executive_order_number": "13383",
+  "id": "exec-05-14452",
+  "published_at": "2005-07-20",
+  "signing_date": "2005-07-15",
+  "source_url": "https://www.federalregister.gov/documents/2005/07/20/05-14452/amending-executive-orders-12139-and-12949-in-light-of-establishment-of-the-office-of-director-of",
+  "title": "Amending Executive Orders 12139 and 12949 in Light of Establishment of the Office of Director of National Intelligence",
+  "topics": [],
+  "type": "executive_action"
+}

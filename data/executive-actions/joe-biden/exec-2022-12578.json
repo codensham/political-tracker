@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-12578",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2022-12578",
+  "published_at": "2022-06-09",
+  "signing_date": "2022-06-06",
+  "source_url": "https://www.federalregister.gov/documents/2022/06/09/2022-12578/declaration-of-emergency-and-authorization-for-temporary-extensions-of-time-and-duty-free",
+  "title": "Declaration of Emergency and Authorization for Temporary Extensions of Time and Duty-Free Importation of Solar Cells and Modules From Southeast Asia",
+  "topics": [],
+  "type": "executive_action"
+}

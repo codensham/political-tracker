@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-19328",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2023-19328",
+  "published_at": "2023-09-06",
+  "signing_date": "2023-08-31",
+  "source_url": "https://www.federalregister.gov/documents/2023/09/06/2023-19328/national-preparedness-month-2023",
+  "title": "National Preparedness Month, 2023",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-25627",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2023-25627",
+  "published_at": "2023-11-17",
+  "signing_date": "2023-11-13",
+  "source_url": "https://www.federalregister.gov/documents/2023/11/17/2023-25627/modernizing-united-states-spectrum-policy-and-establishing-a-national-spectrum-strategy",
+  "title": "Modernizing United States Spectrum Policy and Establishing a National Spectrum Strategy",
+  "topics": [],
+  "type": "executive_action"
+}

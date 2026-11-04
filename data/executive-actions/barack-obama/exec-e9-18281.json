@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-18281",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-18281",
+  "published_at": "2009-07-29",
+  "signing_date": "2009-07-24",
+  "source_url": "https://www.federalregister.gov/documents/2009/07/29/E9-18281/national-korean-war-veterans-armistice-day-2009",
+  "title": "National Korean War Veterans Armistice Day, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

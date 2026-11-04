@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-17640",
+  "document_type": "executive_order",
+  "executive_order_number": "13271",
+  "id": "exec-02-17640",
+  "published_at": "2002-07-11",
+  "signing_date": "2002-07-09",
+  "source_url": "https://www.federalregister.gov/documents/2002/07/11/02-17640/establishment-of-the-corporate-fraud-task-force",
+  "title": "Establishment of the Corporate Fraud Task Force",
+  "topics": [],
+  "type": "executive_action"
+}

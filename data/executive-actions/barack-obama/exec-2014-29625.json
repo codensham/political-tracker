@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-29625",
+  "document_type": "executive_order",
+  "executive_order_number": "13683",
+  "id": "exec-2014-29625",
+  "published_at": "2014-12-16",
+  "signing_date": "2014-12-11",
+  "source_url": "https://www.federalregister.gov/documents/2014/12/16/2014-29625/amendments-to-executive-orders-11030-13653-and-13673",
+  "title": "Amendments to Executive Orders 11030, 13653, and 13673",
+  "topics": [],
+  "type": "executive_action"
+}

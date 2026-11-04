@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-22542",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-22542",
+  "published_at": "2003-09-03",
+  "signing_date": "2003-08-28",
+  "source_url": "https://www.federalregister.gov/documents/2003/09/03/03-22542/family-day-2003",
+  "title": "Family Day, 2003",
+  "topics": [],
+  "type": "executive_action"
+}

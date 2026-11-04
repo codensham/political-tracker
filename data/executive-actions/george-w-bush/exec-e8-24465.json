@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-24465",
+  "document_type": "executive_order",
+  "executive_order_number": "13476",
+  "id": "exec-e8-24465",
+  "published_at": "2008-10-14",
+  "signing_date": "2008-10-09",
+  "source_url": "https://www.federalregister.gov/documents/2008/10/14/E8-24465/facilitation-of-a-presidential-transition",
+  "title": "Facilitation of a Presidential Transition",
+  "topics": [],
+  "type": "executive_action"
+}

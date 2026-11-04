@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-05949",
+  "document_type": "executive_order",
+  "executive_order_number": "14069",
+  "id": "exec-2022-05949",
+  "published_at": "2022-03-18",
+  "signing_date": "2022-03-15",
+  "source_url": "https://www.federalregister.gov/documents/2022/03/18/2022-05949/advancing-economy-efficiency-and-effectiveness-in-federal-contracting-by-promoting-pay-equity-and",
+  "title": "Advancing Economy, Efficiency, and Effectiveness in Federal Contracting by Promoting Pay Equity and Transparency",
+  "topics": [],
+  "type": "executive_action"
+}

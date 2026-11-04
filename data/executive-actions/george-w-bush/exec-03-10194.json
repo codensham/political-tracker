@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-10194",
+  "document_type": "executive_order",
+  "executive_order_number": "13296",
+  "id": "exec-03-10194",
+  "published_at": "2003-04-23",
+  "signing_date": "2003-04-18",
+  "source_url": "https://www.federalregister.gov/documents/2003/04/23/03-10194/amendments-to-executive-order-13045-protection-of-children-from-environmental-health-risks-and",
+  "title": "Amendments to Executive Order 13045, Protection of Children From Environmental Health Risks and Safety Risks",
+  "topics": [],
+  "type": "executive_action"
+}

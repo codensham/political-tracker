@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-1413",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-08-1413",
+  "published_at": "2008-07-03",
+  "signing_date": "2008-06-30",
+  "source_url": "https://www.federalregister.gov/documents/2008/07/03/08-1413/to-modify-duty-free-treatment-under-the-generalized-system-of-preferences-take-certain-actions-under",
+  "title": "To Modify Duty-Free Treatment Under the Generalized System of Preferences, Take Certain Actions Under the African Growth and Opportunity Act, and for Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

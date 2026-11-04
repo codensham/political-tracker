@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-5351",
+  "document_type": "executive_order",
+  "executive_order_number": "13404",
+  "id": "exec-06-5351",
+  "published_at": "2006-06-12",
+  "signing_date": "2006-06-07",
+  "source_url": "https://www.federalregister.gov/documents/2006/06/12/06-5351/task-force-on-new-americans",
+  "title": "Task Force on New Americans",
+  "topics": [],
+  "type": "executive_action"
+}

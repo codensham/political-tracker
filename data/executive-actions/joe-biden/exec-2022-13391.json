@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-13391",
+  "document_type": "executive_order",
+  "executive_order_number": "14075",
+  "id": "exec-2022-13391",
+  "published_at": "2022-06-21",
+  "signing_date": "2022-06-15",
+  "source_url": "https://www.federalregister.gov/documents/2022/06/21/2022-13391/advancing-equality-for-lesbian-gay-bisexual-transgender-queer-and-intersex-individuals",
+  "title": "Advancing Equality for Lesbian, Gay, Bisexual, Transgender, Queer, and Intersex Individuals",
+  "topics": [],
+  "type": "executive_action"
+}
