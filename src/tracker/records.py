@@ -15,6 +15,7 @@ TYPE_DIRS: dict[str, str] = {
     "outside_spending": "finance",
     "bill": "record",
     "bio": "bio",
+    "article": "articles",
 }
 
 

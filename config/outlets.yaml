@@ -1,0 +1,36 @@
+# Outlets whose RSS/Atom feeds are collected (D-014). Feeds checked 2026-11-04.
+# Rating values are never stored (D-015). rater_links holds links only, once verified.
+# AP and Washington Post were dropped: their feeds returned 403 and 502 at build time.
+outlets:
+  - id: npr
+    name: NPR
+    feed_url: https://feeds.npr.org/1001/rss.xml
+    rater_links: []
+  - id: nyt
+    name: New York Times
+    feed_url: https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml
+    rater_links: []
+  - id: wsj
+    name: Wall Street Journal
+    feed_url: https://feeds.a.dj.com/rss/RSSWorldNews.xml
+    rater_links: []
+  - id: cnn
+    name: CNN
+    feed_url: http://rss.cnn.com/rss/cnn_allpolitics.rss
+    rater_links: []
+  - id: fox
+    name: Fox News
+    feed_url: https://moxie.foxnews.com/google-publisher/politics.xml
+    rater_links: []
+  - id: the-hill
+    name: The Hill
+    feed_url: https://thehill.com/feed/
+    rater_links: []
+  - id: national-review
+    name: National Review
+    feed_url: https://www.nationalreview.com/feed/
+    rater_links: []
+  - id: the-atlantic
+    name: The Atlantic
+    feed_url: https://www.theatlantic.com/feed/all/
+    rater_links: []
