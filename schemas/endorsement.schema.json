@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Endorsement record (type-specific fields)",
+  "description": "A named endorser backing a candidate. Attribution only: the endorser is named as the source states it; no stance or characterization fields (spec §5). Judgment tier. Composed with base.schema.json by tracker.validate.",
+  "type": "object",
+  "required": ["endorser", "endorser_type", "date"],
+  "properties": {
+    "type": { "const": "endorsement" },
+    "endorser": { "type": "string", "minLength": 1 },
+    "endorser_type": { "type": "string", "enum": ["person", "elected_official", "organization", "other"] },
+    "date": { "type": "string", "format": "date" }
+  }
+}

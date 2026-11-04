@@ -59,6 +59,14 @@ def validate_record(record: dict) -> list[str]:
         if record["end_date"] < record["start_date"]:
             errors.append("end_date: before start_date")
 
+    if (
+        record_type == "poll"
+        and isinstance(record.get("field_end"), str)
+        and isinstance(record.get("field_start"), str)
+        and record["field_end"] < record["field_start"]
+    ):
+        errors.append("field_end: before field_start")
+
     if record_type == "candidate" and record.get("id") not in record.get("candidate_ids", []):
         errors.append("candidate_ids: must contain the candidate's own id")
 
