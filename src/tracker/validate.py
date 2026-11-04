@@ -9,7 +9,7 @@ from pathlib import Path
 
 from jsonschema import Draft202012Validator, FormatChecker
 
-from tracker.records import TYPE_DIRS, record_path
+from tracker.records import TYPE_DIRS, load_records, record_path
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 SCHEMA_DIR = REPO_ROOT / "schemas"
@@ -65,6 +65,18 @@ def validate_record(record: dict) -> list[str]:
     return errors
 
 
+def speaker_errors(record: dict, candidates: dict[str, dict]) -> list[str]:
+    """D-037: a statement's speaker must be its candidate's name or an alias."""
+    cid = record["candidate_ids"][0]
+    cand = candidates.get(cid)
+    if cand is None:
+        return [f"speaker: no candidate record for {cid!r}"]
+    allowed = {cand["name"], *cand.get("aliases", [])}
+    if record.get("speaker") not in allowed:
+        return [f"speaker: {record.get('speaker')!r} is not a name or alias of {cid}"]
+    return []
+
+
 def validate_tree(root: Path) -> dict[Path, list[str]]:
     """Validate every file under root. Return only the files that have errors.
 
@@ -82,6 +94,7 @@ def validate_tree(root: Path) -> dict[Path, list[str]]:
             report.setdefault(path, []).append(f"no schema for folder {rel.parts[0]!r}")
         elif path.suffix != ".json":
             report.setdefault(path, []).append("not a JSON record file")
+    candidates = {c["id"]: c for c in load_records(root, "candidate")}
     for dirname in dict.fromkeys(TYPE_DIRS.values()):
         base = root / dirname
         if not base.exists():
@@ -93,6 +106,8 @@ def validate_tree(root: Path) -> dict[Path, list[str]]:
                 report[path] = [f"invalid JSON: {exc}"]
                 continue
             errors = validate_record(record)
+            if not errors and record.get("type") == "statement":
+                errors += speaker_errors(record, candidates)
             if not errors:
                 expected = record_path(record, root)
                 if path != expected:

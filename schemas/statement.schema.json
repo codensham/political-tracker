@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Statement record (type-specific fields)",
+  "description": "A short verbatim quote by the candidate themself (D-037, spec §5). Judgment tier. Composed with base.schema.json by tracker.validate.",
+  "type": "object",
+  "required": ["quote", "speaker", "venue", "context", "archive_url"],
+  "properties": {
+    "type": { "const": "statement" },
+    "quote": { "type": "string", "minLength": 1, "maxLength": 280 },
+    "speaker": { "type": "string", "minLength": 1 },
+    "venue": { "type": ["string", "null"] },
+    "context": { "type": ["string", "null"] },
+    "archive_url": { "type": ["string", "null"], "format": "uri" }
+  }
+}
