@@ -12,6 +12,9 @@
   "outlet_id": "cnn",
   "published_at": "2022-12-08",
   "source_url": "https://www.cnn.com/2022/11/15/politics/donald-trump-investigations-lawsuits/index.html",
-  "topics": [],
+  "tagged_by": "tag-records@1",
+  "topics": [
+    "government-ethics"
+  ],
   "type": "article"
 }

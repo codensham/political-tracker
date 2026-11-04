@@ -1,0 +1,18 @@
+{
+  "archive_url": null,
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T14:46:56Z",
+  "collector": "manual",
+  "context": "Reported in a Fox News article on the midterm results.",
+  "id": "statement-donald-trump-2026-11-04-fd71dede",
+  "published_at": "2026-11-04",
+  "quote": "They'll send over things that are insane and I'll veto them",
+  "source_url": "https://www.foxnews.com/politics/trump-pledges-veto-insane-dem-bills-pinpoints-issue-partially-blame-republican-losses",
+  "speaker": "Donald Trump",
+  "tagged_by": "extract-quotes-tags@1",
+  "topics": [],
+  "type": "statement",
+  "venue": null
+}

@@ -1,0 +1,20 @@
+{
+  "archive_url": null,
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T14:46:56Z",
+  "collector": "manual",
+  "context": "Reported in a Fox News article on the midterm results.",
+  "id": "statement-donald-trump-2026-11-04-bb56e99b",
+  "published_at": "2026-11-04",
+  "quote": "I don't like to consider it a defeat",
+  "source_url": "https://www.foxnews.com/politics/trump-pledges-veto-insane-dem-bills-pinpoints-issue-partially-blame-republican-losses",
+  "speaker": "Donald Trump",
+  "tagged_by": "extract-quotes-tags@1",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "statement",
+  "venue": null
+}

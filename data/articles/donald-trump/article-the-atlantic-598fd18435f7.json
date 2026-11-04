@@ -12,6 +12,9 @@
   "outlet_id": "the-atlantic",
   "published_at": "2026-11-02",
   "source_url": "https://www.theatlantic.com/newsletters/2026/11/trump-midterms-speech-reflecting-pool/689259/?utm_source=feed",
-  "topics": [],
+  "tagged_by": "tag-records@1",
+  "topics": [
+    "elections-democracy"
+  ],
   "type": "article"
 }

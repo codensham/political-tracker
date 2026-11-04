@@ -1,0 +1,16 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T14:48:16Z",
+  "collector": "manual",
+  "date": "2023-11-02",
+  "endorser": "Rick Scott",
+  "endorser_type": "elected_official",
+  "id": "endorsement-donald-trump-rick-scott-2023-11-02",
+  "published_at": "2023-11-02",
+  "source_url": "https://www.cbsnews.com/amp/news/florida-sen-rick-scott-endorses-trump-over-desantis-in-2024-race",
+  "tagged_by": "find-evidence@1",
+  "topics": [],
+  "type": "endorsement"
+}

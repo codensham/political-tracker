@@ -12,6 +12,9 @@
   "outlet_id": "the-atlantic",
   "published_at": "2026-11-04",
   "source_url": "https://www.theatlantic.com/politics/2026/11/trump-jeffries-democrats-midterms/689266/?utm_source=feed",
-  "topics": [],
+  "tagged_by": "tag-records@1",
+  "topics": [
+    "elections-democracy"
+  ],
   "type": "article"
 }

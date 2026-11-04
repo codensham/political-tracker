@@ -12,6 +12,9 @@
   "outlet_id": "fox",
   "published_at": "2026-11-03",
   "source_url": "https://www.foxnews.com/politics/democrat-seize-house-control-stunning-blue-tsunami-vow-retribution-against-trump-admin",
-  "topics": [],
+  "tagged_by": "tag-records@1",
+  "topics": [
+    "elections-democracy"
+  ],
   "type": "article"
 }
