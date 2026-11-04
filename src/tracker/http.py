@@ -9,6 +9,8 @@ from collections.abc import Callable
 import httpx
 
 MAX_RETRIES = 3
+# Spec §5: collectors identify the project, with no email address.
+USER_AGENT = "political-tracker (+https://github.com/codensham/political-tracker)"
 BASE_DELAY = 1.0
 
 
@@ -32,7 +34,7 @@ def _get(
     sleep: Callable[[float], None] = time.sleep,
 ) -> httpx.Response:
     for attempt in range(MAX_RETRIES + 1):
-        resp = client.get(url, params=params)
+        resp = client.get(url, params=params, headers={"User-Agent": USER_AGENT})
         if _retryable(resp.status_code) and attempt < MAX_RETRIES:
             sleep(BASE_DELAY * 2**attempt)
             continue

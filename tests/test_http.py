@@ -65,3 +65,19 @@ def test_redact_helper():
     from tracker.http import redact
 
     assert redact("https://x/y?api_key=ABC&per_page=1") == "https://x/y?api_key=REDACTED&per_page=1"
+
+
+def test_every_request_sends_the_project_user_agent():
+    from tracker.http import USER_AGENT, get_bytes
+
+    seen = []
+
+    def handler(request):
+        seen.append(request.headers.get("user-agent"))
+        return httpx.Response(200, content=b"ok")
+
+    client = httpx.Client(transport=httpx.MockTransport(handler))
+    get_bytes(client, "https://example.com/x", sleep=lambda s: None)
+    assert seen == [USER_AGENT]
+    assert USER_AGENT == "political-tracker (+https://github.com/codensham/political-tracker)"
+    assert "@" not in USER_AGENT
