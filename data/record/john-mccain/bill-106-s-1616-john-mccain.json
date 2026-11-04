@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1616",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1616-john-mccain",
+  "introduced_date": "1999-09-22",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1999-09-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1616",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the Secretary of Veterans Affairs to develop within the Department of Veterans Affairs a system for collecting payments under the Medical Care Cost Recovery Program that utilizes collection practices similar to private collection practices, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

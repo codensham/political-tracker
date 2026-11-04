@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES437",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-437-john-kerry",
+  "introduced_date": "2010-03-04",
+  "policy_area": "International Affairs",
+  "published_at": "2010-03-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/437",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the positive effect of the upcoming Iraqi parliamentary elections on Iraq's political reconciliation and democratic institutions.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

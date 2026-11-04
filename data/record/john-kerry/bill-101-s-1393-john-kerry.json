@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1393",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1393-john-kerry",
+  "introduced_date": "1990-01-24",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1990-01-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1393",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to direct the Secretary of Defense to give priority to the Federal Bureau of Prisons in transferring any surplus real property or facility that is being closed or realigned.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

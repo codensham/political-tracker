@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3380",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3380-hillary-clinton",
+  "introduced_date": "2008-07-31",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2008-07-31",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3380",
+  "title": "Saving Energy Through Public Transportation Act of 2008",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES246",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-246-john-mccain",
+  "introduced_date": "2000-01-26",
+  "policy_area": "Congress",
+  "published_at": "2000-01-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/246",
+  "title": "A resolution relative to the death of Carl Curtis, former United States Senator for the State of Nebraska.",
+  "topics": [],
+  "type": "bill"
+}

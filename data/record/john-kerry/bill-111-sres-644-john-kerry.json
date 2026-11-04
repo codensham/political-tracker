@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES644",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-644-john-kerry",
+  "introduced_date": "2010-09-24",
+  "policy_area": "Animals",
+  "published_at": "2010-09-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/644",
+  "title": "A resolution designating the week beginning October 10, 2010, as \"National Wildlife Refuge Week\".",
+  "topics": [],
+  "type": "bill"
+}

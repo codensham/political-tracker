@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3462",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3462-hillary-clinton",
+  "introduced_date": "2008-09-10",
+  "policy_area": "Law",
+  "published_at": "2008-09-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3462",
+  "title": "A bill to ensure that the courts of the United States may provide an impartial forum for claims brought by United States citizens and others against any railroad organized as a separate legal entity, arising from the deportation of United States citizens and others to Nazi concentration camps on trains owned or operated by such railroad, and by heirs and survivors of such persons.",
+  "topics": [],
+  "type": "bill"
+}

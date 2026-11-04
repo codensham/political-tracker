@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES659",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-659-hillary-clinton",
+  "introduced_date": "2008-09-15",
+  "policy_area": "Commemorations",
+  "published_at": "2008-09-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/659",
+  "title": "A resolution designating September 27, 2008, as Alcohol and Drug Addiction Recovery Day.",
+  "topics": [],
+  "type": "bill"
+}

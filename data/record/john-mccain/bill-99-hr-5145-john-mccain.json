@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5145",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-5145-john-mccain",
+  "introduced_date": "1986-08-11",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1986-08-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/5145",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Temporary Emergency Food Assistance Act of 1983 to require that excess cheese held by the Commodity Credit Corporation be made available, at the request of the chief executive officer of a State, upon a showing of need, and without charge, for distribution by eligible agencies in the State.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

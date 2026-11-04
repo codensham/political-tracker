@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1112",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-s97-362-joe-biden",
+  "published_at": "1981-11-10",
+  "question": null,
+  "rollnumber": 362,
+  "source_url": "https://voteview.com/rollcall/RS0970362",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1981-11-10",
+  "vote_result": null
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES432",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-432-john-mccain",
+  "introduced_date": "2018-03-22",
+  "policy_area": "International Affairs",
+  "published_at": "2018-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/432",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution congratulating the Baltic states of Estonia, Latvia, and Lithuania on the 100th anniversary of their declarations of independence.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

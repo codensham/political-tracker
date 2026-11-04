@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4250",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-h95-80-al-gore",
+  "published_at": "1977-03-23",
+  "question": null,
+  "rollnumber": 80,
+  "source_url": "https://voteview.com/rollcall/RH0950080",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1977-03-23",
+  "vote_result": null
+}

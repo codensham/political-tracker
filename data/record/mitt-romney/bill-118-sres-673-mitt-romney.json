@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES673",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sres-673-mitt-romney",
+  "introduced_date": "2024-05-02",
+  "policy_area": "Congress",
+  "published_at": "2024-05-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-resolution/673",
+  "title": "A resolution honoring the life of David Hampton Pryor, former United States Senator for the State of Arkansas.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR695",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-354-john-mccain",
+  "published_at": "2018-02-08",
+  "question": "On the Cloture Motion",
+  "rollnumber": 354,
+  "source_url": "https://voteview.com/rollcall/RS1150354",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2018-02-08",
+  "vote_result": "Cloture Motion Rejected"
+}

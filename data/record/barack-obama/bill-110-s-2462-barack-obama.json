@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2462",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2462-barack-obama",
+  "introduced_date": "2007-12-12",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2007-12-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2462",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide that before the Secretary of Defense may furlough any employee of the Department of Defense on the basis of a lack of funds, the Secretary shall suspend any nonessential service contract entered into by the Department of Defense, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

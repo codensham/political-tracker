@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1672",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 93,
+  "id": "vote-s93-139-joe-biden",
+  "published_at": "1973-05-17",
+  "question": null,
+  "rollnumber": 139,
+  "source_url": "https://voteview.com/rollcall/RS0930139",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1973-05-17",
+  "vote_result": null
+}

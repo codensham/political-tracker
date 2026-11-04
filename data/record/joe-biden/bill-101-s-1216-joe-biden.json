@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1216",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1216-joe-biden",
+  "introduced_date": "1990-10-11",
+  "policy_area": "Labor and Employment",
+  "published_at": "1990-10-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1216",
+  "tagged_by": "crosswalk@1",
+  "title": "Live Performing Arts Labor Relations Amendments",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

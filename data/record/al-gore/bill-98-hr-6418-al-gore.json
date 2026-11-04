@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR6418",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-6418-al-gore",
+  "introduced_date": "1984-10-05",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1984-10-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/6418",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Agricultural Adjustment Act of 1938 to probibit the importation of tobacco which has been grown or processed using pesticides and other chemicals whose use has been prohibited in this country for health reasons.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

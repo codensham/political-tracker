@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3244",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-s99-245-joe-biden",
+  "published_at": "1985-10-23",
+  "question": null,
+  "rollnumber": 245,
+  "source_url": "https://voteview.com/rollcall/RS0990245",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1985-10-23",
+  "vote_result": null
+}

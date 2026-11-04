@@ -1,0 +1,20 @@
+{
+  "bill_number": "S852",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-379-john-mccain",
+  "published_at": "2006-02-09",
+  "question": "On the Motion to Table",
+  "rollnumber": 379,
+  "source_url": "https://voteview.com/rollcall/RS1090379",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-02-09",
+  "vote_result": "Motion to Table Agreed to"
+}

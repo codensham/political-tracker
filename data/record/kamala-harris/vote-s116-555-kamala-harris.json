@@ -1,0 +1,20 @@
+{
+  "bill_number": "S4049",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-555-kamala-harris",
+  "published_at": "2020-06-25",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 555,
+  "source_url": "https://voteview.com/rollcall/RS1160555",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2020-06-25",
+  "vote_result": "Cloture on the Motion to Proceed Agreed to"
+}

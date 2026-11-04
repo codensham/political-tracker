@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES186",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-186-mitt-romney",
+  "introduced_date": "2021-04-28",
+  "policy_area": "International Affairs",
+  "published_at": "2021-04-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/186",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution honoring the humanitarian work of Dr. Aristides de Sousa Mendes do Amaral e Abranches to save the lives of French Jews and other persons during the Holocaust.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

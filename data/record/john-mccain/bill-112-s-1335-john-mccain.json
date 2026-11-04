@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1335",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1335-john-mccain",
+  "introduced_date": "2012-06-05",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2012-06-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1335",
+  "title": "Pilot's Bill of Rights",
+  "topics": [],
+  "type": "bill"
+}

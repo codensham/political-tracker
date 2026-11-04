@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES123",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sconres-123-john-mccain",
+  "introduced_date": "1998-10-01",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1998-10-01",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-concurrent-resolution/123",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to express the sense of the Congress regarding the policy of the Forest Service toward recreational shooting and archery ranges on Federal land.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

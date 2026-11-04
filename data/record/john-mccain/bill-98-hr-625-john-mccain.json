@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR625",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-625-john-mccain",
+  "introduced_date": "1983-03-23",
+  "policy_area": "Taxation",
+  "published_at": "1983-03-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/625",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to provide financial relief to state and local governments by eliminating a requirement that would result in duplicative mailing each year.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

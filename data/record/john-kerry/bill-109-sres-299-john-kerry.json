@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES299",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-299-john-kerry",
+  "introduced_date": "2005-11-03",
+  "policy_area": "Commemorations",
+  "published_at": "2005-11-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/299",
+  "title": "A resolution to express support for the goals of National Adoption Month by promoting national awareness of adoption, celebrating children and families involved in adoption, and encouraging Americans to secure safety, permanency, and well-being for all children.",
+  "topics": [],
+  "type": "bill"
+}

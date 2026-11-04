@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES101",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-101-john-mccain",
+  "introduced_date": "2011-03-14",
+  "policy_area": "International Affairs",
+  "published_at": "2011-03-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/101",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate relating to the March 11, 2011, earthquake and tsunami in Japan.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

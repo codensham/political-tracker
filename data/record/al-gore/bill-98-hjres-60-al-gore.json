@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES60",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-60-al-gore",
+  "introduced_date": "1983-02-01",
+  "policy_area": "International Affairs",
+  "published_at": "1983-02-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/60",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to direct the President to issue a proclamation designating February 16, 1983, as \"Lithuanian Independence Day\".",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

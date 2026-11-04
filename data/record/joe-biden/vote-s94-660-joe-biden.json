@@ -1,0 +1,20 @@
+{
+  "bill_number": "S507",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 94,
+  "id": "vote-s94-660-joe-biden",
+  "published_at": "1976-02-25",
+  "question": null,
+  "rollnumber": 660,
+  "source_url": "https://voteview.com/rollcall/RS0940660",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1976-02-25",
+  "vote_result": null
+}

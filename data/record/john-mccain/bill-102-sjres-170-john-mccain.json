@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES170",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sjres-170-john-mccain",
+  "introduced_date": "1991-07-22",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1991-07-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/170",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution designating September 20, 1991, as \"National POW/MIA Recognition Day\", and authorizing the display of the National League of Families POW/MIA flag on flagstaffs at certain Federal facilities.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

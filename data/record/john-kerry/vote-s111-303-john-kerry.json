@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3326",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-303-john-kerry",
+  "published_at": "2009-09-30",
+  "question": "On the Motion",
+  "rollnumber": 303,
+  "source_url": "https://voteview.com/rollcall/RS1110303",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-09-30",
+  "vote_result": "Motion Rejected"
+}

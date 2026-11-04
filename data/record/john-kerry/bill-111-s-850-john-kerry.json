@@ -1,0 +1,21 @@
+{
+  "bill_number": "S850",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-850-john-kerry",
+  "introduced_date": "2009-04-22",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2009-04-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/850",
+  "tagged_by": "crosswalk@1",
+  "title": "Shark Conservation Act of 2009",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

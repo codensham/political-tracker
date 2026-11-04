@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2552",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-2552-joe-biden",
+  "introduced_date": "1982-05-20",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1982-05-20",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/2552",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to protect the safety of intelligence personnel and certain other persons.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

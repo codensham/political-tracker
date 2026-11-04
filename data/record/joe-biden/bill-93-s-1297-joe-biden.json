@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1297",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 93,
+  "id": "bill-93-s-1297-joe-biden",
+  "introduced_date": "1973-03-20",
+  "policy_area": "Disasters",
+  "published_at": "1973-03-20",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/93rd-congress/senate-bill/1297",
+  "title": "A bill to amend the Disaster Relief Act of 1970 to provide for disaster assistance in the case of substantial economic loss resulting from other than natural causes.",
+  "topics": [],
+  "type": "bill"
+}

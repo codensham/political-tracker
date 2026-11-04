@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-413-john-mccain",
+  "published_at": "1995-09-13",
+  "question": "On the Amendment",
+  "rollnumber": 413,
+  "source_url": "https://voteview.com/rollcall/RS1040413",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-09-13",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3031",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3031-john-mccain",
+  "introduced_date": "2008-05-19",
+  "policy_area": "Environmental Protection",
+  "published_at": "2008-05-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3031",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Clean Air Act to limit the use of ethanol to meet the renewable fuel standard, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

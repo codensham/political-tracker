@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1283",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1283-hillary-clinton",
+  "introduced_date": "2003-07-31",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2003-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1283",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require advance notification of Congress regarding any action proposed to be taken by the Secretary of Veterans Affairs in the implementation of the Capital Asset Realignment for Enhanced Services initiative of the Department of Veterans Affairs, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

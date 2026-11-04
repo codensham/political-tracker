@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES5",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sconres-5-john-mccain",
+  "introduced_date": "2013-03-05",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2013-03-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-concurrent-resolution/5",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress that John Arthur \"Jack\" Johnson should receive a posthumous pardon for the racially motivated conviction in 1913 that diminished the athletic, cultural, and historic significance of Jack Johnson and unduly tarnished his reputation.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

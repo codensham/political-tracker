@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES144",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-144-john-kerry",
+  "introduced_date": "1985-04-26",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1985-04-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/144",
+  "title": "A resolution to give special recognition to the achievements of John James Audubon.",
+  "topics": [],
+  "type": "bill"
+}

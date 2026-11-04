@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3276",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3276-kamala-harris",
+  "introduced_date": "2020-02-11",
+  "policy_area": "Social Welfare",
+  "published_at": "2020-02-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3276",
+  "title": "ASSET Act",
+  "topics": [],
+  "type": "bill"
+}

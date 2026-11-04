@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1280",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1280-joe-biden",
+  "introduced_date": "2003-06-18",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2003-06-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1280",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Protect Act to clarify certain volunteer liability.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

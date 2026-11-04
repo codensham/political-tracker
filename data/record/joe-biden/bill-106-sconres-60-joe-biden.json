@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES60",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sconres-60-joe-biden",
+  "introduced_date": "2000-03-20",
+  "policy_area": "Commemorations",
+  "published_at": "2000-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-concurrent-resolution/60",
+  "title": "A concurrent resolution expressing the sense of Congress that a commemorative postage stamp should be issued in honor of the U.S.S. Wisconsin and all those who served aboard her.",
+  "topics": [],
+  "type": "bill"
+}

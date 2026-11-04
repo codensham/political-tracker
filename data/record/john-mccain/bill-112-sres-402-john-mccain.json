@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES402",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-402-john-mccain",
+  "introduced_date": "2012-03-21",
+  "policy_area": "International Affairs",
+  "published_at": "2012-03-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/402",
+  "tagged_by": "crosswalk@1",
+  "title": "Amend the title so as to read: `Condemning Joseph Kony and the Lord's Resistance Army for committing crimes against humanity and mass atrocities, and supporting ongoing efforts by the United States Government and governments and regional organizations in central Africa to remove Joseph Kony and Lord's Resistance Army commanders from the battlefield.'.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

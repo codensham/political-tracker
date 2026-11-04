@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES201",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-201-john-mccain",
+  "introduced_date": "1999-10-12",
+  "policy_area": "Commemorations",
+  "published_at": "1999-10-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/201",
+  "title": "A resolution congratulating Henry \"Hank\" Aaron on the 25th anniversary of breaking the Major League Baseball career home run record established by Babe Ruth and recognizing him as one of the greatest baseball players of all time.",
+  "topics": [],
+  "type": "bill"
+}

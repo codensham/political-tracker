@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES233",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-233-john-mccain",
+  "introduced_date": "2005-09-06",
+  "policy_area": "Emergency Management",
+  "published_at": "2005-09-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/233",
+  "title": "A resolution expressing the condolences of the Nation to the victims of Hurricane Katrina, commending the resiliency of the people of the States of Louisiana, Mississippi, and Alabama, and committing to stand by them in the relief and recovery efforts.",
+  "topics": [],
+  "type": "bill"
+}

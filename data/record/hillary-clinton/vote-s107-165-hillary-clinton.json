@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1836",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-165-hillary-clinton",
+  "published_at": "2001-05-23",
+  "question": "On Passage of the Bill",
+  "rollnumber": 165,
+  "source_url": "https://voteview.com/rollcall/RS1070165",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-05-23",
+  "vote_result": "Bill Passed"
+}

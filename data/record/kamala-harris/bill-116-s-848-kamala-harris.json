@@ -1,0 +1,21 @@
+{
+  "bill_number": "S848",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-848-kamala-harris",
+  "introduced_date": "2019-03-14",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2019-03-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/848",
+  "tagged_by": "crosswalk@1",
+  "title": "Digital Service Act of 2019",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

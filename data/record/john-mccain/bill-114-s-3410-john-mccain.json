@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3410",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-3410-john-mccain",
+  "introduced_date": "2016-09-28",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2016-09-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/3410",
+  "tagged_by": "crosswalk@1",
+  "title": "Veteran Overmedication Prevention Act of 2016",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "S51",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-s99-466-john-kerry",
+  "published_at": "1986-04-30",
+  "question": null,
+  "rollnumber": 466,
+  "source_url": "https://voteview.com/rollcall/RS0990466",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1986-04-30",
+  "vote_result": null
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1973",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-1973-mitt-romney",
+  "introduced_date": "2019-06-25",
+  "policy_area": "Environmental Protection",
+  "published_at": "2019-06-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1973",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the Administrator of the Environmental Protection Agency to establish a program under which the Administrator shall defer the designation of an area as a nonattainment area for purposes of the 8-hour ozone national ambient air quality standard if the area achieves and maintains certain standards under a voluntary early action compact plan, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

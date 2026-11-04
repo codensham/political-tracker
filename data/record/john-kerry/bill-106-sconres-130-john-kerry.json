@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES130",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sconres-130-john-kerry",
+  "introduced_date": "2000-07-27",
+  "policy_area": "Congress",
+  "published_at": "2000-07-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-concurrent-resolution/130",
+  "title": "A concurrent resolution establishing a special task force to recommend an appropriate recognition for the slave laborers who worked on the construction of the United States Capitol.",
+  "topics": [],
+  "type": "bill"
+}

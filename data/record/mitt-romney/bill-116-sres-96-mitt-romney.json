@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES96",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-96-mitt-romney",
+  "introduced_date": "2019-03-06",
+  "policy_area": "International Affairs",
+  "published_at": "2019-03-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/96",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending the Government of Canada for upholding the rule of law and expressing concern over actions by the Government of the People's Republic of China in response to a request from the United States Government to the Government of Canada for the extradition of a Huawei Technologies Co., Ltd. executive.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

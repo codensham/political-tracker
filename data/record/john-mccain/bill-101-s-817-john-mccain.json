@@ -1,0 +1,21 @@
+{
+  "bill_number": "S817",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-817-john-mccain",
+  "introduced_date": "1989-04-18",
+  "policy_area": "Health",
+  "published_at": "1989-04-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/817",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title VII of the Social Security Act to authorize appropriations for the Office of Rural Health Policy and to establish a National Advisory Committee on Rural Health, and for other purposes.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

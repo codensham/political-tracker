@@ -1,0 +1,20 @@
+{
+  "bill_number": "SCONRES23",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-94-joe-biden",
+  "published_at": "2003-03-25",
+  "question": "On the Amendment",
+  "rollnumber": 94,
+  "source_url": "https://voteview.com/rollcall/RS1080094",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-03-25",
+  "vote_result": "Amendment Rejected"
+}

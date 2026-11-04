@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2185",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2185-john-kerry",
+  "introduced_date": "1992-02-05",
+  "policy_area": "Immigration",
+  "published_at": "1992-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2185",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to suspend the forcible repatriation of Haitian nationals fleeing after the coup d'etat in Haiti until certain conditions are met.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

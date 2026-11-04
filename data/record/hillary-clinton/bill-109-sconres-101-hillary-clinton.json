@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES101",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-101-hillary-clinton",
+  "introduced_date": "2006-07-11",
+  "policy_area": "International Affairs",
+  "published_at": "2006-07-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/101",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution condemning the repression of the Iranian Baha'i community and calling for the emancipation of Iranian Baha'is.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

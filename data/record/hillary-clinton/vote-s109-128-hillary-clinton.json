@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN194",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-128-hillary-clinton",
+  "published_at": "2005-05-25",
+  "question": "On the Nomination",
+  "rollnumber": 128,
+  "source_url": "https://voteview.com/rollcall/RS1090128",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-05-25",
+  "vote_result": "Nomination Confirmed"
+}

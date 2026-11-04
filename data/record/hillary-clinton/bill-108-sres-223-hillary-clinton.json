@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES223",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-223-hillary-clinton",
+  "introduced_date": "2004-07-21",
+  "policy_area": "Commemorations",
+  "published_at": "2004-07-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/223",
+  "title": "A resolution expressing the sense of the Senate that the life and achievements of Antonio Meucci should be recognized, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

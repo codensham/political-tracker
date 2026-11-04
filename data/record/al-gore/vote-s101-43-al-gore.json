@@ -1,0 +1,24 @@
+{
+  "bill_number": "S760",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-43-al-gore",
+  "policy_area": "International Affairs",
+  "published_at": "1989-04-13",
+  "question": "On the Motion to Table",
+  "rollnumber": 43,
+  "source_url": "https://voteview.com/rollcall/RS1010043",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "vote",
+  "vote_date": "1989-04-13",
+  "vote_result": "Motion to Table Agreed to"
+}

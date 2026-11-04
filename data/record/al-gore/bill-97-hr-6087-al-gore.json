@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR6087",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-6087-al-gore",
+  "introduced_date": "1982-05-25",
+  "policy_area": "Water Resources Development",
+  "published_at": "1982-05-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/6087",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to extend authority to the Secretary of the Interior with respect to water resources research and development and saline water conversion research and development programs.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

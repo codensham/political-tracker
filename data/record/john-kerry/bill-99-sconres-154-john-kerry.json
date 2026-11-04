@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES154",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-154-john-kerry",
+  "introduced_date": "1986-07-24",
+  "policy_area": "International Affairs",
+  "published_at": "1986-07-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/154",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution concerning the Soviet Union's persecution of members of the Ukrainian and other public Helsinki Monitoring Groups.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

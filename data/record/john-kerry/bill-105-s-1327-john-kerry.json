@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1327",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1327-john-kerry",
+  "introduced_date": "1997-10-28",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1997-10-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1327",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to grant normal trade relations status to the People's Republic of China on a permanent basis upon the accession of the People's Republic of China to the World Trade Organization.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

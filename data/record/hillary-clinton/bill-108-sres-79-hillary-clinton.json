@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES79",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-79-hillary-clinton",
+  "introduced_date": "2003-03-11",
+  "policy_area": "Commemorations",
+  "published_at": "2003-03-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/79",
+  "title": "A resolution designating the week of March 9 through March 15, 2003, as \"National Girl Scout Week\".",
+  "topics": [],
+  "type": "bill"
+}

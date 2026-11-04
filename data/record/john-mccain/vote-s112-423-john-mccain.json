@@ -1,0 +1,24 @@
+{
+  "bill_number": "S3326",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-423-john-mccain",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2012-08-02",
+  "question": "On the Amendment",
+  "rollnumber": 423,
+  "source_url": "https://voteview.com/rollcall/RS1120423",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "trade"
+  ],
+  "type": "vote",
+  "vote_date": "2012-08-02",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5496",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-5496-al-gore",
+  "introduced_date": "1984-05-10",
+  "policy_area": "Health",
+  "published_at": "1984-05-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/5496",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Public Health Service Act to rename the National Center for Health Services Research as the National Center for Health Services Research and Medical Technology Assessment, and for other purposes.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

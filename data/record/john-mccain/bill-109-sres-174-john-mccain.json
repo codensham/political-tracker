@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES174",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-174-john-mccain",
+  "introduced_date": "2005-06-16",
+  "policy_area": "International Affairs",
+  "published_at": "2005-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/174",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing Burmese democracy activist and Nobel Peace Laureate Aung San Suu Kyi as a symbol of the struggle for freedom in Burma.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

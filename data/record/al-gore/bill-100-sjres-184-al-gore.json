@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES184",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-184-al-gore",
+  "introduced_date": "1987-09-16",
+  "policy_area": "Commemorations",
+  "published_at": "1987-09-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/184",
+  "title": "A joint resolution designating October 15, 1987, as \"National Safety Belt Use Day\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2944",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-356-john-kerry",
+  "published_at": "2001-12-07",
+  "question": "On the Conference Report",
+  "rollnumber": 356,
+  "source_url": "https://voteview.com/rollcall/RS1070356",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-12-07",
+  "vote_result": "Conference Report Agreed to"
+}

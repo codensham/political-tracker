@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2902",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-2902-joe-biden",
+  "introduced_date": "1982-09-14",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1982-09-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/2902",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to define the affirmative defense of insanity and to provide a procedure for the commitment of offenders suffering from a mental disease or defect, and for other purposes.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

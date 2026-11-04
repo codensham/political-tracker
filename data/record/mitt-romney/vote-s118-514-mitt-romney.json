@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3935",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-514-mitt-romney",
+  "published_at": "2024-05-09",
+  "question": "On Passage of the Bill",
+  "rollnumber": 514,
+  "source_url": "https://voteview.com/rollcall/RS1180514",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2024-05-09",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2773",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2773-john-mccain",
+  "introduced_date": "2016-06-06",
+  "policy_area": "Labor and Employment",
+  "published_at": "2016-06-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2773",
+  "tagged_by": "crosswalk@1",
+  "title": "GAP Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

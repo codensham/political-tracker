@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4100",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-4100-kamala-harris",
+  "introduced_date": "2020-07-30",
+  "policy_area": "Education",
+  "published_at": "2020-07-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4100",
+  "tagged_by": "crosswalk@1",
+  "title": "Supporting Children with Disabilities During COVID–19 Act",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

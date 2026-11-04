@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3641",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-3641-hillary-clinton",
+  "introduced_date": "2006-07-12",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2006-07-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/3641",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to suspend temporarily the duty on certain woven fabrics of cotton, containing less than 85 percent by weight of cotton.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

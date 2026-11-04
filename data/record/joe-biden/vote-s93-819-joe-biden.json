@@ -1,0 +1,20 @@
+{
+  "bill_number": "S3000",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 93,
+  "id": "vote-s93-819-joe-biden",
+  "published_at": "1974-06-06",
+  "question": null,
+  "rollnumber": 819,
+  "source_url": "https://voteview.com/rollcall/RS0930819",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1974-06-06",
+  "vote_result": null
+}

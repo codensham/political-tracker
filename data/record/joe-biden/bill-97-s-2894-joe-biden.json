@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2894",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-2894-joe-biden",
+  "introduced_date": "1982-09-10",
+  "policy_area": "Environmental Protection",
+  "published_at": "1982-09-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/2894",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize and direct the Secretary of the Army acting through the Corps of Engineers to relocate the Christina River Dredge Spoil Disposal Site.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

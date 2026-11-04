@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1351",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-419-john-kerry",
+  "published_at": "2010-02-09",
+  "question": "On the Cloture Motion",
+  "rollnumber": 419,
+  "source_url": "https://voteview.com/rollcall/RS1110419",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2010-02-09",
+  "vote_result": "Cloture Motion Rejected"
+}

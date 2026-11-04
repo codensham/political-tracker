@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES452",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-452-al-gore",
+  "introduced_date": "1984-04-24",
+  "policy_area": "Education",
+  "published_at": "1984-04-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/452",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution recognizing the important contributions of the arts to a complete education.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES43",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hres-43-al-gore",
+  "introduced_date": "1981-01-28",
+  "policy_area": "International Affairs",
+  "published_at": "1981-01-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-resolution/43",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending former President Jimmy Carter, former Secretary of State Edmund Muskie, former Deputy Secretary of State Warren Christopher, and the Algerian negotiators for their efforts in securing the safe release of the 52 American hostages from Iran, and President Reagan for designating former President Carter to greet the freed hostages.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

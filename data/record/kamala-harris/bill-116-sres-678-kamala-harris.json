@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES678",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-678-kamala-harris",
+  "introduced_date": "2020-08-06",
+  "policy_area": "Families",
+  "published_at": "2020-08-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/678",
+  "title": "A resolution designating September 2020 as \"National Child Awareness Month\" to promote awareness of charities that benefit children and youth-serving organizations throughout the United States and recognizing the efforts made by those charities and organizations on behalf of children and youth as critical contributions to the future of the United States.",
+  "topics": [],
+  "type": "bill"
+}

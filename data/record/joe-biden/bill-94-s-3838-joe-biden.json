@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3838",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T14:13:06Z",
+  "collector": "congress_bills@1.0",
+  "congress": 94,
+  "id": "bill-94-s-3838-joe-biden",
+  "introduced_date": "1976-09-21",
+  "policy_area": "Credit",
+  "published_at": "1976-09-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/94th-congress/senate-bill/3838",
+  "tagged_by": "crosswalk@1",
+  "title": "Debt Collection Practices Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

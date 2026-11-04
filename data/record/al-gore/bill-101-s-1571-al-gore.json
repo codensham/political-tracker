@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1571",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1571-al-gore",
+  "introduced_date": "1989-08-04",
+  "policy_area": "Social Welfare",
+  "published_at": "1989-08-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1571",
+  "title": "A bill to amend the Social Security Act to establish in the Social Security Administration the Office of Chief Administrative Law Judge, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

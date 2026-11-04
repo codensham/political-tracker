@@ -1,0 +1,18 @@
+{
+  "bill_number": "HCONRES188",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hconres-188-al-gore",
+  "introduced_date": "1983-10-06",
+  "policy_area": "Emergency Management",
+  "published_at": "1983-10-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-concurrent-resolution/188",
+  "title": "A concurrent resolution expressing the sense of the Congress that Fire Prevention Week, 1983 should be observed with appropriate activities and remembrances.",
+  "topics": [],
+  "type": "bill"
+}

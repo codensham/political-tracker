@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES596",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-596-mitt-romney",
+  "introduced_date": "2020-06-01",
+  "policy_area": "International Affairs",
+  "published_at": "2020-06-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/596",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the Hong Kong national security law proposed by the Government of the People's Republic of China would violate the obligations of that government under the 1984 Sino-British Joint Declaration and the Hong Kong Basic Law and calling upon all free nations of the world to stand with the people of Hong Kong.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

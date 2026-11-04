@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1640",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-1640-john-kerry",
+  "introduced_date": "1985-10-25",
+  "policy_area": "Social Welfare",
+  "published_at": "1985-10-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/1640",
+  "title": "A bill to amend title XVIII of the Social Security Act to provide for coverage under the Medicare program of services performed by a physician assistant.",
+  "topics": [],
+  "type": "bill"
+}

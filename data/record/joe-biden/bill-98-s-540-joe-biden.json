@@ -1,0 +1,21 @@
+{
+  "bill_number": "S540",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-s-540-joe-biden",
+  "introduced_date": "1983-02-22",
+  "policy_area": "Health",
+  "published_at": "1983-02-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-bill/540",
+  "tagged_by": "crosswalk@1",
+  "title": "National Institute of Arthritis and Musculoskeletal and Skin Diseases Act of 1984",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

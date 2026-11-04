@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES92",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sjres-92-john-kerry",
+  "introduced_date": "1991-03-12",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1991-03-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/92",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to designate July 28, 1992, as \"Buffalo Soldiers Day\".",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

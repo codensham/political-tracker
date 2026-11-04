@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2099",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-469-john-mccain",
+  "published_at": "1995-09-27",
+  "question": "On the Motion",
+  "rollnumber": 469,
+  "source_url": "https://voteview.com/rollcall/RS1040469",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-09-27",
+  "vote_result": "Motion Rejected"
+}

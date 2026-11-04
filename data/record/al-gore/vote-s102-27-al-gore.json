@@ -1,0 +1,20 @@
+{
+  "bill_number": "SRES76",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-27-al-gore",
+  "published_at": "1991-03-14",
+  "question": "On the Resolution",
+  "rollnumber": 27,
+  "source_url": "https://voteview.com/rollcall/RS1020027",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-03-14",
+  "vote_result": "Resolution Agreed to"
+}

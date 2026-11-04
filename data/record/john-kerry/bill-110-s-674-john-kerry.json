@@ -1,0 +1,21 @@
+{
+  "bill_number": "S674",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-674-john-kerry",
+  "introduced_date": "2007-09-19",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2007-09-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/674",
+  "tagged_by": "crosswalk@1",
+  "title": "Transparency and Accountability in Military and Security Contracting Act of 2007",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1176",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1176-john-mccain",
+  "introduced_date": "1995-08-10",
+  "policy_area": "Water Resources Development",
+  "published_at": "1995-08-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1176",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to direct the Secretary of the Interior to make certain modifications with respect to a water contract with the city of Kingman, Arizona, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

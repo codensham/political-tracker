@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2498",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2498-joe-biden",
+  "introduced_date": "1986-05-21",
+  "policy_area": "International Affairs",
+  "published_at": "1986-05-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2498",
+  "tagged_by": "crosswalk@1",
+  "title": "Anti-Apartheid Act of 1986",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

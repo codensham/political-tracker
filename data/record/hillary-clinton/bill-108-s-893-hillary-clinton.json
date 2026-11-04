@@ -1,0 +1,21 @@
+{
+  "bill_number": "S893",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-893-hillary-clinton",
+  "introduced_date": "2003-04-11",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2003-04-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/893",
+  "tagged_by": "crosswalk@1",
+  "title": "Workplace Religious Freedom Act of 2003",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

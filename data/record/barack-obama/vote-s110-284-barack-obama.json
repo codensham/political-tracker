@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-284-barack-obama",
+  "published_at": "2007-07-26",
+  "question": "On the Conference Report",
+  "rollnumber": 284,
+  "source_url": "https://voteview.com/rollcall/RS1100284",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-07-26",
+  "vote_result": "Conference Report Agreed to"
+}

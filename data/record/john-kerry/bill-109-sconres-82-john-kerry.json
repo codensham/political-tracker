@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES82",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-82-john-kerry",
+  "introduced_date": "2006-02-28",
+  "policy_area": "Congress",
+  "published_at": "2006-02-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/82",
+  "title": "A concurrent resolution to establish a procedure for the appointment of independent Congressional Ethics Office to investigate ethics violations in the Senate and the House of Representatives.",
+  "topics": [],
+  "type": "bill"
+}

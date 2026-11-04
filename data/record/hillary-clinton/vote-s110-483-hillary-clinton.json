@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4040",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-483-hillary-clinton",
+  "published_at": "2008-03-06",
+  "question": "On Passage of the Bill",
+  "rollnumber": 483,
+  "source_url": "https://voteview.com/rollcall/RS1100483",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-03-06",
+  "vote_result": "Bill Passed"
+}

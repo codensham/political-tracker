@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR14232",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 94,
+  "id": "vote-s94-1141-joe-biden",
+  "published_at": "1976-08-25",
+  "question": null,
+  "rollnumber": 1141,
+  "source_url": "https://voteview.com/rollcall/RS0941141",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1976-08-25",
+  "vote_result": null
+}

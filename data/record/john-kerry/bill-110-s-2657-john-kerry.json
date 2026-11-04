@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2657",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2657-john-kerry",
+  "introduced_date": "2008-02-15",
+  "policy_area": "Animals",
+  "published_at": "2008-02-15",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2657",
+  "title": "A bill to require the Secretary of Commerce to prescribe regulations to reduce the incidence of vessels colliding with North Atlantic right whales by limiting the speed of vessels, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR2116",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-2116-john-mccain",
+  "introduced_date": "1986-01-21",
+  "policy_area": "Social Welfare",
+  "published_at": "1986-01-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/2116",
+  "title": "A bill to amend title XX of the Social Security Act to require, as a condition of Federal assistance to any State for the provision of child care services thereunder, that such State establish, monitor, and enforce appropriate child care standards.",
+  "topics": [],
+  "type": "bill"
+}

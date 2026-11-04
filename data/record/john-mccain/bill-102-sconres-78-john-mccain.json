@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES78",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sconres-78-john-mccain",
+  "introduced_date": "1991-11-22",
+  "policy_area": "International Affairs",
+  "published_at": "1991-11-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-concurrent-resolution/78",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution regarding the unfair imprisonment and trial of Dr. Nguyen Dan Que by the Government of Vietnam.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

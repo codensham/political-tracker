@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES338",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-338-hillary-clinton",
+  "introduced_date": "2005-12-16",
+  "policy_area": "Commemorations",
+  "published_at": "2005-12-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/338",
+  "title": "A resolution honoring the memory of the members of the Armed Forces of the United States who have given their lives in service to the United States in Operation Iraqi Freedom and Operation Enduring Freedom.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2788",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-s95-909-joe-biden",
+  "published_at": "1978-08-01",
+  "question": null,
+  "rollnumber": 909,
+  "source_url": "https://voteview.com/rollcall/RS0950909",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-08-01",
+  "vote_result": null
+}

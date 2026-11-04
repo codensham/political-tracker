@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES62",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-62-john-mccain",
+  "introduced_date": "2009-03-03",
+  "policy_area": "Congress",
+  "published_at": "2009-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/62",
+  "title": "A resolution establishing a select committee of the Senate to make a thorough and complete study and investigation of the facts and circumstances giving rise to the economic crisis facing the United States and to make recommendations to prevent a future recurrence of such a crisis.",
+  "topics": [],
+  "type": "bill"
+}

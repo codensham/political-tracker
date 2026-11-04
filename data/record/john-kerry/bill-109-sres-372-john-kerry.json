@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES372",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-372-john-kerry",
+  "introduced_date": "2006-02-14",
+  "policy_area": "Energy",
+  "published_at": "2006-02-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/372",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that oil and gas companies should not be provided  outer Continental Shelf royalty relief when energy prices are at historic highs.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

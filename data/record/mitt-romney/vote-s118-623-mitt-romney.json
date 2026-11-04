@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1577",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-623-mitt-romney",
+  "published_at": "2024-11-18",
+  "question": "On the Motion to Proceed",
+  "rollnumber": 623,
+  "source_url": "https://voteview.com/rollcall/RS1180623",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2024-11-18",
+  "vote_result": "Motion to Proceed Agreed to"
+}

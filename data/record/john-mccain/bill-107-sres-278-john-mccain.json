@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES278",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-278-john-mccain",
+  "introduced_date": "2002-05-23",
+  "policy_area": "Commemorations",
+  "published_at": "2002-05-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/278",
+  "title": "A resolution calling upon all Americans to recognize on this Memorial Day, 2002, the sacrifice and dedication of our Armed Forces and civilian national security agencies.",
+  "topics": [],
+  "type": "bill"
+}

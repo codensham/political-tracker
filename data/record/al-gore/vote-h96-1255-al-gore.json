@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJR637",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 96,
+  "id": "vote-h96-1255-al-gore",
+  "published_at": "1980-12-03",
+  "question": null,
+  "rollnumber": 1255,
+  "source_url": "https://voteview.com/rollcall/RH0961255",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1980-12-03",
+  "vote_result": null
+}

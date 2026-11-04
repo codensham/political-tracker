@@ -1,0 +1,21 @@
+{
+  "bill_number": "S121",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-s-121-joe-biden",
+  "introduced_date": "1977-01-10",
+  "policy_area": "Environmental Protection",
+  "published_at": "1977-01-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/senate-bill/121",
+  "tagged_by": "crosswalk@1",
+  "title": "Federal Oil Pollution Liability and Compensation Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

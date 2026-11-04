@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1556",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1556-hillary-clinton",
+  "introduced_date": "2001-10-16",
+  "policy_area": "Social Welfare",
+  "published_at": "2001-10-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1556",
+  "title": "USA Act ",
+  "topics": [],
+  "type": "bill"
+}

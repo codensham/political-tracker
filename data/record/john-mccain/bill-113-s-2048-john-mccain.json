@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2048",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-2048-john-mccain",
+  "introduced_date": "2014-02-26",
+  "policy_area": "Immigration",
+  "published_at": "2014-02-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2048",
+  "tagged_by": "crosswalk@1",
+  "title": "Encouraging Trade and Investment from New Zealand Act",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

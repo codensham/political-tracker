@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES41",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-41-joe-biden",
+  "introduced_date": "2003-02-03",
+  "policy_area": "Commemorations",
+  "published_at": "2003-02-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/41",
+  "title": "A resolution honoring the mission of the space shuttle Columbia.",
+  "topics": [],
+  "type": "bill"
+}

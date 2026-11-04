@@ -1,0 +1,21 @@
+{
+  "bill_number": "S402",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-402-john-kerry",
+  "introduced_date": "1985-11-07",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1985-11-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/402",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Communications Act of 1934 to provide for specialized equipment for telephone service to certain disabled persons.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

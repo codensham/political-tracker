@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1401",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1401-john-mccain",
+  "introduced_date": "2003-07-14",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2003-07-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1401",
+  "tagged_by": "crosswalk@1",
+  "title": "National Oceanic and Atmospheric Administration Reauthorization Act of 2003",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

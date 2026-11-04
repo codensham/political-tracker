@@ -1,0 +1,18 @@
+{
+  "bill_number": "S90",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-90-john-mccain",
+  "introduced_date": "2003-03-05",
+  "policy_area": "Congress",
+  "published_at": "2003-03-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/90",
+  "title": "A bill to extend certain budgetary enforcement to maintain fiscal accountability and responsibility.",
+  "topics": [],
+  "type": "bill"
+}

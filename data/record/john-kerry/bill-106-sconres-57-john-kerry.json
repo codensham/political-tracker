@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES57",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sconres-57-john-kerry",
+  "introduced_date": "1999-09-29",
+  "policy_area": "International Affairs",
+  "published_at": "1999-09-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-concurrent-resolution/57",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution concerning the emancipation of the Iranian Baha'i community.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

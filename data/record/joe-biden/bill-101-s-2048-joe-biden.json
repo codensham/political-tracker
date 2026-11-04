@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2048",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2048-joe-biden",
+  "introduced_date": "1990-04-19",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1990-04-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2048",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for cost-of-living adjustments in 1991 under certain Government retirement programs.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2152",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2152-john-kerry",
+  "introduced_date": "1986-05-05",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1986-05-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2152",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to require the Department of Defense to exclude from consideration for contracts those firms in which a hostile foreign government or a covered foreign national owns or controls a significant interest.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

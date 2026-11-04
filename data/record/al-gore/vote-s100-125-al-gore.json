@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1827",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-125-al-gore",
+  "published_at": "1987-05-27",
+  "question": null,
+  "rollnumber": 125,
+  "source_url": "https://voteview.com/rollcall/RS1000125",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1987-05-27",
+  "vote_result": null
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES530",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-530-john-kerry",
+  "introduced_date": "2010-05-14",
+  "policy_area": "Health",
+  "published_at": "2010-05-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/530",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting the goals and ideals of \"National Women's Health Week 2010\", and for other purposes.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

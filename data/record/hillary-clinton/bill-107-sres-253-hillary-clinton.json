@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES253",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-253-hillary-clinton",
+  "introduced_date": "2002-04-25",
+  "policy_area": "International Affairs",
+  "published_at": "2002-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/253",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution reiterating the sense of the Senate regarding Anti-Semitism and religious tolerance in Europe.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

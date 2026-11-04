@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES53",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-53-john-mccain",
+  "introduced_date": "2017-02-07",
+  "policy_area": "Congress",
+  "published_at": "2017-02-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/53",
+  "title": "An original resolution authorizing expenditures by the Committee on Armed Services.",
+  "topics": [],
+  "type": "bill"
+}

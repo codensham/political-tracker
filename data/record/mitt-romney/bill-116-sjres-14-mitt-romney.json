@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES14",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sjres-14-mitt-romney",
+  "introduced_date": "2019-03-25",
+  "policy_area": "Law",
+  "published_at": "2019-03-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-joint-resolution/14",
+  "title": "A joint resolution proposing an amendment to the Constitution of the United States to require that the Supreme Court of the United States be composed of not more than 9 justices.",
+  "topics": [],
+  "type": "bill"
+}

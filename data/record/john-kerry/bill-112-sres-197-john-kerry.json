@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES197",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-197-john-kerry",
+  "introduced_date": "2011-05-24",
+  "policy_area": "Commerce",
+  "published_at": "2011-05-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/197",
+  "title": "A resolution honoring the entrepreneurial spirit of small business concerns in the United States during National Small Business Week, which begins on May 15, 2011.",
+  "topics": [],
+  "type": "bill"
+}

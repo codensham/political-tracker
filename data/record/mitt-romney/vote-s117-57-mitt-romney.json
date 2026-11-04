@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-57-mitt-romney",
+  "published_at": "2021-02-09",
+  "question": "On the Motion",
+  "rollnumber": 57,
+  "source_url": "https://voteview.com/rollcall/RS1170057",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2021-02-09",
+  "vote_result": "Motion Agreed to"
+}

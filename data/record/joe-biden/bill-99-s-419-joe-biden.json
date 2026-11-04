@@ -1,0 +1,21 @@
+{
+  "bill_number": "S419",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-419-joe-biden",
+  "introduced_date": "1985-03-07",
+  "policy_area": "Taxation",
+  "published_at": "1985-03-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/419",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to allow a deduction for one-half of the expenses paid by a self-employed taxpayer for individual health insurance premiums.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

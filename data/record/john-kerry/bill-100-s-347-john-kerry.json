@@ -1,0 +1,18 @@
+{
+  "bill_number": "S347",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-347-john-kerry",
+  "introduced_date": "1987-01-27",
+  "policy_area": "Law",
+  "published_at": "1987-01-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/347",
+  "title": "A bill to amend chapter 171 of title 28, United States Code, to allow members of the Armed Forces to sue the United States for damages for certain injuries caused by improper medical care provided during peacetime.",
+  "topics": [],
+  "type": "bill"
+}

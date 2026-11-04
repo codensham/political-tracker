@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES212",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-212-mitt-romney",
+  "introduced_date": "2019-05-21",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2019-05-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/212",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution celebrating the 100th anniversary of the passage and ratification of the 19th Amendment, providing for women's suffrage, to the Constitution of the United States.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

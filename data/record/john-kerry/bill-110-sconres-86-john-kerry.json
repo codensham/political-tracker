@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES86",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sconres-86-john-kerry",
+  "introduced_date": "2008-06-03",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2008-06-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-concurrent-resolution/86",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress that the United States, through the International Whaling Commission, should use all appropriate measures to end commercial whaling in all of its forms and seek to strengthen measures to conserve whale species.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

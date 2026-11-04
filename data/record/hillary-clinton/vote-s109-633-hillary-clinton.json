@@ -1,0 +1,20 @@
+{
+  "bill_number": "S3709",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-633-hillary-clinton",
+  "published_at": "2006-11-16",
+  "question": "On the Amendment",
+  "rollnumber": 633,
+  "source_url": "https://voteview.com/rollcall/RS1090633",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-11-16",
+  "vote_result": "Amendment Rejected"
+}

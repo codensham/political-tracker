@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2327",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2327-john-mccain",
+  "introduced_date": "1992-05-07",
+  "policy_area": "Education",
+  "published_at": "1992-05-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2327",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to suspend certain compliance and accountability measures under the National School Lunch Act.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

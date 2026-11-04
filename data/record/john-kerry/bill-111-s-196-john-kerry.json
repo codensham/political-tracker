@@ -1,0 +1,21 @@
+{
+  "bill_number": "S196",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-196-john-kerry",
+  "introduced_date": "2009-01-09",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2009-01-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/196",
+  "tagged_by": "crosswalk@1",
+  "title": "Quinebaug and Shetucket Rivers Valley National Heritage Corridor Amendments Act of 2009",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

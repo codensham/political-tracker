@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES477",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-477-john-kerry",
+  "introduced_date": "2012-06-05",
+  "policy_area": "International Affairs",
+  "published_at": "2012-06-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/477",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling for the safe and immediate return of Noor and Ramsay Bower to the United States.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

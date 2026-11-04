@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1647",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1647-john-mccain",
+  "introduced_date": "1987-10-06",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1987-10-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1647",
+  "tagged_by": "crosswalk@1",
+  "title": "Former Presidents Act of 1987",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

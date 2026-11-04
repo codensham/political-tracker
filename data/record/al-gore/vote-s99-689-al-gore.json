@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-s99-689-al-gore",
+  "published_at": "1986-10-01",
+  "question": null,
+  "rollnumber": 689,
+  "source_url": "https://voteview.com/rollcall/RS0990689",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1986-10-01",
+  "vote_result": null
+}

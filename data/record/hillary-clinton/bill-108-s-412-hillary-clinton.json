@@ -1,0 +1,21 @@
+{
+  "bill_number": "S412",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-412-hillary-clinton",
+  "introduced_date": "2003-03-03",
+  "policy_area": "Health",
+  "published_at": "2003-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/412",
+  "tagged_by": "crosswalk@1",
+  "title": "Local Emergency Health Services Reimbursement Act of 2003",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

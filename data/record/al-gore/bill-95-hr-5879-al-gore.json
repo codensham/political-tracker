@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5879",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-hr-5879-al-gore",
+  "introduced_date": "1977-03-31",
+  "policy_area": "Environmental Protection",
+  "published_at": "1977-03-31",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/house-bill/5879",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to exempt the Columbia Dam and Reservoir in Tennessee from the provisions of the Endangered Species Act of 1973.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

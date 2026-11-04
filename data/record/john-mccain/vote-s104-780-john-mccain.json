@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN953",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-780-john-mccain",
+  "published_at": "1996-06-20",
+  "question": "On the Nomination",
+  "rollnumber": 780,
+  "source_url": "https://voteview.com/rollcall/RS1040780",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-06-20",
+  "vote_result": "Nomination Confirmed"
+}

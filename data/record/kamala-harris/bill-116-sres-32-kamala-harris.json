@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES32",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-32-kamala-harris",
+  "introduced_date": "2019-01-28",
+  "policy_area": "Immigration",
+  "published_at": "2019-01-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/32",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing January 27, 2019, as the anniversary of the first refugee and Muslim ban, and urging the President to demonstrate true leadership on refugee resettlement.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

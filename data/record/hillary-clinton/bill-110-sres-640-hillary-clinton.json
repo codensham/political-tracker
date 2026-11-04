@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES640",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-640-hillary-clinton",
+  "introduced_date": "2008-07-31",
+  "policy_area": "Health",
+  "published_at": "2008-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/640",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that there should be an increased Federal commitment to public health and the prevention of diseases and injuries for all people in the United States.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

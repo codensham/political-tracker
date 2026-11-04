@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2399",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2399-john-mccain",
+  "introduced_date": "1988-05-16",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1988-05-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2399",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to extend until December 31, 1993, the existing suspension of duty on certain yttrium ores, materials, and compounds.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

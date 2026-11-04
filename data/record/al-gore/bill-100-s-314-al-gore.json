@@ -1,0 +1,21 @@
+{
+  "bill_number": "S314",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-314-al-gore",
+  "introduced_date": "1987-09-09",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1987-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/314",
+  "tagged_by": "crosswalk@1",
+  "title": "Hearing Aid Compatibility Act of 1988",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

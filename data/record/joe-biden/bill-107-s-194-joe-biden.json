@@ -1,0 +1,21 @@
+{
+  "bill_number": "S194",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-194-joe-biden",
+  "introduced_date": "2001-01-29",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2001-01-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/194",
+  "tagged_by": "crosswalk@1",
+  "title": "Offender Reentry and Community Safety Act of 2001",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

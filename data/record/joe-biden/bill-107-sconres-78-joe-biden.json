@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES78",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-78-joe-biden",
+  "introduced_date": "2001-10-10",
+  "policy_area": "Commemorations",
+  "published_at": "2001-10-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/78",
+  "title": "A concurrent resolution expressing the sense of Congress regarding the establishment of National Character Counts Week.",
+  "topics": [],
+  "type": "bill"
+}

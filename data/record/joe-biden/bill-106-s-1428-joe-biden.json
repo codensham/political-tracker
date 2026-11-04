@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1428",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1428-joe-biden",
+  "introduced_date": "1999-07-22",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1999-07-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1428",
+  "tagged_by": "crosswalk@1",
+  "title": "Methamphetamine Anti-Proliferation Act of 1999",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

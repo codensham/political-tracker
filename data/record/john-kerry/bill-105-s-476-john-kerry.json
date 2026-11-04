@@ -1,0 +1,18 @@
+{
+  "bill_number": "S476",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-476-john-kerry",
+  "introduced_date": "1997-06-16",
+  "policy_area": "Families",
+  "published_at": "1997-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/476",
+  "title": "A bill to provide for the establishment of not less than 2,500 Boys and Girls Clubs of America facilities by the year 2000.",
+  "topics": [],
+  "type": "bill"
+}

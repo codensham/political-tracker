@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3660",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-306-john-kerry",
+  "published_at": "1989-11-17",
+  "question": "On the Motion to Table",
+  "rollnumber": 306,
+  "source_url": "https://voteview.com/rollcall/RS1010306",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1989-11-17",
+  "vote_result": "Motion to Table Agreed to"
+}

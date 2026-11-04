@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1247",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1247-john-kerry",
+  "introduced_date": "2005-06-14",
+  "policy_area": "Education",
+  "published_at": "2005-06-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1247",
+  "tagged_by": "crosswalk@1",
+  "title": "Youth Service Scholarship Act of 2005",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

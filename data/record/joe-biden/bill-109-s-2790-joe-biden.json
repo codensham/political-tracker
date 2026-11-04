@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2790",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2790-joe-biden",
+  "introduced_date": "2006-05-11",
+  "policy_area": "Taxation",
+  "published_at": "2006-05-11",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2790",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to repeal the fossil fuel energy tax incentives contained in the Energy Policy Act of 2005.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN64",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-11-john-kerry",
+  "published_at": "1991-02-07",
+  "question": "On the Nomination",
+  "rollnumber": 11,
+  "source_url": "https://voteview.com/rollcall/RS1020011",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-02-07",
+  "vote_result": "Nomination Confirmed"
+}

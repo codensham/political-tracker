@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3127",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-3127-john-mccain",
+  "introduced_date": "2016-07-13",
+  "policy_area": "Native Americans",
+  "published_at": "2016-07-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/3127",
+  "title": "Safeguard Tribal Objects of Patrimony Act of 2016",
+  "topics": [],
+  "type": "bill"
+}

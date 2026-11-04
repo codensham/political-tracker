@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2072",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2072-john-kerry",
+  "introduced_date": "2000-02-10",
+  "policy_area": "Energy",
+  "published_at": "2000-02-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2072",
+  "tagged_by": "crosswalk@1",
+  "title": "Home Heating Readiness Act",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES76",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-76-hillary-clinton",
+  "introduced_date": "2001-10-04",
+  "policy_area": "Commemorations",
+  "published_at": "2001-10-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/76",
+  "title": "A concurrent resolution honoring the law enforcement officers, firefighters, emergency rescue personnel, and health care professionals who have worked tirelessly to search for and rescue the victims of the horrific attacks on the United States on September 11, 2001.",
+  "topics": [],
+  "type": "bill"
+}

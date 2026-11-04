@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2308",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2308-john-kerry",
+  "introduced_date": "1986-05-06",
+  "policy_area": "International Affairs",
+  "published_at": "1986-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2308",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize the President of the United States to award congressional gold medals to Anatoly and Avital Shcharansky in recognition of their dedication to human rights, and to authorize the Secretary of the Treasury to sell bronze duplicates of those medals.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

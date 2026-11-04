@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES353",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-353-john-mccain",
+  "introduced_date": "2006-01-25",
+  "policy_area": "International Affairs",
+  "published_at": "2006-01-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/353",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing concern with the deliberate undermining of democratic freedoms and justice in Cambodia by Prime Minister Hun Sen and the Government of Cambodia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

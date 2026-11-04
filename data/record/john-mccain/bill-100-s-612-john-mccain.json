@@ -1,0 +1,18 @@
+{
+  "bill_number": "S612",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-612-john-mccain",
+  "introduced_date": "1988-04-15",
+  "policy_area": "Law",
+  "published_at": "1988-04-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/612",
+  "title": "A bill to repeal a provision of Federal tort liability law relating to the civil liability of Government contractors for certain injuries, losses of property, and deaths and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

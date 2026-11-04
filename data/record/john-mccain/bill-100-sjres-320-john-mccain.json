@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES320",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-320-john-mccain",
+  "introduced_date": "1988-07-12",
+  "policy_area": "Commemorations",
+  "published_at": "1988-07-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/320",
+  "title": "A joint resolution to commemorate the fiftieth anniversary of the passage of the Food, Drug and Cosmetic Act.",
+  "topics": [],
+  "type": "bill"
+}

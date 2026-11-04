@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES343",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-343-mitt-romney",
+  "introduced_date": "2021-08-07",
+  "policy_area": "Congress",
+  "published_at": "2021-08-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/343",
+  "title": "A resolution relative to the death of the Honorable Maurice Robert Gravel, former Senator from the State of Alaska.",
+  "topics": [],
+  "type": "bill"
+}

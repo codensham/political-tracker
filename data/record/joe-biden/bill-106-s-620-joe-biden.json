@@ -1,0 +1,21 @@
+{
+  "bill_number": "S620",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-620-joe-biden",
+  "introduced_date": "1999-05-19",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1999-05-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/620",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to grant a Federal charter to Korean War Veterans Association, Incorporated, and for other purposes.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

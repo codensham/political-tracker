@@ -1,0 +1,24 @@
+{
+  "bill_number": "SJRES52",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-422-kamala-harris",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2018-05-16",
+  "question": "On the Joint Resolution",
+  "rollnumber": 422,
+  "source_url": "https://voteview.com/rollcall/RS1150422",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "technology"
+  ],
+  "type": "vote",
+  "vote_date": "2018-05-16",
+  "vote_result": "Joint Resolution Passed"
+}

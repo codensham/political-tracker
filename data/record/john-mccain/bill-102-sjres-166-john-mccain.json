@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES166",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sjres-166-john-mccain",
+  "introduced_date": "1992-04-09",
+  "policy_area": "Commerce",
+  "published_at": "1992-04-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/166",
+  "title": "A joint resolution designating the week of October 4 through 10, 1992, as \"National Customer Service Week\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S303",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-303-kamala-harris",
+  "introduced_date": "2017-02-03",
+  "policy_area": "Immigration",
+  "published_at": "2017-02-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/303",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to discontinue a Federal program that authorizes State and local law enforcement officers to investigate, apprehend, and detain aliens in accordance with a written agreement with the Director of U.S. Immigration and Customs Enforcement and to clarify that immigration enforcement is solely a function of the Federal Government.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

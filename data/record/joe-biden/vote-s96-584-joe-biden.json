@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2445",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 96,
+  "id": "vote-s96-584-joe-biden",
+  "published_at": "1980-04-15",
+  "question": null,
+  "rollnumber": 584,
+  "source_url": "https://voteview.com/rollcall/RS0960584",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1980-04-15",
+  "vote_result": null
+}

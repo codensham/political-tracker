@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4523",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-4523-john-mccain",
+  "introduced_date": "1984-04-05",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1984-04-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/4523",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 2031 (relating to rape) of title 18 of the United States Code to eliminate parole and credit for good time in certain cases.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

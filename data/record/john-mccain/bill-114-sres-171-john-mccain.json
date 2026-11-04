@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES171",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-171-john-mccain",
+  "introduced_date": "2015-05-06",
+  "policy_area": "Education",
+  "published_at": "2015-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/171",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution congratulating the students, parents, teachers, and administrators of charter schools across the United States for making ongoing contributions to education, and supporting the ideals and goals of the 16th annual National Charter Schools Week, to be held May 3 through May 9, 2015.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

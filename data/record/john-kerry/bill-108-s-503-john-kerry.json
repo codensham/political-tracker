@@ -1,0 +1,21 @@
+{
+  "bill_number": "S503",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-503-john-kerry",
+  "introduced_date": "2003-03-04",
+  "policy_area": "Taxation",
+  "published_at": "2003-03-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/503",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to allow increase the minimum tax credit where stock acquired pursuant to an incentive stock option is sold or exchanged at a loss.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

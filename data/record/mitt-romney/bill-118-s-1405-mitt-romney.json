@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1405",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-s-1405-mitt-romney",
+  "introduced_date": "2023-05-02",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2023-05-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/1405",
+  "tagged_by": "crosswalk@1",
+  "title": "Utah School and Institutional Trust Lands Administration Exchange Act of 2023",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

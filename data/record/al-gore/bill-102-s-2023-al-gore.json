@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2023",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2023-al-gore",
+  "introduced_date": "1991-11-22",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1991-11-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2023",
+  "tagged_by": "crosswalk@1",
+  "title": "New Columbia Admission Act",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

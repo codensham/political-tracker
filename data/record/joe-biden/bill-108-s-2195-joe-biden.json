@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2195",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2195-joe-biden",
+  "introduced_date": "2004-03-11",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2004-03-11",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2195",
+  "tagged_by": "crosswalk@1",
+  "title": "Anabolic Steroid Control Act of 2004",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

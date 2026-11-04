@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES110",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-sconres-110-joe-biden",
+  "introduced_date": "1984-05-08",
+  "policy_area": "Social Sciences and History",
+  "published_at": "1984-05-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-concurrent-resolution/110",
+  "title": "A concurrent resolution in commemoration of the 30th anniversary of the unanimous decision of the Supreme Court of the United States in Brown v. Board of Education.",
+  "topics": [],
+  "type": "bill"
+}

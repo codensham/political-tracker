@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2006",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2006-john-kerry",
+  "introduced_date": "2002-03-12",
+  "policy_area": "Taxation",
+  "published_at": "2002-03-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2006",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to clarify the eligibility of certain expenses for the low-income housing credit.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

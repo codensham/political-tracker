@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2027",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-2027-kamala-harris",
+  "introduced_date": "2019-06-27",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2019-06-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2027",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38, United States Code, to expand the scope of the Advisory Committee on Minority Veterans, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

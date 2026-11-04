@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES730",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-730-mitt-romney",
+  "introduced_date": "2020-09-30",
+  "policy_area": "Commerce",
+  "published_at": "2020-09-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/730",
+  "title": "A resolution supporting the designation of the week beginning September 20, 2020, as \"National Small Business Week\" and commending the entrepreneurial spirit of the small business owners of the United States and their impact on their communities.",
+  "topics": [],
+  "type": "bill"
+}

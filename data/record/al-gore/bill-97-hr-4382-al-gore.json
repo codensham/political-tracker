@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR4382",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-4382-al-gore",
+  "introduced_date": "1981-09-24",
+  "policy_area": "Social Welfare",
+  "published_at": "1981-09-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/4382",
+  "title": "A bill to amend the Social Security Act to provide for improved management of the social security trust funds and increase the return on investments to those funds.",
+  "topics": [],
+  "type": "bill"
+}

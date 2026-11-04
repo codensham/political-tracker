@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4576",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-497-john-kerry",
+  "published_at": "2000-06-09",
+  "question": "On the Amendment",
+  "rollnumber": 497,
+  "source_url": "https://voteview.com/rollcall/RS1060497",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-06-09",
+  "vote_result": "Amendment Agreed to"
+}

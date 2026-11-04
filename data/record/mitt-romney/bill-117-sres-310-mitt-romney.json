@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES310",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-310-mitt-romney",
+  "introduced_date": "2021-07-28",
+  "policy_area": "International Affairs",
+  "published_at": "2021-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/310",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing solidarity with Cuban citizens demonstrating peacefully for fundamental freedoms, condemning the Cuban regime's acts of repression, and calling for the immediate release of arbitrarily detained Cuban citizens.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES76",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-76-john-mccain",
+  "introduced_date": "2015-02-12",
+  "policy_area": "International Affairs",
+  "published_at": "2015-02-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/76",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution welcoming the Prime Minister of Israel to the United States for his address to a joint meeting of Congress.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

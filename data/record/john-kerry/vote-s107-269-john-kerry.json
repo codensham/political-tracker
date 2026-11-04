@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2620",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-269-john-kerry",
+  "published_at": "2001-08-02",
+  "question": "On Passage of the Bill",
+  "rollnumber": 269,
+  "source_url": "https://voteview.com/rollcall/RS1070269",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-08-02",
+  "vote_result": "Bill Passed"
+}

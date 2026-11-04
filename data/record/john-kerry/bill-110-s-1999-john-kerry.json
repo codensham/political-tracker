@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1999",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-1999-john-kerry",
+  "introduced_date": "2007-08-03",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2007-08-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/1999",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for the establishment of a Center of Excellence in Prevention, Diagnosis, Mitigation, Treatment, and Rehabilitation of Military Eye Injuries, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

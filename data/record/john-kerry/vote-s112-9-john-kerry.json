@@ -1,0 +1,20 @@
+{
+  "bill_number": "S223",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-9-john-kerry",
+  "published_at": "2011-02-02",
+  "question": "On the Motion",
+  "rollnumber": 9,
+  "source_url": "https://voteview.com/rollcall/RS1120009",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2011-02-02",
+  "vote_result": "Motion Rejected"
+}

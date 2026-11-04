@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES33",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-33-john-kerry",
+  "introduced_date": "2005-05-16",
+  "policy_area": "International Affairs",
+  "published_at": "2005-05-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/33",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Congress regarding the policy of the United States at the 57th Annual Meeting of the International Whaling Commission.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

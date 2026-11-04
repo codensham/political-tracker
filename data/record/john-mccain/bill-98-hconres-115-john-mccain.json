@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES115",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hconres-115-john-mccain",
+  "introduced_date": "1983-04-28",
+  "policy_area": "Taxation",
+  "published_at": "1983-04-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-concurrent-resolution/115",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the tax reductions and indexing of individual income tax rates enacted by the Economic Recovery Tax Act of 1981 remain fundamental ingredients to the prolonged economic recovery now underway and that any repeal or delay in those fundamental ingredients clearly jeopardize such recovery.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

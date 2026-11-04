@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1587",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1587-john-kerry",
+  "introduced_date": "2001-10-30",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2001-10-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1587",
+  "title": "Port Threat and Security Act",
+  "topics": [],
+  "type": "bill"
+}

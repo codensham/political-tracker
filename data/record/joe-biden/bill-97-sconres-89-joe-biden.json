@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES89",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-sconres-89-joe-biden",
+  "introduced_date": "1982-05-04",
+  "policy_area": "Emergency Management",
+  "published_at": "1982-05-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-concurrent-resolution/89",
+  "title": "A concurrent resolution expressing the sense of Congress that the United States Fire Administration should continue to make arson research and training an important and integral part of its mission and continue to support the anti-arson and fire safety efforts of states and localities in order to reduce lives and property damage lost by fire and arson.",
+  "topics": [],
+  "type": "bill"
+}

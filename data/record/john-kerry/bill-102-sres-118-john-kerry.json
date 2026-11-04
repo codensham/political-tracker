@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES118",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-118-john-kerry",
+  "introduced_date": "1991-04-25",
+  "policy_area": "International Affairs",
+  "published_at": "1991-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/118",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending the agreement for the establishment of an American POW/MIA office in Hanoi, Veitnam, and recommending that such office be authorized to serve as a liaison between the families of Americans missing-in-action and the Government of Vietnam.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S22",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-22-john-kerry",
+  "introduced_date": "1990-06-13",
+  "policy_area": "International Affairs",
+  "published_at": "1990-06-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/22",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit all United States military and economic assistance for Turkey until the Turkish Government takes certain actions to resolve the Cyprus problem.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

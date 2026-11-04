@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES493",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-493-hillary-clinton",
+  "introduced_date": "2006-06-13",
+  "policy_area": "International Affairs",
+  "published_at": "2006-06-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/493",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling on the Government of the United Kingdom to establish immediately a full, independent, public judicial inquiry into the murder of Northern Ireland defense attorney Pat Finucane, as recommended by international Judge Peter Cory as part of the Western Park agreement and a way forward for the Northern Ireland Peace Process.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

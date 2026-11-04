@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3445",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-3445-john-mccain",
+  "introduced_date": "2012-07-26",
+  "policy_area": "Energy",
+  "published_at": "2012-07-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/3445",
+  "tagged_by": "crosswalk@1",
+  "title": "Domestic Energy and Jobs Act",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

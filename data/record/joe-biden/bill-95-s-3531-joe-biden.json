@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3531",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T14:13:06Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-s-3531-joe-biden",
+  "introduced_date": "1978-09-27",
+  "policy_area": "Automobile theft",
+  "published_at": "1978-09-27",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/senate-bill/3531",
+  "tagged_by": "crosswalk@1",
+  "title": "Motor Vehicle Theft Prevention Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

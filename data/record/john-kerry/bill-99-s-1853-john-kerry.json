@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1853",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-1853-john-kerry",
+  "introduced_date": "1985-11-14",
+  "policy_area": "Law",
+  "published_at": "1985-11-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/1853",
+  "title": "Court Interpreters Improvement Act of 1986",
+  "topics": [],
+  "type": "bill"
+}

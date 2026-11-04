@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES94",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-94-joe-biden",
+  "introduced_date": "1990-03-21",
+  "policy_area": "International Affairs",
+  "published_at": "1990-03-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/94",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution relating to the release of Nelson Mandela and other positive developments in South Africa.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

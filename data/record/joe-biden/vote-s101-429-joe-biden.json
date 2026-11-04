@@ -1,0 +1,24 @@
+{
+  "bill_number": "S566",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-429-joe-biden",
+  "policy_area": "Housing and Community Development",
+  "published_at": "1990-06-19",
+  "question": "On the Amendment",
+  "rollnumber": 429,
+  "source_url": "https://voteview.com/rollcall/RS1010429",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "housing"
+  ],
+  "type": "vote",
+  "vote_date": "1990-06-19",
+  "vote_result": "Amendment Agreed to"
+}

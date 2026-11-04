@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES81",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-81-joe-biden",
+  "introduced_date": "2001-11-08",
+  "policy_area": "International Affairs",
+  "published_at": "2001-11-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/81",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress to welcome the Prime Minister of India, Atal Bihari Vajpayee, on the occasion of his visit to the United States, and to affirm that India is a valued friend and partner and an important ally in the campaign against international terrorism.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

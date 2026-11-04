@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES117",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-117-al-gore",
+  "introduced_date": "1989-05-10",
+  "policy_area": "Families",
+  "published_at": "1989-05-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/117",
+  "title": "A joint resolution to designate the week of November 19, 1989 through November 25, 1989 and the week of November 18, 1990 through November 24, 1990, as \"National Family Week\".",
+  "topics": [],
+  "type": "bill"
+}

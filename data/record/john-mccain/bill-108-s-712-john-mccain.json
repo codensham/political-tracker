@@ -1,0 +1,21 @@
+{
+  "bill_number": "S712",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-712-john-mccain",
+  "introduced_date": "2003-03-26",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2003-03-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/712",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to provide Survivor Benefit Plan annuities for surviving spouses of Reserves not eligible for retirement who die from a cause incurred or aggravated while on inactive-duty training.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

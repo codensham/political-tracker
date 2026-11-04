@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1884",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-s99-347-john-kerry",
+  "published_at": "1985-12-03",
+  "question": null,
+  "rollnumber": 347,
+  "source_url": "https://voteview.com/rollcall/RS0990347",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1985-12-03",
+  "vote_result": null
+}

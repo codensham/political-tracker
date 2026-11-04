@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES26",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-26-joe-biden",
+  "introduced_date": "2005-02-07",
+  "policy_area": "International Affairs",
+  "published_at": "2005-02-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/26",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending the people of Iraq on the election held on January 30, 2005, of a 275-member transitional National Assembly and of provincial and regional governments and encouraging further steps toward establishment of a free, democratic, secure, and prosperous Iraq.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

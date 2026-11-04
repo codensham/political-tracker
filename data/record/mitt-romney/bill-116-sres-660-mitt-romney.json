@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES660",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-660-mitt-romney",
+  "introduced_date": "2020-07-28",
+  "policy_area": "Congress",
+  "published_at": "2020-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/660",
+  "title": "A resolution honoring and commemorating the life and legacy of Representative John Lewis.",
+  "topics": [],
+  "type": "bill"
+}

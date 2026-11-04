@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1072",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-466-john-kerry",
+  "published_at": "2004-02-02",
+  "question": "On the Cloture Motion",
+  "rollnumber": 466,
+  "source_url": "https://voteview.com/rollcall/RS1080466",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-02-02",
+  "vote_result": "Cloture Motion Agreed to"
+}

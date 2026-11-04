@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1386",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1386-john-kerry",
+  "introduced_date": "2003-07-10",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2003-07-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1386",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend titles 10 and 14, United States Code, to provide for the use of gold in the metal content of the Medal of Honor.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

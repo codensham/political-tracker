@@ -1,0 +1,21 @@
+{
+  "bill_number": "S548",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-548-john-mccain",
+  "introduced_date": "2011-03-10",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2011-03-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/548",
+  "tagged_by": "crosswalk@1",
+  "title": "Effective Interrogation of Unprivileged Enemy Belligerents Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

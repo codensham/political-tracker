@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES402",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-402-john-kerry",
+  "introduced_date": "2010-01-29",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2010-01-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/402",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing support for the designation of January 28, 2010 as National Data Privacy Day.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

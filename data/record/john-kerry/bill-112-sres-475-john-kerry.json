@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES475",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-475-john-kerry",
+  "introduced_date": "2012-05-24",
+  "policy_area": "Congress",
+  "published_at": "2012-05-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/475",
+  "title": "A resolution relating to the death of the Honorable E. James Abdnor, former United States Senator and Congressman from the State of South Dakota.",
+  "topics": [],
+  "type": "bill"
+}

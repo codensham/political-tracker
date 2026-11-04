@@ -1,0 +1,24 @@
+{
+  "bill_number": "S151",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-127-kamala-harris",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2019-05-23",
+  "question": "On Passage of the Bill",
+  "rollnumber": 127,
+  "source_url": "https://voteview.com/rollcall/RS1160127",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "technology"
+  ],
+  "type": "vote",
+  "vote_date": "2019-05-23",
+  "vote_result": "Bill Passed"
+}

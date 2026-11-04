@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1781",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1781-john-mccain",
+  "introduced_date": "2001-12-06",
+  "policy_area": "Environmental Protection",
+  "published_at": "2001-12-06",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1781",
+  "tagged_by": "crosswalk@1",
+  "title": "Emission Reductions Incentive Act of 2001",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2394",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2394-hillary-clinton",
+  "introduced_date": "2002-04-29",
+  "policy_area": "Health",
+  "published_at": "2002-04-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2394",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act to require labeling containing information applicable to pediatric patients.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

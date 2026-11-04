@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5777",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 93,
+  "id": "vote-s93-353-joe-biden",
+  "published_at": "1973-08-01",
+  "question": null,
+  "rollnumber": 353,
+  "source_url": "https://voteview.com/rollcall/RS0930353",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1973-08-01",
+  "vote_result": null
+}

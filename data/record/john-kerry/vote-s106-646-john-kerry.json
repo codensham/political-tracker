@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4635",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-646-john-kerry",
+  "published_at": "2000-10-12",
+  "question": "On Passage of the Bill",
+  "rollnumber": 646,
+  "source_url": "https://voteview.com/rollcall/RS1060646",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-10-12",
+  "vote_result": "Bill Passed"
+}

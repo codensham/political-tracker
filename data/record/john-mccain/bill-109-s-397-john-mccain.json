@@ -1,0 +1,18 @@
+{
+  "bill_number": "S397",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-397-john-mccain",
+  "introduced_date": "2005-07-21",
+  "policy_area": "Law",
+  "published_at": "2005-07-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/397",
+  "title": "Protection of Lawful Commerce in Arms Act",
+  "topics": [],
+  "type": "bill"
+}

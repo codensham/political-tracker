@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES383",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-383-john-kerry",
+  "introduced_date": "2009-12-21",
+  "policy_area": "Social Welfare",
+  "published_at": "2009-12-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/383",
+  "title": "A resolution designating January 2010 as \"National Mentoring Month\".",
+  "topics": [],
+  "type": "bill"
+}

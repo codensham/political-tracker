@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES108",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-108-joe-biden",
+  "introduced_date": "1991-04-18",
+  "policy_area": "Congress",
+  "published_at": "1991-04-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/108",
+  "title": "A resolution relative to the illness of the Honorable David Pryor, a Senator from the State of Arkansas.",
+  "topics": [],
+  "type": "bill"
+}

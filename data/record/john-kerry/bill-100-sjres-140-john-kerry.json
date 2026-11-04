@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES140",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-140-john-kerry",
+  "introduced_date": "1987-05-28",
+  "policy_area": "Commemorations",
+  "published_at": "1987-05-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/140",
+  "title": "A joint resolution to designate the week beginning July 13, 1987 as \"Snow White Week\".",
+  "topics": [],
+  "type": "bill"
+}

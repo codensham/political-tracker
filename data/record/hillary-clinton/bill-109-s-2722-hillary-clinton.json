@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2722",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2722-hillary-clinton",
+  "introduced_date": "2006-05-04",
+  "policy_area": "Commemorations",
+  "published_at": "2006-05-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2722",
+  "title": "A bill to designate the facility of the United States Postal Service located at 170 East Main Street in Patchogue, New York, as the \"Lieutenant Michael P. Murphy Post Office Building\".",
+  "topics": [],
+  "type": "bill"
+}

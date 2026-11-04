@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES231",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-231-joe-biden",
+  "introduced_date": "1990-03-22",
+  "policy_area": "International Affairs",
+  "published_at": "1990-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/231",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution urging the submission of the Convention on the Rights of the Child to the Senate for its advice and consent to ratification.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

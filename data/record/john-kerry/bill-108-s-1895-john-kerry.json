@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1895",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1895-john-kerry",
+  "introduced_date": "2003-11-19",
+  "policy_area": "Commerce",
+  "published_at": "2003-11-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1895",
+  "title": "A bill to temporarily extend the programs under the Small Business Act and the Small Business Investment Act of 1958 through March 15, 2004, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

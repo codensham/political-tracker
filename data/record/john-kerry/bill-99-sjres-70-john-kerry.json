@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES70",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-70-john-kerry",
+  "introduced_date": "1985-02-28",
+  "policy_area": "Commemorations",
+  "published_at": "1985-02-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/70",
+  "title": "A joint resolution to proclaim March 20, 1985, as \"National Agriculture Day\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES208",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-208-joe-biden",
+  "introduced_date": "1999-10-28",
+  "policy_area": "International Affairs",
+  "published_at": "1999-10-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/208",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding United States policy toward the North Atlantic Treaty Organization and the European Union, in light of the Alliance's April 1999 Washington Summit and the European Union's June 1999 Cologne Summit.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

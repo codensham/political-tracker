@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES502",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-502-john-mccain",
+  "introduced_date": "2014-07-15",
+  "policy_area": "Immigration",
+  "published_at": "2014-07-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/502",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution concerning the suspension of exit permit issuance by the Government of the Democratic Republic of Congo for adopted Congolese children seeking to depart the country with their adoptive parents.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

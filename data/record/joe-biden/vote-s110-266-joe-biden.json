@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2669",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-266-joe-biden",
+  "published_at": "2007-07-19",
+  "question": "On the Motion",
+  "rollnumber": 266,
+  "source_url": "https://voteview.com/rollcall/RS1100266",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-07-19",
+  "vote_result": "Motion Rejected"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "SCONRES14",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-316-mitt-romney",
+  "published_at": "2021-08-10",
+  "question": "On the Amendment",
+  "rollnumber": 316,
+  "source_url": "https://voteview.com/rollcall/RS1170316",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2021-08-10",
+  "vote_result": "Amendment Agreed to"
+}

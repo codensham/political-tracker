@@ -1,0 +1,20 @@
+{
+  "bill_number": "SCONRES20",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-74-john-kerry",
+  "published_at": "1999-03-25",
+  "question": "On the Motion to Table",
+  "rollnumber": 74,
+  "source_url": "https://voteview.com/rollcall/RS1060074",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1999-03-25",
+  "vote_result": "Motion to Table Failed"
+}

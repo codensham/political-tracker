@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES420",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-420-hillary-clinton",
+  "introduced_date": "2008-01-22",
+  "policy_area": "Congress",
+  "published_at": "2008-01-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/420",
+  "title": "A resolution commending Martin P. Paone",
+  "topics": [],
+  "type": "bill"
+}

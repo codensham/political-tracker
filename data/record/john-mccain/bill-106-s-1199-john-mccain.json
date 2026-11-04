@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1199",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1199-john-mccain",
+  "introduced_date": "2000-02-29",
+  "policy_area": "International Affairs",
+  "published_at": "2000-02-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1199",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the Secretary of State to report on United States citizens injured or killed by certain terrorist groups.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

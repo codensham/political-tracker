@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES407",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-407-joe-biden",
+  "introduced_date": "2006-07-26",
+  "policy_area": "Commemorations",
+  "published_at": "2006-07-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/407",
+  "title": "A resolution recognizing the African American Spiritual as a national treasure.",
+  "topics": [],
+  "type": "bill"
+}

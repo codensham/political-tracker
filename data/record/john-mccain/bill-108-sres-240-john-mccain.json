@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES240",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-240-john-mccain",
+  "introduced_date": "2003-10-03",
+  "policy_area": "Commemorations",
+  "published_at": "2003-10-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/240",
+  "title": "A resolution designating November 2003 as \"National American Indian Heritage Month\".",
+  "topics": [],
+  "type": "bill"
+}

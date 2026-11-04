@@ -1,0 +1,21 @@
+{
+  "bill_number": "S517",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-517-joe-biden",
+  "introduced_date": "1987-02-05",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1987-02-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/517",
+  "tagged_by": "crosswalk@1",
+  "title": "Department of Justice Appropriation Authorization Act, Fiscal Year 1988",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

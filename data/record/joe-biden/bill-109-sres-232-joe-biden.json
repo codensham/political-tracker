@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES232",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-232-joe-biden",
+  "introduced_date": "2005-07-29",
+  "policy_area": "Commemorations",
+  "published_at": "2005-07-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/232",
+  "title": "A resolution celebrating the 40th anniversary of the enactment of the Voting Rights Act of 1965 and reaffirming the commitment of the Senate to ensuring the continued effectiveness of the Act in protecting the voting rights of all citizens of the United States.",
+  "topics": [],
+  "type": "bill"
+}

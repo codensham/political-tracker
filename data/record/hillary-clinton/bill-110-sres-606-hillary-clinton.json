@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES606",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-606-hillary-clinton",
+  "introduced_date": "2008-06-27",
+  "policy_area": "Health",
+  "published_at": "2008-06-27",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/606",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating June 27, 2008, as National HIV Testing Day.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

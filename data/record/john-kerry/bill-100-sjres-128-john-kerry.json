@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES128",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-128-john-kerry",
+  "introduced_date": "1987-06-16",
+  "policy_area": "International Affairs",
+  "published_at": "1987-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/128",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution prohibiting the sale to Honduras of certain defense articles and related defense services.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

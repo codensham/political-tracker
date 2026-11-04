@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1067",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-1067-kamala-harris",
+  "introduced_date": "2019-04-08",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2019-04-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1067",
+  "tagged_by": "crosswalk@1",
+  "title": "Combating Sexual Harassment in Science Act of 2019",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

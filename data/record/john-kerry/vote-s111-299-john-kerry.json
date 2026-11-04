@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN681",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-299-john-kerry",
+  "published_at": "2009-09-29",
+  "question": "On the Nomination",
+  "rollnumber": 299,
+  "source_url": "https://voteview.com/rollcall/RS1110299",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-09-29",
+  "vote_result": "Nomination Confirmed"
+}

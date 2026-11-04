@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES226",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-226-john-mccain",
+  "introduced_date": "2011-07-07",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2011-07-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/226",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the President does not have the authority to ignore the statutory debt limit by ordering the Secretary of the Treasury to continue issuing debt on the full faith and credit of the United States.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

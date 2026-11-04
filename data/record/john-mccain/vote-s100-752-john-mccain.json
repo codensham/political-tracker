@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5090",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-752-john-mccain",
+  "published_at": "1988-09-19",
+  "question": null,
+  "rollnumber": 752,
+  "source_url": "https://voteview.com/rollcall/RS1000752",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1988-09-19",
+  "vote_result": null
+}

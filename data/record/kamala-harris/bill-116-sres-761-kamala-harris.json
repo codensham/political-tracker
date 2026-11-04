@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES761",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-761-kamala-harris",
+  "introduced_date": "2020-10-26",
+  "policy_area": "Immigration",
+  "published_at": "2020-10-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/761",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the month of October 2020 as Filipino American History Month and celebrating the history and culture of Filipino Americans and their immense contributions to the United States.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

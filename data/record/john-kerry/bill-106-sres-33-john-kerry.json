@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES33",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-33-john-kerry",
+  "introduced_date": "1999-03-23",
+  "policy_area": "Commemorations",
+  "published_at": "1999-03-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/33",
+  "title": "A resolution designating May 1999 as \"National Military Appreciation Month\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,24 @@
+{
+  "bill_number": "S3297",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-631-joe-biden",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2008-07-28",
+  "question": "On the Cloture Motion",
+  "rollnumber": 631,
+  "source_url": "https://voteview.com/rollcall/RS1100631",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "economy"
+  ],
+  "type": "vote",
+  "vote_date": "2008-07-28",
+  "vote_result": "Cloture Motion Rejected"
+}

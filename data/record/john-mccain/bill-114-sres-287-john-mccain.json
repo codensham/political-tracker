@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES287",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-287-john-mccain",
+  "introduced_date": "2015-10-22",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2015-10-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/287",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the senseless murder and wounding of 18 individuals (sons, daughters, fathers, mothers, uncles, aunts, cousins, students, and teachers) in Roseburg, Oregon, on October 1, 2015.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

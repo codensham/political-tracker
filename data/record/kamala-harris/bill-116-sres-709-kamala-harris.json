@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES709",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-709-kamala-harris",
+  "introduced_date": "2020-10-22",
+  "policy_area": "International Affairs",
+  "published_at": "2020-10-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/709",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the August 13, 2020, and September 11, 2020, announcements of the establishment of full diplomatic relations between the State of Israel and the United Arab Emirates and the State of Israel and the Kingdom of Bahrain are historic achievements.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

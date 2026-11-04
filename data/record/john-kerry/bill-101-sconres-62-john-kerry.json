@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES62",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-62-john-kerry",
+  "introduced_date": "1989-09-27",
+  "policy_area": "Immigration",
+  "published_at": "1989-09-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/62",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution commending the decision of the Board of Immigration appeals to allow Joseph Patrick Doherty to apply for political asylum, expressing concern at the Attorney General's June 30, 1989, decision to deny Joseph Patrick Doherty a political asylum hearing, and asking the Attorney General to respect the BIA decision on political asylum and immediately to relase Joseph Patrick Doherty on bond pending final completion of the immigration proceedings.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

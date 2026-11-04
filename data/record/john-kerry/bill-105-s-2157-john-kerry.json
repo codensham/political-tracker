@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2157",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-2157-john-kerry",
+  "introduced_date": "1998-06-11",
+  "policy_area": "Commerce",
+  "published_at": "1998-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/2157",
+  "title": "A bill to amend the Small Business Act to increase the authorized funding level for women's business centers.",
+  "topics": [],
+  "type": "bill"
+}

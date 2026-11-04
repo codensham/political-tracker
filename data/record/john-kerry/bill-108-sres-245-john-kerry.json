@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES245",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-245-john-kerry",
+  "introduced_date": "2003-10-16",
+  "policy_area": "Commemorations",
+  "published_at": "2003-10-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/245",
+  "title": "A resolution designating the week beginning October 19, 2003, as \"National Character Counts Week\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3348",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-s-3348-joe-biden",
+  "introduced_date": "1978-07-27",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1978-07-27",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/senate-bill/3348",
+  "tagged_by": "crosswalk@1",
+  "title": "Emergency State and Local Prison Compliance Assistance Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

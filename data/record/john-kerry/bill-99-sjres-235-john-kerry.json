@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES235",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-235-john-kerry",
+  "introduced_date": "1985-12-09",
+  "policy_area": "Commemorations",
+  "published_at": "1985-12-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/235",
+  "title": "A joint resolution to designate the week of January 26, 1986, to February 1, 1986, as \"Truck and Bus Safety Week\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2078",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2078-john-mccain",
+  "introduced_date": "2005-11-18",
+  "policy_area": "Native Americans",
+  "published_at": "2005-11-18",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2078",
+  "title": "Indian Gaming Regulatory Act Amendments of 2006",
+  "topics": [],
+  "type": "bill"
+}

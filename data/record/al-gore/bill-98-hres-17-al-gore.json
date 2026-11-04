@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES17",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hres-17-al-gore",
+  "introduced_date": "1983-03-07",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1983-03-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-resolution/17",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the House of Representatives that the President should award Benjamin Elijah Mays the Presidential Medal of Freedom in honor of his distinguished career as an educator, civil rights leader, and theologian.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

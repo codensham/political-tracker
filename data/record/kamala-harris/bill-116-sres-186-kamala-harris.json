@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES186",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-186-kamala-harris",
+  "introduced_date": "2019-05-02",
+  "policy_area": "Families",
+  "published_at": "2019-05-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/186",
+  "title": "A resolution recognizing April 30, 2019, as \"El Dia de los Ninos-Celebrating Young Americans\".",
+  "topics": [],
+  "type": "bill"
+}

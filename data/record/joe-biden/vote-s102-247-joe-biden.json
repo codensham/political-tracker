@@ -1,0 +1,21 @@
+{
+  "bill_number": "S838",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-247-joe-biden",
+  "policy_area": "Families",
+  "published_at": "1991-11-07",
+  "question": "On Passage of the Bill",
+  "rollnumber": 247,
+  "source_url": "https://voteview.com/rollcall/RS1020247",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-11-07",
+  "vote_result": "Bill Passed"
+}

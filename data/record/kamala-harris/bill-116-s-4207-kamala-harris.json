@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4207",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-4207-kamala-harris",
+  "introduced_date": "2020-07-02",
+  "policy_area": "International Affairs",
+  "published_at": "2020-07-02",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4207",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Foreign Agents Registration Act of 1938, as amended to require news outlets that are agents of a foreign principal to provide adequate disclosure of their status.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

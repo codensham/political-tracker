@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2390",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-2390-kamala-harris",
+  "introduced_date": "2019-07-31",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2019-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2390",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit the imposition of the death penalty for any violation of Federal law, and for other purposes.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

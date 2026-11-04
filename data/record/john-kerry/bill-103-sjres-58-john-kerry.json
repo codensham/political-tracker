@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES58",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 103,
+  "id": "bill-103-sjres-58-john-kerry",
+  "introduced_date": "1993-08-04",
+  "policy_area": "Labor and Employment",
+  "published_at": "1993-08-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/103rd-congress/senate-joint-resolution/58",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to designate the weeks of May 2, 1993, through May 8, 1993, and May 1, 1994, through May 7, 1994, as \"National Correctional Officers Week\".",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

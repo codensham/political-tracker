@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES100",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-100-john-mccain",
+  "introduced_date": "1999-05-12",
+  "policy_area": "International Affairs",
+  "published_at": "1999-05-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/100",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution reaffirming the principles of the Programme of Action of the International Conference on Population and Development with respect to the sovereign rights of countries and the right of voluntary and informed consent in family planning programs.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

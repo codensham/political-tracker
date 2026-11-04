@@ -1,0 +1,20 @@
+{
+  "bill_number": "HCON275",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-594-al-gore",
+  "published_at": "1984-05-01",
+  "question": null,
+  "rollnumber": 594,
+  "source_url": "https://voteview.com/rollcall/RH0980594",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-05-01",
+  "vote_result": null
+}

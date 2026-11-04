@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES66",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-66-joe-biden",
+  "introduced_date": "2003-09-09",
+  "policy_area": "Commemorations",
+  "published_at": "2003-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/66",
+  "title": "A concurrent resolution commending the National Endowment for Democracy for its contributions to democratic development around the world on the occasion of the 20th anniversary of the establishment of the National Endowment for Democracy.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3151",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3151-mitt-romney",
+  "introduced_date": "2020-01-07",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2020-01-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3151",
+  "tagged_by": "crosswalk@1",
+  "title": "Connected Rural Schools Act",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

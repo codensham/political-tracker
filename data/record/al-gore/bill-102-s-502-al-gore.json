@@ -1,0 +1,21 @@
+{
+  "bill_number": "S502",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-502-al-gore",
+  "introduced_date": "1991-02-26",
+  "policy_area": "Water Resources Development",
+  "published_at": "1991-02-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/502",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to direct the Army Corps of Engineers to carry out a project for streambank protection along 2.2 miles of the Tennessee River adjacent to Sequoyah Hills Park in Knoxville, Tennessee.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR2010",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-2010-john-mccain",
+  "introduced_date": "1985-05-16",
+  "policy_area": "Social Welfare",
+  "published_at": "1985-05-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/2010",
+  "title": "A bill to amend title XVIII of the Social Security Act with respect to effective dates of enrollments and disenrollments of medicare beneficiaries in health maintenance organizations and competitive medical plans.",
+  "topics": [],
+  "type": "bill"
+}

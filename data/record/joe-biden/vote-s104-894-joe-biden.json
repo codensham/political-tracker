@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2056",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-894-joe-biden",
+  "published_at": "1996-09-10",
+  "question": "On Passage of the Bill",
+  "rollnumber": 894,
+  "source_url": "https://voteview.com/rollcall/RS1040894",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-09-10",
+  "vote_result": "Bill Defeated"
+}

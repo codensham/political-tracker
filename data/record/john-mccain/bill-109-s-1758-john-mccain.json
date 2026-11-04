@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1758",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1758-john-mccain",
+  "introduced_date": "2005-09-22",
+  "policy_area": "Native Americans",
+  "published_at": "2005-09-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1758",
+  "title": "A bill to amend the Indian Financing Act of 1974, to provide for sale and assignment of loans and underlying security, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

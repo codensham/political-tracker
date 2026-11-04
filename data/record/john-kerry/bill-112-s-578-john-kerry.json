@@ -1,0 +1,18 @@
+{
+  "bill_number": "S578",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-578-john-kerry",
+  "introduced_date": "2011-03-15",
+  "policy_area": "Families",
+  "published_at": "2011-03-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/578",
+  "title": "Repealing Ineffective and Incomplete Abstinence-Only Program Funding Act of 2011",
+  "topics": [],
+  "type": "bill"
+}

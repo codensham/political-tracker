@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES595",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-595-john-mccain",
+  "introduced_date": "2010-07-27",
+  "policy_area": "Education",
+  "published_at": "2010-07-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/595",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating the week beginning September 12, 2010, as \"National Historically Black Colleges and Universities Week\".",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

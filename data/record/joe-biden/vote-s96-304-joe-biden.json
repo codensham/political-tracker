@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 96,
+  "id": "vote-s96-304-joe-biden",
+  "published_at": "1979-09-21",
+  "question": null,
+  "rollnumber": 304,
+  "source_url": "https://voteview.com/rollcall/RS0960304",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1979-09-21",
+  "vote_result": null
+}

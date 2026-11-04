@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES260",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-260-john-mccain",
+  "introduced_date": "1998-09-24",
+  "policy_area": "Commemorations",
+  "published_at": "1998-09-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/260",
+  "title": "A resolution expressing the sense of the Senate that October 11, 1998, should be designated as \"National Children's Day\".",
+  "topics": [],
+  "type": "bill"
+}

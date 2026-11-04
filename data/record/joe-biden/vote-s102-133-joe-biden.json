@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2506",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-133-joe-biden",
+  "published_at": "1991-07-17",
+  "question": "On the Amendment",
+  "rollnumber": 133,
+  "source_url": "https://voteview.com/rollcall/RS1020133",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-07-17",
+  "vote_result": "Amendment Agreed to"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S571",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-571-john-kerry",
+  "introduced_date": "1995-06-16",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1995-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/571",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to terminate entitlement of pay and allowances for members of the Armed Forces who are sentenced to confinement and a punitive discharge or dismissal, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

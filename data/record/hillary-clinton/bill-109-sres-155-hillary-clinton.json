@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES155",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-155-hillary-clinton",
+  "introduced_date": "2005-06-14",
+  "policy_area": "Commemorations",
+  "published_at": "2005-06-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/155",
+  "title": "A resolution designating the week of November 6 through November 12, 2005, as \"National Veterans Awareness Week\" to emphasize the need to develop educational programs regarding the contributions of veterans to the country.",
+  "topics": [],
+  "type": "bill"
+}

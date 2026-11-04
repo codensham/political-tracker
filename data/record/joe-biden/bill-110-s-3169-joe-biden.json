@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3169",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3169-joe-biden",
+  "introduced_date": "2008-06-19",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2008-06-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3169",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize United States participation in, and appropriations for the United States contribution to, the eleventh replenishment of the resources of the African Development Fund.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

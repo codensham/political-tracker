@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2115",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2115-john-mccain",
+  "introduced_date": "2005-12-15",
+  "policy_area": "Health",
+  "published_at": "2005-12-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2115",
+  "tagged_by": "crosswalk@1",
+  "title": "Morris K. Udall Parkinson's Disease Research Act Amendments of 2005",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

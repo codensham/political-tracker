@@ -1,0 +1,18 @@
+{
+  "bill_number": "S247",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-247-john-mccain",
+  "introduced_date": "1999-01-19",
+  "policy_area": "Commerce",
+  "published_at": "1999-01-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/247",
+  "title": "Satellite Home Viewers Improvements Act",
+  "topics": [],
+  "type": "bill"
+}

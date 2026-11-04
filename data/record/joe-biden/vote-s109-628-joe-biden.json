@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6061",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-628-joe-biden",
+  "published_at": "2006-09-29",
+  "question": "On Passage of the Bill",
+  "rollnumber": 628,
+  "source_url": "https://voteview.com/rollcall/RS1090628",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-09-29",
+  "vote_result": "Bill Passed"
+}

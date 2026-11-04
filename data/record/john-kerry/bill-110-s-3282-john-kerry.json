@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3282",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3282-john-kerry",
+  "introduced_date": "2008-07-17",
+  "policy_area": "Energy",
+  "published_at": "2008-07-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3282",
+  "tagged_by": "crosswalk@1",
+  "title": "Emergency Energy Response Act of 2008",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

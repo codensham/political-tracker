@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES136",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-136-joe-biden",
+  "introduced_date": "1997-10-09",
+  "policy_area": "Commemorations",
+  "published_at": "1997-10-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/136",
+  "title": "A resolution designating October 17, 1997, as \"National Mammography Day.\"",
+  "topics": [],
+  "type": "bill"
+}

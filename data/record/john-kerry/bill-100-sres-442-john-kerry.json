@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES442",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-442-john-kerry",
+  "introduced_date": "1988-06-20",
+  "policy_area": "International Affairs",
+  "published_at": "1988-06-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/442",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the President should convene an International Conference on Combatting Illegal Drug Production, Trafficking, and Use in the Western Hemisphere.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

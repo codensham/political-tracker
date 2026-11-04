@@ -1,0 +1,21 @@
+{
+  "bill_number": "S618",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-618-joe-biden",
+  "introduced_date": "1991-03-12",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1991-03-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/618",
+  "tagged_by": "crosswalk@1",
+  "title": "Violent Crime Control Act of 1991",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

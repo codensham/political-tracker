@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES656",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-656-joe-biden",
+  "introduced_date": "2008-09-11",
+  "policy_area": "Commemorations",
+  "published_at": "2008-09-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/656",
+  "title": "A resolution expressing the sense of the Senate regarding the terrorist attacks committed against the United States of America on September 11, 2001.",
+  "topics": [],
+  "type": "bill"
+}

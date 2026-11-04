@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2676",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-424-joe-biden",
+  "published_at": "1998-05-07",
+  "question": "On Passage of the Bill",
+  "rollnumber": 424,
+  "source_url": "https://voteview.com/rollcall/RS1050424",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-05-07",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S879",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-879-al-gore",
+  "introduced_date": "1992-02-25",
+  "policy_area": "Taxation",
+  "published_at": "1992-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/879",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to clarify the treatment of certain amounts received by a cooperative telephone company indirectly from its members.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

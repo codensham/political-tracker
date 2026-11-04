@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES75",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 103,
+  "id": "bill-103-sjres-75-joe-biden",
+  "introduced_date": "1993-03-31",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1993-03-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/103rd-congress/senate-joint-resolution/75",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution designating January 2, 1994, through January 8, 1994, as \"National Law Enforcement Training Week\".",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

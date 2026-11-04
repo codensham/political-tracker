@@ -1,0 +1,18 @@
+{
+  "bill_number": "S810",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-810-hillary-clinton",
+  "introduced_date": "2005-04-14",
+  "policy_area": "Commerce",
+  "published_at": "2005-04-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/810",
+  "title": "SAFE-ID Act",
+  "topics": [],
+  "type": "bill"
+}

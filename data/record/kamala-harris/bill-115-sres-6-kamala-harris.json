@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES6",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-6-kamala-harris",
+  "introduced_date": "2017-01-10",
+  "policy_area": "International Affairs",
+  "published_at": "2017-01-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/6",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution objecting to United Nations Security Council Resolution 2334 and to all efforts that undermine direct negotiations between Israel and the Palestinians for a secure and peaceful settlement.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

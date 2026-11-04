@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES236",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-236-mitt-romney",
+  "introduced_date": "2019-06-05",
+  "policy_area": "International Affairs",
+  "published_at": "2019-06-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/236",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution reaffirming the strong partnership between Tunisia and the United States and supporting the people of Tunisia in their continued pursuit of democratic reforms.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

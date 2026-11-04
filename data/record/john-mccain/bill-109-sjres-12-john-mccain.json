@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES12",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sjres-12-john-mccain",
+  "introduced_date": "2005-04-14",
+  "policy_area": "Commemorations",
+  "published_at": "2005-04-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-joint-resolution/12",
+  "title": "A joint resolution proposing an amendment to the Constitution of the United States authorizing Congress to prohibit the physical desecration of the flag of the United States.",
+  "topics": [],
+  "type": "bill"
+}

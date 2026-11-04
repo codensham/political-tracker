@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES730",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-730-kamala-harris",
+  "introduced_date": "2018-12-13",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2018-12-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/730",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the tragic mass shooting in Thousand Oaks, California, supporting all of the people impacted by the horrific event, and thanking law enforcement, firefighters, and emergency medical teams for their courageous efforts to respond to the attack and save lives.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

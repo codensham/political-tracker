@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR4661",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 96,
+  "id": "bill-96-hr-4661-al-gore",
+  "introduced_date": "1979-06-28",
+  "policy_area": "Commerce",
+  "published_at": "1979-06-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/96th-congress/house-bill/4661",
+  "title": "Cartel Restriction Act of 1979",
+  "topics": [],
+  "type": "bill"
+}

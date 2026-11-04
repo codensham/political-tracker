@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1063",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1063-john-kerry",
+  "introduced_date": "2005-07-14",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2005-07-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1063",
+  "tagged_by": "crosswalk@1",
+  "title": "IP-Enabled Voice Communications and Public Safety Act of 2005",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

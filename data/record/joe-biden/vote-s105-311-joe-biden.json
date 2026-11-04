@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2631",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-311-joe-biden",
+  "published_at": "1998-02-25",
+  "question": "On Overriding the Veto",
+  "rollnumber": 311,
+  "source_url": "https://voteview.com/rollcall/RS1050311",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-02-25",
+  "vote_result": "Veto Overridden"
+}

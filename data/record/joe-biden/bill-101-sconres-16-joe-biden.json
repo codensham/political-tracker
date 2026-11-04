@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES16",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-16-joe-biden",
+  "introduced_date": "1989-05-09",
+  "policy_area": "International Affairs",
+  "published_at": "1989-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/16",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution calling on the Government of the Socialist Republic of Vietnem to expedite the release and emigration of \"reeducation\" camp detainees.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

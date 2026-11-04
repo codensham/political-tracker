@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES438",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-438-hillary-clinton",
+  "introduced_date": "2004-09-28",
+  "policy_area": "Commemorations",
+  "published_at": "2004-09-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/438",
+  "title": "A resolution supporting the goals and ideals of National Domestic Violence Awareness Month and expressing the sense of the Senate that Congress should raise awareness of domestic violence in the United States and its devastating effects on families.",
+  "topics": [],
+  "type": "bill"
+}

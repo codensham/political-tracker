@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJRES325",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-s97-287-joe-biden",
+  "published_at": "1981-09-25",
+  "question": null,
+  "rollnumber": 287,
+  "source_url": "https://voteview.com/rollcall/RS0970287",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1981-09-25",
+  "vote_result": null
+}

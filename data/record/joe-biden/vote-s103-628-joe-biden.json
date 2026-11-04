@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4602",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-628-joe-biden",
+  "published_at": "1994-07-26",
+  "question": "On the Motion to Table",
+  "rollnumber": 628,
+  "source_url": "https://voteview.com/rollcall/RS1030628",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1994-07-26",
+  "vote_result": "Motion to Table Failed"
+}

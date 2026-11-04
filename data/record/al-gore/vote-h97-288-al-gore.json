@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1797",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-h97-288-al-gore",
+  "published_at": "1981-11-17",
+  "question": null,
+  "rollnumber": 288,
+  "source_url": "https://voteview.com/rollcall/RH0970288",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1981-11-17",
+  "vote_result": null
+}

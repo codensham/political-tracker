@@ -1,0 +1,24 @@
+{
+  "bill_number": "HR4772",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "present",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-698-john-mccain",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1984-06-11",
+  "question": null,
+  "rollnumber": 698,
+  "source_url": "https://voteview.com/rollcall/RH0980698",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "vote",
+  "vote_date": "1984-06-11",
+  "vote_result": null
+}

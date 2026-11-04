@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1285",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1285-john-mccain",
+  "introduced_date": "1997-10-09",
+  "policy_area": "Taxation",
+  "published_at": "1997-10-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1285",
+  "tagged_by": "crosswalk@1",
+  "title": "Marriage Tax Elimination Act",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4939",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-467-john-kerry",
+  "published_at": "2006-04-27",
+  "question": "On the Amendment",
+  "rollnumber": 467,
+  "source_url": "https://voteview.com/rollcall/RS1090467",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-04-27",
+  "vote_result": "Amendment Agreed to"
+}

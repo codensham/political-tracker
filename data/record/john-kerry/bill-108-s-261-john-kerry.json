@@ -1,0 +1,18 @@
+{
+  "bill_number": "S261",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-261-john-kerry",
+  "introduced_date": "2003-01-30",
+  "policy_area": "Social Welfare",
+  "published_at": "2003-01-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/261",
+  "title": "Children First Act of 2003",
+  "topics": [],
+  "type": "bill"
+}

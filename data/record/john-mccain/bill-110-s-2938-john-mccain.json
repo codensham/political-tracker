@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2938",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2938-john-mccain",
+  "introduced_date": "2008-04-29",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2008-04-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2938",
+  "tagged_by": "crosswalk@1",
+  "title": "Enhancement of Recruitment, Retention, and Readjustment Through Education Act of 2008",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

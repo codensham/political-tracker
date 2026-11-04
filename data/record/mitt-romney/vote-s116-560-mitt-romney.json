@@ -1,0 +1,20 @@
+{
+  "bill_number": "S4049",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-560-mitt-romney",
+  "published_at": "2020-07-21",
+  "question": "On the Amendment",
+  "rollnumber": 560,
+  "source_url": "https://voteview.com/rollcall/RS1160560",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2020-07-21",
+  "vote_result": "Amendment Rejected"
+}

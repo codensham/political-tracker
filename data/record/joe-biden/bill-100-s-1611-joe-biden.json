@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1611",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1611-joe-biden",
+  "introduced_date": "1987-10-13",
+  "policy_area": "Immigration",
+  "published_at": "1987-10-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1611",
+  "tagged_by": "crosswalk@1",
+  "title": "Immigration Act of 1987",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

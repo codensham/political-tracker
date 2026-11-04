@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3245",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-3245-john-kerry",
+  "introduced_date": "2000-10-26",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2000-10-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/3245",
+  "title": "A bill to provide for the transfer of the Coast Guard Station Scituate to the National Oceanic and Atmospheric Administration, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

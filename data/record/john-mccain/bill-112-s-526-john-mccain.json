@@ -1,0 +1,21 @@
+{
+  "bill_number": "S526",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-526-john-mccain",
+  "introduced_date": "2011-03-09",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2011-03-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/526",
+  "tagged_by": "crosswalk@1",
+  "title": "Mohave Valley Land Conveyance Act of 2011",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

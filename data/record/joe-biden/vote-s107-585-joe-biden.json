@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1574",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-585-joe-biden",
+  "published_at": "2002-08-01",
+  "question": "On the Nomination",
+  "rollnumber": 585,
+  "source_url": "https://voteview.com/rollcall/RS1070585",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-08-01",
+  "vote_result": "Nomination Confirmed"
+}

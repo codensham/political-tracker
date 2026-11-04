@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES27",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-27-john-kerry",
+  "introduced_date": "2005-04-14",
+  "policy_area": "Commemorations",
+  "published_at": "2005-04-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/27",
+  "title": "A concurrent resolution honoring military children during \"National Month of the Military Child\".",
+  "topics": [],
+  "type": "bill"
+}

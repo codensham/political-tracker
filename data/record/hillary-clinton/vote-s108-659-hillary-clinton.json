@@ -1,0 +1,20 @@
+{
+  "bill_number": "SRES445",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-659-hillary-clinton",
+  "published_at": "2004-10-07",
+  "question": "On the Amendment",
+  "rollnumber": 659,
+  "source_url": "https://voteview.com/rollcall/RS1080659",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-10-07",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2918",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2918-hillary-clinton",
+  "introduced_date": "2002-09-10",
+  "policy_area": "Commemorations",
+  "published_at": "2002-09-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2918",
+  "title": "A bill to designate the facility of the United States Postal Service located at 380 Main Street in Farmingdale, New York, as the \"Peter J. Ganci, Jr. Post Office Building\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1962",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1962-john-kerry",
+  "introduced_date": "1989-11-21",
+  "policy_area": "Education",
+  "published_at": "1989-11-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1962",
+  "tagged_by": "crosswalk@1",
+  "title": "Science and Technology Fellowship Act of 1989",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

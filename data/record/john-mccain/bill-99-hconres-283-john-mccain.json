@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES283",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hconres-283-john-mccain",
+  "introduced_date": "1986-02-20",
+  "policy_area": "International Affairs",
+  "published_at": "1986-02-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-concurrent-resolution/283",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to reaffirm support for the agreement on a framework for negotiating a peaceful settlement to the conflict and turmoil in Central America, which resulted from the initiative of the Contadora group.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

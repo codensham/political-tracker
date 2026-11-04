@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1170",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1170-john-mccain",
+  "introduced_date": "1991-06-18",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1991-06-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1170",
+  "tagged_by": "crosswalk@1",
+  "title": "Crimes Against Children Registration Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

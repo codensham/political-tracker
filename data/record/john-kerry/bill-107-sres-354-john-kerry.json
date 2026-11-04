@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES354",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-354-john-kerry",
+  "introduced_date": "2002-10-28",
+  "policy_area": "Congress",
+  "published_at": "2002-10-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/354",
+  "title": "A resolution relative to the death of Paul Wellstone, a Senator from the State of Minnesota.",
+  "topics": [],
+  "type": "bill"
+}

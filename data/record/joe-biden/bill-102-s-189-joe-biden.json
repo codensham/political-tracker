@@ -1,0 +1,21 @@
+{
+  "bill_number": "S189",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-189-joe-biden",
+  "introduced_date": "1991-01-14",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1991-01-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/189",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 18, United States Code, relating to the protection of officers and employees of the United States.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

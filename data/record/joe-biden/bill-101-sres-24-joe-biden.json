@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES24",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-24-joe-biden",
+  "introduced_date": "1989-01-25",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1989-01-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/24",
+  "title": "A resolution to express the sense of the Senate regarding future funding of Amtrak.",
+  "topics": [],
+  "type": "bill"
+}

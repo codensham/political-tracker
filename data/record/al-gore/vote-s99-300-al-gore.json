@@ -1,0 +1,24 @@
+{
+  "bill_number": "HR1562",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-s99-300-al-gore",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1985-11-13",
+  "question": null,
+  "rollnumber": 300,
+  "source_url": "https://voteview.com/rollcall/RS0990300",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "trade"
+  ],
+  "type": "vote",
+  "vote_date": "1985-11-13",
+  "vote_result": null
+}

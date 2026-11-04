@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1609",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1609-joe-biden",
+  "introduced_date": "1996-03-12",
+  "policy_area": "Health",
+  "published_at": "1996-03-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1609",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for the rescheduling of flunitrazepan into schedule I of the Controlled Substances Act, and for other purposes.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

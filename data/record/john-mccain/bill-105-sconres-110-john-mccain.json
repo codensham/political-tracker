@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES110",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sconres-110-john-mccain",
+  "introduced_date": "1998-07-27",
+  "policy_area": "Commemorations",
+  "published_at": "1998-07-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-concurrent-resolution/110",
+  "title": "A concurrent resolution honoring the memory of Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut of the United States Capitol Police for their selfless acts of heroism at the United States Capitol on July 24, 1998.",
+  "topics": [],
+  "type": "bill"
+}

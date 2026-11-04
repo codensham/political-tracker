@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES102",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-102-john-kerry",
+  "introduced_date": "1997-07-30",
+  "policy_area": "Commemorations",
+  "published_at": "1997-07-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/102",
+  "title": "A resolution designating August 15, 1997, as \"Indian Independence Day: A National Day of Celebration of Indian and American Democracy.\"",
+  "topics": [],
+  "type": "bill"
+}

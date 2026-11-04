@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4990",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-388-john-mccain",
+  "published_at": "1992-05-21",
+  "question": "On the Conference Report",
+  "rollnumber": 388,
+  "source_url": "https://voteview.com/rollcall/RS1020388",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-05-21",
+  "vote_result": "Conference Report Agreed to"
+}

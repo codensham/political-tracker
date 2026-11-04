@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2649",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-2649-john-mccain",
+  "introduced_date": "2014-07-23",
+  "policy_area": "International Affairs",
+  "published_at": "2014-07-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2649",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide certain legal relief from politically motivated charges by the Government of Egypt.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

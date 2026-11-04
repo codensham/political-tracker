@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES82",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-82-john-kerry",
+  "introduced_date": "2003-11-25",
+  "policy_area": "Commemorations",
+  "published_at": "2003-11-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/82",
+  "title": "A concurrent resolution recognizing the importance of Ralph Bunche as one of the great leaders of the United States, the first African-American Nobel Peace Prize winner, an accomplished scholar, a distinguished diplomat, and a tireless campaigner of civil rights for people throughout the world.",
+  "topics": [],
+  "type": "bill"
+}

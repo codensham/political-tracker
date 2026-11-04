@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6331",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-619-john-kerry",
+  "published_at": "2008-07-15",
+  "question": "On Overriding the Veto",
+  "rollnumber": 619,
+  "source_url": "https://voteview.com/rollcall/RS1100619",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-07-15",
+  "vote_result": "Veto Overridden"
+}

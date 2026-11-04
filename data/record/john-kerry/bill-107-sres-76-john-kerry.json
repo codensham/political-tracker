@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES76",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-76-john-kerry",
+  "introduced_date": "2001-04-26",
+  "policy_area": "Commemorations",
+  "published_at": "2001-04-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/76",
+  "title": "A resolution congratulating the Eagles of Boston College for winning the 2001 men's ice hockey championship.",
+  "topics": [],
+  "type": "bill"
+}

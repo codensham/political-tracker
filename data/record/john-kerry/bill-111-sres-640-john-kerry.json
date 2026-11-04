@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES640",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-640-john-kerry",
+  "introduced_date": "2010-09-23",
+  "policy_area": "International Affairs",
+  "published_at": "2010-09-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/640",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding United States engagement with ASEAN and its member-states.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S458",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-458-joe-biden",
+  "introduced_date": "2001-03-06",
+  "policy_area": "Taxation",
+  "published_at": "2001-03-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/458",
+  "tagged_by": "crosswalk@1",
+  "title": "Make College Affordable Act of 2001",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

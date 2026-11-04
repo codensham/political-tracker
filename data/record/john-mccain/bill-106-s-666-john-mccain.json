@@ -1,0 +1,21 @@
+{
+  "bill_number": "S666",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-666-john-mccain",
+  "introduced_date": "1999-03-18",
+  "policy_area": "International Affairs",
+  "published_at": "1999-03-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/666",
+  "tagged_by": "crosswalk@1",
+  "title": "African Growth and Opportunity Act",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

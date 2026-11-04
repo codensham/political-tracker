@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1140",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1140-joe-biden",
+  "introduced_date": "2001-09-04",
+  "policy_area": "Law",
+  "published_at": "2001-09-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1140",
+  "title": "Motor Vehicle Franchise Contract Arbitration Fairness Act of 2001",
+  "topics": [],
+  "type": "bill"
+}

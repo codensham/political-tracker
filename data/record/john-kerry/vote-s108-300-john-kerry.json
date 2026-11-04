@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2555",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-300-john-kerry",
+  "published_at": "2003-07-24",
+  "question": "On the Motion to Table",
+  "rollnumber": 300,
+  "source_url": "https://voteview.com/rollcall/RS1080300",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-07-24",
+  "vote_result": "Motion to Table Agreed to"
+}

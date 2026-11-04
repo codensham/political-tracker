@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1158",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-701-john-kerry",
+  "published_at": "1988-08-02",
+  "question": null,
+  "rollnumber": 701,
+  "source_url": "https://voteview.com/rollcall/RS1000701",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1988-08-02",
+  "vote_result": null
+}

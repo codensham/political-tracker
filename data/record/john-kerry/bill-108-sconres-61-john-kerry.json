@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES61",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-61-john-kerry",
+  "introduced_date": "2003-09-23",
+  "policy_area": "Commemorations",
+  "published_at": "2003-09-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/61",
+  "title": "A concurrent resolution authorizing and requesting the President to issue a proclamation to commemorate the 200th anniversary of the birth of Constantino Brumidi.",
+  "topics": [],
+  "type": "bill"
+}

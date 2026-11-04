@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES45",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-45-hillary-clinton",
+  "introduced_date": "2003-02-05",
+  "policy_area": "Commemorations",
+  "published_at": "2003-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/45",
+  "title": "A resolution commemorating the Columbia Astronauts.",
+  "topics": [],
+  "type": "bill"
+}

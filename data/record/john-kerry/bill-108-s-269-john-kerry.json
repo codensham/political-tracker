@@ -1,0 +1,18 @@
+{
+  "bill_number": "S269",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-269-john-kerry",
+  "introduced_date": "2003-05-09",
+  "policy_area": "Animals",
+  "published_at": "2003-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/269",
+  "title": "Captive Wildlife Safety Act",
+  "topics": [],
+  "type": "bill"
+}

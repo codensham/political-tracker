@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1507",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-170-joe-biden",
+  "published_at": "1991-08-01",
+  "question": "On the Amendment",
+  "rollnumber": 170,
+  "source_url": "https://voteview.com/rollcall/RS1020170",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-08-01",
+  "vote_result": "Amendment Agreed to"
+}

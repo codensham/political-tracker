@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1608",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1608-john-mccain",
+  "introduced_date": "1996-03-12",
+  "policy_area": "Native Americans",
+  "published_at": "1996-03-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1608",
+  "title": "A bill to extend the applicability of certain regulatory authority under the Indian Self-Determination and Education Assistance Act, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

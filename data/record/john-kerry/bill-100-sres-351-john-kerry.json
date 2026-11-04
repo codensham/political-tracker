@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES351",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-351-john-kerry",
+  "introduced_date": "1987-12-22",
+  "policy_area": "Congress",
+  "published_at": "1987-12-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/351",
+  "title": "A resolution tendering the thanks of the Senate to the President pro tempore for the courteous, dignified, and impartial manner in which he has presided over the deliberations of the Senate.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES63",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-63-al-gore",
+  "introduced_date": "1989-08-04",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1989-08-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/63",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to recognize the uniqueness of and express strong support for the maritime policy of the United States, and to urge the President in the strongest possible terms to ensure that the United States does not propose maritime transportation services for inclusion in the General Agreement on Tariffs and Trade discussions and that any proposal that would consider maritime transportation as an area for negotiation is actively opposed by the United States.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

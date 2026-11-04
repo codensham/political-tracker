@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2016",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-240-john-mccain",
+  "published_at": "1997-09-17",
+  "question": "On the Conference Report",
+  "rollnumber": 240,
+  "source_url": "https://voteview.com/rollcall/RS1050240",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-09-17",
+  "vote_result": "Conference Report Agreed to"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1384",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-1384-mitt-romney",
+  "introduced_date": "2019-05-09",
+  "policy_area": "Health",
+  "published_at": "2019-05-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1384",
+  "tagged_by": "crosswalk@1",
+  "title": "Prescription Drug Rebate Reform Act of 2019",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

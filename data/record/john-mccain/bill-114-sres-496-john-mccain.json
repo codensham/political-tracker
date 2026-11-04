@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES496",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-496-john-mccain",
+  "introduced_date": "2016-06-16",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2016-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/496",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the terrorist attack on the Pulse Orlando nightclub, honoring the memory of the victims of the attack, offering condolences to and expressing support for their families and friends and all those affected, and applauding the dedication and bravery of law enforcement, emergency response, and counterterrorism officials in responding to the attack.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

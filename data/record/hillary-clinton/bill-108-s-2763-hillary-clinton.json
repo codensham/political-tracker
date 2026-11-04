@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2763",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2763-hillary-clinton",
+  "introduced_date": "2004-07-22",
+  "policy_area": "Energy",
+  "published_at": "2004-07-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2763",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Atomic Energy Act of 1954 to clarify the treatment of accelerator-produced and other radioactive material as byproduct material.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

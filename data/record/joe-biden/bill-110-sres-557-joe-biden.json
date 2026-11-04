@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES557",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-557-joe-biden",
+  "introduced_date": "2008-05-08",
+  "policy_area": "Commemorations",
+  "published_at": "2008-05-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/557",
+  "title": "A resolution supporting the goals and ideals of National Train Day.",
+  "topics": [],
+  "type": "bill"
+}

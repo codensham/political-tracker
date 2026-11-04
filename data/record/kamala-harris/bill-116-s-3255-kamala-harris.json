@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3255",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3255-kamala-harris",
+  "introduced_date": "2020-02-05",
+  "policy_area": "Labor and Employment",
+  "published_at": "2020-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3255",
+  "tagged_by": "crosswalk@1",
+  "title": "Nationwide Right To Unionize Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES91",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-91-john-kerry",
+  "introduced_date": "1989-04-04",
+  "policy_area": "Sports and Recreation",
+  "published_at": "1989-04-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/91",
+  "title": "A resolution congratulating the Harvard University Ice Hockey Team and their Coach, Bill Cleary, on winning the 1989 NCAA National Hockey Championship.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "S37",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 93,
+  "id": "vote-s93-209-joe-biden",
+  "published_at": "1973-06-25",
+  "question": null,
+  "rollnumber": 209,
+  "source_url": "https://voteview.com/rollcall/RS0930209",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1973-06-25",
+  "vote_result": null
+}

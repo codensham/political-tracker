@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES389",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-389-al-gore",
+  "introduced_date": "1984-03-20",
+  "policy_area": "Commerce",
+  "published_at": "1984-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/389",
+  "title": "A joint resolution calling upon the Federal Trade Commission, Department of Justice, and all other appropriate Federal agencies to enforce the Federal Trade Commission Act, the Sherman Act, and all other Federal antitrust laws including the prohibition against vertical price restraints.",
+  "topics": [],
+  "type": "bill"
+}

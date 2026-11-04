@@ -1,0 +1,21 @@
+{
+  "bill_number": "S113",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-113-joe-biden",
+  "introduced_date": "2003-05-05",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2003-05-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/113",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Foreign Intelligence Surveillance Act of 1978 to cover individuals, other than United States persons, who engage in international terrorism without affiliation with an international terrorist group.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

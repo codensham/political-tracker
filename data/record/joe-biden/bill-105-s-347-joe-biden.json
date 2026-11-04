@@ -1,0 +1,18 @@
+{
+  "bill_number": "S347",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-347-joe-biden",
+  "introduced_date": "1997-04-25",
+  "policy_area": "Commemorations",
+  "published_at": "1997-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/347",
+  "title": "An Act to designate the Federal building located at 61 Forsyth Street SW., in Atlanta, Georgia, as the \"Sam Nunn Atlanta Federal Center.\"",
+  "topics": [],
+  "type": "bill"
+}

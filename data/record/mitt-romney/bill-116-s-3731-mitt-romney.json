@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3731",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3731-mitt-romney",
+  "introduced_date": "2020-05-14",
+  "policy_area": "Social Welfare",
+  "published_at": "2020-05-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3731",
+  "title": "Improving Social Security’s Service to Victims of Identity Theft Act",
+  "topics": [],
+  "type": "bill"
+}

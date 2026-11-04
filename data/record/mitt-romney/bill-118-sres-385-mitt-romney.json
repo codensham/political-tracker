@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES385",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sres-385-mitt-romney",
+  "introduced_date": "2023-09-28",
+  "policy_area": "International Affairs",
+  "published_at": "2023-09-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-resolution/385",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling for the immediate release of Evan Gershkovich, a United States citizen and journalist, who was wrongfully detained by the Government of the Russian Federation in March 2023.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

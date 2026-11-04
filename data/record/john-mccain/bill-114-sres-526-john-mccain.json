@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES526",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-526-john-mccain",
+  "introduced_date": "2016-07-12",
+  "policy_area": "International Affairs",
+  "published_at": "2016-07-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/526",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling for all parties to respect the arbitral tribunal ruling with regard to the South China Sea and to express United States policy on freedom of navigation and overflight in the East and South China Seas.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

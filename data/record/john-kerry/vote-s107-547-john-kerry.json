@@ -1,0 +1,20 @@
+{
+  "bill_number": "SJRES34",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-547-john-kerry",
+  "published_at": "2002-07-09",
+  "question": "On the Motion to Proceed",
+  "rollnumber": 547,
+  "source_url": "https://voteview.com/rollcall/RS1070547",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-07-09",
+  "vote_result": "Motion to Proceed Agreed to"
+}

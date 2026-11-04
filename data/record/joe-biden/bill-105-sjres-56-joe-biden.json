@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES56",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sjres-56-joe-biden",
+  "introduced_date": "1998-10-05",
+  "policy_area": "Health",
+  "published_at": "1998-10-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-joint-resolution/56",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution expressing the sense of Congress in support of the existing Federal legal process for determining the safety and efficacy of drugs, including marijuana and other Schedule I drugs, for medicinal use.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

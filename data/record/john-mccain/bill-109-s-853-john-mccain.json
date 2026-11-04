@@ -1,0 +1,21 @@
+{
+  "bill_number": "S853",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-853-john-mccain",
+  "introduced_date": "2005-05-25",
+  "policy_area": "International Affairs",
+  "published_at": "2005-05-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/853",
+  "tagged_by": "crosswalk@1",
+  "title": "North American Cooperative Security Act",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S366",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-366-john-kerry",
+  "introduced_date": "2009-02-03",
+  "policy_area": "Social Welfare",
+  "published_at": "2009-02-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/366",
+  "title": "Social Security and Medicare Improved Burn Injury Treatment Access Act of 2009",
+  "topics": [],
+  "type": "bill"
+}

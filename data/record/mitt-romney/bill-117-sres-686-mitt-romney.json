@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES686",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-686-mitt-romney",
+  "introduced_date": "2022-06-22",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "2022-06-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/686",
+  "title": "A resolution designating July 23, 2022, as \"National Day of the American Cowboy\".",
+  "topics": [],
+  "type": "bill"
+}

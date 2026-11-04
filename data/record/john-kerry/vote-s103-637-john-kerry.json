@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1399",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-637-john-kerry",
+  "published_at": "1994-07-29",
+  "question": "On the Nomination",
+  "rollnumber": 637,
+  "source_url": "https://voteview.com/rollcall/RS1030637",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1994-07-29",
+  "vote_result": "Nomination Confirmed"
+}

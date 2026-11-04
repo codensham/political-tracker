@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3244",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3244-john-mccain",
+  "introduced_date": "2010-04-22",
+  "policy_area": "Congress",
+  "published_at": "2010-04-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3244",
+  "title": "A bill to provide that Members of Congress shall not receive a cost of living adjustment in pay during fiscal year 2011.",
+  "topics": [],
+  "type": "bill"
+}

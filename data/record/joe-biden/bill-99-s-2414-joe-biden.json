@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2414",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2414-joe-biden",
+  "introduced_date": "1986-05-06",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1986-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2414",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 18, United States Code.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

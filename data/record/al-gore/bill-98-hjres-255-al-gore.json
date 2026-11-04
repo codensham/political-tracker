@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES255",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-255-al-gore",
+  "introduced_date": "1983-05-02",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1983-05-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/255",
+  "title": "A joint resolution designating September 5, 1983, as \"National Beale Street, Home-of-the-Blues Day\" to commemorate the redevelopment of the historic area where W. C. Handy, originator of the famous music form known as the \"Blues\", composed the \"Memphis Blues\" some seventy years ago.",
+  "topics": [],
+  "type": "bill"
+}

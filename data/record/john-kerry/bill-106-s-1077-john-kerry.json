@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1077",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1077-john-kerry",
+  "introduced_date": "1999-05-19",
+  "policy_area": "Commemorations",
+  "published_at": "1999-05-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1077",
+  "title": "A bill to dedicate the new Amtrak station in New York, New York, to Senator Daniel Patrick Moynihan.",
+  "topics": [],
+  "type": "bill"
+}

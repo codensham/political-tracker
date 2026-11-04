@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR1597",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-1597-al-gore",
+  "introduced_date": "1983-05-12",
+  "policy_area": "Energy",
+  "published_at": "1983-05-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/1597",
+  "tagged_by": "crosswalk@1",
+  "title": "Renewable Energy National Security Act of 1983",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

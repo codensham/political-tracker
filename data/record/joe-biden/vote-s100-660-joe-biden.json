@@ -1,0 +1,24 @@
+{
+  "bill_number": "S533",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-660-joe-biden",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1988-07-11",
+  "question": null,
+  "rollnumber": 660,
+  "source_url": "https://voteview.com/rollcall/RS1000660",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "vote",
+  "vote_date": "1988-07-11",
+  "vote_result": null
+}

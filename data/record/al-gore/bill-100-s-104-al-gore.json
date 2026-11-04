@@ -1,0 +1,21 @@
+{
+  "bill_number": "S104",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-104-al-gore",
+  "introduced_date": "1987-04-28",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1987-04-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/104",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to recognize the organization known as the National Academies of Practice.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

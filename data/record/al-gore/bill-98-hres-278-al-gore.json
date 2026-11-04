@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES278",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hres-278-al-gore",
+  "introduced_date": "1984-02-29",
+  "policy_area": "Labor and Employment",
+  "published_at": "1984-02-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-resolution/278",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the House of Representatives that the President should establish a Productivity and Quality Award to be made to those businesses, workers, other individuals, and public sector organizations which make major contributions toward sustained improvement in productivity and quality performance.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

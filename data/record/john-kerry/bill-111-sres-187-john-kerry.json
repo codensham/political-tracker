@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES187",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-187-john-kerry",
+  "introduced_date": "2009-06-17",
+  "policy_area": "Health",
+  "published_at": "2009-06-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/187",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the use of violence against providers of health care services to women.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

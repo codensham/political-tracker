@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES60",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-60-john-mccain",
+  "introduced_date": "1989-09-13",
+  "policy_area": "International Affairs",
+  "published_at": "1989-09-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/60",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the United States Senate that the Soviet Union should release the prison records of Raoul Wallenberg and account for his whereabouts.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

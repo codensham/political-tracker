@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES370",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-370-john-mccain",
+  "introduced_date": "2014-03-05",
+  "policy_area": "International Affairs",
+  "published_at": "2014-03-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/370",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting the territorial integrity of Ukraine and condemning Russian military aggression in Ukraine.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

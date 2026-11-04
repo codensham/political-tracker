@@ -1,0 +1,21 @@
+{
+  "bill_number": "S575",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-575-joe-biden",
+  "introduced_date": "1997-04-15",
+  "policy_area": "Taxation",
+  "published_at": "1997-04-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/575",
+  "tagged_by": "crosswalk@1",
+  "title": "Health Insurance Tax Equity for Self-Employed Act",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

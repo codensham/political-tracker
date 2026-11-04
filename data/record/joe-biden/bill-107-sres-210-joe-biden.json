@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES210",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-210-joe-biden",
+  "introduced_date": "2002-02-14",
+  "policy_area": "Commemorations",
+  "published_at": "2002-02-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/210",
+  "title": "A resolution designating February 14, 2002, as \"National Donor Day\".",
+  "topics": [],
+  "type": "bill"
+}

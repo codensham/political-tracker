@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES408",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-408-hillary-clinton",
+  "introduced_date": "2006-03-28",
+  "policy_area": "Health",
+  "published_at": "2006-03-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/408",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the President should declare lung cancer a public health priority and should implement a comprehensive interagency program that will reduce lung cancer mortality by at least 50 percent by 2015.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

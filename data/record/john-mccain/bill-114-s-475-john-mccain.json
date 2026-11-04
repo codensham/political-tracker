@@ -1,0 +1,21 @@
+{
+  "bill_number": "S475",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-475-john-mccain",
+  "introduced_date": "2015-02-12",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2015-02-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/475",
+  "tagged_by": "crosswalk@1",
+  "title": "Sugar Reform Act of 2015",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5016",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-5016-al-gore",
+  "introduced_date": "1981-11-18",
+  "policy_area": "Environmental Protection",
+  "published_at": "1981-11-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/5016",
+  "tagged_by": "crosswalk@1",
+  "title": "High-Level Radioactive Waste Management and Policy Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

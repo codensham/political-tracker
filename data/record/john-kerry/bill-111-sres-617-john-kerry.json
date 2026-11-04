@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES617",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-617-john-kerry",
+  "introduced_date": "2010-08-12",
+  "policy_area": "Congress",
+  "published_at": "2010-08-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/617",
+  "title": "A resolution relative to the death of the Honorable Theodore \"Ted\" Fulton Stevens, former Senator for the State of Alaska.",
+  "topics": [],
+  "type": "bill"
+}

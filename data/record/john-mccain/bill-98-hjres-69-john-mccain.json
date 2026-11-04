@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES69",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-69-john-mccain",
+  "introduced_date": "1983-06-02",
+  "policy_area": "Families",
+  "published_at": "1983-06-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/69",
+  "title": "A joint resolution to authorize the President to issue a proclamation designating the week beginning on November 20, 1983, as \"National Family Week\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1586",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-619-joe-biden",
+  "published_at": "2006-09-25",
+  "question": "On the Nomination",
+  "rollnumber": 619,
+  "source_url": "https://voteview.com/rollcall/RS1090619",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-09-25",
+  "vote_result": "Nomination Confirmed"
+}

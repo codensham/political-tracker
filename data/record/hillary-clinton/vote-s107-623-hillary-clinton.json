@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1214",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-623-hillary-clinton",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2002-11-14",
+  "question": "On the Conference Report",
+  "rollnumber": 623,
+  "source_url": "https://voteview.com/rollcall/RS1070623",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-11-14",
+  "vote_result": "Conference Report Agreed to"
+}

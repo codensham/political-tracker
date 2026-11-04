@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES444",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-444-kamala-harris",
+  "introduced_date": "2018-03-22",
+  "policy_area": "Native Americans",
+  "published_at": "2018-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/444",
+  "title": "A resolution recognizing the heritage, culture, and contributions of American Indian, Alaska Native, and Native Hawaiian women in the United States.",
+  "topics": [],
+  "type": "bill"
+}

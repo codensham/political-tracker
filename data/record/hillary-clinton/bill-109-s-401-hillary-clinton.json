@@ -1,0 +1,21 @@
+{
+  "bill_number": "S401",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-401-hillary-clinton",
+  "introduced_date": "2005-05-23",
+  "policy_area": "Health",
+  "published_at": "2005-05-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/401",
+  "tagged_by": "crosswalk@1",
+  "title": "Medicaid Community-Based Attendant Services and Supports Act of 2005",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

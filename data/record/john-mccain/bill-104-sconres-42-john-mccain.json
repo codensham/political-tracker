@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES42",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-sconres-42-john-mccain",
+  "introduced_date": "1996-02-09",
+  "policy_area": "International Affairs",
+  "published_at": "1996-02-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-concurrent-resolution/42",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution concerning the emancipation of the Iranian Baha'i community.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

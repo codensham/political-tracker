@@ -1,0 +1,20 @@
+{
+  "bill_number": "TREATYDOC1161",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-326-kamala-harris",
+  "published_at": "2019-10-21",
+  "question": "On the Cloture Motion",
+  "rollnumber": 326,
+  "source_url": "https://voteview.com/rollcall/RS1160326",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2019-10-21",
+  "vote_result": "Cloture Motion Agreed to"
+}

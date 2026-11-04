@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2942",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-2942-joe-biden",
+  "introduced_date": "1982-09-23",
+  "policy_area": "Social Welfare",
+  "published_at": "1982-09-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/2942",
+  "title": "A bill to provide that disability benefits under title II of the Social Security Act shall continue to be paid through the end of the administrative appeals process, and that periodic reviews of disability cases shall be carried out only to the extent determined to be appropriate.",
+  "topics": [],
+  "type": "bill"
+}

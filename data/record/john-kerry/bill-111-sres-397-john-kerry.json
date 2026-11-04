@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES397",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-397-john-kerry",
+  "introduced_date": "2010-01-26",
+  "policy_area": "Congress",
+  "published_at": "2010-01-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/397",
+  "title": "A resolution relative to the death of Charles McCurdy (\"Mac\") Mathias, Jr., former United States Senator for the State of Maryland.",
+  "topics": [],
+  "type": "bill"
+}

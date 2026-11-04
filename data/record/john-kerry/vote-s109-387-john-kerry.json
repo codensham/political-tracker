@@ -1,0 +1,20 @@
+{
+  "bill_number": "S852",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-387-john-kerry",
+  "published_at": "2006-02-14",
+  "question": "On the Motion",
+  "rollnumber": 387,
+  "source_url": "https://voteview.com/rollcall/RS1090387",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-02-14",
+  "vote_result": "Motion Rejected"
+}

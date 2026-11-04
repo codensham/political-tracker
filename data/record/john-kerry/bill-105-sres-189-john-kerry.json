@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES189",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-189-john-kerry",
+  "introduced_date": "1998-07-16",
+  "policy_area": "Commemorations",
+  "published_at": "1998-07-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/189",
+  "title": "A resolution honoring the 150th anniversary of the United States Women's Rights Movement that was initiated by the 1848 Women's Rights Convention held in Seneca Falls, New York, and calling for a national celebration of women's rights in 1998.",
+  "topics": [],
+  "type": "bill"
+}

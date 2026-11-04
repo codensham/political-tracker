@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-s99-541-john-kerry",
+  "published_at": "1986-07-17",
+  "question": null,
+  "rollnumber": 541,
+  "source_url": "https://voteview.com/rollcall/RS0990541",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1986-07-17",
+  "vote_result": null
+}

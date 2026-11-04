@@ -1,0 +1,21 @@
+{
+  "bill_number": "S465",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-465-john-kerry",
+  "introduced_date": "1988-02-01",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1988-02-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/465",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend chapter 44, title 18, United States Code, to prohibit the manufacture, importation, sale or possession of firearms, not detectable by metal detection and x-ray systems commonly used at airports in the United States.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

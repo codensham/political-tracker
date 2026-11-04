@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2381",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2381-john-mccain",
+  "introduced_date": "2000-04-07",
+  "policy_area": "Social Welfare",
+  "published_at": "2000-04-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2381",
+  "title": "Straight Talk on Social Security Act",
+  "topics": [],
+  "type": "bill"
+}

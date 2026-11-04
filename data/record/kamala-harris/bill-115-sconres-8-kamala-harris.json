@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES8",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sconres-8-kamala-harris",
+  "introduced_date": "2017-03-02",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2017-03-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-concurrent-resolution/8",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution clarifying any potential misunderstanding as to whether actions taken by President Donald J. Trump constitute a violation of the Emoluments Clause, and calling on President Trump to divest his interest in, and sever his relationship to, the Trump Organization.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

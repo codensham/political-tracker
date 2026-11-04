@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES639",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-639-john-mccain",
+  "introduced_date": "2010-09-23",
+  "policy_area": "Emergency Management",
+  "published_at": "2010-09-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/639",
+  "title": "A resolution supporting the goals and ideals of Fire Prevention Week, which begins on October 3, 2010, and the work of firefighters in educating and protecting the communities of the United States.",
+  "topics": [],
+  "type": "bill"
+}

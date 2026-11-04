@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2159",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-497-john-mccain",
+  "published_at": "1998-07-14",
+  "question": "On the Amendment",
+  "rollnumber": 497,
+  "source_url": "https://voteview.com/rollcall/RS1050497",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-07-14",
+  "vote_result": "Amendment Agreed to"
+}

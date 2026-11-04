@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1005",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1005-hillary-clinton",
+  "introduced_date": "2002-04-18",
+  "policy_area": "Families",
+  "published_at": "2002-04-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1005",
+  "title": "Younger Americans Act",
+  "topics": [],
+  "type": "bill"
+}

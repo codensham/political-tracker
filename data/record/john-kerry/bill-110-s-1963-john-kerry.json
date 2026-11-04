@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1963",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-1963-john-kerry",
+  "introduced_date": "2007-12-17",
+  "policy_area": "Taxation",
+  "published_at": "2007-12-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/1963",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to allow bonds guaranteed by the Federal home loan banks to be treated as tax exempt bonds.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

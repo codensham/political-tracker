@@ -1,0 +1,21 @@
+{
+  "bill_number": "S885",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-885-john-kerry",
+  "introduced_date": "1985-04-03",
+  "policy_area": "International Affairs",
+  "published_at": "1985-04-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/885",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to establish a moratorium during the fiscal years 1985 and 1986 on the testing of anti-satellite weapons against objects in space.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

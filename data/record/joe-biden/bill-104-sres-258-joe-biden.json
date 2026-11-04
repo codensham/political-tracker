@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES258",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-sres-258-joe-biden",
+  "introduced_date": "1996-06-11",
+  "policy_area": "Congress",
+  "published_at": "1996-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-resolution/258",
+  "title": "A resolution to designate the balcony adjacent to rooms S-230 and S-231 of the United States Capitol Building as the \"Robert J. Dole Balcony\".",
+  "topics": [],
+  "type": "bill"
+}

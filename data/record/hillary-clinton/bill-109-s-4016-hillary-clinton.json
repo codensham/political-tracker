@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4016",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-4016-hillary-clinton",
+  "introduced_date": "2006-09-29",
+  "policy_area": "Health",
+  "published_at": "2006-09-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/4016",
+  "tagged_by": "crosswalk@1",
+  "title": "Access to Life-Saving Medicine Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

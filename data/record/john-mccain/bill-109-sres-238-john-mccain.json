@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES238",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-238-john-mccain",
+  "introduced_date": "2005-09-14",
+  "policy_area": "Commemorations",
+  "published_at": "2005-09-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/238",
+  "title": "A resolution recognizing Hispanic Heritage Month and celebrating the vast contributions of Hispanic Americans to the strength and culture of our Nation.",
+  "topics": [],
+  "type": "bill"
+}

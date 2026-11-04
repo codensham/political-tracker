@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES392",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-392-john-kerry",
+  "introduced_date": "2010-01-21",
+  "policy_area": "International Affairs",
+  "published_at": "2010-01-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/392",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the Sense of the Senate on the humanitarian catastrophe caused by the January 12, 2010 earthquake in Haiti.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

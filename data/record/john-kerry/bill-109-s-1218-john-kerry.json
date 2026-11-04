@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1218",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1218-john-kerry",
+  "introduced_date": "2006-03-06",
+  "policy_area": "Education",
+  "published_at": "2006-03-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1218",
+  "tagged_by": "crosswalk@1",
+  "title": "Teacher Excellence for All Children Act of 2005",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

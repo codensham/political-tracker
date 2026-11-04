@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2284",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-565-hillary-clinton",
+  "published_at": "2008-05-13",
+  "question": "On the Amendment",
+  "rollnumber": 565,
+  "source_url": "https://voteview.com/rollcall/RS1100565",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-05-13",
+  "vote_result": "Amendment Rejected"
+}

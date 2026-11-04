@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES90",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sconres-90-john-kerry",
+  "introduced_date": "1998-04-23",
+  "policy_area": "International Affairs",
+  "published_at": "1998-04-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-concurrent-resolution/90",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to acknowledge the Historic Northern Ireland Peace Agreement.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

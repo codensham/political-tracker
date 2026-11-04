@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR4049",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-4049-al-gore",
+  "introduced_date": "1984-03-15",
+  "policy_area": "Congress",
+  "published_at": "1984-03-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/4049",
+  "title": "A bill to amend title 44, United States Code, to reduce the gratuitous distribution of the Congressional Record.",
+  "topics": [],
+  "type": "bill"
+}

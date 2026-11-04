@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1569",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1569-john-kerry",
+  "introduced_date": "1999-09-08",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1999-09-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1569",
+  "tagged_by": "crosswalk@1",
+  "title": "Taunton River Wild and Scenic River Study Act of 1999",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

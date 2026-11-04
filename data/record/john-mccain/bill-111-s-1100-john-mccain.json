@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1100",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1100-john-mccain",
+  "introduced_date": "2009-05-20",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2009-05-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1100",
+  "tagged_by": "crosswalk@1",
+  "title": "Detainee Photographic Records Protection Act of 2009",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

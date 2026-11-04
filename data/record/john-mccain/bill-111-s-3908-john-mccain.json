@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3908",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3908-john-mccain",
+  "introduced_date": "2010-09-29",
+  "policy_area": "Emergency Management",
+  "published_at": "2010-09-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3908",
+  "title": "Burn Area Flood Prevention Act of 2010",
+  "topics": [],
+  "type": "bill"
+}

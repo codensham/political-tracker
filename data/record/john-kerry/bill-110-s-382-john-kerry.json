@@ -1,0 +1,18 @@
+{
+  "bill_number": "S382",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-382-john-kerry",
+  "introduced_date": "2007-01-24",
+  "policy_area": "Families",
+  "published_at": "2007-01-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/382",
+  "title": "Keeping Families Together Act",
+  "topics": [],
+  "type": "bill"
+}

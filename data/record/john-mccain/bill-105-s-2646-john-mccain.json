@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2646",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-2646-john-mccain",
+  "introduced_date": "1998-10-20",
+  "policy_area": "Commemorations",
+  "published_at": "1998-10-20",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/2646",
+  "title": "A bill to authorize the Disabled Veterans' LIFE Memorial Foundation to establish a memorial in the District of Columbia or its environs, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

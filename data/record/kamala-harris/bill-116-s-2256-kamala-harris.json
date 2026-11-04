@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2256",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-2256-kamala-harris",
+  "introduced_date": "2019-07-24",
+  "policy_area": "Immigration",
+  "published_at": "2019-07-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2256",
+  "tagged_by": "crosswalk@1",
+  "title": "Coordinating Care for Children Affected by Immigration Enforcement Act",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

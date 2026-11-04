@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2033",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2033-john-kerry",
+  "introduced_date": "2002-03-19",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2002-03-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2033",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize appropriations for the John H. Chafee Blackstone River Valley National Heritage Corridor in Massachusetts and Rhode Island, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

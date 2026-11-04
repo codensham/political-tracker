@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2808",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2808-al-gore",
+  "introduced_date": "1986-09-10",
+  "policy_area": "Social Welfare",
+  "published_at": "1986-09-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2808",
+  "title": "A bill to amend title XI of the Social Security Act to require hospitals participating in the medicare and medicaid programs to establish protocols for organ procurement, to establish standards for organ procurement agencies, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

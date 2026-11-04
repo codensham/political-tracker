@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-122-john-kerry",
+  "published_at": "2005-05-12",
+  "question": "On the Cloture Motion",
+  "rollnumber": 122,
+  "source_url": "https://voteview.com/rollcall/RS1090122",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-05-12",
+  "vote_result": "Cloture Motion Agreed to"
+}

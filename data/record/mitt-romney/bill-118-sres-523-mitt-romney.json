@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES523",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sres-523-mitt-romney",
+  "introduced_date": "2024-01-11",
+  "policy_area": "Congress",
+  "published_at": "2024-01-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-resolution/523",
+  "title": "A resolution honoring the life and legacy of the late Senator Herb Kohl.",
+  "topics": [],
+  "type": "bill"
+}

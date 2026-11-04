@@ -1,0 +1,20 @@
+{
+  "bill_number": "HCR624",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-h95-990-al-gore",
+  "published_at": "1978-05-18",
+  "question": null,
+  "rollnumber": 990,
+  "source_url": "https://voteview.com/rollcall/RH0950990",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-05-18",
+  "vote_result": null
+}

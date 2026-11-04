@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1545",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1545-john-mccain",
+  "introduced_date": "2003-09-04",
+  "policy_area": "Immigration",
+  "published_at": "2003-09-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1545",
+  "tagged_by": "crosswalk@1",
+  "title": "DREAM Act",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

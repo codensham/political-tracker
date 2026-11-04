@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR5880",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-5880-al-gore",
+  "introduced_date": "1982-05-21",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1982-05-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/5880",
+  "title": "Automobile Research Competition Act",
+  "topics": [],
+  "type": "bill"
+}

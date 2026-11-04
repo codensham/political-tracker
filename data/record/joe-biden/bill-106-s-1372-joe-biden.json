@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1372",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1372-joe-biden",
+  "introduced_date": "1999-07-15",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1999-07-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1372",
+  "tagged_by": "crosswalk@1",
+  "title": "Proliferation Prevention Enhancement Act of 1999",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

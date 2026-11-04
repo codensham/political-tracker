@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES270",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-sres-270-joe-biden",
+  "introduced_date": "1996-06-21",
+  "policy_area": "International Affairs",
+  "published_at": "1996-06-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-resolution/270",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution urging continued and increased United States support for the efforts of the International Criminal Tribunal for the former Yugoslavia to bring to justice the perpetrators of gross violations of international law in the former Yugoslavia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

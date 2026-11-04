@@ -1,0 +1,18 @@
+{
+  "bill_number": "S277",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-277-john-mccain",
+  "introduced_date": "2009-01-16",
+  "policy_area": "Social Welfare",
+  "published_at": "2009-01-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/277",
+  "title": "Serve America Act",
+  "topics": [],
+  "type": "bill"
+}

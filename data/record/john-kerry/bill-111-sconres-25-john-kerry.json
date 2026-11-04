@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES25",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sconres-25-john-kerry",
+  "introduced_date": "2009-06-18",
+  "policy_area": "Health",
+  "published_at": "2009-06-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-concurrent-resolution/25",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution recognizing the value and benefits that community health centers provide as health care homes for over 18,000,000 individuals, and the importance of enabling health centers and other safety net providers to continue to offer accessible, affordable, and continuous care to their current patients and to every American who lacks access to preventive and primary care services.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

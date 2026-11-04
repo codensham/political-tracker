@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1200",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-470-barack-obama",
+  "policy_area": "Native Americans",
+  "published_at": "2008-02-25",
+  "question": "On the Cloture Motion",
+  "rollnumber": 470,
+  "source_url": "https://voteview.com/rollcall/RS1100470",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-02-25",
+  "vote_result": "Cloture Motion Agreed to"
+}

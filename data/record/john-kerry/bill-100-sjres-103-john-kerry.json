@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES103",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-103-john-kerry",
+  "introduced_date": "1987-06-10",
+  "policy_area": "Commemorations",
+  "published_at": "1987-06-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/103",
+  "title": "A joint resolution to designate October, 1987, as \"Computer Learning Month\".",
+  "topics": [],
+  "type": "bill"
+}

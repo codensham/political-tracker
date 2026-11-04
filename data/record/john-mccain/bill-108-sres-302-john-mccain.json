@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES302",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-302-john-mccain",
+  "introduced_date": "2004-02-12",
+  "policy_area": "International Affairs",
+  "published_at": "2004-02-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/302",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the United States should not support the February 20, 2004, elections in Iran and that the United States should seek a genuine democratic government in Iran that will restore freedom to the Iranian people and will abandon terrorism.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

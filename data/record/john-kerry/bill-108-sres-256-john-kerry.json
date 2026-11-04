@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES256",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-256-john-kerry",
+  "introduced_date": "2003-10-31",
+  "policy_area": "International Affairs",
+  "published_at": "2003-10-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/256",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution observing the 50th anniversary of the Mutual Defense Treaty between the United States and the Republic of Korea, affirming the deep cooperation and friendship between the people of the United States and the people of the Republic of Korea, and thanking the Republic of Korea for it's contributions to the global war on terrorism and to the  stabilization and reconstruction of Afghanistan and Iraq.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

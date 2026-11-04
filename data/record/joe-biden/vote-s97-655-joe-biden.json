@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5922",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-s97-655-joe-biden",
+  "published_at": "1982-05-26",
+  "question": null,
+  "rollnumber": 655,
+  "source_url": "https://voteview.com/rollcall/RS0970655",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1982-05-26",
+  "vote_result": null
+}

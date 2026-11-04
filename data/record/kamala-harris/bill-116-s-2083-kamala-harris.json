@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2083",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-2083-kamala-harris",
+  "introduced_date": "2019-07-15",
+  "policy_area": "Sports and Recreation",
+  "published_at": "2019-07-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2083",
+  "title": "Athletics Fair Pay Act of 2019",
+  "topics": [],
+  "type": "bill"
+}

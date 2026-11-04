@@ -1,0 +1,18 @@
+{
+  "bill_number": "S31",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-31-john-mccain",
+  "introduced_date": "1995-01-04",
+  "policy_area": "Social Welfare",
+  "published_at": "1995-01-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/31",
+  "title": "Older Americans' Freedom to Work Act of 1993",
+  "topics": [],
+  "type": "bill"
+}

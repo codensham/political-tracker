@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1482",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1482-john-mccain",
+  "introduced_date": "1998-07-17",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1998-07-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1482",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 223 of the Communications Act of 1934 to establish a prohibition on commercial distribution on the World Wide Web of material that is harmful to minors, and for other purposes.",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

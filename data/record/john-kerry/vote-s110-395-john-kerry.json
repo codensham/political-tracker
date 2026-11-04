@@ -1,0 +1,21 @@
+{
+  "bill_number": "S294",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-395-john-kerry",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2007-10-25",
+  "question": "On the Amendment",
+  "rollnumber": 395,
+  "source_url": "https://voteview.com/rollcall/RS1100395",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-10-25",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES313",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-313-joe-biden",
+  "introduced_date": "2006-04-04",
+  "policy_area": "Commemorations",
+  "published_at": "2006-04-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/313",
+  "title": "A resolution expressing the sense of the Senate that a National Methamphetamine Prevention Week should be established to increase awareness of methamphetamine and to educate the public on ways to help prevent the use of that damaging narcotic.",
+  "topics": [],
+  "type": "bill"
+}

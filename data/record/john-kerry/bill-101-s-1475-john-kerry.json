@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1475",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1475-john-kerry",
+  "introduced_date": "1989-08-02",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1989-08-02",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1475",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to direct the Secretary of the Treasury to promulgate regulations to make the United States currency notes of a denomination of $20 or more traceable by electronic scanning.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

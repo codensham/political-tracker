@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES131",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-131-john-kerry",
+  "introduced_date": "1999-06-30",
+  "policy_area": "Congress",
+  "published_at": "1999-06-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/131",
+  "title": "A resolution relating to the retirement of Ron Kavulick",
+  "topics": [],
+  "type": "bill"
+}

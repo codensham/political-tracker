@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES449",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-449-kamala-harris",
+  "introduced_date": "2018-03-22",
+  "policy_area": "Health",
+  "published_at": "2018-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/449",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating the first week of April 2018 as \"National Asbestos Awareness Week\".",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

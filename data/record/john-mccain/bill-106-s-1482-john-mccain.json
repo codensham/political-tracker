@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1482",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1482-john-mccain",
+  "introduced_date": "1999-08-04",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1999-08-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1482",
+  "tagged_by": "crosswalk@1",
+  "title": "National Marine Sanctuaries Amendments Act of 2000",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

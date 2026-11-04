@@ -1,0 +1,20 @@
+{
+  "bill_number": "SJRES50",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-331-mitt-romney",
+  "published_at": "2019-10-23",
+  "question": "On the Joint Resolution",
+  "rollnumber": 331,
+  "source_url": "https://voteview.com/rollcall/RS1160331",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2019-10-23",
+  "vote_result": "Joint Resolution Defeated"
+}

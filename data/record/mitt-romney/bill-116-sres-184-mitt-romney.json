@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES184",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-184-mitt-romney",
+  "introduced_date": "2019-05-02",
+  "policy_area": "International Affairs",
+  "published_at": "2019-05-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/184",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the Easter Sunday terrorist attacks in Sri Lanka, offering sincere condolences to the victims, to their families and friends, and to the people and nation of Sri Lanka, and expressing solidarity and support for Sri Lanka.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

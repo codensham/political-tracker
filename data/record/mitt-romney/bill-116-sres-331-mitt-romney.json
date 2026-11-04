@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES331",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-331-mitt-romney",
+  "introduced_date": "2019-09-25",
+  "policy_area": "Congress",
+  "published_at": "2019-09-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/331",
+  "title": "A resolution instructing the managers on the part of the Senate on the bill S. 1790 (116th Congress) to insist upon the inclusion of the provisions of S. 2118 (116th Congress) (relating to the prohibition of United States persons from dealing in certain information and communications technology or services from foreign adversaries and requiring the approval of Congress to terminate certain export controls in effect with respect to Huawei Technologies Co. Ltd.).",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1727",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1727-john-mccain",
+  "introduced_date": "2009-09-30",
+  "policy_area": "Law",
+  "published_at": "2009-09-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1727",
+  "title": "Circuit Court of Appeals Restructuring and Modernization Act of 2009",
+  "topics": [],
+  "type": "bill"
+}

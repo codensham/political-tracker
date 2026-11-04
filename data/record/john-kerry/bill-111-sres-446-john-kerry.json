@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES446",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-446-john-kerry",
+  "introduced_date": "2010-03-23",
+  "policy_area": "International Affairs",
+  "published_at": "2010-03-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/446",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commemorating the 40th anniversary of the Treaty on the Non-Proliferation of Nuclear Weapons.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

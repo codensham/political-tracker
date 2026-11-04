@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1283",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1283-john-kerry",
+  "introduced_date": "1998-02-23",
+  "policy_area": "Commemorations",
+  "published_at": "1998-02-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1283",
+  "title": "A bill to award Congressional gold medals to Jean Brown Trickey, Carlotta Walls LaNier, Melba Patillo Beals, Terrence Roberts, Gloria Ray Karlmark, Thelma Mothershed Wair, Ernest Green, Elizabeth Eckford, and Jefferson Thomas, commonly referred collectively as the \"Little Rock Nine\" on the occasion of the 40th anniversary of the integration of the Central High School in Little Rock, Arkansas.",
+  "topics": [],
+  "type": "bill"
+}

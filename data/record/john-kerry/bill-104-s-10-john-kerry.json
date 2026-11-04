@@ -1,0 +1,18 @@
+{
+  "bill_number": "S10",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-10-john-kerry",
+  "introduced_date": "1995-01-04",
+  "policy_area": "Congress",
+  "published_at": "1995-01-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/10",
+  "title": "Comprehensive Congressional Reform Act of 1995",
+  "topics": [],
+  "type": "bill"
+}

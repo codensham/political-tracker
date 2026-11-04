@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES17",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sjres-17-mitt-romney",
+  "introduced_date": "2022-03-24",
+  "policy_area": "International Affairs",
+  "published_at": "2022-03-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-joint-resolution/17",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution requiring the advice and consent of the Senate or an Act of Congress to suspend, terminate, or withdraw the United States from the North Atlantic Treaty and authorizing related litigation, and for other purposes.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

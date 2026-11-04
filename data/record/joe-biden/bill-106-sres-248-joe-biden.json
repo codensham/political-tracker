@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES248",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-248-joe-biden",
+  "introduced_date": "2000-02-07",
+  "policy_area": "Commemorations",
+  "published_at": "2000-02-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/248",
+  "title": "A resolution to designate the week of May 7, 2000, as \"National Correctional Officers and Employees Week\".",
+  "topics": [],
+  "type": "bill"
+}

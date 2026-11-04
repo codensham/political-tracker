@@ -1,0 +1,18 @@
+{
+  "bill_number": "S311",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-311-john-mccain",
+  "introduced_date": "1995-02-01",
+  "policy_area": "Native Americans",
+  "published_at": "1995-02-01",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/311",
+  "title": "A bill to elevate the position of Director of Indian Health Service to Assistant Secretary of Health and Human Services, to provide for the organizational independence of the Indian Health Service within the Department of Health and Human Services, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES153",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-153-joe-biden",
+  "introduced_date": "1987-06-05",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1987-06-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/153",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution prohibiting the enhancement or upgrade in the sensitivity of technology of, or the capability of, Maverick missiles for Saudi Arabia.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

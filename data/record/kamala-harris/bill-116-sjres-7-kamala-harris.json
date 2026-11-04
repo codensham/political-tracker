@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES7",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sjres-7-kamala-harris",
+  "introduced_date": "2019-02-04",
+  "policy_area": "International Affairs",
+  "published_at": "2019-02-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-joint-resolution/7",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities in the Republic of Yemen that have not been authorized by Congress.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

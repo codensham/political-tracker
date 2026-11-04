@@ -1,0 +1,24 @@
+{
+  "bill_number": "SRES217",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-312-john-kerry",
+  "policy_area": "International Affairs",
+  "published_at": "1989-11-21",
+  "question": "On the Resolution",
+  "rollnumber": 312,
+  "source_url": "https://voteview.com/rollcall/RS1010312",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "vote",
+  "vote_date": "1989-11-21",
+  "vote_result": "Resolution Agreed to"
+}

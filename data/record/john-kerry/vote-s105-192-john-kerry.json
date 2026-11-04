@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2016",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-192-john-kerry",
+  "published_at": "1997-07-22",
+  "question": "On Passage of the Bill",
+  "rollnumber": 192,
+  "source_url": "https://voteview.com/rollcall/RS1050192",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-07-22",
+  "vote_result": "Bill Passed"
+}

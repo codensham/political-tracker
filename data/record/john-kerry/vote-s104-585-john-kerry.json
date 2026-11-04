@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1396",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-585-john-kerry",
+  "published_at": "1995-11-28",
+  "question": "On the Motion to Table",
+  "rollnumber": 585,
+  "source_url": "https://voteview.com/rollcall/RS1040585",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-11-28",
+  "vote_result": "Motion to Table Agreed to"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "S3001",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-639-john-kerry",
+  "published_at": "2008-09-08",
+  "question": "On the Cloture Motion",
+  "rollnumber": 639,
+  "source_url": "https://voteview.com/rollcall/RS1100639",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-09-08",
+  "vote_result": "Cloture Motion Agreed to"
+}

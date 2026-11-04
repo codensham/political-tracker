@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1293",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1293-john-mccain",
+  "introduced_date": "1995-09-29",
+  "policy_area": "International Affairs",
+  "published_at": "1995-09-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1293",
+  "tagged_by": "crosswalk@1",
+  "title": "Authorization for Implementation of the Agreed Framework Between the United States and North Korea Act",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

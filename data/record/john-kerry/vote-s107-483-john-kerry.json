@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2646",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-483-john-kerry",
+  "published_at": "2002-05-08",
+  "question": "On the Conference Report",
+  "rollnumber": 483,
+  "source_url": "https://voteview.com/rollcall/RS1070483",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-05-08",
+  "vote_result": "Conference Report Agreed to"
+}

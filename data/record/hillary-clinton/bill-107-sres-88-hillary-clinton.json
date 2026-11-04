@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES88",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-88-hillary-clinton",
+  "introduced_date": "2001-05-14",
+  "policy_area": "International Affairs",
+  "published_at": "2001-05-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/88",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate on the importance of membership of the United States on the United Nations Human Rights Commission.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

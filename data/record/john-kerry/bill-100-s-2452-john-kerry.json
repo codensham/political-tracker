@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2452",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2452-john-kerry",
+  "introduced_date": "1988-05-27",
+  "policy_area": "Native Americans",
+  "published_at": "1988-05-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2452",
+  "title": "A bill to place a moratorium on the relocation of Navajo and Hopi Indians under Public Law 93-531, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

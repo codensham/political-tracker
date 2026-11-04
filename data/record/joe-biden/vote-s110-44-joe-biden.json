@@ -1,0 +1,24 @@
+{
+  "bill_number": "S470",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-44-joe-biden",
+  "policy_area": "International Affairs",
+  "published_at": "2007-02-05",
+  "question": "On the Cloture Motion",
+  "rollnumber": 44,
+  "source_url": "https://voteview.com/rollcall/RS1100044",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "vote",
+  "vote_date": "2007-02-05",
+  "vote_result": "Cloture Motion Rejected"
+}

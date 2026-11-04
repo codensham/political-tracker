@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1636",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1636-john-kerry",
+  "introduced_date": "1989-09-18",
+  "policy_area": "Taxation",
+  "published_at": "1989-09-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1636",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to extend the period for issuing small issue bonds for manufacturing facilities through 1991.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

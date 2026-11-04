@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1563",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1563-hillary-clinton",
+  "introduced_date": "2003-08-01",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2003-08-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1563",
+  "tagged_by": "crosswalk@1",
+  "title": "National Minority Media Opportunities Act",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

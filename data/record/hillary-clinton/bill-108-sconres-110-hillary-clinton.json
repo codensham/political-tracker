@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES110",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-110-hillary-clinton",
+  "introduced_date": "2004-06-02",
+  "policy_area": "International Affairs",
+  "published_at": "2004-06-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/110",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress in support of the ongoing work of the Organization for Security and Cooperation in Europe (OSCE) in combating anti-Semitism, racism, xenophobia, discrimination, intolerance, and related violence.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

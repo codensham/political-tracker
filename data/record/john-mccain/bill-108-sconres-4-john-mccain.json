@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES4",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-4-john-mccain",
+  "introduced_date": "2003-02-11",
+  "policy_area": "International Affairs",
+  "published_at": "2003-02-11",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/4",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution welcoming the expression of support of 18 European nations for the enforcement of United Nations Security Council Resolution 1441.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

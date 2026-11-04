@@ -1,0 +1,18 @@
+{
+  "bill_number": "S310",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-310-john-kerry",
+  "introduced_date": "2001-02-13",
+  "policy_area": "Commemorations",
+  "published_at": "2001-02-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/310",
+  "title": "A bill to designate the United States courthouse located at 1 Courthouse Way in Boston, Massachusetts, as the \"John Joseph Moakley United States Courthouse\".",
+  "topics": [],
+  "type": "bill"
+}

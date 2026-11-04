@@ -1,0 +1,24 @@
+{
+  "bill_number": "HR3605",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-834-john-mccain",
+  "policy_area": "Health",
+  "published_at": "1984-09-06",
+  "question": null,
+  "rollnumber": 834,
+  "source_url": "https://voteview.com/rollcall/RH0980834",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "vote",
+  "vote_date": "1984-09-06",
+  "vote_result": null
+}

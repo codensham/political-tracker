@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES15",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sjres-15-kamala-harris",
+  "introduced_date": "2019-03-27",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2019-03-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-joint-resolution/15",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution proposing an amendment to the Constitution of the United States relative to equal rights for men and women.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

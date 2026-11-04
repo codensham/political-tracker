@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2673",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-555-joe-biden",
+  "published_at": "2002-07-15",
+  "question": "On the Amendment",
+  "rollnumber": 555,
+  "source_url": "https://voteview.com/rollcall/RS1070555",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-07-15",
+  "vote_result": "Amendment Agreed to"
+}

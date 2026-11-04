@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES122",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-122-joe-biden",
+  "introduced_date": "1997-09-15",
+  "policy_area": "Commemorations",
+  "published_at": "1997-09-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/122",
+  "title": "A resolution declaring September 26, 1997, as \"Austrian-American Day\".",
+  "topics": [],
+  "type": "bill"
+}

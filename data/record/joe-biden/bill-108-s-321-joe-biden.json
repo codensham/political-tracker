@@ -1,0 +1,18 @@
+{
+  "bill_number": "S321",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-321-joe-biden",
+  "introduced_date": "2003-02-05",
+  "policy_area": "Emergency Management",
+  "published_at": "2003-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/321",
+  "title": "Firefighting Research and Coordination Act",
+  "topics": [],
+  "type": "bill"
+}

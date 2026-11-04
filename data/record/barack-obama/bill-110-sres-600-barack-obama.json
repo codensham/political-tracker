@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES600",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-600-barack-obama",
+  "introduced_date": "2008-06-24",
+  "policy_area": "Commemorations",
+  "published_at": "2008-06-24",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/600",
+  "title": "A resolution commemorating the 44th anniversary of the deaths of civil rights workers Andrew Goodman, James Chaney, and Michael Schwerner in Philadelphia, Mississippi, while working in the name of American democracy to register voters and secure civil rights during the summer of 1964, which has become known as \"Freedom Summer\".",
+  "topics": [],
+  "type": "bill"
+}

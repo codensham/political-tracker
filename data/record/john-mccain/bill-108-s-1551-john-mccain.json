@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1551",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1551-john-mccain",
+  "introduced_date": "2003-07-31",
+  "policy_area": "Education",
+  "published_at": "2003-07-31",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1551",
+  "tagged_by": "crosswalk@1",
+  "title": "Excellence through Choice to Elevate Learning Act",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

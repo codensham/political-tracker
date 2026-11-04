@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2055",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-235-john-kerry",
+  "published_at": "2011-12-17",
+  "question": "On the Conference Report",
+  "rollnumber": 235,
+  "source_url": "https://voteview.com/rollcall/RS1120235",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2011-12-17",
+  "vote_result": "Conference Report Agreed to"
+}

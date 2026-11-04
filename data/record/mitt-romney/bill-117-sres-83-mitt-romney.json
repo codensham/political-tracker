@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES83",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-83-mitt-romney",
+  "introduced_date": "2021-03-01",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2021-03-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/83",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing support for the designation of February 20 through February 27, 2021, as \"National FFA Week\", recognizing the important role of the National FFA Organization in developing the next generation of leaders who will change the world, and celebrating 50 years of National FFA Organization Alumni and Supporters.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

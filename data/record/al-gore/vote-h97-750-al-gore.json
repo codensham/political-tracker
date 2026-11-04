@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-h97-750-al-gore",
+  "published_at": "1982-12-07",
+  "question": null,
+  "rollnumber": 750,
+  "source_url": "https://voteview.com/rollcall/RH0970750",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1982-12-07",
+  "vote_result": null
+}

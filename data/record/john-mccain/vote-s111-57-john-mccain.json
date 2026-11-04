@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-57-john-mccain",
+  "published_at": "2009-02-06",
+  "question": "On the Amendment",
+  "rollnumber": 57,
+  "source_url": "https://voteview.com/rollcall/RS1110057",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-02-06",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,24 @@
+{
+  "bill_number": "SRES277",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-343-john-mccain",
+  "policy_area": "International Affairs",
+  "published_at": "1992-04-01",
+  "question": "On the Resolution",
+  "rollnumber": 343,
+  "source_url": "https://voteview.com/rollcall/RS1020343",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "vote",
+  "vote_date": "1992-04-01",
+  "vote_result": "Resolution Agreed to"
+}

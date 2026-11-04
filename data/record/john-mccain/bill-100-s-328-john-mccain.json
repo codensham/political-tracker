@@ -1,0 +1,21 @@
+{
+  "bill_number": "S328",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-328-john-mccain",
+  "introduced_date": "1987-04-10",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1987-04-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/328",
+  "tagged_by": "crosswalk@1",
+  "title": "Prompt Payment Act Amendments of 1987",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

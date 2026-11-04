@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES331",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-331-john-mccain",
+  "introduced_date": "1985-10-01",
+  "policy_area": "Commemorations",
+  "published_at": "1985-10-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/331",
+  "title": "A joint resolution to designate September 21, 1986, as \"Ethnic American Day\".",
+  "topics": [],
+  "type": "bill"
+}

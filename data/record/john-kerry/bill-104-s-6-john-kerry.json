@@ -1,0 +1,21 @@
+{
+  "bill_number": "S6",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-6-john-kerry",
+  "introduced_date": "1995-01-04",
+  "policy_area": "Labor and Employment",
+  "published_at": "1995-01-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/6",
+  "tagged_by": "crosswalk@1",
+  "title": "Working Americans Opportunity Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES10",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-10-john-kerry",
+  "introduced_date": "2009-01-08",
+  "policy_area": "International Affairs",
+  "published_at": "2009-01-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/10",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the right of Israel to defend itself against attacks from Gaza and reaffirming the United States' strong support for Israel in its battle with Hamas, and supporting the Israeli-Palestinian peace process.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

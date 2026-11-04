@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4115",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-4115-joe-biden",
+  "introduced_date": "2006-12-08",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2006-12-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/4115",
+  "tagged_by": "crosswalk@1",
+  "title": "Effective Physician Assistance for Drug Treatment Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

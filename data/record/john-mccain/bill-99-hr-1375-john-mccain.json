@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR1375",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-1375-john-mccain",
+  "introduced_date": "1986-09-29",
+  "policy_area": "Labor and Employment",
+  "published_at": "1986-09-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/1375",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the provisions of the Employee Retirement Income Security Act of 1974 so as to permit options in the provision of certain health benefits.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

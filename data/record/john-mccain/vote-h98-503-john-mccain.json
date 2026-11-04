@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2615",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-503-john-mccain",
+  "published_at": "1984-01-24",
+  "question": null,
+  "rollnumber": 503,
+  "source_url": "https://voteview.com/rollcall/RH0980503",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-01-24",
+  "vote_result": null
+}

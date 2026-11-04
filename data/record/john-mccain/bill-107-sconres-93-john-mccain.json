@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES93",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-93-john-mccain",
+  "introduced_date": "2001-12-13",
+  "policy_area": "Commemorations",
+  "published_at": "2001-12-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/93",
+  "title": "A concurrent resolution recognizing and honoring the National Guard on the occasion of the 365th anniversary of its historic beginning with the founding of the militia of the Massachusetts Bay Colony.",
+  "topics": [],
+  "type": "bill"
+}

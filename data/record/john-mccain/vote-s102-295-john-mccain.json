@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2166",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-295-john-mccain",
+  "published_at": "1992-02-04",
+  "question": "On the Cloture Motion",
+  "rollnumber": 295,
+  "source_url": "https://voteview.com/rollcall/RS1020295",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-02-04",
+  "vote_result": "Cloture Motion Agreed to"
+}

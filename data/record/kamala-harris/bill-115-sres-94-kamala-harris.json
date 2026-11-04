@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES94",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-94-kamala-harris",
+  "introduced_date": "2017-03-23",
+  "policy_area": "Education",
+  "published_at": "2017-03-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/94",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating March 2017 as \"National Read Aloud Month\".",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

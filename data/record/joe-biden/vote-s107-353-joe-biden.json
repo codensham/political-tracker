@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN897",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-353-joe-biden",
+  "published_at": "2001-12-06",
+  "question": "On the Nomination",
+  "rollnumber": 353,
+  "source_url": "https://voteview.com/rollcall/RS1070353",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-12-06",
+  "vote_result": "Nomination Confirmed"
+}

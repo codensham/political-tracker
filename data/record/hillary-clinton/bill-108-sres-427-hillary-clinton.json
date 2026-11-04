@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES427",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-427-hillary-clinton",
+  "introduced_date": "2004-09-15",
+  "policy_area": "International Affairs",
+  "published_at": "2004-09-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/427",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution congratulating the citizens of Greece, the members of the Athens 2004 Organizing Committee for the Olympic and Paralympic Games, the International Olympic Committee, the United States Olympic Committee, the 2004 United States Olympic Team, athletes from around the world, and all the personnel who participated in the 2004 Olympic Summer Games in Athens, Greece.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES408",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-408-al-gore",
+  "introduced_date": "1988-05-09",
+  "policy_area": "International Affairs",
+  "published_at": "1988-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/408",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to condemn the use of chemical weapons by Iraq and urge the President to continue applying diplomatic pressure to prevent their further use, and urge the Administration to step up efforts to achieve an international ban on chemical weapons.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

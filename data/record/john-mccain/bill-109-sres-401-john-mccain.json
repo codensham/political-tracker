@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES401",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-401-john-mccain",
+  "introduced_date": "2006-03-13",
+  "policy_area": "International Affairs",
+  "published_at": "2006-03-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/401",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution urging the Republic of Belarus to conduct planned presidential elections March 19, 2006, in a free, fair, and transparent manner and with respect for human rights.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

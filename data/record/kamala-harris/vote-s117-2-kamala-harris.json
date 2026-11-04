@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-2-kamala-harris",
+  "published_at": "2021-01-07",
+  "question": "On the Objection",
+  "rollnumber": 2,
+  "source_url": "https://voteview.com/rollcall/RS1170002",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2021-01-07",
+  "vote_result": "Objection Not Sustained"
+}

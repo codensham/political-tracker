@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES427",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-427-mitt-romney",
+  "introduced_date": "2021-10-26",
+  "policy_area": "International Affairs",
+  "published_at": "2021-10-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/427",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to commemorate the 30-year anniversary of the 1991 Paris Peace Agreements with Cambodia and to call upon all signatories to those Agreements to fulfill their commitments to secure a peaceful, prosperous, democratic, and sovereign Cambodia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

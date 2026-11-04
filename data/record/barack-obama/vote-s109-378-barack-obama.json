@@ -1,0 +1,20 @@
+{
+  "bill_number": "S852",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-378-barack-obama",
+  "published_at": "2006-02-07",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 378,
+  "source_url": "https://voteview.com/rollcall/RS1090378",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-02-07",
+  "vote_result": "Cloture on the Motion to Proceed Agreed to"
+}

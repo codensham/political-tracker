@@ -1,0 +1,21 @@
+{
+  "bill_number": "S234",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-234-john-kerry",
+  "introduced_date": "2001-06-21",
+  "policy_area": "Taxation",
+  "published_at": "2001-06-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/234",
+  "tagged_by": "crosswalk@1",
+  "title": "Help Eliminate the Levy on Locution (HELLO) Act",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

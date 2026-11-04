@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN657",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-542-joe-biden",
+  "published_at": "1994-06-16",
+  "question": "On the Motion to Recommit",
+  "rollnumber": 542,
+  "source_url": "https://voteview.com/rollcall/RS1030542",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1994-06-16",
+  "vote_result": "Motion to Recommit Rejected"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1001",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1001-john-mccain",
+  "introduced_date": "1999-05-11",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1999-05-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1001",
+  "tagged_by": "crosswalk@1",
+  "title": "National Youth Violence Commission Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

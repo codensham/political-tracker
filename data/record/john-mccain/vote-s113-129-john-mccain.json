@@ -1,0 +1,20 @@
+{
+  "bill_number": "S954",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-129-john-mccain",
+  "published_at": "2013-05-21",
+  "question": "On the Amendment",
+  "rollnumber": 129,
+  "source_url": "https://voteview.com/rollcall/RS1130129",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2013-05-21",
+  "vote_result": "Amendment Agreed to"
+}

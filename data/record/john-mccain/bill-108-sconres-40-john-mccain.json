@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES40",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-40-john-mccain",
+  "introduced_date": "2003-07-17",
+  "policy_area": "Commemorations",
+  "published_at": "2003-07-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/40",
+  "title": "A concurrent resolution designating August 7, 2003, as \"National Purple Heart Recognition Day\".",
+  "topics": [],
+  "type": "bill"
+}

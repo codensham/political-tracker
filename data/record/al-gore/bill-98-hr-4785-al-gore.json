@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR4785",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-4785-al-gore",
+  "introduced_date": "1984-05-08",
+  "policy_area": "Social Welfare",
+  "published_at": "1984-05-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/4785",
+  "title": "Older Americans Act Amendments of 1984",
+  "topics": [],
+  "type": "bill"
+}

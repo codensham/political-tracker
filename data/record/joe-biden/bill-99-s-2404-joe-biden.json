@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2404",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2404-joe-biden",
+  "introduced_date": "1986-07-24",
+  "policy_area": "Social Welfare",
+  "published_at": "1986-07-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2404",
+  "title": "A bill to amend part D of title IV of the Social Security Act to prohibit the retroactive modification of child support arrearages.",
+  "topics": [],
+  "type": "bill"
+}

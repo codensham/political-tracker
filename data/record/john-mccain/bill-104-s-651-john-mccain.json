@@ -1,0 +1,18 @@
+{
+  "bill_number": "S651",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-651-john-mccain",
+  "introduced_date": "1995-03-30",
+  "policy_area": "Congress",
+  "published_at": "1995-03-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/651",
+  "title": "General Accounting Office Oversight and Improvement Act of 1995",
+  "topics": [],
+  "type": "bill"
+}

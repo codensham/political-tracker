@@ -1,0 +1,20 @@
+{
+  "bill_number": "S428",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 96,
+  "id": "vote-h96-547-al-gore",
+  "published_at": "1979-10-26",
+  "question": null,
+  "rollnumber": 547,
+  "source_url": "https://voteview.com/rollcall/RH0960547",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1979-10-26",
+  "vote_result": null
+}

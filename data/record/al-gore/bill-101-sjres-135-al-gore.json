@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES135",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-135-al-gore",
+  "introduced_date": "1989-05-16",
+  "policy_area": "Labor and Employment",
+  "published_at": "1989-05-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/135",
+  "tagged_by": "crosswalk@1",
+  "title": "National Commission on Human Resource Development Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

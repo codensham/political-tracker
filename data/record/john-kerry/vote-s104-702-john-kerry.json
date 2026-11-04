@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3019",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-702-john-kerry",
+  "published_at": "1996-04-25",
+  "question": "On the Conference Report",
+  "rollnumber": 702,
+  "source_url": "https://voteview.com/rollcall/RS1040702",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-04-25",
+  "vote_result": "Conference Report Agreed to"
+}

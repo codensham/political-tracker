@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2019",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2019-john-mccain",
+  "introduced_date": "1990-03-06",
+  "policy_area": "Health",
+  "published_at": "1990-03-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2019",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title XVIII of the Social Security Act to eliminate the reimbursement differential between hospitals in different areas.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

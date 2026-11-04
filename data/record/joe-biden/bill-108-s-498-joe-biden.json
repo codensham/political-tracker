@@ -1,0 +1,18 @@
+{
+  "bill_number": "S498",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-498-joe-biden",
+  "introduced_date": "2003-03-27",
+  "policy_area": "Commemorations",
+  "published_at": "2003-03-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/498",
+  "title": "A bill to authorize the President to posthumously award a gold medal on behalf of Congress to Joseph A. De Laine in recognition of his contributions to the Nation.",
+  "topics": [],
+  "type": "bill"
+}

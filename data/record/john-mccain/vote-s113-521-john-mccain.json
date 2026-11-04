@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2244",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-521-john-mccain",
+  "published_at": "2014-07-17",
+  "question": "On the Amendment",
+  "rollnumber": 521,
+  "source_url": "https://voteview.com/rollcall/RS1130521",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2014-07-17",
+  "vote_result": "Amendment Agreed to"
+}

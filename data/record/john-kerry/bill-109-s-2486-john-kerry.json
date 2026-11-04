@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2486",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2486-john-kerry",
+  "introduced_date": "2006-03-30",
+  "policy_area": "Emergency Management",
+  "published_at": "2006-03-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2486",
+  "title": "Chemical Security and Safety Act of 2006",
+  "topics": [],
+  "type": "bill"
+}

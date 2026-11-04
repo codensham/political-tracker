@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES770",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-770-mitt-romney",
+  "introduced_date": "2020-11-12",
+  "policy_area": "Congress",
+  "published_at": "2020-11-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/770",
+  "title": "A resolution honoring the life of Mark Andrews, former United States Senator for the State of North Dakota.",
+  "topics": [],
+  "type": "bill"
+}

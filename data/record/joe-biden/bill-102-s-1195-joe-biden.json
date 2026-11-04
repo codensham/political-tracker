@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1195",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1195-joe-biden",
+  "introduced_date": "1991-05-24",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1991-05-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1195",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize the establishment of a memorial on Federal land in the District of Columbia to honor individuals who have served as volunteers in the Peace Corps.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

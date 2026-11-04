@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1813",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-252-john-kerry",
+  "published_at": "2012-02-09",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 252,
+  "source_url": "https://voteview.com/rollcall/RS1120252",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2012-02-09",
+  "vote_result": "Cloture on the Motion to Proceed Agreed to"
+}

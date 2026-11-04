@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2673",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-552-joe-biden",
+  "published_at": "2002-07-11",
+  "question": "On the Motion to Table",
+  "rollnumber": 552,
+  "source_url": "https://voteview.com/rollcall/RS1070552",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-07-11",
+  "vote_result": "Motion to Table Agreed to"
+}

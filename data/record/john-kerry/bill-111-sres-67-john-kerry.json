@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES67",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-67-john-kerry",
+  "introduced_date": "2009-03-05",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2009-03-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/67",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that providing breakfast in schools through the national school breakfast program has a positive impact on the lives and classroom performance of low-income children.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

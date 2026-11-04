@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES337",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-337-john-kerry",
+  "introduced_date": "1988-09-12",
+  "policy_area": "Commemorations",
+  "published_at": "1988-09-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/337",
+  "title": "A joint resolution acknowledging the sacrifices that military families have made on behalf of the Nation and designating November 21, 1988, as \"National Military Families Recognition Day.\"",
+  "topics": [],
+  "type": "bill"
+}

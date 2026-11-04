@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2491",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2491-joe-biden",
+  "introduced_date": "2006-09-12",
+  "policy_area": "Commemorations",
+  "published_at": "2006-09-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2491",
+  "title": "Byron Nelson Congressional Gold Medal Act",
+  "topics": [],
+  "type": "bill"
+}

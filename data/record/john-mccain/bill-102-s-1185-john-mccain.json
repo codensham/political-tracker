@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1185",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1185-john-mccain",
+  "introduced_date": "1991-05-24",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1991-05-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1185",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to disclaim or relinquish all right, title, and interest of the United States in and to certain lands conditionally relinquished to the United States under the Act of June 4, 1897 (30 Stat. 11, 36), and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES93",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-93-john-mccain",
+  "introduced_date": "2017-03-23",
+  "policy_area": "International Affairs",
+  "published_at": "2017-03-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/93",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution congratulating the European Union on the 60th anniversary of the signing of the Treaty of Rome, which established the European Economic Community and laid the foundation for decades of European peace and prosperity.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

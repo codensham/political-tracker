@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-5-john-kerry",
+  "published_at": "1995-01-06",
+  "question": "On the Motion to Table",
+  "rollnumber": 5,
+  "source_url": "https://voteview.com/rollcall/RS1040005",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-01-06",
+  "vote_result": "Motion to Table Agreed to"
+}

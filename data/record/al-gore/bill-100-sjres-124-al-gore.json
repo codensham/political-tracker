@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES124",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-124-al-gore",
+  "introduced_date": "1987-05-05",
+  "policy_area": "Commemorations",
+  "published_at": "1987-05-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/124",
+  "title": "A joint resolution designating May 10, 1987, through May 16, 1987, as \"Just Say No to Drugs Week\".",
+  "topics": [],
+  "type": "bill"
+}

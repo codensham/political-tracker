@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-215-barack-obama",
+  "published_at": "2007-06-19",
+  "question": "On the Amendment",
+  "rollnumber": 215,
+  "source_url": "https://voteview.com/rollcall/RS1100215",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-06-19",
+  "vote_result": "Amendment Agreed to"
+}

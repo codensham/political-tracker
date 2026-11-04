@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1300",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-s-1300-joe-biden",
+  "introduced_date": "1984-06-26",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1984-06-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-bill/1300",
+  "tagged_by": "crosswalk@1",
+  "title": "Rural Electrification and Telephone Revolving Fund Self-Sufficiency Act of 1984",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

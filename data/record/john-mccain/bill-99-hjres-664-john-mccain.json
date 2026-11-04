@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES664",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-664-john-mccain",
+  "introduced_date": "1986-06-24",
+  "policy_area": "Commemorations",
+  "published_at": "1986-06-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/664",
+  "title": "A joint resolution to designate July 3, 1986, as \"Let Freedom Ring Day\", and to request the President to issue a proclamation encouraging the people of the United States to ring bells on such day immediately following the relighting of the torch of the Statue of Liberty.",
+  "topics": [],
+  "type": "bill"
+}

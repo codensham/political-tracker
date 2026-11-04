@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES160",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-160-john-kerry",
+  "introduced_date": "1986-08-15",
+  "policy_area": "International Affairs",
+  "published_at": "1986-08-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/160",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the jamming of radio broadcasting is contrary to the best interests of the people of the world and should be terminated.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

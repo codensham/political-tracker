@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1765",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-s98-385-joe-biden",
+  "published_at": "1984-02-22",
+  "question": null,
+  "rollnumber": 385,
+  "source_url": "https://voteview.com/rollcall/RS0980385",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-02-22",
+  "vote_result": null
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S370",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-370-john-mccain",
+  "introduced_date": "1987-01-21",
+  "policy_area": "Environmental Protection",
+  "published_at": "1987-01-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/370",
+  "tagged_by": "crosswalk@1",
+  "title": "Environmental Closure Workers Assistance Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

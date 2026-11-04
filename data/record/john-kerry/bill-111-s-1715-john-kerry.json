@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1715",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1715-john-kerry",
+  "introduced_date": "2009-09-25",
+  "policy_area": "International Affairs",
+  "published_at": "2009-09-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1715",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the United States International Broadcasting Act of 1994 to extend the authority of the Broadcasting Board of Governors to make grants for the purpose of operating Radio Free Asia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES207",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-207-joe-biden",
+  "introduced_date": "1998-07-13",
+  "policy_area": "Commemorations",
+  "published_at": "1998-07-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/207",
+  "title": "A resolution commemorating the 20th anniversary of the founding of the Vietnam Veterans of America.",
+  "topics": [],
+  "type": "bill"
+}

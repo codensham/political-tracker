@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES99",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-99-john-kerry",
+  "introduced_date": "1989-05-02",
+  "policy_area": "Congress",
+  "published_at": "1989-05-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/99",
+  "title": "A resolution requiring the Architect of the Capitol to establish and implement a voluntary program for recycling paper disposed of in the operation of the Senate.",
+  "topics": [],
+  "type": "bill"
+}

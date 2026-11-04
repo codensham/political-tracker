@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES800",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sres-800-mitt-romney",
+  "introduced_date": "2024-08-01",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2024-08-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-resolution/800",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the attempted assassination of former President Donald J. Trump during a political rally in Butler, Pennsylvania, honoring the victims who were killed and injured at the rally, and calling for unity and civility in the United States.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

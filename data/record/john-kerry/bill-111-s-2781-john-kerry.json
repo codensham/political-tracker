@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2781",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-2781-john-kerry",
+  "introduced_date": "2010-01-25",
+  "policy_area": "Health",
+  "published_at": "2010-01-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/2781",
+  "tagged_by": "crosswalk@1",
+  "title": "Rosa's Law",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

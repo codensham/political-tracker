@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES225",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-225-hillary-clinton",
+  "introduced_date": "2002-03-11",
+  "policy_area": "Commemorations",
+  "published_at": "2002-03-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/225",
+  "title": "A resolution designating the week of March 10 through March 16, 2002, as \"National Girl Scout Week\".",
+  "topics": [],
+  "type": "bill"
+}

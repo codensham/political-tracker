@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR1272",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-1272-john-mccain",
+  "introduced_date": "1985-03-19",
+  "policy_area": "Taxation",
+  "published_at": "1985-03-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/1272",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to extend the residential energy credit with respect to solar renewable energy source expenditures, with declining percentages of credit, through 1990, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

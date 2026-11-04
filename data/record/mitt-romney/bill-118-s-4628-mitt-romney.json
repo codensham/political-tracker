@@ -1,0 +1,18 @@
+{
+  "bill_number": "S4628",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-s-4628-mitt-romney",
+  "introduced_date": "2024-06-20",
+  "policy_area": "Emergency Management",
+  "published_at": "2024-06-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4628",
+  "title": "EMBER Act",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES248",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-248-john-kerry",
+  "introduced_date": "1987-07-10",
+  "policy_area": "International Affairs",
+  "published_at": "1987-07-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/248",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting the people of Haiti in their efforts to obtain respect for human rights and the holding of free and fair elections in Haiti, and for other purposes.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

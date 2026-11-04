@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3187",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-s-3187-joe-biden",
+  "introduced_date": "1978-06-08",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1978-06-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/senate-bill/3187",
+  "tagged_by": "crosswalk@1",
+  "title": "To amend title 38 of the United States Code to provide that the survivors of a veteran who was rated totally and permanently service-connected disabled for a period of at least ten years would be entitled to dependency and indemnity compensation as though the veteran had died from a service-connected disability.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES199",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-199-john-mccain",
+  "introduced_date": "2002-01-23",
+  "policy_area": "Commemorations",
+  "published_at": "2002-01-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/199",
+  "title": "A resolution honoring the life of Rex David \"Dave\" Thomas and expressing the deepest condolences  of the Senate to his family on his death.",
+  "topics": [],
+  "type": "bill"
+}

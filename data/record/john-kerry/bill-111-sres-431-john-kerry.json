@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES431",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-431-john-kerry",
+  "introduced_date": "2010-03-03",
+  "policy_area": "International Affairs",
+  "published_at": "2010-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/431",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing profound concern, deepest sympathies, and solidarity on behalf of the people of the United States to the people and Government of Chile following the massive earthquake.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

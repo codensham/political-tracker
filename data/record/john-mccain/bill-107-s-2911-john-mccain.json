@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2911",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2911-john-mccain",
+  "introduced_date": "2002-09-05",
+  "policy_area": "Taxation",
+  "published_at": "2002-09-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2911",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to repeal the sunset of the Economic Growth and Tax Relief Reconciliation Act of 2001 with respect to the modifications to education individual retirement accounts.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2664",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2664-al-gore",
+  "introduced_date": "1988-08-01",
+  "policy_area": "Taxation",
+  "published_at": "1988-08-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2664",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to exempt from the capitalization rules certain expenses of producers of creative property.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

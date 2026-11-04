@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES25",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-25-john-mccain",
+  "introduced_date": "1999-01-19",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "1999-01-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/25",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to reform the budget process by making the process fairer, more efficient, and more open.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

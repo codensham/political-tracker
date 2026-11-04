@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES216",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-216-john-kerry",
+  "introduced_date": "2002-03-05",
+  "policy_area": "Commemorations",
+  "published_at": "2002-03-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/216",
+  "title": "A resolution to honor Milton D. Stewart for his years of service in the Office of Advocacy of the Small Business Administration.",
+  "topics": [],
+  "type": "bill"
+}

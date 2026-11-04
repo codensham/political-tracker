@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3108",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3108-john-kerry",
+  "introduced_date": "2008-06-10",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2008-06-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3108",
+  "tagged_by": "crosswalk@1",
+  "title": "White House Conference on Food and Nutrition",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

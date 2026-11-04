@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES107",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sconres-107-al-gore",
+  "introduced_date": "1992-05-05",
+  "policy_area": "International Affairs",
+  "published_at": "1992-05-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-concurrent-resolution/107",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution condemning the involvement of the military regime in Burma, also known as the Union of Myanmar, in the ongoing, horrifying abuses of human rights, the trafficking of illicit drugs, and the mass buildup of military arms for domestic repression.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

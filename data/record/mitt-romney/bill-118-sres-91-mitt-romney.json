@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES91",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sres-91-mitt-romney",
+  "introduced_date": "2023-03-02",
+  "policy_area": "International Affairs",
+  "published_at": "2023-03-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-resolution/91",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate on the value of a tax agreement with Taiwan.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

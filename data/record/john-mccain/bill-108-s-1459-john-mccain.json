@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1459",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1459-john-mccain",
+  "introduced_date": "2003-07-25",
+  "policy_area": "Native Americans",
+  "published_at": "2003-07-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1459",
+  "title": "American Indian Trust Fund Management Reform Act Amendments Act of 2003",
+  "topics": [],
+  "type": "bill"
+}

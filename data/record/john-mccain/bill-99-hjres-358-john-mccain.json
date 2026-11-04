@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES358",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-358-john-mccain",
+  "introduced_date": "1985-07-26",
+  "policy_area": "Commemorations",
+  "published_at": "1985-07-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/358",
+  "title": "A joint resolution to designate the week of December 15, 1985, through December 21, 1985, as \"National Drunk and Drugged Driving Awareness Week\".",
+  "topics": [],
+  "type": "bill"
+}

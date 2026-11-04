@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES218",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-218-john-mccain",
+  "introduced_date": "1999-11-03",
+  "policy_area": "Commemorations",
+  "published_at": "1999-11-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/218",
+  "title": "A resolution expressing the sense of the Senate that a commemorative postage stamp should be issued recognizing the 4-H Youth Development Program's centennial.",
+  "topics": [],
+  "type": "bill"
+}

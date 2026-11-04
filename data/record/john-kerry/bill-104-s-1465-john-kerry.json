@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1465",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1465-john-kerry",
+  "introduced_date": "1995-12-11",
+  "policy_area": "International Affairs",
+  "published_at": "1995-12-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1465",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to extend au pair programs.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

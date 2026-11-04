@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1285",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1285-hillary-clinton",
+  "introduced_date": "2005-10-26",
+  "policy_area": "Commemorations",
+  "published_at": "2005-10-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1285",
+  "title": "A bill to designate the Federal building located at 333 Mt. Elliott Street in Detroit, Michigan, as the \"Rosa Parks Federal Building\".",
+  "topics": [],
+  "type": "bill"
+}

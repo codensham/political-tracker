@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES381",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-381-john-mccain",
+  "introduced_date": "1988-09-19",
+  "policy_area": "Commemorations",
+  "published_at": "1988-09-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/381",
+  "title": "A joint resolution to designate October 30, 1988 as \"Fire Safety at Home Day - Change Your Clock, Change Your Battery\".",
+  "topics": [],
+  "type": "bill"
+}

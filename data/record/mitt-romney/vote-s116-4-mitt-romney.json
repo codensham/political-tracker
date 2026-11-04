@@ -1,0 +1,20 @@
+{
+  "bill_number": "SJRES2",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-4-mitt-romney",
+  "published_at": "2019-01-15",
+  "question": "On the Motion to Table",
+  "rollnumber": 4,
+  "source_url": "https://voteview.com/rollcall/RS1160004",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2019-01-15",
+  "vote_result": "Motion to Table Failed"
+}

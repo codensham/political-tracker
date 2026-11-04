@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2051",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2051-al-gore",
+  "introduced_date": "1990-07-24",
+  "policy_area": "Health",
+  "published_at": "1990-07-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2051",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Social Security Act to provide for more flexible billing arrangements in situations where physicians in the solo practice of medicine or in another group practice have arrangements with colleagues to \"cover\" their practice on an occasional basis.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

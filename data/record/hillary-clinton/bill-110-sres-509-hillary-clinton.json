@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES509",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-509-hillary-clinton",
+  "introduced_date": "2008-04-09",
+  "policy_area": "Health",
+  "published_at": "2008-04-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/509",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the week of April 7, 2008 to April 13, 2008, as \"National Public Health Week\".",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

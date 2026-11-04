@@ -1,0 +1,20 @@
+{
+  "bill_number": "S22",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-481-john-kerry",
+  "published_at": "2006-05-08",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 481,
+  "source_url": "https://voteview.com/rollcall/RS1090481",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-05-08",
+  "vote_result": "Cloture on the Motion to Proceed Rejected"
+}

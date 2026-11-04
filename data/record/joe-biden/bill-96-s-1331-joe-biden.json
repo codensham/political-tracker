@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1331",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 96,
+  "id": "bill-96-s-1331-joe-biden",
+  "introduced_date": "1979-06-13",
+  "policy_area": "Energy",
+  "published_at": "1979-06-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/96th-congress/senate-bill/1331",
+  "tagged_by": "crosswalk@1",
+  "title": "Emergency Fuel Assistance Act of 1979",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

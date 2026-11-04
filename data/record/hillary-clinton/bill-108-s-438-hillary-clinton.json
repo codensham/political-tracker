@@ -1,0 +1,21 @@
+{
+  "bill_number": "S438",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-438-hillary-clinton",
+  "introduced_date": "2003-02-25",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2003-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/438",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to withdraw Federal land in Finger Lakes National Forest, New York, from entry, appropriation, disposal, or disposition under certain Federal laws.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

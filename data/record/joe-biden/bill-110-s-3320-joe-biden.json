@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3320",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3320-joe-biden",
+  "introduced_date": "2008-07-23",
+  "policy_area": "Native Americans",
+  "published_at": "2008-07-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3320",
+  "title": "Tribal Law and Order Act of 2008",
+  "topics": [],
+  "type": "bill"
+}

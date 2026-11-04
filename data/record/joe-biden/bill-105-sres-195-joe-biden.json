@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES195",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-195-joe-biden",
+  "introduced_date": "1998-03-18",
+  "policy_area": "Commemorations",
+  "published_at": "1998-03-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/195",
+  "title": "A bill designating the week of March 22 through March 28, 1998, as \"National Corrosion Prevention Week\".",
+  "topics": [],
+  "type": "bill"
+}

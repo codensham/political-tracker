@@ -1,0 +1,18 @@
+{
+  "bill_number": "S699",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-699-john-mccain",
+  "introduced_date": "1987-09-10",
+  "policy_area": "Commemorations",
+  "published_at": "1987-09-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/699",
+  "title": "A bill to designate September 17, 1987, the bicentennial of the signing of the Constitution of the United States, as \"Constitution Day\", and to make such day a legal public holiday.",
+  "topics": [],
+  "type": "bill"
+}

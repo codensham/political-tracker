@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5131",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-5131-al-gore",
+  "introduced_date": "1982-02-02",
+  "policy_area": "Taxation",
+  "published_at": "1982-02-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/5131",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to repeal the special leasing rules added by the Economic Recovery Tax Act of 1981 which permit transfers of tax benefits.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

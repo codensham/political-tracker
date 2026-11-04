@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1649",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1649-john-mccain",
+  "introduced_date": "1999-09-28",
+  "policy_area": "Education",
+  "published_at": "1999-09-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1649",
+  "tagged_by": "crosswalk@1",
+  "title": "Measures to Encourage Results in Teaching Act of 1999",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

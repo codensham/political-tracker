@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES146",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-146-john-mccain",
+  "introduced_date": "2017-04-27",
+  "policy_area": "Families",
+  "published_at": "2017-04-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/146",
+  "title": "A resolution designating April 30, 2017, as El Dia de Los Ninos-Celebrating Young Americans.",
+  "topics": [],
+  "type": "bill"
+}

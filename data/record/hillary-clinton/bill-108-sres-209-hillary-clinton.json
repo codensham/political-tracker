@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES209",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-209-hillary-clinton",
+  "introduced_date": "2003-09-09",
+  "policy_area": "Commemorations",
+  "published_at": "2003-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/209",
+  "title": "A resolution recognizing and honoring Woodstock, Vermont, native Hiram Powers for his extraordinary and enduring contributions to American sculpture.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S153",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-153-john-mccain",
+  "introduced_date": "2015-02-25",
+  "policy_area": "Immigration",
+  "published_at": "2015-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/153",
+  "tagged_by": "crosswalk@1",
+  "title": "I-Squared Act of 2015",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

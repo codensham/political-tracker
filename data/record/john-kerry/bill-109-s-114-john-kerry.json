@@ -1,0 +1,21 @@
+{
+  "bill_number": "S114",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-114-john-kerry",
+  "introduced_date": "2005-01-24",
+  "policy_area": "Health",
+  "published_at": "2005-01-24",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/114",
+  "tagged_by": "crosswalk@1",
+  "title": "Kids Come First Act of 2005",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

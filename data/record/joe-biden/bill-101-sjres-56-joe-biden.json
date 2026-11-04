@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES56",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-56-joe-biden",
+  "introduced_date": "1989-02-28",
+  "policy_area": "Health",
+  "published_at": "1989-02-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/56",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution designating April 23 through April 29, 1989, and the last week of April of each subsequent year as \"National Organ and Tissue Donor Awareness Week\".",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

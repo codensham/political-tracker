@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1195",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-545-joe-biden",
+  "published_at": "2008-04-14",
+  "question": "On the Cloture Motion",
+  "rollnumber": 545,
+  "source_url": "https://voteview.com/rollcall/RS1100545",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-04-14",
+  "vote_result": "Cloture Motion Agreed to"
+}

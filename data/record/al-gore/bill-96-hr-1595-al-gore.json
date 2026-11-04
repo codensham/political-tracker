@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR1595",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 96,
+  "id": "bill-96-hr-1595-al-gore",
+  "introduced_date": "1979-01-29",
+  "policy_area": "Energy",
+  "published_at": "1979-01-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/96th-congress/house-bill/1595",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to clarify the authority of the Tennessee Valley Authority to establish and maintain administrative offices anywhere within its service area.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

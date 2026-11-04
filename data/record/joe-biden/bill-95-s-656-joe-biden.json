@@ -1,0 +1,21 @@
+{
+  "bill_number": "S656",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-s-656-joe-biden",
+  "introduced_date": "1977-02-07",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1977-02-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/senate-bill/656",
+  "tagged_by": "crosswalk@1",
+  "title": "Fair Debt Collection Practices Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

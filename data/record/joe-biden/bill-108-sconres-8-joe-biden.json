@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES8",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-8-joe-biden",
+  "introduced_date": "2004-02-10",
+  "policy_area": "Commemorations",
+  "published_at": "2004-02-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/8",
+  "title": "A concurrent resolution expressing the sense of Congress that there should be established a National Visiting Nurse Association Week.\"",
+  "topics": [],
+  "type": "bill"
+}

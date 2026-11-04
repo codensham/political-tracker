@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN147",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-309-joe-biden",
+  "published_at": "1999-10-05",
+  "question": "On the Nomination",
+  "rollnumber": 309,
+  "source_url": "https://voteview.com/rollcall/RS1060309",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1999-10-05",
+  "vote_result": "Nomination Confirmed"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES285",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-285-john-kerry",
+  "introduced_date": "2011-10-03",
+  "policy_area": "International Affairs",
+  "published_at": "2011-10-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/285",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting the goals and ideals of World Habitat Day, October 3, 2011.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

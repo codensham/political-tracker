@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2010",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2010-john-kerry",
+  "introduced_date": "2002-07-08",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2002-07-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2010",
+  "tagged_by": "crosswalk@1",
+  "title": "Corporate and Criminal Fraud Accountability Act of 2002",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

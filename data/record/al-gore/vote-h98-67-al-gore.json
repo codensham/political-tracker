@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJR13",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "not_voting",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-67-al-gore",
+  "published_at": "1983-04-28",
+  "question": null,
+  "rollnumber": 67,
+  "source_url": "https://voteview.com/rollcall/RH0980067",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1983-04-28",
+  "vote_result": null
+}

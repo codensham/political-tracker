@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES511",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-511-hillary-clinton",
+  "introduced_date": "2006-06-13",
+  "policy_area": "International Affairs",
+  "published_at": "2006-06-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/511",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending and supporting Radio Al Mahaba, the 1st and only radio station for the women of Iraq.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

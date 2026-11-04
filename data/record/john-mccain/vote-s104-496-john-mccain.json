@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1322",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-496-john-mccain",
+  "policy_area": "International Affairs",
+  "published_at": "1995-10-24",
+  "question": "On Passage of the Bill",
+  "rollnumber": 496,
+  "source_url": "https://voteview.com/rollcall/RS1040496",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "vote",
+  "vote_date": "1995-10-24",
+  "vote_result": "Bill Passed"
+}

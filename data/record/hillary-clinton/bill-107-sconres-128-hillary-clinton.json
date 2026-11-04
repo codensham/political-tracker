@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES128",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-128-hillary-clinton",
+  "introduced_date": "2002-07-19",
+  "policy_area": "Commemorations",
+  "published_at": "2002-07-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/128",
+  "title": "A concurrent resolution honoring the invention of modern air conditioning by Dr. Willis H. Carrier on the occasion of its 100th anniversary.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1791",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1791-john-kerry",
+  "introduced_date": "2010-03-22",
+  "policy_area": "Education",
+  "published_at": "2010-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1791",
+  "tagged_by": "crosswalk@1",
+  "title": "Honorable Stephanie Tubbs Jones College Fire Prevention Act",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

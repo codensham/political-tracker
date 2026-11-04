@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES122",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-122-john-kerry",
+  "introduced_date": "2007-03-23",
+  "policy_area": "Commemorations",
+  "published_at": "2007-03-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/122",
+  "title": "A resolution commemorating the 25th anniversary of the construction and dedication of the Vietnam Veterans Memorial.",
+  "topics": [],
+  "type": "bill"
+}

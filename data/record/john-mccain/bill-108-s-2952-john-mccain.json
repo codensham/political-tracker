@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2952",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2952-john-mccain",
+  "introduced_date": "2004-10-08",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2004-10-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2952",
+  "title": "Norman Y. Mineta Research and Special Programs Improvement Act",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES492",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-492-kamala-harris",
+  "introduced_date": "2020-02-05",
+  "policy_area": "Sports and Recreation",
+  "published_at": "2020-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/492",
+  "title": "A resolution supporting the observation of \"National Girls & Women in Sports Day\" on February 5, 2020, to raise awareness of and celebrate the achievements of girls and women in sports.",
+  "topics": [],
+  "type": "bill"
+}

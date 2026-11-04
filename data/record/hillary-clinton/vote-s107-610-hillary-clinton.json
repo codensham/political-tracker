@@ -1,0 +1,20 @@
+{
+  "bill_number": "SJRES45",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-610-hillary-clinton",
+  "published_at": "2002-10-03",
+  "question": "On the Cloture Motion",
+  "rollnumber": 610,
+  "source_url": "https://voteview.com/rollcall/RS1070610",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-10-03",
+  "vote_result": "Cloture Motion Agreed to"
+}

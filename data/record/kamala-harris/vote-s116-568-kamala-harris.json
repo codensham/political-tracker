@@ -1,0 +1,20 @@
+{
+  "bill_number": "S4049",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-568-kamala-harris",
+  "published_at": "2020-07-23",
+  "question": "On Passage of the Bill",
+  "rollnumber": 568,
+  "source_url": "https://voteview.com/rollcall/RS1160568",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2020-07-23",
+  "vote_result": "Bill Passed"
+}

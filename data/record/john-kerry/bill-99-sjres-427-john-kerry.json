@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES427",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-427-john-kerry",
+  "introduced_date": "1986-10-15",
+  "policy_area": "Emergency Management",
+  "published_at": "1986-10-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/427",
+  "title": "A joint resolution reaffirming our friendship and sympathy with the people of El Salvador following the devastating earthquake of October 10, 1986.",
+  "topics": [],
+  "type": "bill"
+}

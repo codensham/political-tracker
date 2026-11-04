@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1749",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1749-john-kerry",
+  "introduced_date": "2011-11-29",
+  "policy_area": "Education",
+  "published_at": "2011-11-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1749",
+  "tagged_by": "crosswalk@1",
+  "title": "CAMPUS Safety Act of 2011",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

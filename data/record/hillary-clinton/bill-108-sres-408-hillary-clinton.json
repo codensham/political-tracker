@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES408",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-408-hillary-clinton",
+  "introduced_date": "2004-07-20",
+  "policy_area": "International Affairs",
+  "published_at": "2004-07-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/408",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting the construction by Israel of a security fence to prevent Palestinian terrorist attacks, condemning the decision of the International Court of Justice on the legality of the security fence, and urging no further action by the United Nations to delay or prevent the construction of the security fence.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

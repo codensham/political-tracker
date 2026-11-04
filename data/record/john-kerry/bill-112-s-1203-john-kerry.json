@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1203",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1203-john-kerry",
+  "introduced_date": "2011-06-15",
+  "policy_area": "Health",
+  "published_at": "2011-06-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1203",
+  "tagged_by": "crosswalk@1",
+  "title": "Medicare Home Infusion Therapy Coverage Act of 2011",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES185",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-185-john-mccain",
+  "introduced_date": "2011-06-20",
+  "policy_area": "International Affairs",
+  "published_at": "2011-06-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/185",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution reaffirming the commitment of the United States to a negotiated settlement of the Israeli-Palestinian conflict through direct Israeli-Palestinian negotiations, reaffirming opposition to the inclusion of Hamas in a unity government unless it is willing to accept peace with Israel and renounce violence, and declaring that Palestinian efforts to gain recognition of a state outside direct negotiations demonstrates absence of a good faith commitment to peace negotiations, and will have implications for continued United States aid.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

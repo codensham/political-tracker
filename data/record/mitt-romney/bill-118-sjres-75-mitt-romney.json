@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES75",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sjres-75-mitt-romney",
+  "introduced_date": "2024-05-01",
+  "policy_area": "Environmental Protection",
+  "published_at": "2024-05-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-joint-resolution/75",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution providing for congressional disapproval under chapter 8 of title 5, United States Code, of the rule submitted by the Environmental Protection Agency relating to \"Multi-Pollutant Emissions Standards for Model Years 2027 and Later Light-Duty and Medium-Duty Vehicles\".",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

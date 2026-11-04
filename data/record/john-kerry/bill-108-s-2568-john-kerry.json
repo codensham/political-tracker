@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2568",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2568-john-kerry",
+  "introduced_date": "2004-09-30",
+  "policy_area": "Commemorations",
+  "published_at": "2004-09-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2568",
+  "title": "Benjamin Franklin Commemorative Coin Act",
+  "topics": [],
+  "type": "bill"
+}

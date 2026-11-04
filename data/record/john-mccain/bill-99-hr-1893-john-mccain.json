@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR1893",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-1893-john-mccain",
+  "introduced_date": "1985-04-02",
+  "policy_area": "Labor and Employment",
+  "published_at": "1985-04-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/1893",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Contract Work Hours and Safety Standards Act and the Walsh-Healey Act to permit employees, to whom such Acts apply, to work any combination of hours in a forty-hour workweek.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

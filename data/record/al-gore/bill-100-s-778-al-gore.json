@@ -1,0 +1,21 @@
+{
+  "bill_number": "S778",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-778-al-gore",
+  "introduced_date": "1987-03-30",
+  "policy_area": "Education",
+  "published_at": "1987-03-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/778",
+  "tagged_by": "crosswalk@1",
+  "title": "Star Schools Program Assistance Act",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

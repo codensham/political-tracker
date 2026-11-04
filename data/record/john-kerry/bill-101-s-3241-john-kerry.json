@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3241",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-3241-john-kerry",
+  "introduced_date": "1990-10-24",
+  "policy_area": "International Affairs",
+  "published_at": "1990-10-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/3241",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill entitled the \"Iraqi Assets Control Act\".",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

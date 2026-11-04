@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES65",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-65-john-mccain",
+  "introduced_date": "2011-02-17",
+  "policy_area": "International Affairs",
+  "published_at": "2011-02-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/65",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the conviction by the Government of Russia of businessman Mikhail Khodorkovsky and Platon Lebedev constitutes a politically motivated case of selective arrest and prosecution that flagrantly undermines the rule of law and independence of the judicial system of Russia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

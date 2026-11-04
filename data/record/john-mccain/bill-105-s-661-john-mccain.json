@@ -1,0 +1,18 @@
+{
+  "bill_number": "S661",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-661-john-mccain",
+  "introduced_date": "1997-04-28",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1997-04-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/661",
+  "title": "A bill to provide an administrative process for obtaining a waiver of the coastwise trade laws for certain vessels.",
+  "topics": [],
+  "type": "bill"
+}

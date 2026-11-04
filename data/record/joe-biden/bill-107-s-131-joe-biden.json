@@ -1,0 +1,21 @@
+{
+  "bill_number": "S131",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-131-joe-biden",
+  "introduced_date": "2001-02-27",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2001-02-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/131",
+  "tagged_by": "crosswalk@1",
+  "title": "Veterans' Higher Education Opportunities Act of 2001",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

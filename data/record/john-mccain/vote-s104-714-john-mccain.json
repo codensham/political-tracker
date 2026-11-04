@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1664",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-714-john-mccain",
+  "published_at": "1996-05-01",
+  "question": "On the Motion to Table",
+  "rollnumber": 714,
+  "source_url": "https://voteview.com/rollcall/RS1040714",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-05-01",
+  "vote_result": "Motion to Table Agreed to"
+}

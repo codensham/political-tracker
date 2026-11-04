@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1932",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-362-hillary-clinton",
+  "published_at": "2005-12-21",
+  "question": "On the Motion",
+  "rollnumber": 362,
+  "source_url": "https://voteview.com/rollcall/RS1090362",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-12-21",
+  "vote_result": "Motion Rejected"
+}

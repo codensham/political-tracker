@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES455",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-455-john-kerry",
+  "introduced_date": "2012-05-10",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2012-05-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/455",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating June 27, 2012, as \"National Post-Traumatic Stress Disorder Awareness Day\".",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

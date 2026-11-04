@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2453",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2453-john-mccain",
+  "introduced_date": "2000-04-13",
+  "policy_area": "Commemorations",
+  "published_at": "2000-04-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2453",
+  "title": "A bill to authorize the President to award a gold medal on behalf of Congress to Pope John Paul II in recognition of his outstanding and enduring contributions to humanity, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

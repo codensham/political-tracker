@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1328",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-498-john-kerry",
+  "policy_area": "Law",
+  "published_at": "1995-10-24",
+  "question": "On the Amendment",
+  "rollnumber": 498,
+  "source_url": "https://voteview.com/rollcall/RS1040498",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-10-24",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S270",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-270-hillary-clinton",
+  "introduced_date": "2003-01-30",
+  "policy_area": "Labor and Employment",
+  "published_at": "2003-01-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/270",
+  "tagged_by": "crosswalk@1",
+  "title": "Economic Security Act of 2003",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

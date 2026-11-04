@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1346",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1346-al-gore",
+  "introduced_date": "1988-01-28",
+  "policy_area": "Labor and Employment",
+  "published_at": "1988-01-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1346",
+  "tagged_by": "crosswalk@1",
+  "title": "Performing Arts Labor Relations Amendments",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

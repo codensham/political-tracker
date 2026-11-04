@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES53",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-53-joe-biden",
+  "introduced_date": "1991-02-07",
+  "policy_area": "Environmental Protection",
+  "published_at": "1991-02-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/53",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the United States should take a leadership position in calling for worldwide carbon dioxide emissions reductions at the first meeting of the Intergovernmental Negotiating Committee on a Framework Convention on Climate Change to be held in Washington, D.C. on February 4th - 14th, 1991.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

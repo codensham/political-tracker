@@ -1,0 +1,20 @@
+{
+  "bill_number": "SJRES89",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-564-mitt-romney",
+  "published_at": "2024-07-11",
+  "question": "On the Point of Order",
+  "rollnumber": 564,
+  "source_url": "https://voteview.com/rollcall/RS1180564",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2024-07-11",
+  "vote_result": "Point of Order Well Taken"
+}

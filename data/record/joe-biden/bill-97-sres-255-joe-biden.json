@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES255",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-sres-255-joe-biden",
+  "introduced_date": "1981-12-10",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1981-12-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-resolution/255",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate with respect to the requested extradition of Ziad Abu Eain to Israel.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

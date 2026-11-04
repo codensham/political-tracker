@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2802",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-2802-john-kerry",
+  "introduced_date": "2012-05-07",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2012-05-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/2802",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to suspend temporarily the duty on benzenesulfonic acid, 4-chloro-2-[[4,5-dihydro-3-methyl-5-oxo-1-(3-sulfophenyl)-1H-pyrazol-4-yl]azo]-5-methyl-, calcium salt.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

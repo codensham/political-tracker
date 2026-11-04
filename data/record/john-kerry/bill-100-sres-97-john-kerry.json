@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES97",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-97-john-kerry",
+  "introduced_date": "1987-02-03",
+  "policy_area": "Energy",
+  "published_at": "1987-02-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/97",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the Senate's opposition to the imposition of a fee on imported crude oil and refined petroleum products.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

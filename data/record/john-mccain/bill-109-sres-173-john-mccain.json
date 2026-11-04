@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES173",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-173-john-mccain",
+  "introduced_date": "2005-06-16",
+  "policy_area": "International Affairs",
+  "published_at": "2005-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/173",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing support for the Good Friday Agreement of 1998 as the blueprint for lasting peace in Northern Ireland.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

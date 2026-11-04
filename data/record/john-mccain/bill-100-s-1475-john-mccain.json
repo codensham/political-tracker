@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1475",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1475-john-mccain",
+  "introduced_date": "1987-10-02",
+  "policy_area": "Native Americans",
+  "published_at": "1987-10-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1475",
+  "title": "A bill to establish an effective clinical staffing recruitment and retention program, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

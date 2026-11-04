@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES197",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-197-kamala-harris",
+  "introduced_date": "2019-05-08",
+  "policy_area": "Education",
+  "published_at": "2019-05-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/197",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the roles and contributions of the teachers of the United States in building and enhancing the civic, cultural, and economic well-being of the United States.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

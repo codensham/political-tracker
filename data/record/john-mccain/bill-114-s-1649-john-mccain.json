@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1649",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-1649-john-mccain",
+  "introduced_date": "2015-06-23",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2015-06-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1649",
+  "title": "Sonoran Corridor Interstate Development Act of 2015",
+  "topics": [],
+  "type": "bill"
+}

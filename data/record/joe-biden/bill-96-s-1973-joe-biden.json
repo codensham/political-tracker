@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1973",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 96,
+  "id": "bill-96-s-1973-joe-biden",
+  "introduced_date": "1979-11-02",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1979-11-02",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/96th-congress/senate-bill/1973",
+  "tagged_by": "crosswalk@1",
+  "title": "Sentencing Reform Act of 1979",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

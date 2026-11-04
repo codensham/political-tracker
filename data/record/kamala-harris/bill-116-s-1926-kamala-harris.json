@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1926",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-1926-kamala-harris",
+  "introduced_date": "2019-06-20",
+  "policy_area": "Health",
+  "published_at": "2019-06-20",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1926",
+  "tagged_by": "crosswalk@1",
+  "title": "PrEP Access and Coverage Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

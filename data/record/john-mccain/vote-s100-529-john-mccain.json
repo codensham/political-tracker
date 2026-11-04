@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1811",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-529-john-mccain",
+  "published_at": "1988-04-25",
+  "question": null,
+  "rollnumber": 529,
+  "source_url": "https://voteview.com/rollcall/RS1000529",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1988-04-25",
+  "vote_result": null
+}

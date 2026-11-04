@@ -1,0 +1,18 @@
+{
+  "bill_number": "S21",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-21-kamala-harris",
+  "introduced_date": "2019-01-25",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2019-01-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/21",
+  "title": "Pay Our Coast Guard Act",
+  "topics": [],
+  "type": "bill"
+}

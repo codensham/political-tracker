@@ -1,0 +1,20 @@
+{
+  "bill_number": "S502",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 93,
+  "id": "vote-s93-40-joe-biden",
+  "published_at": "1973-03-15",
+  "question": null,
+  "rollnumber": 40,
+  "source_url": "https://voteview.com/rollcall/RS0930040",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1973-03-15",
+  "vote_result": null
+}

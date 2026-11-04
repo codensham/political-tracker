@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1874",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1874-joe-biden",
+  "introduced_date": "2000-03-29",
+  "policy_area": "Education",
+  "published_at": "2000-03-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1874",
+  "tagged_by": "crosswalk@1",
+  "title": "National Police Athletic League Youth Enrichment Act of 1999",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

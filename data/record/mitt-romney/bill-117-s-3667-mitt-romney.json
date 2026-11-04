@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3667",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-3667-mitt-romney",
+  "introduced_date": "2022-02-16",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2022-02-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3667",
+  "tagged_by": "crosswalk@1",
+  "title": "African-American Burial Grounds Preservation Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

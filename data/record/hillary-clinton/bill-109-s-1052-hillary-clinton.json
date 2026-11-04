@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1052",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1052-hillary-clinton",
+  "introduced_date": "2005-05-17",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2005-05-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1052",
+  "title": "Transportation Security Improvement Act of 2005",
+  "topics": [],
+  "type": "bill"
+}

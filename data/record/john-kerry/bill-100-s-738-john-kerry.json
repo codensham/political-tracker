@@ -1,0 +1,21 @@
+{
+  "bill_number": "S738",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-738-john-kerry",
+  "introduced_date": "1987-03-12",
+  "policy_area": "International Affairs",
+  "published_at": "1987-03-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/738",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Foreign Assistance Act of 1961 to modify provisions relating to the trade and development program.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

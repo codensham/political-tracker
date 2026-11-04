@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2490",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2490-al-gore",
+  "introduced_date": "1992-03-31",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1992-03-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2490",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide that employees of the Tennessee Valley Authority who are covered by a collective bargaining agreement shall not be subject to any regulations which take employee efficiency or performance ratings into account in determining the order of retention of competing employees in a reduction in force.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

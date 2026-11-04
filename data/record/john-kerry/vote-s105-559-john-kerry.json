@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2237",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-559-john-kerry",
+  "published_at": "1998-09-08",
+  "question": "On the Motion to Table",
+  "rollnumber": 559,
+  "source_url": "https://voteview.com/rollcall/RS1050559",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-09-08",
+  "vote_result": "Motion to Table Failed"
+}

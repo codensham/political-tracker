@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES683",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-683-joe-biden",
+  "introduced_date": "2008-09-24",
+  "policy_area": "Commemorations",
+  "published_at": "2008-09-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/683",
+  "title": "A resolution designating the week of October 19 through October 25, 2008, as \"National Childhood Lead Poisoning Prevention Week\".",
+  "topics": [],
+  "type": "bill"
+}

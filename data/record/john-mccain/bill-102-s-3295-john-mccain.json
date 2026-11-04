@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3295",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-3295-john-mccain",
+  "introduced_date": "1992-10-03",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1992-10-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/3295",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to establish within the Office of the Secretary of Defense the position of Director of Criminal Investigations, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

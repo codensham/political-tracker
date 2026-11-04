@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES189",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-189-john-mccain",
+  "introduced_date": "2013-06-26",
+  "policy_area": "Congress",
+  "published_at": "2013-06-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/189",
+  "title": "A resolution relative to the death of the Honorable William Dodd Hathaway, former United States Senator for the State of Maine.",
+  "topics": [],
+  "type": "bill"
+}

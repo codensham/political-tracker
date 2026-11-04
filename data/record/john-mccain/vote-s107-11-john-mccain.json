@@ -1,0 +1,21 @@
+{
+  "bill_number": "S235",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-11-john-mccain",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2001-02-08",
+  "question": "On Passage of the Bill",
+  "rollnumber": 11,
+  "source_url": "https://voteview.com/rollcall/RS1070011",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-02-08",
+  "vote_result": "Bill Passed"
+}

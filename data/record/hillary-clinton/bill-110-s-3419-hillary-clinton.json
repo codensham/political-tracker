@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3419",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3419-hillary-clinton",
+  "introduced_date": "2008-08-01",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2008-08-01",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3419",
+  "tagged_by": "crosswalk@1",
+  "title": "Veterans Disability Benefits Claims Modernization Act of 2008",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1173",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-324-john-kerry",
+  "published_at": "1998-03-11",
+  "question": "On the Motion",
+  "rollnumber": 324,
+  "source_url": "https://voteview.com/rollcall/RS1050324",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-03-11",
+  "vote_result": "Motion Rejected"
+}

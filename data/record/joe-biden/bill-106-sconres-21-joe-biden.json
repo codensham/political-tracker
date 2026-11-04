@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES21",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sconres-21-joe-biden",
+  "introduced_date": "1999-03-23",
+  "policy_area": "International Affairs",
+  "published_at": "1999-03-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-concurrent-resolution/21",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution authorizing the President of the United States to conduct military air operations and missile strikes against the Federal Republic of Yugoslavia (Serbia and Montenegro).",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

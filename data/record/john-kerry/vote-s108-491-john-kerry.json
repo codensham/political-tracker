@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1637",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-491-john-kerry",
+  "published_at": "2004-03-04",
+  "question": "On the Amendment",
+  "rollnumber": 491,
+  "source_url": "https://voteview.com/rollcall/RS1080491",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-03-04",
+  "vote_result": "Amendment Agreed to"
+}

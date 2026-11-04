@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES408",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-408-john-mccain",
+  "introduced_date": "1983-11-03",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1983-11-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/408",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution designating November 12, 1983, as \"Anti-Defamation League Day\" in honor of the league's seventieth anniversary.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR2193",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-2193-al-gore",
+  "introduced_date": "1983-03-21",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1983-03-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/2193",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend chapter 44 of title 18 of the United States Code to extend and strengthen the mandatory penalty feature of the prohibition against the use of firearms in Federal felonies, and for other purposes.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

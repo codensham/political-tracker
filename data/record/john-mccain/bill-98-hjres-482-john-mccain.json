@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES482",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-482-john-mccain",
+  "introduced_date": "1984-09-05",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1984-09-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/482",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution authorizing the Law Enforcement Officers Memorial Fund to establish a memorial in the District of Columbia or its environs.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

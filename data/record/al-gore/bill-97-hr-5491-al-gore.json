@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5491",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-5491-al-gore",
+  "introduced_date": "1982-02-09",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1982-02-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/5491",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Federal Food, Drug, and Cosmetic Act to revise the provisions for regulation of food additives and other food constituents, and for other purposes.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2199",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2199-barack-obama",
+  "introduced_date": "2006-01-26",
+  "policy_area": "Taxation",
+  "published_at": "2006-01-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2199",
+  "tagged_by": "crosswalk@1",
+  "title": "PACE-Finance Act",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

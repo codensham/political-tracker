@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3403",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3403-john-kerry",
+  "introduced_date": "2008-09-08",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2008-09-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3403",
+  "title": "Accuracy in Fuel Economy Standards Act",
+  "topics": [],
+  "type": "bill"
+}

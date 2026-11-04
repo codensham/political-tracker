@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6201",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-501-mitt-romney",
+  "published_at": "2020-03-18",
+  "question": "On the Amendment",
+  "rollnumber": 501,
+  "source_url": "https://voteview.com/rollcall/RS1160501",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2020-03-18",
+  "vote_result": "Amendment Rejected"
+}

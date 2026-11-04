@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR190",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-190-al-gore",
+  "introduced_date": "1981-09-25",
+  "policy_area": "Taxation",
+  "published_at": "1981-09-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/190",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to provide for the establishment of the deduction of contributions to parents and students' savings accounts for educational purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

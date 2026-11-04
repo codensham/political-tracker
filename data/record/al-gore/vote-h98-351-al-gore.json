@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2912",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-351-al-gore",
+  "published_at": "1983-09-30",
+  "question": null,
+  "rollnumber": 351,
+  "source_url": "https://voteview.com/rollcall/RH0980351",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1983-09-30",
+  "vote_result": null
+}

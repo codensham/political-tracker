@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2058",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2058-hillary-clinton",
+  "introduced_date": "2008-04-22",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2008-04-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2058",
+  "tagged_by": "crosswalk@1",
+  "title": "Close the Enron Loophole Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

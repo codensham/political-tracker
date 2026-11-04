@@ -1,0 +1,21 @@
+{
+  "bill_number": "S756",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-756-john-kerry",
+  "introduced_date": "2009-06-16",
+  "policy_area": "Health",
+  "published_at": "2009-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/756",
+  "tagged_by": "crosswalk@1",
+  "title": "PRIME Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

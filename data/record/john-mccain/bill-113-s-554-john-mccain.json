@@ -1,0 +1,21 @@
+{
+  "bill_number": "S554",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-554-john-mccain",
+  "introduced_date": "2013-10-09",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2013-10-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/554",
+  "tagged_by": "crosswalk@1",
+  "title": "Biennial Budgeting and Appropriations Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

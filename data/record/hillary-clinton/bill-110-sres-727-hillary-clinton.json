@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES727",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-727-hillary-clinton",
+  "introduced_date": "2008-12-09",
+  "policy_area": "Commemorations",
+  "published_at": "2008-12-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/727",
+  "title": "A resolution honoring the victims of the bombing of Pan Am flight 103 on the twentieth anniversary of the tragedy.",
+  "topics": [],
+  "type": "bill"
+}

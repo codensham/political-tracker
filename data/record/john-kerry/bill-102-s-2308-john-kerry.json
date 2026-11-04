@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2308",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2308-john-kerry",
+  "introduced_date": "1992-03-03",
+  "policy_area": "Environmental Protection",
+  "published_at": "1992-03-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2308",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Federal Water Pollution Control Act to provide for improvement of the quality of Boston Harbor and adjacent waters.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

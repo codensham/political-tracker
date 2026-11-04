@@ -1,0 +1,21 @@
+{
+  "bill_number": "S703",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-703-kamala-harris",
+  "introduced_date": "2019-03-07",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2019-03-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/703",
+  "tagged_by": "crosswalk@1",
+  "title": "Ensuring Safe Housing for Our Military Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

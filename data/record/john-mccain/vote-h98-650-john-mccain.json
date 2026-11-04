@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5167",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-650-john-mccain",
+  "published_at": "1984-05-23",
+  "question": null,
+  "rollnumber": 650,
+  "source_url": "https://voteview.com/rollcall/RH0980650",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-05-23",
+  "vote_result": null
+}

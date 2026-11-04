@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES290",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-290-barack-obama",
+  "introduced_date": "2005-10-27",
+  "policy_area": "Commemorations",
+  "published_at": "2005-10-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/290",
+  "title": "A resolution honoring the life and expressing the deepest condolences of Congress on the passing of Edward Roybal, former United States Congressman.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "SCONRES23",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-57-john-mccain",
+  "published_at": "2003-03-18",
+  "question": "On the Motion",
+  "rollnumber": 57,
+  "source_url": "https://voteview.com/rollcall/RS1080057",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-03-18",
+  "vote_result": "Motion Rejected"
+}

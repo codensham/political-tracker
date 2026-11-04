@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1079",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1079-john-mccain",
+  "introduced_date": "1987-04-23",
+  "policy_area": "Private Legislation",
+  "published_at": "1987-04-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1079",
+  "title": "A bill for the relief of Jose M. Arvayo.",
+  "topics": [],
+  "type": "bill"
+}

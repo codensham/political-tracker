@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1365",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1365-john-kerry",
+  "introduced_date": "1998-09-08",
+  "policy_area": "Social Welfare",
+  "published_at": "1998-09-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1365",
+  "title": "A bill to amend title II of the Social Security Act to provide that the reductions in social security benefits which are required in tHE case of spouses and surviving spouses who are also receiving certain Government pensions shall be equal to the amount by which two-thirds of the total amount of the combined monthly benefit (before reduction) and monthly pension exceeds $1,200, adjusted for inflation.",
+  "topics": [],
+  "type": "bill"
+}

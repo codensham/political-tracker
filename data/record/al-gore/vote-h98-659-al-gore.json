@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJR492",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-659-al-gore",
+  "published_at": "1984-05-24",
+  "question": null,
+  "rollnumber": 659,
+  "source_url": "https://voteview.com/rollcall/RH0980659",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-05-24",
+  "vote_result": null
+}

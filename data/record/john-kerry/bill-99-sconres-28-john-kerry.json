@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES28",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-28-john-kerry",
+  "introduced_date": "1985-03-18",
+  "policy_area": "Education",
+  "published_at": "1985-03-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/28",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that May 18, 1985, should be commemorated as the Twentieth Anniversary of the establishment of the Head Start program and reaffirming Congressional support for the Head Start program.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

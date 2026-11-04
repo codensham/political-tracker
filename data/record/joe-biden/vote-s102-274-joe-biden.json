@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3807",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-274-joe-biden",
+  "published_at": "1991-11-25",
+  "question": "On the Resolution of Ratification",
+  "rollnumber": 274,
+  "source_url": "https://voteview.com/rollcall/RS1020274",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-11-25",
+  "vote_result": "Resolution of Ratification Agreed to"
+}

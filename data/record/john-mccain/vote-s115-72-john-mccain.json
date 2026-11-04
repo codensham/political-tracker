@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN32",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-72-john-mccain",
+  "published_at": "2017-02-17",
+  "question": "On the Cloture Motion",
+  "rollnumber": 72,
+  "source_url": "https://voteview.com/rollcall/RS1150072",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2017-02-17",
+  "vote_result": "Cloture Motion Agreed to"
+}

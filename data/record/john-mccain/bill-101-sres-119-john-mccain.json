@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES119",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-119-john-mccain",
+  "introduced_date": "1989-05-03",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1989-05-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/119",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution concerning the 1986 agreement between the United States and Japan regarding the Japanese semiconductor market.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

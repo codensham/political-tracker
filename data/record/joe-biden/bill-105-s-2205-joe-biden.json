@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2205",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-2205-joe-biden",
+  "introduced_date": "1998-09-29",
+  "policy_area": "Commemorations",
+  "published_at": "1998-09-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/2205",
+  "title": "Lewis and Clark Expedition Bicentennial Commemorative Coin Act",
+  "topics": [],
+  "type": "bill"
+}

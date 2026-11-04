@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN913",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-310-hillary-clinton",
+  "published_at": "2001-10-23",
+  "question": "On the Nomination",
+  "rollnumber": 310,
+  "source_url": "https://voteview.com/rollcall/RS1070310",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-10-23",
+  "vote_result": "Nomination Confirmed"
+}

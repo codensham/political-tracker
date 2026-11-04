@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2959",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2959-john-kerry",
+  "introduced_date": "1990-08-02",
+  "policy_area": "Taxation",
+  "published_at": "1990-08-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2959",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Railroad Retirement Solvency Act of 1983 to extend for 2 years the transfer to the Railroad Retirement Account of income tax revenues from tier 2 benefits.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

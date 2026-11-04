@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR7631",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 96,
+  "id": "vote-s96-937-joe-biden",
+  "published_at": "1980-09-22",
+  "question": null,
+  "rollnumber": 937,
+  "source_url": "https://voteview.com/rollcall/RS0960937",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1980-09-22",
+  "vote_result": null
+}

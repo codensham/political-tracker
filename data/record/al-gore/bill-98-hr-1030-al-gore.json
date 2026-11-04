@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR1030",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-1030-al-gore",
+  "introduced_date": "1983-03-16",
+  "policy_area": "Commerce",
+  "published_at": "1983-03-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/1030",
+  "title": "Home Recording Act of 1983",
+  "topics": [],
+  "type": "bill"
+}

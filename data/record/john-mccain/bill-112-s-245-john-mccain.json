@@ -1,0 +1,21 @@
+{
+  "bill_number": "S245",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-245-john-mccain",
+  "introduced_date": "2011-02-01",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2011-02-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/245",
+  "tagged_by": "crosswalk@1",
+  "title": "CAP Act of 2011",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

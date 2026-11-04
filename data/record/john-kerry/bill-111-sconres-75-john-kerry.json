@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES75",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sconres-75-john-kerry",
+  "introduced_date": "2010-11-18",
+  "policy_area": "Congress",
+  "published_at": "2010-11-18",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-concurrent-resolution/75",
+  "title": "A concurrent resolution authorizing the use of the rotunda of the Capitol for an event marking the 50th anniversary of the inaugural address of President John F. Kennedy.",
+  "topics": [],
+  "type": "bill"
+}

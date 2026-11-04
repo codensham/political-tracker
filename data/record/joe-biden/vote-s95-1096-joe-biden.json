@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR12932",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-s95-1096-joe-biden",
+  "published_at": "1978-10-07",
+  "question": null,
+  "rollnumber": 1096,
+  "source_url": "https://voteview.com/rollcall/RS0951096",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-10-07",
+  "vote_result": null
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1174",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-273-al-gore",
+  "published_at": "1987-09-25",
+  "question": null,
+  "rollnumber": 273,
+  "source_url": "https://voteview.com/rollcall/RS1000273",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1987-09-25",
+  "vote_result": null
+}

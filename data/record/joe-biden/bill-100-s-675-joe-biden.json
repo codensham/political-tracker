@@ -1,0 +1,21 @@
+{
+  "bill_number": "S675",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-675-joe-biden",
+  "introduced_date": "1988-02-22",
+  "policy_area": "Environmental Protection",
+  "published_at": "1988-02-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/675",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize appropriations to carry out the Endangered Species Act of 1973 during fiscal years 1988, 1989, 1990, 1991, and 1992.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

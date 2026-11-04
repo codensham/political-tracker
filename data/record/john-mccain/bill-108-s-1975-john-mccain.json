@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1975",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1975-john-mccain",
+  "introduced_date": "2003-11-25",
+  "policy_area": "Taxation",
+  "published_at": "2003-11-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1975",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to deny a deduction for securities-related fines, penalties, and other amounts, and to provide that revenues resulting from such denial be transferred to Fair Funds for the relief of victims.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

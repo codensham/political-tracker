@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES630",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-630-hillary-clinton",
+  "introduced_date": "2008-07-29",
+  "policy_area": "Families",
+  "published_at": "2008-07-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/630",
+  "title": "A resolution recognizing the importance of connecting foster youth to the workforce through internship programs, and encouraging employers to increase employment of former foster youth.",
+  "topics": [],
+  "type": "bill"
+}

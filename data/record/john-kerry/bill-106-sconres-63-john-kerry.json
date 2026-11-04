@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES63",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sconres-63-john-kerry",
+  "introduced_date": "1999-10-29",
+  "policy_area": "International Affairs",
+  "published_at": "1999-10-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-concurrent-resolution/63",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution condemning the assassination of Armenian Prime Minister Vazgen Sargsian and other officials of the Armenian Government and expressing the sense of the Congress in mourning this tragic loss of the duly elected leadership of Armenia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

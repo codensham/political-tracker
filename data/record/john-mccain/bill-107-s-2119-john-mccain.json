@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2119",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2119-john-mccain",
+  "introduced_date": "2002-06-18",
+  "policy_area": "Taxation",
+  "published_at": "2002-06-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2119",
+  "tagged_by": "crosswalk@1",
+  "title": "Reversing the Expatriation of Profits Offshore Act",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

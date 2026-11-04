@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2266",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-h99-284-john-mccain",
+  "published_at": "1985-09-19",
+  "question": null,
+  "rollnumber": 284,
+  "source_url": "https://voteview.com/rollcall/RH0990284",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1985-09-19",
+  "vote_result": null
+}

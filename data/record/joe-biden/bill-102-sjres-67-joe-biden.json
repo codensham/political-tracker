@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES67",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sjres-67-joe-biden",
+  "introduced_date": "1991-03-19",
+  "policy_area": "Immigration",
+  "published_at": "1991-03-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/67",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to recognize and commemorate the centennial of the Immigration and Naturalization Service.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

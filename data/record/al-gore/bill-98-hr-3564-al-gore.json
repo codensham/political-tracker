@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR3564",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-3564-al-gore",
+  "introduced_date": "1983-07-14",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1983-07-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/3564",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the Secretary of Agriculture to make an earlier announcement of the 1984-crop feed grain program.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

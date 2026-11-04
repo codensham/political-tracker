@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES498",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-498-kamala-harris",
+  "introduced_date": "2020-02-13",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2020-02-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/498",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning Stephen Miller for trafficking in bigotry, hatred, and divisive political rhetoric and for promoting policies that are inconsistent with the trust and confidence placed in him as a Senior Advisor to the President, and expressing the sense of the Senate that Stephen Miller should immediately resign from office.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

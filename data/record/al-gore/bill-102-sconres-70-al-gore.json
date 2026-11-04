@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES70",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sconres-70-al-gore",
+  "introduced_date": "1992-02-25",
+  "policy_area": "International Affairs",
+  "published_at": "1992-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-concurrent-resolution/70",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to express the sense of the Congress with respect to the support of the United States for the protection of the African elephant.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

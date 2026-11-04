@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2245",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-2245-john-mccain",
+  "introduced_date": "2012-05-15",
+  "policy_area": "Environmental Protection",
+  "published_at": "2012-05-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/2245",
+  "tagged_by": "crosswalk@1",
+  "title": "Preserve the Waters of the United States Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S81",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-81-john-kerry",
+  "introduced_date": "1987-04-21",
+  "policy_area": "Social Welfare",
+  "published_at": "1987-04-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/81",
+  "title": "Alzheimer's Disease and Related Dementias Home and Community Based Services Block Grant Act of 1987",
+  "topics": [],
+  "type": "bill"
+}

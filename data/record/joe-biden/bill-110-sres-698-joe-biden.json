@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES698",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-698-joe-biden",
+  "introduced_date": "2008-09-30",
+  "policy_area": "Commemorations",
+  "published_at": "2008-09-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/698",
+  "title": "A resolution designating October 17, 2008, as \"National Mammography Day\".",
+  "topics": [],
+  "type": "bill"
+}

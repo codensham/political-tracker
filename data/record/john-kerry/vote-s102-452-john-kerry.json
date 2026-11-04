@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5503",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-452-john-kerry",
+  "published_at": "1992-08-05",
+  "question": "On the Motion to Table",
+  "rollnumber": 452,
+  "source_url": "https://voteview.com/rollcall/RS1020452",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-08-05",
+  "vote_result": "Motion to Table Failed"
+}

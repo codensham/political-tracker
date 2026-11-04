@@ -1,0 +1,21 @@
+{
+  "bill_number": "S942",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-656-joe-biden",
+  "policy_area": "Commerce",
+  "published_at": "1996-03-19",
+  "question": "On Passage of the Bill",
+  "rollnumber": 656,
+  "source_url": "https://voteview.com/rollcall/RS1040656",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-03-19",
+  "vote_result": "Bill Passed"
+}

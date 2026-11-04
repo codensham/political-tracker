@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES487",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-487-john-kerry",
+  "introduced_date": "2010-04-15",
+  "policy_area": "Labor and Employment",
+  "published_at": "2010-04-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/487",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution honoring the coal miners who perished in the Upper Big Branch Mine-South in Raleigh County, West Virginia, extending the condolences of the United States Senate to the families of the fallen coal miners, and recognizing the valiant efforts of the emergency response workers.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES188",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-188-joe-biden",
+  "introduced_date": "1999-10-01",
+  "policy_area": "Emergency Management",
+  "published_at": "1999-10-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/188",
+  "title": "A resolution expressing the sense of the Senate that additional assistance should be provided to the victims of Hurricane Floyd.",
+  "topics": [],
+  "type": "bill"
+}

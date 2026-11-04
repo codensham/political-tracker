@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3435",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-3435-kamala-harris",
+  "introduced_date": "2018-09-12",
+  "policy_area": "Education",
+  "published_at": "2018-09-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3435",
+  "tagged_by": "crosswalk@1",
+  "title": "Beyond the Box for Higher Education Act of 2018",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

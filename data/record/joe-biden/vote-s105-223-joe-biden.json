@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1061",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-223-joe-biden",
+  "published_at": "1997-09-09",
+  "question": "On the Motion",
+  "rollnumber": 223,
+  "source_url": "https://voteview.com/rollcall/RS1050223",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-09-09",
+  "vote_result": "Motion Rejected"
+}

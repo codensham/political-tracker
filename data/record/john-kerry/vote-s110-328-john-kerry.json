@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN353",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-328-john-kerry",
+  "published_at": "2007-09-10",
+  "question": "On the Nomination",
+  "rollnumber": 328,
+  "source_url": "https://voteview.com/rollcall/RS1100328",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-09-10",
+  "vote_result": "Nomination Confirmed"
+}

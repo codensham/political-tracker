@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1643",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1643-john-kerry",
+  "introduced_date": "1998-02-12",
+  "policy_area": "Health",
+  "published_at": "1998-02-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1643",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title XVIII of the Social Security Act to delay for one year implementation of the per beneficiary limits under the interim payment system to home health agencies and to provide for a later base year for the purposes of calculating new payment rates under the system.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

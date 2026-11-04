@@ -1,0 +1,21 @@
+{
+  "bill_number": "S887",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-887-joe-biden",
+  "introduced_date": "1997-10-21",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1997-10-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/887",
+  "tagged_by": "crosswalk@1",
+  "title": "National Underground Railroad Network to Freedom Act of 1997",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

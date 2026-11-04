@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1193",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-332-john-mccain",
+  "published_at": "2014-02-25",
+  "question": "On the Nomination",
+  "rollnumber": 332,
+  "source_url": "https://voteview.com/rollcall/RS1130332",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2014-02-25",
+  "vote_result": "Nomination Confirmed"
+}

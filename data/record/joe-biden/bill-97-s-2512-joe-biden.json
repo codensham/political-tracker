@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2512",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-2512-joe-biden",
+  "introduced_date": "1982-05-11",
+  "policy_area": "Social Welfare",
+  "published_at": "1982-05-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/2512",
+  "title": "A bill to extend the deadline for enrolling in college in order to qualify for student benefits under the Social Security Act, to provide that the amount of unnegotiated social security checks shall be returned to the social security trust funds, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

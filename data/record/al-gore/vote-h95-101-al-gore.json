@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5027",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-h95-101-al-gore",
+  "published_at": "1977-04-04",
+  "question": null,
+  "rollnumber": 101,
+  "source_url": "https://voteview.com/rollcall/RH0950101",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1977-04-04",
+  "vote_result": null
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3740",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3740-kamala-harris",
+  "introduced_date": "2020-05-14",
+  "policy_area": "Social Welfare",
+  "published_at": "2020-05-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3740",
+  "title": "COVID–19 Recovery for Seniors and People with Disabilities Act of 2020",
+  "topics": [],
+  "type": "bill"
+}

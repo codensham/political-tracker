@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES582",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-582-kamala-harris",
+  "introduced_date": "2020-05-19",
+  "policy_area": "Congress",
+  "published_at": "2020-05-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/582",
+  "title": "A resolution designating Michael P. DiSilvestro as Director Emeritus of Senate Security of the United States Senate.",
+  "topics": [],
+  "type": "bill"
+}

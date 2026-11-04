@@ -1,0 +1,18 @@
+{
+  "bill_number": "S727",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-727-john-mccain",
+  "introduced_date": "1989-09-12",
+  "policy_area": "Animals",
+  "published_at": "1989-09-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/727",
+  "title": "Animal Research Facilities Protection Act of 1989",
+  "topics": [],
+  "type": "bill"
+}

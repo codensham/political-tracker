@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1198",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1198-john-kerry",
+  "introduced_date": "2011-06-15",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2011-06-15",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1198",
+  "tagged_by": "crosswalk@1",
+  "title": "Essex National Heritage Area Reauthorization Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

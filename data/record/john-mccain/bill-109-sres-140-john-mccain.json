@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES140",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-140-john-mccain",
+  "introduced_date": "2005-05-12",
+  "policy_area": "International Affairs",
+  "published_at": "2005-05-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/140",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing support for the historic meeting in Havana of the Assembly to Promote the Civil Society in Cuba on May 20, 2005, as well as to all those courageous individuals who continue to advance liberty and democracy for the Cuban people.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

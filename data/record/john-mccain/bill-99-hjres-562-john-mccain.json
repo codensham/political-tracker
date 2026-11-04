@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES562",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-562-john-mccain",
+  "introduced_date": "1986-03-11",
+  "policy_area": "Commemorations",
+  "published_at": "1986-03-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/562",
+  "title": "A joint resolution designating the month of May 1986 as \"National Child Safety Month\".",
+  "topics": [],
+  "type": "bill"
+}

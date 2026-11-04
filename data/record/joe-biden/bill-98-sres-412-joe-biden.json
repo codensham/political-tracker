@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES412",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-sres-412-joe-biden",
+  "introduced_date": "1984-08-09",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1984-08-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-resolution/412",
+  "title": "A resolution to congratulate and commend the USA Philharmonic Society.",
+  "topics": [],
+  "type": "bill"
+}

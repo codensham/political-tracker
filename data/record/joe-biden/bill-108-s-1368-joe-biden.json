@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1368",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1368-joe-biden",
+  "introduced_date": "2003-06-27",
+  "policy_area": "Commemorations",
+  "published_at": "2003-06-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1368",
+  "title": "A bill to authorize the President to award a gold medal on behalf of the Congress to Reverend Doctor Martin Luther King , Jr. (posthumously) and his widow Coretta Scott King in recognition of their contributions to the Nation on behalf of the civil rights movement.",
+  "topics": [],
+  "type": "bill"
+}

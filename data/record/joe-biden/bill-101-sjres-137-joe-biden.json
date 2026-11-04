@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES137",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-137-joe-biden",
+  "introduced_date": "1989-05-31",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1989-05-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/137",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution designating January 7, 1990, through January 13, 1990, as \"National Law Enforcement Training Week\".",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

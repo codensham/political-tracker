@@ -1,0 +1,21 @@
+{
+  "bill_number": "S128",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-128-kamala-harris",
+  "introduced_date": "2017-01-12",
+  "policy_area": "Immigration",
+  "published_at": "2017-01-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/128",
+  "tagged_by": "crosswalk@1",
+  "title": "BRIDGE Act",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

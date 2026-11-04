@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2012",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2012-john-kerry",
+  "introduced_date": "2005-12-14",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2005-12-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2012",
+  "tagged_by": "crosswalk@1",
+  "title": "Magnuson-Stevens Fishery Conservation and Management Reauthorization Act of 2006",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

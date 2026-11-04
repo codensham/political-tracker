@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2104",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2104-joe-biden",
+  "introduced_date": "1988-02-26",
+  "policy_area": "Immigration",
+  "published_at": "1988-02-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2104",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Immigration and Nationality Act to change the level, and preference system for admission, of immigrants to the United States, and to provide for administrative naturalization, and for other purposes.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN808",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-434-mitt-romney",
+  "published_at": "2021-10-26",
+  "question": "On the Nomination",
+  "rollnumber": 434,
+  "source_url": "https://voteview.com/rollcall/RS1170434",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2021-10-26",
+  "vote_result": "Nomination Confirmed"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2594",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T14:13:06Z",
+  "collector": "congress_bills@1.0",
+  "congress": 94,
+  "id": "bill-94-s-2594-joe-biden",
+  "introduced_date": "1975-10-30",
+  "policy_area": "Credit",
+  "published_at": "1975-10-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/94th-congress/senate-bill/2594",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Truth in Lending Act to provide that price differentials shall not be taken into account for purposes of certain provisions of State law.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

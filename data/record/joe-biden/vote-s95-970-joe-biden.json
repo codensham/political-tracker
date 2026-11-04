@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJR554",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-s95-970-joe-biden",
+  "published_at": "1978-08-21",
+  "question": null,
+  "rollnumber": 970,
+  "source_url": "https://voteview.com/rollcall/RS0950970",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-08-21",
+  "vote_result": null
+}

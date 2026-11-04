@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2569",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2569-john-kerry",
+  "introduced_date": "2000-05-16",
+  "policy_area": "Commerce",
+  "published_at": "2000-05-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2569",
+  "title": "A bill to ensure and enhance participation in the HUBZone program by small business concerns in Native America, to expand eligibility for certain small businesses on a trial basis, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN857",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-293-john-kerry",
+  "published_at": "2012-03-22",
+  "question": "On the Nomination",
+  "rollnumber": 293,
+  "source_url": "https://voteview.com/rollcall/RS1120293",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2012-03-22",
+  "vote_result": "Nomination Confirmed"
+}

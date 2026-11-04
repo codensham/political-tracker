@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES291",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-291-kamala-harris",
+  "introduced_date": "2019-07-30",
+  "policy_area": "Sports and Recreation",
+  "published_at": "2019-07-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/291",
+  "title": "A resolution expressing the sense of the Senate that the Federation Internationale de Football Association should immediately eliminate gender pay inequity and treat all athletes with the same respect and dignity.",
+  "topics": [],
+  "type": "bill"
+}

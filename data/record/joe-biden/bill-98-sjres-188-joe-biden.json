@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES188",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-sjres-188-joe-biden",
+  "introduced_date": "1983-10-26",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1983-10-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-joint-resolution/188",
+  "title": "A joint resolution to designate the month of November 1983 as \"National Christmas Seal Month\".",
+  "topics": [],
+  "type": "bill"
+}

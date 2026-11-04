@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES365",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-365-john-kerry",
+  "introduced_date": "1990-09-17",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1990-09-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/365",
+  "title": "A joint resolution to designate the month of October 1990 as \"Country Music Month\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2078",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2078-john-mccain",
+  "introduced_date": "2002-04-09",
+  "policy_area": "Taxation",
+  "published_at": "2002-04-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2078",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 527 of the Internal Revenue Code of 1986 to eliminate notification and return requirements for State and local political committees and candidate committees and avoid duplicate reporting by certain State and local political committees of information required to be reported and made publicly available under State law, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

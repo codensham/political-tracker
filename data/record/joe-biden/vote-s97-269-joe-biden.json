@@ -1,0 +1,20 @@
+{
+  "bill_number": "S884",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-s97-269-joe-biden",
+  "published_at": "1981-09-18",
+  "question": null,
+  "rollnumber": 269,
+  "source_url": "https://voteview.com/rollcall/RS0970269",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1981-09-18",
+  "vote_result": null
+}

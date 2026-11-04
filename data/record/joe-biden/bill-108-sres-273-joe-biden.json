@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES273",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-273-joe-biden",
+  "introduced_date": "2003-11-24",
+  "policy_area": "International Affairs",
+  "published_at": "2003-11-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/273",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the terrorist attacks in Istanbul, Turkey, on November 15 and 20, 2003, expressing condolences to the families of the individuals murdered in the attacks, expressing sympathies to the individuals injured in the attacks, and expressing solidarity with the Republic of Turkey and the United Kingdom in the fight against terrorism.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

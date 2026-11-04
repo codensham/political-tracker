@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR1702",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-1702-al-gore",
+  "introduced_date": "1984-02-29",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1984-02-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/1702",
+  "title": "A bill to amend title 23, United States Code, to require the Secretary of Transportation to reduce the apportionments of certain Federal-aid highway funds to any State in which highway motor vehicles displaying a handicapped parking sticker issued by any other State are not allowed to park in the parking spaces in which highway motor vehicles displaying a handicapped parking sticker issued by such State are allowed to park.",
+  "topics": [],
+  "type": "bill"
+}

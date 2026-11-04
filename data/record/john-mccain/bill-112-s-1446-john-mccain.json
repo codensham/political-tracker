@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1446",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1446-john-mccain",
+  "introduced_date": "2011-07-28",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2011-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1446",
+  "title": "State Transportation Flexibility Act",
+  "topics": [],
+  "type": "bill"
+}

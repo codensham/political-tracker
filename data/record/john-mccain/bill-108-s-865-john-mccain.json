@@ -1,0 +1,21 @@
+{
+  "bill_number": "S865",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-865-john-mccain",
+  "introduced_date": "2003-04-10",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2003-04-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/865",
+  "tagged_by": "crosswalk@1",
+  "title": "Commercial Spectrum Enhancement Act ",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

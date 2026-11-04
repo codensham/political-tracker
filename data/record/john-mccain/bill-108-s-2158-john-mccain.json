@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2158",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2158-john-mccain",
+  "introduced_date": "2004-03-03",
+  "policy_area": "Health",
+  "published_at": "2004-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2158",
+  "tagged_by": "crosswalk@1",
+  "title": "Pancreatic Islet Cell Transplantation Act of 2004",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

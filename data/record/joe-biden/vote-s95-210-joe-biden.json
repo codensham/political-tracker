@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6689",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-s95-210-joe-biden",
+  "published_at": "1977-06-16",
+  "question": null,
+  "rollnumber": 210,
+  "source_url": "https://voteview.com/rollcall/RS0950210",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1977-06-16",
+  "vote_result": null
+}

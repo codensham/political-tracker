@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES179",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-179-john-kerry",
+  "introduced_date": "1985-07-29",
+  "policy_area": "International Affairs",
+  "published_at": "1985-07-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/179",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution requesting the President of the United States to resume negotiations with the Soviet Union for a verifiable comprehensive test ban treaty.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

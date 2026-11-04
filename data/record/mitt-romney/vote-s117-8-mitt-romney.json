@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-8-mitt-romney",
+  "published_at": "2021-01-26",
+  "question": "On the Motion to Table",
+  "rollnumber": 8,
+  "source_url": "https://voteview.com/rollcall/RS1170008",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2021-01-26",
+  "vote_result": "Motion to Table Agreed to"
+}

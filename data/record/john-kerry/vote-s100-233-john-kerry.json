@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3190",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-233-john-kerry",
+  "published_at": "1987-08-07",
+  "question": null,
+  "rollnumber": 233,
+  "source_url": "https://voteview.com/rollcall/RS1000233",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1987-08-07",
+  "vote_result": null
+}

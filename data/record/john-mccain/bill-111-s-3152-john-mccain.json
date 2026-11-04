@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3152",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3152-john-mccain",
+  "introduced_date": "2010-04-20",
+  "policy_area": "Health",
+  "published_at": "2010-04-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3152",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to repeal the Patient Protection and Affordable Care Act.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

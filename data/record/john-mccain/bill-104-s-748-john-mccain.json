@@ -1,0 +1,21 @@
+{
+  "bill_number": "S748",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-748-john-mccain",
+  "introduced_date": "1995-05-03",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1995-05-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/748",
+  "tagged_by": "crosswalk@1",
+  "title": "Federal Research Financing Improvement Act of 1995",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

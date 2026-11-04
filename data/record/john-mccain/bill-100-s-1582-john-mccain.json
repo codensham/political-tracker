@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1582",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1582-john-mccain",
+  "introduced_date": "1987-08-03",
+  "policy_area": "Social Welfare",
+  "published_at": "1987-08-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1582",
+  "title": "A bill to amend section 1876 of the Social Security Act to protect medicare beneficiaries enrolled in an eligible organization with a risk-sharing contract under such section against certain practices.",
+  "topics": [],
+  "type": "bill"
+}

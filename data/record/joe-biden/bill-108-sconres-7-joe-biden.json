@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES7",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-7-joe-biden",
+  "introduced_date": "2003-03-13",
+  "policy_area": "International Affairs",
+  "published_at": "2003-03-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/7",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress that the sharp escalation of anti-Semitic violence within many participating States of the Organization for Security and Cooperation in Europe (OSCE) is of profound concern and efforts should be undertaken to prevent future occurrences.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

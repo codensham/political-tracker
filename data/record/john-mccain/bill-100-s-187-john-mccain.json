@@ -1,0 +1,18 @@
+{
+  "bill_number": "S187",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-187-john-mccain",
+  "introduced_date": "1987-02-17",
+  "policy_area": "Native Americans",
+  "published_at": "1987-02-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/187",
+  "title": "Native American Museum Claims Commission Act",
+  "topics": [],
+  "type": "bill"
+}

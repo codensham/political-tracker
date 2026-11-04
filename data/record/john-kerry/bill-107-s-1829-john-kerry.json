@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1829",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1829-john-kerry",
+  "introduced_date": "2002-05-23",
+  "policy_area": "Immigration",
+  "published_at": "2002-05-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1829",
+  "tagged_by": "crosswalk@1",
+  "title": "Airport Security Personnel Protection Act",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

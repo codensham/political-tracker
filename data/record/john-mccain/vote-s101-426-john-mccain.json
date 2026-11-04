@@ -1,0 +1,21 @@
+{
+  "bill_number": "S341",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-426-john-mccain",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1990-06-12",
+  "question": "On the Cloture Motion",
+  "rollnumber": 426,
+  "source_url": "https://voteview.com/rollcall/RS1010426",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1990-06-12",
+  "vote_result": "Cloture Motion Rejected"
+}

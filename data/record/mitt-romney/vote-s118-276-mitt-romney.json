@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1062",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-276-mitt-romney",
+  "published_at": "2023-10-31",
+  "question": "On the Nomination",
+  "rollnumber": 276,
+  "source_url": "https://voteview.com/rollcall/RS1180276",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2023-10-31",
+  "vote_result": "Nomination Confirmed"
+}

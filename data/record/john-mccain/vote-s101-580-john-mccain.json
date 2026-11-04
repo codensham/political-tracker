@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5257",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-580-john-mccain",
+  "published_at": "1990-10-12",
+  "question": "On the Motion to Table",
+  "rollnumber": 580,
+  "source_url": "https://voteview.com/rollcall/RS1010580",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1990-10-12",
+  "vote_result": "Motion to Table Agreed to"
+}

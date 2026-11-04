@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1823",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1823-john-mccain",
+  "introduced_date": "1991-10-08",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1991-10-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1823",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Veterans' Benefit and Services Act of 1988 to authorize the Department of Veterans Affairs to use for the operation and maintenance of the National Memorial Cemetery of Arizona funds appropriated during fiscal year 1992 for the National Cemetery System.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

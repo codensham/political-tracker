@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES257",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-257-john-kerry",
+  "introduced_date": "1990-02-20",
+  "policy_area": "Social Sciences and History",
+  "published_at": "1990-02-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/257",
+  "title": "A joint resolution to designate March 10, 1990, as \"Harriet Tubman Day\".",
+  "topics": [],
+  "type": "bill"
+}

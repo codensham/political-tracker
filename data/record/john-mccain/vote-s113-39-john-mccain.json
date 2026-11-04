@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR933",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-39-john-mccain",
+  "published_at": "2013-03-20",
+  "question": "On the Amendment",
+  "rollnumber": 39,
+  "source_url": "https://voteview.com/rollcall/RS1130039",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2013-03-20",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2630",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2630-john-kerry",
+  "introduced_date": "2008-02-13",
+  "policy_area": "Health",
+  "published_at": "2008-02-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2630",
+  "tagged_by": "crosswalk@1",
+  "title": "Commercial Fishing Industry Health Care Coverage Act of 2008",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

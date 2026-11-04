@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1281",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-40-joe-biden",
+  "published_at": "1991-03-20",
+  "question": "On Passage of the Bill",
+  "rollnumber": 40,
+  "source_url": "https://voteview.com/rollcall/RS1020040",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-03-20",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES251",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-251-john-kerry",
+  "introduced_date": "2009-08-07",
+  "policy_area": "International Affairs",
+  "published_at": "2009-08-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/251",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the Government of Afghanistan, with the support of the international community, should fulfill its obligations to ensure that women fully participate as candidates and voters in the August 20, 2009, presidential and provincial council elections in Afghanistan.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

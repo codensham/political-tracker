@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1092",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-592-joe-biden",
+  "published_at": "1998-10-01",
+  "question": "On Passage of the Bill",
+  "rollnumber": 592,
+  "source_url": "https://voteview.com/rollcall/RS1050592",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-10-01",
+  "vote_result": "Bill Passed"
+}

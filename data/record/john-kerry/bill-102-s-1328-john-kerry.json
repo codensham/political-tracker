@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1328",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1328-john-kerry",
+  "introduced_date": "1991-09-10",
+  "policy_area": "Commerce",
+  "published_at": "1991-09-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1328",
+  "title": "Advanced Manufacturing Technology Act of 1991",
+  "topics": [],
+  "type": "bill"
+}

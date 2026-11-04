@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1866",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1866-al-gore",
+  "introduced_date": "1989-11-09",
+  "policy_area": "Taxation",
+  "published_at": "1989-11-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1866",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to extend the period during which certain property is required to be placed in service to qualify for transition relief under section 203 of the Tax Reform Act of 1986.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

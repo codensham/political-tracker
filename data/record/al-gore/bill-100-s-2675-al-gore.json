@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2675",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2675-al-gore",
+  "introduced_date": "1988-08-03",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1988-08-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2675",
+  "tagged_by": "crosswalk@1",
+  "title": "Veterans' Agent Orange and Vietnam Service Disabilities Act of 1988",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

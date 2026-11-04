@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2648",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2648-al-gore",
+  "introduced_date": "1986-07-16",
+  "policy_area": "Families",
+  "published_at": "1986-07-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2648",
+  "title": "Injury Prevention Act of 1986",
+  "topics": [],
+  "type": "bill"
+}

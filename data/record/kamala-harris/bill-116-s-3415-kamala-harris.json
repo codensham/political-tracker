@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3415",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3415-kamala-harris",
+  "introduced_date": "2020-03-09",
+  "policy_area": "Labor and Employment",
+  "published_at": "2020-03-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3415",
+  "tagged_by": "crosswalk@1",
+  "title": "Paid Sick Days for Public Health Emergencies and Personal and Family Care Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

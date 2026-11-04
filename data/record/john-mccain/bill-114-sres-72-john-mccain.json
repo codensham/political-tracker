@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES72",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-72-john-mccain",
+  "introduced_date": "2015-02-10",
+  "policy_area": "International Affairs",
+  "published_at": "2015-02-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/72",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the January 24, 2015, attacks carried out by Russian-backed rebels on the civilian population in Mariupol, Ukraine, and the provision of defensive lethal and non-lethal military assistance to Ukraine.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

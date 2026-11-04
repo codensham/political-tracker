@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES620",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-620-kamala-harris",
+  "introduced_date": "2020-06-15",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2020-06-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/620",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating June 19, 2020, as \"Juneteenth Independence Day\" in recognition of June 19, 1865, the date on which news of the end of slavery reached the slaves in the Southwestern States.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

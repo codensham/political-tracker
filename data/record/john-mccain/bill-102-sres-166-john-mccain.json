@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES166",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-166-john-mccain",
+  "introduced_date": "1991-09-17",
+  "policy_area": "Taxation",
+  "published_at": "1991-09-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/166",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that, in light of current economic conditions, the Federal excise taxes on gasoline and diesel fuel should not be increased.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

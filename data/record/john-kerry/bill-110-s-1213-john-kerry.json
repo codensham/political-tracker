@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1213",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-1213-john-kerry",
+  "introduced_date": "2007-04-26",
+  "policy_area": "Health",
+  "published_at": "2007-04-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/1213",
+  "tagged_by": "crosswalk@1",
+  "title": "Children's Express Lane to Health Coverage Act of 2007",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

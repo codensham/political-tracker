@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN154",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-122-john-kerry",
+  "published_at": "1993-05-24",
+  "question": "On the Nomination",
+  "rollnumber": 122,
+  "source_url": "https://voteview.com/rollcall/RS1030122",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1993-05-24",
+  "vote_result": "Nomination Confirmed"
+}

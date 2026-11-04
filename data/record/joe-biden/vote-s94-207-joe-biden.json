@@ -1,0 +1,20 @@
+{
+  "bill_number": "S920",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 94,
+  "id": "vote-s94-207-joe-biden",
+  "published_at": "1975-06-05",
+  "question": null,
+  "rollnumber": 207,
+  "source_url": "https://voteview.com/rollcall/RS0940207",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1975-06-05",
+  "vote_result": null
+}

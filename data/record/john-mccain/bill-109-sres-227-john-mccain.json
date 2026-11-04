@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES227",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-227-john-mccain",
+  "introduced_date": "2005-07-29",
+  "policy_area": "International Affairs",
+  "published_at": "2005-07-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/227",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution pledging continued support for international hunger relief efforts and expressing the sense of the Senate that the United States Government should use resources and diplomatic leverage to secure food aid for countries that are in need of further assistance to prevent acute and chronic hunger.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

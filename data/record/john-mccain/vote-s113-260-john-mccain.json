@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN424",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-260-john-mccain",
+  "published_at": "2013-12-12",
+  "question": "On the Nomination",
+  "rollnumber": 260,
+  "source_url": "https://voteview.com/rollcall/RS1130260",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2013-12-12",
+  "vote_result": "Nomination Confirmed"
+}

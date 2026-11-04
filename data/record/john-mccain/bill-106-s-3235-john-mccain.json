@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3235",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-3235-john-mccain",
+  "introduced_date": "2000-10-25",
+  "policy_area": "Taxation",
+  "published_at": "2000-10-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/3235",
+  "tagged_by": "crosswalk@1",
+  "title": "Telecommunications Ownership Diversification Act of 2000",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

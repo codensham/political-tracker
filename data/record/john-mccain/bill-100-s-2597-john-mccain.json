@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2597",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2597-john-mccain",
+  "introduced_date": "1988-10-07",
+  "policy_area": "Health",
+  "published_at": "1988-10-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2597",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to establish an interdisciplinary training grant program for the benefit of rural areas.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

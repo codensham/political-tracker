@@ -1,0 +1,24 @@
+{
+  "bill_number": "S39",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-207-joe-biden",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1997-07-30",
+  "question": "On Passage of the Bill",
+  "rollnumber": 207,
+  "source_url": "https://voteview.com/rollcall/RS1050207",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "environment"
+  ],
+  "type": "vote",
+  "vote_date": "1997-07-30",
+  "vote_result": "Bill Passed"
+}

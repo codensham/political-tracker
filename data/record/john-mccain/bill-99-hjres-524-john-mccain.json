@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES524",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-524-john-mccain",
+  "introduced_date": "1986-06-24",
+  "policy_area": "Commemorations",
+  "published_at": "1986-06-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/524",
+  "title": "A joint resolution to designate December 7, 1986, as \"National Pearl Harbor Remembrance Day\" on the occasion of the anniversary of the attack on Pearl Harbor.",
+  "topics": [],
+  "type": "bill"
+}

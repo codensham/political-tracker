@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1848",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1848-john-kerry",
+  "introduced_date": "1987-11-04",
+  "policy_area": "Commerce",
+  "published_at": "1987-11-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1848",
+  "title": "Minority Business Development Act of 1987",
+  "topics": [],
+  "type": "bill"
+}

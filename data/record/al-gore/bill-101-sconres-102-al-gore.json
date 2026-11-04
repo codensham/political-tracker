@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES102",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-102-al-gore",
+  "introduced_date": "1990-03-20",
+  "policy_area": "International Affairs",
+  "published_at": "1990-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/102",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress regarding the existing borders between Germany and Poland.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

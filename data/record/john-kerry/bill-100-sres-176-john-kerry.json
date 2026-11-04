@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES176",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-176-john-kerry",
+  "introduced_date": "1987-05-19",
+  "policy_area": "International Affairs",
+  "published_at": "1987-05-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/176",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill calling for the immediate release of all the children detained under the state of emergency regulations in South Africa.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

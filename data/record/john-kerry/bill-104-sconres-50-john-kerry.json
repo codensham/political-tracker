@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES50",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-sconres-50-john-kerry",
+  "introduced_date": "1996-04-17",
+  "policy_area": "International Affairs",
+  "published_at": "1996-04-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-concurrent-resolution/50",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution concerning human and political rights and in support of a resolution of the crisis in Kosova.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

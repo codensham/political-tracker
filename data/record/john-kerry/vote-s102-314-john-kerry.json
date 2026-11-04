@@ -1,0 +1,21 @@
+{
+  "bill_number": "S479",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-314-john-kerry",
+  "policy_area": "Commerce",
+  "published_at": "1992-02-27",
+  "question": "On Passage of the Bill",
+  "rollnumber": 314,
+  "source_url": "https://voteview.com/rollcall/RS1020314",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-02-27",
+  "vote_result": "Bill Passed"
+}

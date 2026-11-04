@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2356",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2356-john-mccain",
+  "introduced_date": "1988-05-09",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1988-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2356",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Agricultural Act of 1949 to extend the prohibition against a requirement of cross compliance for crops of extra long staple cotton.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

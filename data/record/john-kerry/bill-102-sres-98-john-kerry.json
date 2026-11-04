@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES98",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-98-john-kerry",
+  "introduced_date": "1991-04-11",
+  "policy_area": "Energy",
+  "published_at": "1991-04-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/98",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the opposition of the Senate to the imposition of a fee on or in-kind storage diversion requirement for imported crude oil and refined petroleum products.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

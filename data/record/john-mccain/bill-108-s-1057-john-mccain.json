@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1057",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1057-john-mccain",
+  "introduced_date": "2003-05-14",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2003-05-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1057",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to modify the calculation of back pay for persons who were approved for promotion as members of the Navy and Marine Corps while interned as prisoners of war during World War II to take into account changes in the Consumer Price Index.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

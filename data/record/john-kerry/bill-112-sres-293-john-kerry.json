@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES293",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-293-john-kerry",
+  "introduced_date": "2011-10-13",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2011-10-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/293",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution celebrating the 10-year commemoration of the Underground Railroad Memorial, comprised of the Gateway to Freedom Monument in Detroit, Michigan, and the Tower of Freedom Monument in Windsor, Ontario, Canada.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

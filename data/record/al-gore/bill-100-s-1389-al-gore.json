@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1389",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1389-al-gore",
+  "introduced_date": "1987-10-29",
+  "policy_area": "Environmental Protection",
+  "published_at": "1987-10-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1389",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the National Fish and Wildlife Foundation Establishment Act with respect to management requisition, and disposition of real property, reauthorization, and participation of foreign governments.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

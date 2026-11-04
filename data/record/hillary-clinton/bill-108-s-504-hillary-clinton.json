@@ -1,0 +1,21 @@
+{
+  "bill_number": "S504",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-504-hillary-clinton",
+  "introduced_date": "2003-06-19",
+  "policy_area": "Education",
+  "published_at": "2003-06-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/504",
+  "tagged_by": "crosswalk@1",
+  "title": "American History and Civics Education Act of 2003",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

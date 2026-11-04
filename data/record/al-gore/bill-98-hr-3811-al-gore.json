@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR3811",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-3811-al-gore",
+  "introduced_date": "1983-08-04",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1983-08-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/3811",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to recognize the organization known as the American Gold Star Mothers, Inc.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

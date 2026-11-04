@@ -1,0 +1,20 @@
+{
+  "bill_number": "SRES445",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-667-joe-biden",
+  "published_at": "2004-10-09",
+  "question": "On the Resolution",
+  "rollnumber": 667,
+  "source_url": "https://voteview.com/rollcall/RS1080667",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-10-09",
+  "vote_result": "Resolution Agreed to"
+}

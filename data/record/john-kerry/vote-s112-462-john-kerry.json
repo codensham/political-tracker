@@ -1,0 +1,20 @@
+{
+  "bill_number": "S3637",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-462-john-kerry",
+  "published_at": "2012-12-13",
+  "question": "On the Motion",
+  "rollnumber": 462,
+  "source_url": "https://voteview.com/rollcall/RS1120462",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2012-12-13",
+  "vote_result": "Motion Rejected"
+}

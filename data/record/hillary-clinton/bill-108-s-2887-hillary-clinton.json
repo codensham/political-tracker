@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2887",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2887-hillary-clinton",
+  "introduced_date": "2004-10-05",
+  "policy_area": "Education",
+  "published_at": "2004-10-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2887",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to improve the Child Care Access Means Parents in School Program.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S362",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-362-john-kerry",
+  "introduced_date": "2010-06-15",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2010-06-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/362",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38, United States Code, to improve the collective bargaining rights and procedures for review of adverse actions of certain employees of the Department of Veterans Affairs, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

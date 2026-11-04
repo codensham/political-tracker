@@ -1,0 +1,21 @@
+{
+  "bill_number": "S531",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-531-joe-biden",
+  "introduced_date": "1997-04-09",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1997-04-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/531",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to designate a portion of the Arctic National Wildlife Refuge as wilderness.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

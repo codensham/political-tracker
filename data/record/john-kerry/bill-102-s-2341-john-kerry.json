@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2341",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2341-john-kerry",
+  "introduced_date": "1992-03-11",
+  "policy_area": "Housing and Community Development",
+  "published_at": "1992-03-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2341",
+  "tagged_by": "crosswalk@1",
+  "title": "Residential Lead-Based Paint Hazard Reduction Act of 1992",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

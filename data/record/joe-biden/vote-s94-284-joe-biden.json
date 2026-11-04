@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1883",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 94,
+  "id": "vote-s94-284-joe-biden",
+  "published_at": "1975-07-15",
+  "question": null,
+  "rollnumber": 284,
+  "source_url": "https://voteview.com/rollcall/RS0940284",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1975-07-15",
+  "vote_result": null
+}

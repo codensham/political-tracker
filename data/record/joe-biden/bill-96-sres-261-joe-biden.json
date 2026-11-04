@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES261",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 96,
+  "id": "bill-96-sres-261-joe-biden",
+  "introduced_date": "1979-10-17",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1979-10-17",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/96th-congress/senate-resolution/261",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution authorizing the reprinting of the committee print entitled \"SALT And The NATO Allies\".",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

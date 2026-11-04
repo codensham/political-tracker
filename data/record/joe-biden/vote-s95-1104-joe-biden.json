@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR13511",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-s95-1104-joe-biden",
+  "published_at": "1978-10-09",
+  "question": null,
+  "rollnumber": 1104,
+  "source_url": "https://voteview.com/rollcall/RS0951104",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-10-09",
+  "vote_result": null
+}

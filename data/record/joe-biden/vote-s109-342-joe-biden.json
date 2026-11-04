@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2020",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-342-joe-biden",
+  "published_at": "2005-11-17",
+  "question": "On the Motion",
+  "rollnumber": 342,
+  "source_url": "https://voteview.com/rollcall/RS1090342",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-11-17",
+  "vote_result": "Motion Rejected"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S824",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-222-joe-biden",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2003-06-12",
+  "question": "On the Amendment",
+  "rollnumber": 222,
+  "source_url": "https://voteview.com/rollcall/RS1080222",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-06-12",
+  "vote_result": "Amendment Agreed to"
+}

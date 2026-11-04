@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3162",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3162-john-kerry",
+  "introduced_date": "2010-03-24",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2010-03-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3162",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to clarify the health care provided by the Secretary of Veterans Affairs that constitutes minimum essential coverage.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

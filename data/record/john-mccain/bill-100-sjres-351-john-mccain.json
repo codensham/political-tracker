@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES351",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-351-john-mccain",
+  "introduced_date": "1988-07-13",
+  "policy_area": "International Affairs",
+  "published_at": "1988-07-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/351",
+  "tagged_by": "crosswalk@1",
+  "title": "Resolution for Assistance to the Nicaraguan Democratic Resistance",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

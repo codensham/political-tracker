@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-s99-3-al-gore",
+  "published_at": "1985-02-06",
+  "question": null,
+  "rollnumber": 3,
+  "source_url": "https://voteview.com/rollcall/RS0990003",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1985-02-06",
+  "vote_result": null
+}

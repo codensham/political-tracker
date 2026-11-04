@@ -1,0 +1,21 @@
+{
+  "bill_number": "S185",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-185-joe-biden",
+  "introduced_date": "2003-01-16",
+  "policy_area": "International Affairs",
+  "published_at": "2003-01-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/185",
+  "tagged_by": "crosswalk@1",
+  "title": "Africa Famine Relief Act of 2003",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

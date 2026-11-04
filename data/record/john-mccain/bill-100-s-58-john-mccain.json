@@ -1,0 +1,21 @@
+{
+  "bill_number": "S58",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-58-john-mccain",
+  "introduced_date": "1987-03-12",
+  "policy_area": "Taxation",
+  "published_at": "1987-03-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/58",
+  "tagged_by": "crosswalk@1",
+  "title": "Research and Development Incentive Act of 1987",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

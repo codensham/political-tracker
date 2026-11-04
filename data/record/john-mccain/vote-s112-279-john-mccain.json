@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1813",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-279-john-mccain",
+  "published_at": "2012-03-13",
+  "question": "On the Motion",
+  "rollnumber": 279,
+  "source_url": "https://voteview.com/rollcall/RS1120279",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2012-03-13",
+  "vote_result": "Motion Rejected"
+}

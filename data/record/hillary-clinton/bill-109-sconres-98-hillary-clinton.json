@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES98",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-98-hillary-clinton",
+  "introduced_date": "2006-06-08",
+  "policy_area": "International Affairs",
+  "published_at": "2006-06-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/98",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution commemorating the 39th anniversary of the reunification of the city of Jerusalem.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

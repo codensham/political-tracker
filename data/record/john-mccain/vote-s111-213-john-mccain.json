@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN225",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-213-john-mccain",
+  "published_at": "2009-06-25",
+  "question": "On the Nomination",
+  "rollnumber": 213,
+  "source_url": "https://voteview.com/rollcall/RS1110213",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-06-25",
+  "vote_result": "Nomination Confirmed"
+}

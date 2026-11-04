@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES97",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sconres-97-john-mccain",
+  "introduced_date": "1992-03-31",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1992-03-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-concurrent-resolution/97",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to commemorate the 50th anniversary of the Battle of Midway.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

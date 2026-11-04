@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2638",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-277-barack-obama",
+  "published_at": "2007-07-25",
+  "question": "On the Decision of the Chair",
+  "rollnumber": 277,
+  "source_url": "https://voteview.com/rollcall/RS1100277",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-07-25",
+  "vote_result": "Decision of Chair Sustained"
+}

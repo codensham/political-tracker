@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2557",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2557-john-mccain",
+  "introduced_date": "1992-04-08",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1992-04-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2557",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require candidates who are eligible to receive amounts from the Presidential Election Campaign Fund to prepare television commercials with closed captioning of the oral content.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

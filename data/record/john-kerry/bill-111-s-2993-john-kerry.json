@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2993",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-2993-john-kerry",
+  "introduced_date": "2010-04-12",
+  "policy_area": "Energy",
+  "published_at": "2010-04-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/2993",
+  "tagged_by": "crosswalk@1",
+  "title": "10 Million Solar Roofs and 10 Million Gallons of Solar Water Heating Act of 2010",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1147",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1147-john-kerry",
+  "introduced_date": "2009-10-27",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2009-10-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1147",
+  "tagged_by": "crosswalk@1",
+  "title": "PACT Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

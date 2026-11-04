@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2401",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2401-john-kerry",
+  "introduced_date": "2008-03-31",
+  "policy_area": "Taxation",
+  "published_at": "2008-03-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2401",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to allow a refund of motor fuel excise taxes for the actual off-highway use of certain mobile machinery vehicles.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

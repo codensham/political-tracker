@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1854",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-313-joe-biden",
+  "published_at": "1995-07-20",
+  "question": "On the Motion to Table",
+  "rollnumber": 313,
+  "source_url": "https://voteview.com/rollcall/RS1040313",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-07-20",
+  "vote_result": "Motion to Table Failed"
+}

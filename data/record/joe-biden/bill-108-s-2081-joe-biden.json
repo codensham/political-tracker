@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2081",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2081-joe-biden",
+  "introduced_date": "2004-02-12",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2004-02-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2081",
+  "tagged_by": "crosswalk@1",
+  "title": "Dawson Family Community Protection Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

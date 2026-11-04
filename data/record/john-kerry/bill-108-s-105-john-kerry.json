@@ -1,0 +1,21 @@
+{
+  "bill_number": "S105",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-105-john-kerry",
+  "introduced_date": "2003-01-10",
+  "policy_area": "Health",
+  "published_at": "2003-01-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/105",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to repeal certain provisions of the Homeland Security Act (Public Law 107-296) relating to liability with respect to certain vaccines.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

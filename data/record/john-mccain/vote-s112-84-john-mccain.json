@@ -1,0 +1,20 @@
+{
+  "bill_number": "S990",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-84-john-mccain",
+  "published_at": "2011-05-26",
+  "question": "On the Motion",
+  "rollnumber": 84,
+  "source_url": "https://voteview.com/rollcall/RS1120084",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2011-05-26",
+  "vote_result": "Motion Agreed to"
+}

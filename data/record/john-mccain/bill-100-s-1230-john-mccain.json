@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1230",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1230-john-mccain",
+  "introduced_date": "1987-09-29",
+  "policy_area": "Social Welfare",
+  "published_at": "1987-09-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1230",
+  "title": "A bill to amend title XVIII of the Social Security Act to permit payment for services of physician assistants outside institutional settings.",
+  "topics": [],
+  "type": "bill"
+}

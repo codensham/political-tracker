@@ -1,0 +1,21 @@
+{
+  "bill_number": "S923",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-923-joe-biden",
+  "introduced_date": "1981-04-08",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1981-04-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/923",
+  "tagged_by": "crosswalk@1",
+  "title": "Pretrial Services Act of 1982",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

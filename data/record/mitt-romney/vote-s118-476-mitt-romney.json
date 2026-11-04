@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1252",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-476-mitt-romney",
+  "published_at": "2024-04-11",
+  "question": "On the Motion",
+  "rollnumber": 476,
+  "source_url": "https://voteview.com/rollcall/RS1180476",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2024-04-11",
+  "vote_result": "Motion Agreed to"
+}

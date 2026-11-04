@@ -1,0 +1,21 @@
+{
+  "bill_number": "S172",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-172-john-kerry",
+  "introduced_date": "1999-05-06",
+  "policy_area": "Environmental Protection",
+  "published_at": "1999-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/172",
+  "tagged_by": "crosswalk@1",
+  "title": "Acid Deposition and Ozone Control Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2934",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2934-john-kerry",
+  "introduced_date": "2008-05-02",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2008-05-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2934",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38, United States Code, to direct the Secretary of Veterans Affairs to provide a plot allowance for spouses and children of certain veterans who are buried in State cemeteries.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S462",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-462-john-kerry",
+  "introduced_date": "1989-02-28",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1989-02-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/462",
+  "title": "A bill to amend the Rail Passenger Service Act to authorize appropriations for the National Railroad Passenger Corporation, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES294",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-294-john-kerry",
+  "introduced_date": "1998-10-09",
+  "policy_area": "International Affairs",
+  "published_at": "1998-10-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/294",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate with respect to developments in Malaysia and the arrest of Dato Seri Anwar Ibrahim.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

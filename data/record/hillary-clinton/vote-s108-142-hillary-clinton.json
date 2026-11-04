@@ -1,0 +1,20 @@
+{
+  "bill_number": "TREATYDOC1084",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-142-hillary-clinton",
+  "published_at": "2003-05-08",
+  "question": "On the Resolution of Ratification",
+  "rollnumber": 142,
+  "source_url": "https://voteview.com/rollcall/RS1080142",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-05-08",
+  "vote_result": "Resolution of Ratification Agreed to"
+}

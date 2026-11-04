@@ -1,0 +1,21 @@
+{
+  "bill_number": "S537",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-537-joe-biden",
+  "introduced_date": "1997-04-09",
+  "policy_area": "Health",
+  "published_at": "1997-04-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/537",
+  "tagged_by": "crosswalk@1",
+  "title": "Mammography Quality Standards Reauthorization Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

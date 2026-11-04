@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES95",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-61-hillary-clinton",
+  "policy_area": "Commemorations",
+  "published_at": "2003-03-20",
+  "question": "On the Resolution",
+  "rollnumber": 61,
+  "source_url": "https://voteview.com/rollcall/RS1080061",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-03-20",
+  "vote_result": "Resolution Agreed to"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S65",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-65-john-kerry",
+  "introduced_date": "1999-01-19",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1999-01-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/65",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to apply the rates of duty effective after December 31, 1994, to certain water resistant wool trousers that were entered, or withdrawn from warehouse for consumption, after December 31, 1988, and before January 1, 1995.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

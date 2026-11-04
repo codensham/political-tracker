@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3009",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-3009-john-kerry",
+  "introduced_date": "2002-09-26",
+  "policy_area": "Labor and Employment",
+  "published_at": "2002-09-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/3009",
+  "tagged_by": "crosswalk@1",
+  "title": "Emergency Unemployment Compensation Act of 2002",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

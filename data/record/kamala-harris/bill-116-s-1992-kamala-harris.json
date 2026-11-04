@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1992",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-1992-kamala-harris",
+  "introduced_date": "2019-11-13",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2019-11-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1992",
+  "title": "A bill to amend the FAST Act to repeal a rescission of funds.",
+  "topics": [],
+  "type": "bill"
+}

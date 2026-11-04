@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES115",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-sconres-115-joe-biden",
+  "introduced_date": "1984-05-18",
+  "policy_area": "Sports and Recreation",
+  "published_at": "1984-05-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-concurrent-resolution/115",
+  "title": "A concurrent resolution expressing the sense of Congress that the International Olympic Committee should establish a permanent facility for the Olympic games, to insulate the games from international politics.",
+  "topics": [],
+  "type": "bill"
+}

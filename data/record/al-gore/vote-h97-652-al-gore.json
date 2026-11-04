@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6863",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-h97-652-al-gore",
+  "published_at": "1982-09-09",
+  "question": null,
+  "rollnumber": 652,
+  "source_url": "https://voteview.com/rollcall/RH0970652",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1982-09-09",
+  "vote_result": null
+}

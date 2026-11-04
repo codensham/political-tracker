@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1224",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-558-al-gore",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1990-09-24",
+  "question": "On the Motion to Table",
+  "rollnumber": 558,
+  "source_url": "https://voteview.com/rollcall/RS1010558",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1990-09-24",
+  "vote_result": "Motion to Table Agreed to"
+}

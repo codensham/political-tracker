@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2051",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-2051-joe-biden",
+  "introduced_date": "1996-09-03",
+  "policy_area": "Health",
+  "published_at": "1996-09-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/2051",
+  "tagged_by": "crosswalk@1",
+  "title": "Pharmacotherapy Development Act of 1996",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

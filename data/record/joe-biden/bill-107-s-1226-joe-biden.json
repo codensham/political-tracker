@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1226",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1226-joe-biden",
+  "introduced_date": "2002-05-23",
+  "policy_area": "Commemorations",
+  "published_at": "2002-05-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1226",
+  "title": "POW/MIA Memorial Flag Act of 2002",
+  "topics": [],
+  "type": "bill"
+}

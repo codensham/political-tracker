@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1993",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1993-john-kerry",
+  "introduced_date": "2005-11-10",
+  "policy_area": "International Affairs",
+  "published_at": "2005-11-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1993",
+  "tagged_by": "crosswalk@1",
+  "title": "Strategy for Success in Iraq Act",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

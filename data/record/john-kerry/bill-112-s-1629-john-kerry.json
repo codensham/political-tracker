@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1629",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1629-john-kerry",
+  "introduced_date": "2012-05-07",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2012-05-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1629",
+  "tagged_by": "crosswalk@1",
+  "title": "Agent Orange Equity Act of 2011",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2219",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2219-john-kerry",
+  "introduced_date": "1986-03-21",
+  "policy_area": "Immigration",
+  "published_at": "1986-03-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2219",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Immigration and Nationality Act to provide for additional immigrant visa numbers for natives of certain foreign states which have had a significant decrease in immigration to the United States.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

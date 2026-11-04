@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES22",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-22-john-kerry",
+  "introduced_date": "1997-01-22",
+  "policy_area": "Congress",
+  "published_at": "1997-01-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/22",
+  "title": "A resolution relative to the death of the Honorable Paul Tsongas, formerly a Senator from the Commonwealth of Massachusetts.",
+  "topics": [],
+  "type": "bill"
+}

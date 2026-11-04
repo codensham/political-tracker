@@ -1,0 +1,21 @@
+{
+  "bill_number": "S281",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-281-al-gore",
+  "introduced_date": "1991-02-05",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1991-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/281",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide school-based education and support services and comprehensive family support services to families of members of the Armed Forces of the United States who are serving on active duty, to provide continued coverage under group health plans for the families of members of the Armed Forces serving on active duty during the Persian Gulf conflict, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

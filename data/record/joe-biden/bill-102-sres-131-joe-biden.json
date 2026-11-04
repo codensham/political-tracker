@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES131",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-131-joe-biden",
+  "introduced_date": "1991-05-21",
+  "policy_area": "International Affairs",
+  "published_at": "1991-05-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/131",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate over the assassination of Rajiv Gandhi, former Prime Minister of India.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

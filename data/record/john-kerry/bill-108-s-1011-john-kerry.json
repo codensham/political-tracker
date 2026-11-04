@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1011",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1011-john-kerry",
+  "introduced_date": "2003-05-07",
+  "policy_area": "Social Welfare",
+  "published_at": "2003-05-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1011",
+  "title": "A bill to amend title II of the Social Security Act to restrict the application of the windfall elimination provision to individuals whose combined monthly income from benefits under such title and other monthly periodic payments exceeds $2,000 and to provide for a graduated implementation of such provision on amounts above such $2,000 amount.",
+  "topics": [],
+  "type": "bill"
+}

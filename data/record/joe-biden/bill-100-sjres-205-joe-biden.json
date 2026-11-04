@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES205",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-205-joe-biden",
+  "introduced_date": "1987-10-23",
+  "policy_area": "International Affairs",
+  "published_at": "1987-10-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/205",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution expressing the sense of the Congress that United Nations General Assembly Resolution 3379 (XXX) should be overturned, and for other purposes.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

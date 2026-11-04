@@ -1,0 +1,20 @@
+{
+  "bill_number": "HRES96",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-s97-658-joe-biden",
+  "published_at": "1982-05-27",
+  "question": null,
+  "rollnumber": 658,
+  "source_url": "https://voteview.com/rollcall/RS0970658",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1982-05-27",
+  "vote_result": null
+}

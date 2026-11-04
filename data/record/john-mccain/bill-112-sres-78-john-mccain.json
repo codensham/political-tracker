@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES78",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-78-john-mccain",
+  "introduced_date": "2011-02-28",
+  "policy_area": "Congress",
+  "published_at": "2011-02-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/78",
+  "title": "A resolution relative to the death of James Albertus McClure, former United States Senator for the State of Idaho.",
+  "topics": [],
+  "type": "bill"
+}

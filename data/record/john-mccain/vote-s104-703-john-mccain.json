@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1664",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-703-john-mccain",
+  "published_at": "1996-04-29",
+  "question": "On the Cloture Motion",
+  "rollnumber": 703,
+  "source_url": "https://voteview.com/rollcall/RS1040703",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-04-29",
+  "vote_result": "Cloture Motion Agreed to"
+}

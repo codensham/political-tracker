@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES72",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-72-john-mccain",
+  "introduced_date": "1987-06-11",
+  "policy_area": "Commemorations",
+  "published_at": "1987-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/72",
+  "title": "A joint resolution to designate the week of October 11, 1987, through October 17, 1987, as \"National Job Skills Week\".",
+  "topics": [],
+  "type": "bill"
+}

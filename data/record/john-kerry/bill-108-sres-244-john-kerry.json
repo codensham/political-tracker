@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES244",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-244-john-kerry",
+  "introduced_date": "2003-10-30",
+  "policy_area": "International Affairs",
+  "published_at": "2003-10-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/244",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution congratulating Shirin Ebadi for winning the 2003 Nobel Peace Prize and commending her for her lifetime of work to promote democracy and human  rights.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

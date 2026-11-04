@@ -1,0 +1,21 @@
+{
+  "bill_number": "S44",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-44-john-mccain",
+  "introduced_date": "1995-09-18",
+  "policy_area": "Taxation",
+  "published_at": "1995-09-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/44",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 4 of the United States Code to limit State taxation of certain pension income.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

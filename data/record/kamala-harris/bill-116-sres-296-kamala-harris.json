@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES296",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-296-kamala-harris",
+  "introduced_date": "2019-07-31",
+  "policy_area": "Sports and Recreation",
+  "published_at": "2019-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/296",
+  "title": "A resolution congratulating the United States Women's National Soccer Team for winning the 2019 FIFA Women's World Cup.",
+  "topics": [],
+  "type": "bill"
+}

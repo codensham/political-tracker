@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2084",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-264-joe-biden",
+  "published_at": "1999-09-09",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 264,
+  "source_url": "https://voteview.com/rollcall/RS1060264",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1999-09-09",
+  "vote_result": "Cloture on the Motion to Proceed Rejected"
+}

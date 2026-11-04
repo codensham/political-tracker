@@ -1,0 +1,21 @@
+{
+  "bill_number": "S542",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-542-john-kerry",
+  "introduced_date": "1991-04-16",
+  "policy_area": "Taxation",
+  "published_at": "1991-04-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/542",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to restore the deduction for interest on educational loans.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

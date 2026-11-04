@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1060",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1060-john-mccain",
+  "introduced_date": "2003-05-14",
+  "policy_area": "Commemorations",
+  "published_at": "2003-05-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1060",
+  "title": "A bill to designate the visitors' center at Organ Piper Cactus National Monument, Arizona, as the \"Kris Eggle Visitors' Center\".",
+  "topics": [],
+  "type": "bill"
+}

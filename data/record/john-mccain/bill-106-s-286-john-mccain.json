@@ -1,0 +1,21 @@
+{
+  "bill_number": "S286",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-286-john-mccain",
+  "introduced_date": "1999-01-21",
+  "policy_area": "Taxation",
+  "published_at": "1999-01-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/286",
+  "tagged_by": "crosswalk@1",
+  "title": "Senior Citizens' Equity Act",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

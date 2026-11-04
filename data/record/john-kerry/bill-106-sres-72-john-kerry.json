@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES72",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-72-john-kerry",
+  "introduced_date": "1999-04-28",
+  "policy_area": "Commemorations",
+  "published_at": "1999-04-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/72",
+  "title": "A resolution designating the month of May in 1999 and 2000 as \"National ALS Awareness Month\".",
+  "topics": [],
+  "type": "bill"
+}

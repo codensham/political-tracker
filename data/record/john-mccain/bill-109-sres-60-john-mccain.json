@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES60",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-60-john-mccain",
+  "introduced_date": "2005-02-17",
+  "policy_area": "International Affairs",
+  "published_at": "2005-02-17",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/60",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting democratic reform in Moldova and urging the Government of Moldova to ensure a democratic and fair election process for the March 6, 2005, parliamentary elections.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1663",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-312-john-mccain",
+  "published_at": "1998-02-25",
+  "question": "On the Motion to Table",
+  "rollnumber": 312,
+  "source_url": "https://voteview.com/rollcall/RS1050312",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-02-25",
+  "vote_result": "Motion to Table Failed"
+}

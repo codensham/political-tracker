@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1774",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1774-al-gore",
+  "introduced_date": "1991-11-21",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1991-11-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1774",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to establish a silver congressional commemorative medal for members of the United States Armed Forces who served in a combat zone in connection with the Persian Gulf conflict.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES170",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-170-hillary-clinton",
+  "introduced_date": "2005-06-13",
+  "policy_area": "Congress",
+  "published_at": "2005-06-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/170",
+  "title": "A resolution relative to the death of J. James Exon, former United States Senator for the State of Nebraska.",
+  "topics": [],
+  "type": "bill"
+}

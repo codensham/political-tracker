@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES262",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-262-kamala-harris",
+  "introduced_date": "2019-06-24",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2019-06-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/262",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution affirming the importance of title IX, applauding the increase in educational opportunities available to all people, regardless of sex or gender, and recognizing the tremendous amount of work left to be done to further increase those opportunities.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4069",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-4069-hillary-clinton",
+  "introduced_date": "2006-12-05",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2006-12-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/4069",
+  "tagged_by": "crosswalk@1",
+  "title": "Deceptive Practices and Voter Intimidation Prevention Act of 2006",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

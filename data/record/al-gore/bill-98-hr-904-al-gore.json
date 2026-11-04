@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR904",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-904-al-gore",
+  "introduced_date": "1983-10-18",
+  "policy_area": "Health",
+  "published_at": "1983-10-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/904",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Child Nutrition Act of 1966 to eliminate certain restrictions on the eligibility of schools to participate in the Special Milk Program.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

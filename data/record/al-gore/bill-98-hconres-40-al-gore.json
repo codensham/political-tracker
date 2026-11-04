@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES40",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hconres-40-al-gore",
+  "introduced_date": "1983-01-27",
+  "policy_area": "Health",
+  "published_at": "1983-01-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-concurrent-resolution/40",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the federal government should maintain current efforts in federal nutrition programs to prevent increases in domestic hunger.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

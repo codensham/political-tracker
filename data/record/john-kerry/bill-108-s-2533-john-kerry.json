@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2533",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2533-john-kerry",
+  "introduced_date": "2004-06-16",
+  "policy_area": "Health",
+  "published_at": "2004-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2533",
+  "tagged_by": "crosswalk@1",
+  "title": "Ronald Reagan Alzheimer's Breakthrough Act of 2004",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

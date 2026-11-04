@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1157",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1157-joe-biden",
+  "introduced_date": "2003-05-23",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "2003-05-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1157",
+  "title": "National Museum of African American History and Culture Act",
+  "topics": [],
+  "type": "bill"
+}

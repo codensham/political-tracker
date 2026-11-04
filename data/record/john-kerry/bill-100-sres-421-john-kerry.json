@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES421",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-421-john-kerry",
+  "introduced_date": "1988-04-26",
+  "policy_area": "Law",
+  "published_at": "1988-04-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/421",
+  "title": "A resolution expressing the sense of the Senate that W. Clark Durant, III, Chairman of the Board of Directors of the Legal Services Corporation, be reprimanded and should resign.",
+  "topics": [],
+  "type": "bill"
+}

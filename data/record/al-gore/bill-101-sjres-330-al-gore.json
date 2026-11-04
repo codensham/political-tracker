@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES330",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-330-al-gore",
+  "introduced_date": "1990-05-24",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1990-05-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/330",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to commemorate the bicentennial of the enactment of the law which provided civil government for the territory from which the State of Tennessee was formed.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

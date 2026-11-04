@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1464",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-336-al-gore",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1987-10-16",
+  "question": null,
+  "rollnumber": 336,
+  "source_url": "https://voteview.com/rollcall/RS1000336",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "defense"
+  ],
+  "type": "vote",
+  "vote_date": "1987-10-16",
+  "vote_result": null
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES431",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-431-hillary-clinton",
+  "introduced_date": "2008-01-25",
+  "policy_area": "International Affairs",
+  "published_at": "2008-01-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/431",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling for a peaceful resolution to the current electoral crisis in Kenya.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES7",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-7-john-mccain",
+  "introduced_date": "1985-04-03",
+  "policy_area": "Congress",
+  "published_at": "1985-04-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/7",
+  "title": "A joint resolution to provide for the establishment of a Joint Committee on Intelligence.",
+  "topics": [],
+  "type": "bill"
+}

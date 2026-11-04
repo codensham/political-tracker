@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN281",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-188-john-kerry",
+  "published_at": "1997-07-17",
+  "question": "On the Nomination",
+  "rollnumber": 188,
+  "source_url": "https://voteview.com/rollcall/RS1050188",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-07-17",
+  "vote_result": "Nomination Confirmed"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES615",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-615-joe-biden",
+  "introduced_date": "2008-07-17",
+  "policy_area": "International Affairs",
+  "published_at": "2008-07-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/615",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution urging the Government of Turkey to respect the rights and religious freedoms of the Ecumenical Patriarchate of the Orthodox Christian Church.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

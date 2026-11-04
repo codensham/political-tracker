@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1625",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-1625-joe-biden",
+  "introduced_date": "1982-01-25",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1982-01-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/1625",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize the President of the United States to present on behalf of Congress a specially struck gold medal to the widow of Roy Wilkins.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

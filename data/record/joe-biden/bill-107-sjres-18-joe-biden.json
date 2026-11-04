@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES18",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sjres-18-joe-biden",
+  "introduced_date": "2001-07-10",
+  "policy_area": "Commemorations",
+  "published_at": "2001-07-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-joint-resolution/18",
+  "title": "A joint resolution memorializing fallen firefighters by lowering the United States flag to half-staff on the day of the National Fallen Firefighters Memorial Service in Emmitsburg, Maryland.",
+  "topics": [],
+  "type": "bill"
+}

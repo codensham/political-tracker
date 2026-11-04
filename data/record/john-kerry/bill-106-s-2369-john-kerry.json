@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2369",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2369-john-kerry",
+  "introduced_date": "2000-04-06",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2000-04-06",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2369",
+  "title": "A bill to amend title 49, United States Code, to waive federal preemption of State law providing for the awarding of punitive damages against motor carriers for engaging in unfair or deceptive trade practices in the processing of claims relating to loss, damage, injury, or delay in connection with transportation of property in interstate commerce.",
+  "topics": [],
+  "type": "bill"
+}

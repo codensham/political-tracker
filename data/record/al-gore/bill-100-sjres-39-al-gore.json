@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES39",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-39-al-gore",
+  "introduced_date": "1987-02-17",
+  "policy_area": "Commemorations",
+  "published_at": "1987-02-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/39",
+  "title": "A joint resolution to provide for the designation of the 69th anniversary of the renewal of Lithuanian independence, February 16, 1987, as \"Lithuanian Independence Day\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2679",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2679-john-mccain",
+  "introduced_date": "2016-04-26",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2016-04-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2679",
+  "tagged_by": "crosswalk@1",
+  "title": "Helping Veterans Exposed to Burn Pits Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

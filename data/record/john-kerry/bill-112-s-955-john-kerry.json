@@ -1,0 +1,21 @@
+{
+  "bill_number": "S955",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-955-john-kerry",
+  "introduced_date": "2011-05-11",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2011-05-11",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/955",
+  "tagged_by": "crosswalk@1",
+  "title": "Protect Those Who Serve Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

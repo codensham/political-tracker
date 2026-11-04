@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2415",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2415-john-mccain",
+  "introduced_date": "1990-04-04",
+  "policy_area": "Energy",
+  "published_at": "1990-04-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2415",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to encourage colar, wind, waste, and geothermal power production by removing the size limitations contained in the Public Utility Regulatory Policies Act of 1978, and for other purposes.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

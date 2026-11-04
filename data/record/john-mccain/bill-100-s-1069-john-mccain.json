@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1069",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1069-john-mccain",
+  "introduced_date": "1987-04-22",
+  "policy_area": "Native Americans",
+  "published_at": "1987-04-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1069",
+  "title": "Older American Indian Services Improvement Act",
+  "topics": [],
+  "type": "bill"
+}

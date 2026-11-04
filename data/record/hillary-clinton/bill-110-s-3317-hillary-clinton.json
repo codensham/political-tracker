@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3317",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3317-hillary-clinton",
+  "introduced_date": "2008-07-23",
+  "policy_area": "Commemorations",
+  "published_at": "2008-07-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3317",
+  "title": "A bill to designate the facility of the United States Postal Service located at 101 West Main Street in Waterville, New York, as the \"Corporal John P. Sigsbee Post Office\".",
+  "topics": [],
+  "type": "bill"
+}

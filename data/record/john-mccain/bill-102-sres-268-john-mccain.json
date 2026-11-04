@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES268",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-268-john-mccain",
+  "introduced_date": "1992-03-10",
+  "policy_area": "International Affairs",
+  "published_at": "1992-03-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/268",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing to the people of the State of Israel the sympathy of the United States Senate regarding the death of former Prime Minister Menachem Begin.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

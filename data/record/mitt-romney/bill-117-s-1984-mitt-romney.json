@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1984",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-1984-mitt-romney",
+  "introduced_date": "2021-06-09",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2021-06-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/1984",
+  "title": "Smart Intersections Act of 2021",
+  "topics": [],
+  "type": "bill"
+}

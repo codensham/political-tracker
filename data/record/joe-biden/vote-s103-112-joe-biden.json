@@ -1,0 +1,20 @@
+{
+  "bill_number": "S171",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-112-joe-biden",
+  "published_at": "1993-04-29",
+  "question": "On the Motion to Table",
+  "rollnumber": 112,
+  "source_url": "https://voteview.com/rollcall/RS1030112",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1993-04-29",
+  "vote_result": "Motion to Table Agreed to"
+}

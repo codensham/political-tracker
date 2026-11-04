@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2941",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2941-john-kerry",
+  "introduced_date": "1992-07-02",
+  "policy_area": "Commerce",
+  "published_at": "1992-07-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2941",
+  "title": "Small Business Research and Development Enhancement Act of 1992",
+  "topics": [],
+  "type": "bill"
+}

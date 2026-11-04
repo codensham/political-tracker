@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1777",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1777-hillary-clinton",
+  "introduced_date": "2001-12-05",
+  "policy_area": "International Affairs",
+  "published_at": "2001-12-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1777",
+  "tagged_by": "crosswalk@1",
+  "title": "International Disability and Victims of Landmines, Civil Strife and Warfare Assistance Act of 2002",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

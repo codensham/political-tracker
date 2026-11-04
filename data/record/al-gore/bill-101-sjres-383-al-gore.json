@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES383",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-383-al-gore",
+  "introduced_date": "1990-10-22",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1990-10-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/383",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to designate November 16, 1990, as \"National Federation of the Blind Day\".",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

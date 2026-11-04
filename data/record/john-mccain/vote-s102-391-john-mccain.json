@@ -1,0 +1,21 @@
+{
+  "bill_number": "S474",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-391-john-mccain",
+  "policy_area": "Sports and Recreation",
+  "published_at": "1992-06-02",
+  "question": "On Passage of the Bill",
+  "rollnumber": 391,
+  "source_url": "https://voteview.com/rollcall/RS1020391",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-06-02",
+  "vote_result": "Bill Passed"
+}

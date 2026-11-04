@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2360",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-180-joe-biden",
+  "published_at": "2005-07-14",
+  "question": "On the Motion",
+  "rollnumber": 180,
+  "source_url": "https://voteview.com/rollcall/RS1090180",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-07-14",
+  "vote_result": "Motion Rejected"
+}

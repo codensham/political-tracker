@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1140",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1140-joe-biden",
+  "introduced_date": "2005-05-26",
+  "policy_area": "Commemorations",
+  "published_at": "2005-05-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1140",
+  "title": "A bill to designate the State Route 1 Bridge in the State of Delaware as the \"Senator William V. Roth, Jr. Bridge\".",
+  "topics": [],
+  "type": "bill"
+}

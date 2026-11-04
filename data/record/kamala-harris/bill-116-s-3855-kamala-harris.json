@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3855",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3855-kamala-harris",
+  "introduced_date": "2020-06-01",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2020-06-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3855",
+  "tagged_by": "crosswalk@1",
+  "title": "CORE Act",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

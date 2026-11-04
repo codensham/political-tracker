@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES293",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-293-hillary-clinton",
+  "introduced_date": "2004-01-28",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2004-01-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/293",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the President and United States Trade Representative should ensure that any future free trade agreements do not harm the dairy industry of the United States.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S989",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-989-hillary-clinton",
+  "introduced_date": "2001-06-06",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2001-06-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/989",
+  "tagged_by": "crosswalk@1",
+  "title": "End Racial Profiling Act of 2001",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

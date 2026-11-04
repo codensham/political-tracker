@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES217",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-217-kamala-harris",
+  "introduced_date": "2019-05-21",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2019-05-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/217",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing support for the designation of June 7 through June 9, 2019, as \"National Gun Violence Awareness Weekend\" and June 2019 as \"National Gun Violence Awareness Month\".",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

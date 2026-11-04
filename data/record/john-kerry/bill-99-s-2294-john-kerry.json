@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2294",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2294-john-kerry",
+  "introduced_date": "1986-04-14",
+  "policy_area": "Education",
+  "published_at": "1986-04-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2294",
+  "tagged_by": "crosswalk@1",
+  "title": "Education of the Handicapped Amendments of 1986",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

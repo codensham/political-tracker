@@ -1,0 +1,20 @@
+{
+  "bill_number": "SCONRES83",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-424-joe-biden",
+  "published_at": "2006-03-16",
+  "question": "On the Amendment",
+  "rollnumber": 424,
+  "source_url": "https://voteview.com/rollcall/RS1090424",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-03-16",
+  "vote_result": "Amendment Agreed to"
+}

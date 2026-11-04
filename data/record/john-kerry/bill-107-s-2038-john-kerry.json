@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2038",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2038-john-kerry",
+  "introduced_date": "2002-03-20",
+  "policy_area": "Emergency Management",
+  "published_at": "2002-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2038",
+  "title": "Homeland Security Block Grant Act of 2002",
+  "topics": [],
+  "type": "bill"
+}

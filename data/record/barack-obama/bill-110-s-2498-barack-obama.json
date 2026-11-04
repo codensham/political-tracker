@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2498",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2498-barack-obama",
+  "introduced_date": "2008-06-04",
+  "policy_area": "Commemorations",
+  "published_at": "2008-06-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2498",
+  "title": "Santa Fe 400th Anniversary Commemorative Coin Act of 2007",
+  "topics": [],
+  "type": "bill"
+}

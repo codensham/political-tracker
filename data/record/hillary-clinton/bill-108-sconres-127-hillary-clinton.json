@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES127",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-127-hillary-clinton",
+  "introduced_date": "2004-07-20",
+  "policy_area": "Commemorations",
+  "published_at": "2004-07-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/127",
+  "title": "A concurrent resolution expressing the sense of Congress that the President should designate September 11 as a national day of voluntary service, charity, and compassion.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S460",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-460-john-mccain",
+  "introduced_date": "2003-02-26",
+  "policy_area": "Immigration",
+  "published_at": "2003-02-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/460",
+  "tagged_by": "crosswalk@1",
+  "title": "State Criminal Alien Assistance Program Reauthorization Act of 2003",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

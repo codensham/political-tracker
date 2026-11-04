@@ -1,0 +1,24 @@
+{
+  "bill_number": "SJRES18",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-31-joe-biden",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1997-03-18",
+  "question": "On the Joint Resolution",
+  "rollnumber": 31,
+  "source_url": "https://voteview.com/rollcall/RS1050031",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "vote",
+  "vote_date": "1997-03-18",
+  "vote_result": "Joint Resolution Defeated"
+}

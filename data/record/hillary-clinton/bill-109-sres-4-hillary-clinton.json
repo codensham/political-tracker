@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES4",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-4-hillary-clinton",
+  "introduced_date": "2005-01-04",
+  "policy_area": "International Affairs",
+  "published_at": "2005-01-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/4",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sympathy and pledging the support of the United States Senate and the people of the United States for the victims of the powerful earthquake and devastating tsunami that struck Bangladesh, Burma, India, Indonesia, Kenya, Malaysia, the Maldives, the Seychelles, Somalia, Sri Lanka, Tanzania, Thailand, and other areas of South Asia, Southeast Asia, and Africa, on December 26, 2004.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES76",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-76-joe-biden",
+  "introduced_date": "1997-05-19",
+  "policy_area": "Commemorations",
+  "published_at": "1997-05-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/76",
+  "title": "A resolution proclaiming a nationwide moment of remembrance, to be observed on Memorial Day, May 26, 1997, in order to appropriately honor American patriots lost in the pursuit of peace of liberty around the world.",
+  "topics": [],
+  "type": "bill"
+}

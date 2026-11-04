@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES484",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-484-kamala-harris",
+  "introduced_date": "2020-01-28",
+  "policy_area": "Immigration",
+  "published_at": "2020-01-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/484",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing January 27, 2020, as the anniversary of the first refugee and Muslim ban, calling on Congress to defund the Migrant Protection Protocols, and urging the President to restore refugee resettlement to historic norms.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

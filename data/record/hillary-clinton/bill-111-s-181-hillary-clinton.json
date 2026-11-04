@@ -1,0 +1,21 @@
+{
+  "bill_number": "S181",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-181-hillary-clinton",
+  "introduced_date": "2009-01-08",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2009-01-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/181",
+  "tagged_by": "crosswalk@1",
+  "title": "Lilly Ledbetter Fair Pay Act of 2009",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

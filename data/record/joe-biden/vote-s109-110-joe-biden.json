@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-110-joe-biden",
+  "published_at": "2005-04-26",
+  "question": "On the Cloture Motion",
+  "rollnumber": 110,
+  "source_url": "https://voteview.com/rollcall/RS1090110",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-04-26",
+  "vote_result": "Cloture Motion Agreed to"
+}

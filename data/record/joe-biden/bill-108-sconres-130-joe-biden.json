@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES130",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-130-joe-biden",
+  "introduced_date": "2004-07-21",
+  "policy_area": "Law",
+  "published_at": "2004-07-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/130",
+  "title": "A concurrent resolution expressing the sense of Congress that the Supreme Court of the United States should act expeditiously to resolve the confusion and inconsistency in the Federal criminal justice system caused by its decision in Blakely v. Washington, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

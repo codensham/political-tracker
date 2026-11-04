@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4775",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-525-hillary-clinton",
+  "published_at": "2002-06-07",
+  "question": "On Passage of the Bill",
+  "rollnumber": 525,
+  "source_url": "https://voteview.com/rollcall/RS1070525",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-06-07",
+  "vote_result": "Bill Passed"
+}

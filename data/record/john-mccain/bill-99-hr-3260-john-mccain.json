@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR3260",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-3260-john-mccain",
+  "introduced_date": "1985-11-21",
+  "policy_area": "Social Welfare",
+  "published_at": "1985-11-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/3260",
+  "title": "A bill to amend title XVIII of the Social Security Act to provide for coverage under the medicare program of services performed by a physician assistant.",
+  "topics": [],
+  "type": "bill"
+}

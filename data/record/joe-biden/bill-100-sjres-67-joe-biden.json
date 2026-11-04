@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES67",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-67-joe-biden",
+  "introduced_date": "1987-03-18",
+  "policy_area": "Commemorations",
+  "published_at": "1987-03-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/67",
+  "title": "A joint resolution to designate the month of May, 1987 as \"National Digestive Diseases Awareness Month\".",
+  "topics": [],
+  "type": "bill"
+}

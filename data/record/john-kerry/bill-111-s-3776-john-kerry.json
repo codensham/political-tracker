@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3776",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3776-john-kerry",
+  "introduced_date": "2010-09-14",
+  "policy_area": "Immigration",
+  "published_at": "2010-09-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3776",
+  "tagged_by": "crosswalk@1",
+  "title": "Families First Immigration Enforcement Act",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

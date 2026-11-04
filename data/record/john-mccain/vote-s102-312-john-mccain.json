@@ -1,0 +1,21 @@
+{
+  "bill_number": "S479",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-312-john-mccain",
+  "policy_area": "Commerce",
+  "published_at": "1992-02-25",
+  "question": "On the Cloture Motion",
+  "rollnumber": 312,
+  "source_url": "https://voteview.com/rollcall/RS1020312",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-02-25",
+  "vote_result": "Cloture Motion Agreed to"
+}

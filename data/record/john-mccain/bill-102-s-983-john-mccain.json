@@ -1,0 +1,18 @@
+{
+  "bill_number": "S983",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-983-john-mccain",
+  "introduced_date": "1991-04-25",
+  "policy_area": "Law",
+  "published_at": "1991-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/983",
+  "title": "Pornography Victims' Compensation Act of 1991",
+  "topics": [],
+  "type": "bill"
+}

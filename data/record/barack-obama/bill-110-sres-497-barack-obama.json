@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES497",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-497-barack-obama",
+  "introduced_date": "2008-04-02",
+  "policy_area": "Commemorations",
+  "published_at": "2008-04-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/497",
+  "title": "A resolution expressing the sense of the Senate that public servants should be commended for their dedication and continued service to the Nation during Public Service Recognition Week, May 5 through 11, 2008.",
+  "topics": [],
+  "type": "bill"
+}

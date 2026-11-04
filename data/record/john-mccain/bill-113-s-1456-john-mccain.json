@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1456",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-1456-john-mccain",
+  "introduced_date": "2014-01-30",
+  "policy_area": "International Affairs",
+  "published_at": "2014-01-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/1456",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to award the Congressional Gold Medal to Shimon Peres.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

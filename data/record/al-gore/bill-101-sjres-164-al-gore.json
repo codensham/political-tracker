@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES164",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-164-al-gore",
+  "introduced_date": "1989-09-25",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1989-09-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/164",
+  "title": "A joint resolution designating 1990 as the \"International Year of Bible Reading\".",
+  "topics": [],
+  "type": "bill"
+}

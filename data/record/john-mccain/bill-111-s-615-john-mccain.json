@@ -1,0 +1,21 @@
+{
+  "bill_number": "S615",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-615-john-mccain",
+  "introduced_date": "2009-03-17",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2009-03-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/615",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide additional personnel authorities for the Special Inspector General for Afghanistan Reconstruction.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES120",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-120-john-mccain",
+  "introduced_date": "1987-06-11",
+  "policy_area": "International Affairs",
+  "published_at": "1987-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/120",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to void certain agreements relating to the site of the Soviet Union's embassy in the District of Columbia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

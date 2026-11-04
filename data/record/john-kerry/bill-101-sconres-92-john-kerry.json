@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES92",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-92-john-kerry",
+  "introduced_date": "1990-02-20",
+  "policy_area": "International Affairs",
+  "published_at": "1990-02-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/92",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to commemorate the Treaty of Amity and Commerce of 1833 between the United States and Thailand.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

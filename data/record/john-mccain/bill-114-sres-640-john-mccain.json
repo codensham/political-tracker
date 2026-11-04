@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES640",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-640-john-mccain",
+  "introduced_date": "2016-12-10",
+  "policy_area": "Congress",
+  "published_at": "2016-12-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/640",
+  "title": "A resolution recognizing the death of John Glenn, former Senator for the State of Ohio and the first individual from the United States to orbit the Earth.",
+  "topics": [],
+  "type": "bill"
+}

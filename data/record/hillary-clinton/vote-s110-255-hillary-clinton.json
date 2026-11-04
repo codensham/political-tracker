@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2669",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-255-hillary-clinton",
+  "published_at": "2007-07-19",
+  "question": "On the Amendment",
+  "rollnumber": 255,
+  "source_url": "https://voteview.com/rollcall/RS1100255",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-07-19",
+  "vote_result": "Amendment Agreed to"
+}

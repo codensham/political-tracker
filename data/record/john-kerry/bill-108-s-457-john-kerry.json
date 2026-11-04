@@ -1,0 +1,21 @@
+{
+  "bill_number": "S457",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-457-john-kerry",
+  "introduced_date": "2003-02-26",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2003-02-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/457",
+  "tagged_by": "crosswalk@1",
+  "title": "Organic Restoration Act of 2003",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

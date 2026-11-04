@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES134",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-134-al-gore",
+  "introduced_date": "1990-06-12",
+  "policy_area": "Health",
+  "published_at": "1990-06-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/134",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress concerning a 1991 White House Conference on Aging.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

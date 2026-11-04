@@ -1,0 +1,21 @@
+{
+  "bill_number": "S329",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-329-joe-biden",
+  "introduced_date": "1999-11-10",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1999-11-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/329",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38, United States Code, to extend eligibility for hospital care and medical services under chapter 17 of that title to veterans who have been awarded the Purple Heart, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

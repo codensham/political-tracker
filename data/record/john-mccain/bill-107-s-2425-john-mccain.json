@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2425",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2425-john-mccain",
+  "introduced_date": "2002-06-07",
+  "policy_area": "International Affairs",
+  "published_at": "2002-06-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2425",
+  "tagged_by": "crosswalk@1",
+  "title": "International Cooperative Antiterrorism Act of 2002",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

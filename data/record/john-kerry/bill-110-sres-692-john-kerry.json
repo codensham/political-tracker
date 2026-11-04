@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES692",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-692-john-kerry",
+  "introduced_date": "2008-09-27",
+  "policy_area": "Commemorations",
+  "published_at": "2008-09-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/692",
+  "title": "A resolution designating the week of November 9 through November 15, 2008, as \"National Veterans Awareness Week\" to emphasize the need to develop educational programs regarding the contributions of veterans to the country.",
+  "topics": [],
+  "type": "bill"
+}

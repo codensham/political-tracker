@@ -1,0 +1,21 @@
+{
+  "bill_number": "S841",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-841-hillary-clinton",
+  "introduced_date": "2005-04-19",
+  "policy_area": "Labor and Employment",
+  "published_at": "2005-04-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/841",
+  "tagged_by": "crosswalk@1",
+  "title": "Paycheck Fairness Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

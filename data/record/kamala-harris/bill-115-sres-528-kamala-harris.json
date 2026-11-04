@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES528",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-528-kamala-harris",
+  "introduced_date": "2018-05-24",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2018-05-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/528",
+  "title": "A resolution designating the week of May 20 through May 26, 2018, as \"National Public Works Week\".",
+  "topics": [],
+  "type": "bill"
+}

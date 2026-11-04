@@ -1,0 +1,21 @@
+{
+  "bill_number": "S5195",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-5195-mitt-romney",
+  "introduced_date": "2022-12-07",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2022-12-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/5195",
+  "tagged_by": "crosswalk@1",
+  "title": "Critical Mineral Independence Act of 2022",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

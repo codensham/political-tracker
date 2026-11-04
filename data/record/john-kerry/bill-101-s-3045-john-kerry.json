@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3045",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-3045-john-kerry",
+  "introduced_date": "1990-09-13",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1990-09-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/3045",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize the Federal Deposit Insurance Corporation to increase deposit insurance premiums as necessary to protect the Bank Insurance Fund.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

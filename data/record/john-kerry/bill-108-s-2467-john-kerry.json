@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2467",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2467-john-kerry",
+  "introduced_date": "2004-05-20",
+  "policy_area": "Housing and Community Development",
+  "published_at": "2004-05-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2467",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to clarify the calculation of per-unit costs payable under expiring annual contributions contracts for tenant-based rental assistance that are renewed in fiscal year 2004.",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

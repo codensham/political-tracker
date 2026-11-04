@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2915",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2915-hillary-clinton",
+  "introduced_date": "2002-09-09",
+  "policy_area": "Education",
+  "published_at": "2002-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2915",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for cancellation of student loan indebtedness for spouses, surviving joint debtors, and parents of individuals who died or became permanently and totally disabled due to injuries suffered in the terrorist attack on September 11, 2001",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

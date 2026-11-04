@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES99",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-99-joe-biden",
+  "introduced_date": "2002-02-28",
+  "policy_area": "Commemorations",
+  "published_at": "2002-02-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/99",
+  "title": "A concurrent resolution expressing the sense of the Congress that a commemorative stamp should be issued honoring Felix Octavius Carr Darley.",
+  "topics": [],
+  "type": "bill"
+}

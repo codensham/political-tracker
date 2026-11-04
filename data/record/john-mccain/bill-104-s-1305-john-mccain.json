@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1305",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1305-john-mccain",
+  "introduced_date": "1995-10-10",
+  "policy_area": "Labor and Employment",
+  "published_at": "1995-10-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1305",
+  "tagged_by": "crosswalk@1",
+  "title": "Indian Tribal Government Unemployment Compensation Act Tax Relief Amendments of 1995",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

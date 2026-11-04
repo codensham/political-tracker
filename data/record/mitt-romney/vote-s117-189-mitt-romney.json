@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN244",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-189-mitt-romney",
+  "published_at": "2021-05-12",
+  "question": "On the Cloture Motion",
+  "rollnumber": 189,
+  "source_url": "https://voteview.com/rollcall/RS1170189",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2021-05-12",
+  "vote_result": "Cloture Motion Agreed to"
+}

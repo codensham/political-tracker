@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES45",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sconres-45-joe-biden",
+  "introduced_date": "1997-07-30",
+  "policy_area": "Commemorations",
+  "published_at": "1997-07-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-concurrent-resolution/45",
+  "title": "A concurrent resolution commending Dr. Hans Blix for his distinguished service as Director General of the International Atomic Energy Agency on the occasion of his retirement.",
+  "topics": [],
+  "type": "bill"
+}

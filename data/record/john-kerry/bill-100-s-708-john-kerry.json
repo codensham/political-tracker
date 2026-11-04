@@ -1,0 +1,21 @@
+{
+  "bill_number": "S708",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-708-john-kerry",
+  "introduced_date": "1987-11-10",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1987-11-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/708",
+  "tagged_by": "crosswalk@1",
+  "title": "Tongass Timber Reform Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

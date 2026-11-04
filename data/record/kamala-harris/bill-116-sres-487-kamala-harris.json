@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES487",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-487-kamala-harris",
+  "introduced_date": "2020-01-28",
+  "policy_area": "International Affairs",
+  "published_at": "2020-01-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/487",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting the goals and ideals of Countering International Parental Child Abduction Month and expressing the sense of the Senate that Congress should raise awareness of the harm caused by international parental child abduction.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

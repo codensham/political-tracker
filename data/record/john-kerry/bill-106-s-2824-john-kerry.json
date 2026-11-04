@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2824",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2824-john-kerry",
+  "introduced_date": "2000-06-29",
+  "policy_area": "Commemorations",
+  "published_at": "2000-06-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2824",
+  "title": "A bill to authorize the President to award a gold medal on behalf of Congress to General Wesley K. Clark, United States Army, in recognition of his outstanding leadership and service during the military operations against the Federal Republic of Yugoslavia (Serbia and Montenegro).",
+  "topics": [],
+  "type": "bill"
+}

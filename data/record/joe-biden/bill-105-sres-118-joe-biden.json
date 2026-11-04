@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES118",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-118-joe-biden",
+  "introduced_date": "1997-09-03",
+  "policy_area": "Commemorations",
+  "published_at": "1997-09-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/118",
+  "title": "A resolution expressing the condolences on the death of Diana, Princess of Wales, and designating September 6, 1997, as a \"National Day of Recognition for the Humanitarian Efforts of Diana Princess of Wales.\"",
+  "topics": [],
+  "type": "bill"
+}

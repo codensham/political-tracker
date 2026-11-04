@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES19",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-19-john-mccain",
+  "introduced_date": "1997-03-04",
+  "policy_area": "International Affairs",
+  "published_at": "1997-03-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/19",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding United States opposition to the prison sentence of Tibetan ethnomusicologist Ngawang Choephel by the Government of the People's Republic of China.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

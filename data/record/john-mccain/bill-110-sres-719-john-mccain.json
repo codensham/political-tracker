@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES719",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-719-john-mccain",
+  "introduced_date": "2008-11-20",
+  "policy_area": "Commemorations",
+  "published_at": "2008-11-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/719",
+  "title": "A resolution recognizing National American Indian and Alaska Native Heritage Month and celebrating the heritage and culture of American Indians and Alaska Natives and the contributions of American Indians and Alaska Natives to the United States.",
+  "topics": [],
+  "type": "bill"
+}

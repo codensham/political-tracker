@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES90",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-90-john-kerry",
+  "introduced_date": "1987-03-17",
+  "policy_area": "International Affairs",
+  "published_at": "1987-03-17",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/90",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution disapproving the certification by the President under section 481(h) of the Foreign Assistance Act of 1961.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

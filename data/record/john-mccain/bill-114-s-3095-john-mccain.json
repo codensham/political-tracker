@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3095",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-3095-john-mccain",
+  "introduced_date": "2016-06-23",
+  "policy_area": "Animals",
+  "published_at": "2016-06-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/3095",
+  "title": "Shark Fin Trade Elimination Act of 2016",
+  "topics": [],
+  "type": "bill"
+}

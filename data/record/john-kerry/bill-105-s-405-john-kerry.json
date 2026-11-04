@@ -1,0 +1,21 @@
+{
+  "bill_number": "S405",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-405-john-kerry",
+  "introduced_date": "1997-03-11",
+  "policy_area": "Taxation",
+  "published_at": "1997-03-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/405",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to permanently extend the research credit and to allow greater opportunity to elect the alternative incremental credit.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S417",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-417-al-gore",
+  "introduced_date": "1987-01-29",
+  "policy_area": "Social Welfare",
+  "published_at": "1987-01-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/417",
+  "title": "A bill to amend titles II and XVI of the Social Security Act to prohibit, in hearings relating to disability benefits, the adversarial involvement of any representative of the Department of Health and Human Services, or any State agency involved.",
+  "topics": [],
+  "type": "bill"
+}

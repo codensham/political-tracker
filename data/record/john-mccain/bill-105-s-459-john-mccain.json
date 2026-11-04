@@ -1,0 +1,18 @@
+{
+  "bill_number": "S459",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-459-john-mccain",
+  "introduced_date": "1997-03-18",
+  "policy_area": "Native Americans",
+  "published_at": "1997-03-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/459",
+  "title": "Native American Programs Act Amendments of 1998",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2377",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2377-barack-obama",
+  "introduced_date": "2007-11-16",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2007-11-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2377",
+  "tagged_by": "crosswalk@1",
+  "title": "Veterans Health Care Quality Improvement Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

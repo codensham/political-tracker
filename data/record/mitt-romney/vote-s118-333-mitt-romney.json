@@ -1,0 +1,20 @@
+{
+  "bill_number": "SJRES51",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-333-mitt-romney",
+  "published_at": "2023-12-07",
+  "question": "On the Motion to Discharge",
+  "rollnumber": 333,
+  "source_url": "https://voteview.com/rollcall/RS1180333",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2023-12-07",
+  "vote_result": "Motion to Discharge Rejected"
+}

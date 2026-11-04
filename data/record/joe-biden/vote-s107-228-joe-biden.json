@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2216",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-228-joe-biden",
+  "published_at": "2001-07-10",
+  "question": "On Passage of the Bill",
+  "rollnumber": 228,
+  "source_url": "https://voteview.com/rollcall/RS1070228",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-07-10",
+  "vote_result": "Bill Passed"
+}

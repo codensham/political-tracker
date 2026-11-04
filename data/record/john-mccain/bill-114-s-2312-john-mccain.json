@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2312",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2312-john-mccain",
+  "introduced_date": "2015-12-16",
+  "policy_area": "Health",
+  "published_at": "2015-12-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2312",
+  "tagged_by": "crosswalk@1",
+  "title": "DME Access and Stabilization Act of 2015",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

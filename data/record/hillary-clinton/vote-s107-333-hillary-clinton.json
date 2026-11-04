@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN904",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-333-hillary-clinton",
+  "published_at": "2001-11-08",
+  "question": "On the Nomination",
+  "rollnumber": 333,
+  "source_url": "https://voteview.com/rollcall/RS1070333",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-11-08",
+  "vote_result": "Nomination Confirmed"
+}

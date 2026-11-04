@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3056",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-3056-mitt-romney",
+  "introduced_date": "2021-10-21",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2021-10-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3056",
+  "tagged_by": "crosswalk@1",
+  "title": "Prohibiting IRS Financial Surveillance Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

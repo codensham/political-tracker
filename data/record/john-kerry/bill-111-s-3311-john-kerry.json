@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3311",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3311-john-kerry",
+  "introduced_date": "2010-05-05",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2010-05-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3311",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to improve and enhance the capabilities of the Department of Defense to prevent and respond to sexual assault in the Armed Forces, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

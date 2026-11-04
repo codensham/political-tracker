@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-190-john-mccain",
+  "published_at": "2001-06-14",
+  "question": "On the Motion to Reconsider",
+  "rollnumber": 190,
+  "source_url": "https://voteview.com/rollcall/RS1070190",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-06-14",
+  "vote_result": "Motion to Reconsider Agreed to"
+}

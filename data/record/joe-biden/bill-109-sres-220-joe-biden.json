@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES220",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-220-joe-biden",
+  "introduced_date": "2005-07-28",
+  "policy_area": "International Affairs",
+  "published_at": "2005-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/220",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to express the concern of the Senate regarding the passage of the anti-secession law by the National People's Congress of the People's Republic of China and Taiwan on an equal footing without preconditions.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

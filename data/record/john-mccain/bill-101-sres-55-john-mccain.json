@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES55",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-55-john-mccain",
+  "introduced_date": "1989-02-08",
+  "policy_area": "Congress",
+  "published_at": "1989-02-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/55",
+  "title": "A resolution acknowledging the distinguished service that Michael J. (Mike) Mansfield has rendered on behalf of the people of the United States of America.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S4047",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-4047-kamala-harris",
+  "introduced_date": "2020-06-23",
+  "policy_area": "Commerce",
+  "published_at": "2020-06-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4047",
+  "title": "Saving Our Street Act",
+  "topics": [],
+  "type": "bill"
+}

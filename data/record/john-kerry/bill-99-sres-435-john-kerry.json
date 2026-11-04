@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES435",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-435-john-kerry",
+  "introduced_date": "1986-08-06",
+  "policy_area": "Social Welfare",
+  "published_at": "1986-08-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/435",
+  "title": "A resolution to recognize the I Have A Dream Foundation for its contributions to the education and lives of disadvantaged young people.",
+  "topics": [],
+  "type": "bill"
+}

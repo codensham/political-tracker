@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES99",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-99-kamala-harris",
+  "introduced_date": "2019-03-07",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2019-03-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/99",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that Congress should take all appropriate measures to ensure that the United States Postal Service remains an independent establishment of the Federal Government and is not subject to privatization.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

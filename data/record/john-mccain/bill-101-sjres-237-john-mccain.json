@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES237",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-237-john-mccain",
+  "introduced_date": "1990-03-01",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1990-03-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/237",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution providing for the commemoration of the 100th anniversary of the birth of Dwight David Eisenhower.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

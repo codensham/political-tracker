@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES81",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-81-john-kerry",
+  "introduced_date": "2001-05-03",
+  "policy_area": "Commemorations",
+  "published_at": "2001-05-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/81",
+  "title": "A resolution commending the members of the United States mission in the People's Republic of China for their persistence, devotion to duty, sacrifice, and success in obtaining the safe repatriation to the United States of the crew of the Navy EP-3E ARIES II aircraft who had been detained in China.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES100",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-100-john-kerry",
+  "introduced_date": "1985-12-19",
+  "policy_area": "International Affairs",
+  "published_at": "1985-12-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/100",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Senate that the civil and political rights of Kim Dae Jung be restored and that true democracy be instituted in the Republic of Korea.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

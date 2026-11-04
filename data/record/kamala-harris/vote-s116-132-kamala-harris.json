@@ -1,0 +1,24 @@
+{
+  "bill_number": "SRES212",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-132-kamala-harris",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2019-06-04",
+  "question": "On the Resolution",
+  "rollnumber": 132,
+  "source_url": "https://voteview.com/rollcall/RS1160132",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "vote",
+  "vote_date": "2019-06-04",
+  "vote_result": "Resolution Agreed to"
+}

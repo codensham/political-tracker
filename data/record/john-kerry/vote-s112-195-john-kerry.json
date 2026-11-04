@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1769",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-195-john-kerry",
+  "policy_area": "Labor and Employment",
+  "published_at": "2011-11-03",
+  "question": "On the Motion to Proceed",
+  "rollnumber": 195,
+  "source_url": "https://voteview.com/rollcall/RS1120195",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "labor"
+  ],
+  "type": "vote",
+  "vote_date": "2011-11-03",
+  "vote_result": "Motion to Proceed Rejected"
+}

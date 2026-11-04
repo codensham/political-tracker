@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2722",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2722-john-kerry",
+  "introduced_date": "1986-08-06",
+  "policy_area": "Energy",
+  "published_at": "1986-08-06",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2722",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to waive the required Congressional review period for a natural gas pipeline to be built by Tennessee Gas Pipeline Company across certain Army Corps of Engineers lands in Massachusetts.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

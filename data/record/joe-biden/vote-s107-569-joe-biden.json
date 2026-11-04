@@ -1,0 +1,24 @@
+{
+  "bill_number": "S812",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-569-joe-biden",
+  "policy_area": "Health",
+  "published_at": "2002-07-24",
+  "question": "On the Motion",
+  "rollnumber": 569,
+  "source_url": "https://voteview.com/rollcall/RS1070569",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "vote",
+  "vote_date": "2002-07-24",
+  "vote_result": "Motion Rejected"
+}

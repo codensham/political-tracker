@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1675",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1675-john-kerry",
+  "introduced_date": "1989-09-26",
+  "policy_area": "Education",
+  "published_at": "1989-09-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1675",
+  "tagged_by": "crosswalk@1",
+  "title": "Excellence in Teaching Act",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

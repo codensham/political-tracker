@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2578",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2578-hillary-clinton",
+  "introduced_date": "2008-01-30",
+  "policy_area": "Health",
+  "published_at": "2008-01-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2578",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to temporarily delay application of proposed changes to Medicaid payment rules for case management and targeted case management services.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S811",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-811-john-kerry",
+  "introduced_date": "1987-03-23",
+  "policy_area": "Social Welfare",
+  "published_at": "1987-03-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/811",
+  "title": "Health Services, Mental Health Services, Job Training, and Education for the Homeless Act",
+  "topics": [],
+  "type": "bill"
+}

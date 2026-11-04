@@ -1,0 +1,21 @@
+{
+  "bill_number": "S484",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-484-john-mccain",
+  "introduced_date": "2005-07-12",
+  "policy_area": "Taxation",
+  "published_at": "2005-07-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/484",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to allow Federal civilian and military retirees to pay health insurance premiums on a pretax basis and to allow a deduction for TRICARE supplemental premiums.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

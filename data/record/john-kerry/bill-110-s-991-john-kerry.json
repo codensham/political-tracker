@@ -1,0 +1,21 @@
+{
+  "bill_number": "S991",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-991-john-kerry",
+  "introduced_date": "2007-03-27",
+  "policy_area": "International Affairs",
+  "published_at": "2007-03-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/991",
+  "tagged_by": "crosswalk@1",
+  "title": "Senator Paul Simon Study Abroad Foundation Act of 2007",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

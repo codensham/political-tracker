@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1437",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-1437-hillary-clinton",
+  "introduced_date": "2008-04-09",
+  "policy_area": "Commemorations",
+  "published_at": "2008-04-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/1437",
+  "title": "Civil Rights Act of 1964 Commemorative Coin Act",
+  "topics": [],
+  "type": "bill"
+}

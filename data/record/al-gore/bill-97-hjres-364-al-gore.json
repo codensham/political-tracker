@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES364",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hjres-364-al-gore",
+  "introduced_date": "1981-12-16",
+  "policy_area": "Social Sciences and History",
+  "published_at": "1981-12-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-joint-resolution/364",
+  "title": "A joint resolution designating February 22, 1982, the 250th anniversary of the birth of George Washington, a \"Day of National Celebration\".",
+  "topics": [],
+  "type": "bill"
+}

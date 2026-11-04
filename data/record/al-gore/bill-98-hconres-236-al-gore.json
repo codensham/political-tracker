@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES236",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hconres-236-al-gore",
+  "introduced_date": "1984-03-21",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1984-03-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-concurrent-resolution/236",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution on behalf of the independent Soviet peace movement.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "SCONRES27",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-79-joe-biden",
+  "published_at": "1997-05-22",
+  "question": "On the Motion to Table",
+  "rollnumber": 79,
+  "source_url": "https://voteview.com/rollcall/RS1050079",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-05-22",
+  "vote_result": "Motion to Table Agreed to"
+}

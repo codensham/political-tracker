@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1306",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1306-john-mccain",
+  "introduced_date": "1995-10-10",
+  "policy_area": "Taxation",
+  "published_at": "1995-10-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1306",
+  "tagged_by": "crosswalk@1",
+  "title": "Tribal Government Tax-Exempt Bond Authority Amendments Act of 1995",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

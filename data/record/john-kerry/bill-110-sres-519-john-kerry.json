@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES519",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-519-john-kerry",
+  "introduced_date": "2008-04-17",
+  "policy_area": "Commemorations",
+  "published_at": "2008-04-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/519",
+  "title": "A resolution welcoming Pope Benedict XVI to the United States and recognizing the unique insights his moral and spiritual reflections bring to the world stage.",
+  "topics": [],
+  "type": "bill"
+}

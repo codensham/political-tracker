@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES450",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-450-al-gore",
+  "introduced_date": "1986-07-22",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1986-07-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/450",
+  "title": "A bill authorizing and directing the Committee on Governmental Affairs, or any authorized subcommittee thereof, to study the advisability and feasibility of establishing an independent air safety enforcement agency.",
+  "topics": [],
+  "type": "bill"
+}

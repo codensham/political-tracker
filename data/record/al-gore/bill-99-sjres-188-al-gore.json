@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES188",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-188-al-gore",
+  "introduced_date": "1985-10-15",
+  "policy_area": "Commemorations",
+  "published_at": "1985-10-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/188",
+  "title": "A joint resolution to designate July 6, 1986, as \"National Air Traffic Control Day\".",
+  "topics": [],
+  "type": "bill"
+}

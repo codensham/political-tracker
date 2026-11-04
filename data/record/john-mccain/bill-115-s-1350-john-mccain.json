@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1350",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-1350-john-mccain",
+  "introduced_date": "2017-06-14",
+  "policy_area": "Labor and Employment",
+  "published_at": "2017-06-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1350",
+  "tagged_by": "crosswalk@1",
+  "title": "Workforce Democracy and Fairness Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

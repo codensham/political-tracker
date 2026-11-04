@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN839",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-452-hillary-clinton",
+  "published_at": "2003-11-14",
+  "question": "On the Cloture Motion",
+  "rollnumber": 452,
+  "source_url": "https://voteview.com/rollcall/RS1080452",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-11-14",
+  "vote_result": "Cloture Motion Rejected"
+}

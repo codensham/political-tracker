@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES360",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hres-360-al-gore",
+  "introduced_date": "1984-02-29",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1984-02-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-resolution/360",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the House of Representatives that the Veterans' Administration should develop a comprehensive, unified policy for the study and treatment of post traumatic stress disorder and establish a central office to advise persons in Veterans' Administration hospitals and outpatient facilities who are setting up post-traumatic stress disorder wards and treatment programs.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

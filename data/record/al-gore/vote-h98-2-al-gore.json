@@ -1,0 +1,20 @@
+{
+  "bill_number": "HRES5",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-2-al-gore",
+  "published_at": "1983-01-03",
+  "question": null,
+  "rollnumber": 2,
+  "source_url": "https://voteview.com/rollcall/RH0980002",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1983-01-03",
+  "vote_result": null
+}

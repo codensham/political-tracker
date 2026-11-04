@@ -1,0 +1,21 @@
+{
+  "bill_number": "S796",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-796-barack-obama",
+  "introduced_date": "2008-05-01",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2008-05-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/796",
+  "tagged_by": "crosswalk@1",
+  "title": "Fair Currency Act of 2007",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

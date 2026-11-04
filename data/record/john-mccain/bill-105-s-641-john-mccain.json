@@ -1,0 +1,21 @@
+{
+  "bill_number": "S641",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-641-john-mccain",
+  "introduced_date": "1997-04-24",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1997-04-24",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/641",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the Federal Communications Commission to eliminate from its regulations the restrictions on the cross-ownership of broadcasting stations and newspapers.",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

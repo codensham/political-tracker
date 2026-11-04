@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES542",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hres-542-john-mccain",
+  "introduced_date": "1986-09-10",
+  "policy_area": "International Affairs",
+  "published_at": "1986-09-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-resolution/542",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution concerning the arrest, imprisonment, and indictment of Nicholas Daniloff by the Soviet Union.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

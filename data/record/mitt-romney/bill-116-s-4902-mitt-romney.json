@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4902",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-4902-mitt-romney",
+  "introduced_date": "2020-11-17",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2020-11-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4902",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to designate the United States courthouse located at 351 South West Temple in Salt Lake City, Utah, as the \"Orrin G. Hatch United States Courthouse\".",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2633",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2633-hillary-clinton",
+  "introduced_date": "2008-02-25",
+  "policy_area": "International Affairs",
+  "published_at": "2008-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2633",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for the safe redeployment of United States troops from Iraq.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

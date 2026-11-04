@@ -1,0 +1,20 @@
+{
+  "bill_number": "S955",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-185-joe-biden",
+  "published_at": "1997-07-17",
+  "question": "On Passage of the Bill",
+  "rollnumber": 185,
+  "source_url": "https://voteview.com/rollcall/RS1050185",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-07-17",
+  "vote_result": "Bill Passed"
+}

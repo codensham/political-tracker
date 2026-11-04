@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5791",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-5791-al-gore",
+  "introduced_date": "1984-08-02",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1984-08-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/5791",
+  "tagged_by": "crosswalk@1",
+  "title": "American Footwear Act of 1984",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

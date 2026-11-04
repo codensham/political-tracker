@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN427",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-243-joe-biden",
+  "published_at": "1991-11-05",
+  "question": "On the Nomination",
+  "rollnumber": 243,
+  "source_url": "https://voteview.com/rollcall/RS1020243",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-11-05",
+  "vote_result": "Nomination Confirmed"
+}

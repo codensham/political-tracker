@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES356",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-356-al-gore",
+  "introduced_date": "1986-06-13",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1986-06-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/356",
+  "title": "A joint resolution to recognize and support the efforts of the United States Committee for the Battle of Normandy Museum to encourage American awareness and participation in development of a memorial to the Battle of Normandy.",
+  "topics": [],
+  "type": "bill"
+}

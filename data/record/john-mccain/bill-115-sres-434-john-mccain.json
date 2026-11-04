@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES434",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-434-john-mccain",
+  "introduced_date": "2018-03-14",
+  "policy_area": "Labor and Employment",
+  "published_at": "2018-03-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/434",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the contributions of AmeriCorps members and alumni to the lives of the people of the United States.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

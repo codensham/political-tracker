@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES461",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-461-joe-biden",
+  "introduced_date": "2006-05-02",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2006-05-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/461",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting and commending the supporters of the Jefferson Awards for Public Service for encouraging all citizens of the United States to embark on a life of public service and recognizing those citizens who have already performed extraordinary deeds for their community and country.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

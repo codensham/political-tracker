@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES226",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-226-john-kerry",
+  "introduced_date": "1998-05-08",
+  "policy_area": "International Affairs",
+  "published_at": "1998-05-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/226",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the policy of the United States at the 50th Annual Meeting of the International Whaling Commission.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

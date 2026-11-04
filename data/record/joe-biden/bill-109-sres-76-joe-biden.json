@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES76",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-76-joe-biden",
+  "introduced_date": "2005-03-09",
+  "policy_area": "International Affairs",
+  "published_at": "2005-03-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/76",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate on the anniversary of the deadly terrorist attacks launched against the people of Spain on March 11, 2004.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

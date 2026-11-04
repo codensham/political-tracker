@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES565",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-565-john-kerry",
+  "introduced_date": "2010-06-24",
+  "policy_area": "Health",
+  "published_at": "2010-06-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/565",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting and recognizing the achievements of the family planning services programs operating under title X of the Public Health Service Act.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

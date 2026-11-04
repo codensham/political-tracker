@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES457",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-457-joe-biden",
+  "introduced_date": "2004-10-10",
+  "policy_area": "Commemorations",
+  "published_at": "2004-10-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/457",
+  "title": "A resolution designating the week of October 24, 2004, through October 30, 2004, as \"National Childhood Lead Poisoning Prevention Week\".",
+  "topics": [],
+  "type": "bill"
+}

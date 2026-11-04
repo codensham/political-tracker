@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES139",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hres-139-al-gore",
+  "introduced_date": "1983-03-16",
+  "policy_area": "Energy",
+  "published_at": "1983-03-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-resolution/139",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to restore balance in the Federal energy budget.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

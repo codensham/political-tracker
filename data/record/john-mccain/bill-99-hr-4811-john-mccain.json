@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4811",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-4811-john-mccain",
+  "introduced_date": "1986-05-13",
+  "policy_area": "Environmental Protection",
+  "published_at": "1986-05-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/4811",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to establish the San Pedro Riparian National Conservation Area in Cochise County, Arizona, in order to assure the protection of the riparian, wildlife, archaeological, paleontological, scientific, cultural, educational, and recreational resources of the conservation area, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

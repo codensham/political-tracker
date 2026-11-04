@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2312",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2312-hillary-clinton",
+  "introduced_date": "2004-04-08",
+  "policy_area": "Commerce",
+  "published_at": "2004-04-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2312",
+  "title": "SAFE-ID Act",
+  "topics": [],
+  "type": "bill"
+}

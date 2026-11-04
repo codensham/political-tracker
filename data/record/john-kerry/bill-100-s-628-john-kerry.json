@@ -1,0 +1,21 @@
+{
+  "bill_number": "S628",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-628-john-kerry",
+  "introduced_date": "1987-03-03",
+  "policy_area": "Taxation",
+  "published_at": "1987-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/628",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to restore the deduction for interest on educational loans.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

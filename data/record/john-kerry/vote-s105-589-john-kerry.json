@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4103",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-589-john-kerry",
+  "published_at": "1998-09-29",
+  "question": "On the Conference Report",
+  "rollnumber": 589,
+  "source_url": "https://voteview.com/rollcall/RS1050589",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-09-29",
+  "vote_result": "Conference Report Agreed to"
+}

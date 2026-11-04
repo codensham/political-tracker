@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES392",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-392-john-mccain",
+  "introduced_date": "1988-10-01",
+  "policy_area": "International Affairs",
+  "published_at": "1988-10-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/392",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to express the support of the United States for the restoration of full and genuine democracy in Chile and calling upon the Government of Chile to take the steps necessary to assure that the will of the Chilean people is freely, fully, and accurately expressed in the upcoming plebiscite.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S579",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-579-kamala-harris",
+  "introduced_date": "2019-02-27",
+  "policy_area": "Education",
+  "published_at": "2019-02-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/579",
+  "tagged_by": "crosswalk@1",
+  "title": "Smaller Class Sizes for Students and Educators Act of 2019",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

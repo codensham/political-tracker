@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES112",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-112-john-kerry",
+  "introduced_date": "2002-05-17",
+  "policy_area": "Commemorations",
+  "published_at": "2002-05-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/112",
+  "title": "A concurrent resolution expressing the sense of Congress regarding the designation of the week beginning May 19, 2002, as \"National Medical Services Week\".",
+  "topics": [],
+  "type": "bill"
+}

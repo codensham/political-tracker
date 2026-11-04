@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES146",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hconres-146-john-mccain",
+  "introduced_date": "1985-05-09",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1985-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-concurrent-resolution/146",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to express the sense of the Congress that the executive branch should expeditiously release the remaining money appropriated by Congress under Public Law 98-473 for the Special Supplemental Food Program for Women, Infants, and Children.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

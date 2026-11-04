@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES327",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-327-joe-biden",
+  "introduced_date": "1990-05-24",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1990-05-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/327",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution designating September 21, 1990, as \"National POW/MIA Recognition Day\", and recognizing the National League of Families POW/MIA flag.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

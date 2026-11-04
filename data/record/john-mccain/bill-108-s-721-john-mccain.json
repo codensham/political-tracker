@@ -1,0 +1,21 @@
+{
+  "bill_number": "S721",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-721-john-mccain",
+  "introduced_date": "2003-03-26",
+  "policy_area": "Taxation",
+  "published_at": "2003-03-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/721",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to expand the combat zone income tax exclusion to include income for the period of transit to the combat zone and to remove the limitation on such exclusion for commissioned officers, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

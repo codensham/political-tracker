@@ -1,0 +1,21 @@
+{
+  "bill_number": "S89",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-89-john-kerry",
+  "introduced_date": "1997-07-24",
+  "policy_area": "Health",
+  "published_at": "1997-07-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/89",
+  "tagged_by": "crosswalk@1",
+  "title": "Genetic Information Nondiscrimination in Health Insurance Act of 1997",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

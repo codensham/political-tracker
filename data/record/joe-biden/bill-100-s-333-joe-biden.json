@@ -1,0 +1,18 @@
+{
+  "bill_number": "S333",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-333-joe-biden",
+  "introduced_date": "1987-02-19",
+  "policy_area": "Private Legislation",
+  "published_at": "1987-02-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/333",
+  "title": "A bill for the relief of Anne Brusselmans.",
+  "topics": [],
+  "type": "bill"
+}

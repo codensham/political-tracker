@@ -1,0 +1,18 @@
+{
+  "bill_number": "S739",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-739-john-kerry",
+  "introduced_date": "2011-04-06",
+  "policy_area": "Congress",
+  "published_at": "2011-04-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/739",
+  "title": "A bill to authorize the Architect of the Capitol to establish battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Senate at no net cost to the Federal Government.",
+  "topics": [],
+  "type": "bill"
+}

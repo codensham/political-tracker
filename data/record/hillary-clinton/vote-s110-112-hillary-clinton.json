@@ -1,0 +1,20 @@
+{
+  "bill_number": "SCONRES21",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-112-hillary-clinton",
+  "published_at": "2007-03-23",
+  "question": "On the Amendment",
+  "rollnumber": 112,
+  "source_url": "https://voteview.com/rollcall/RS1100112",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-03-23",
+  "vote_result": "Amendment Rejected"
+}

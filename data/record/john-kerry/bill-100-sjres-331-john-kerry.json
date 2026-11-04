@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES331",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-331-john-kerry",
+  "introduced_date": "1988-05-27",
+  "policy_area": "Commemorations",
+  "published_at": "1988-05-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/331",
+  "title": "A joint resolution to designate the week of June 19-25, 1988, as the \"National Recognition of the Accomplishments of Women in the Workforce Week\".",
+  "topics": [],
+  "type": "bill"
+}

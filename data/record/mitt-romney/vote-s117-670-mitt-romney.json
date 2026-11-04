@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4521",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-670-mitt-romney",
+  "published_at": "2022-04-28",
+  "question": "On the Motion",
+  "rollnumber": 670,
+  "source_url": "https://voteview.com/rollcall/RS1170670",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2022-04-28",
+  "vote_result": "Motion Agreed to"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-66-joe-biden",
+  "policy_area": "Emergency Management",
+  "published_at": "2007-03-07",
+  "question": "On the Motion to Table",
+  "rollnumber": 66,
+  "source_url": "https://voteview.com/rollcall/RS1100066",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-03-07",
+  "vote_result": "Motion to Table Agreed to"
+}

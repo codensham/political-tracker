@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR12934",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-h95-1097-al-gore",
+  "published_at": "1978-06-14",
+  "question": null,
+  "rollnumber": 1097,
+  "source_url": "https://voteview.com/rollcall/RH0951097",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-06-14",
+  "vote_result": null
+}

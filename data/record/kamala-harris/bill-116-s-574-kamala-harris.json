@@ -1,0 +1,21 @@
+{
+  "bill_number": "S574",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-574-kamala-harris",
+  "introduced_date": "2019-02-27",
+  "policy_area": "Taxation",
+  "published_at": "2019-02-27",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/574",
+  "tagged_by": "crosswalk@1",
+  "title": "EMPOWER Act—Part 2",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

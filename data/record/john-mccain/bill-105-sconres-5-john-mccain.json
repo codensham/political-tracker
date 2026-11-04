@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES5",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sconres-5-john-mccain",
+  "introduced_date": "1997-02-05",
+  "policy_area": "International Affairs",
+  "published_at": "1997-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-concurrent-resolution/5",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress that the extension of membership in the North Atlantic Treaty of 1949 to certain democracies of Central and Eastern Europe is essential to the consolidation of enduring peace and stability in Europe.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES75",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-75-joe-biden",
+  "introduced_date": "1989-10-05",
+  "policy_area": "International Affairs",
+  "published_at": "1989-10-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/75",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to congratulate His Holiness the XIV Dalai Lama of Tibet for being awarded the 1989 Nobel Peace Prize.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

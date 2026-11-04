@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4279",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-s-4279-mitt-romney",
+  "introduced_date": "2024-05-08",
+  "policy_area": "International Affairs",
+  "published_at": "2024-05-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4279",
+  "tagged_by": "crosswalk@1",
+  "title": "Coordinating AUKUS Engagement with Japan Act of 2024",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

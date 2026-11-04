@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3773",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3773-john-mccain",
+  "introduced_date": "2010-09-13",
+  "policy_area": "Taxation",
+  "published_at": "2010-09-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3773",
+  "tagged_by": "crosswalk@1",
+  "title": "Tax Hike Prevention Act of 2010",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

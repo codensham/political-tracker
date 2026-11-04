@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES110",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-110-hillary-clinton",
+  "introduced_date": "2002-05-13",
+  "policy_area": "Commemorations",
+  "published_at": "2002-05-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/110",
+  "title": "A concurrent resolution honoring the heroism and courage displayed by airline flight attendants on a daily basis.",
+  "topics": [],
+  "type": "bill"
+}

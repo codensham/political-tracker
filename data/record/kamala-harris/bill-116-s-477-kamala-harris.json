@@ -1,0 +1,21 @@
+{
+  "bill_number": "S477",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-477-kamala-harris",
+  "introduced_date": "2019-02-13",
+  "policy_area": "Environmental Protection",
+  "published_at": "2019-02-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/477",
+  "tagged_by": "crosswalk@1",
+  "title": "Climate Change Education Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

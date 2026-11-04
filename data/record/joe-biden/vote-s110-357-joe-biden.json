@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1585",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-357-joe-biden",
+  "published_at": "2007-09-27",
+  "question": "On the Cloture Motion",
+  "rollnumber": 357,
+  "source_url": "https://voteview.com/rollcall/RS1100357",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-09-27",
+  "vote_result": "Cloture Motion Agreed to"
+}

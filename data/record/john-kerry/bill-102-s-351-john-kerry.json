@@ -1,0 +1,21 @@
+{
+  "bill_number": "S351",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-351-john-kerry",
+  "introduced_date": "1991-02-20",
+  "policy_area": "Labor and Employment",
+  "published_at": "1991-02-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/351",
+  "tagged_by": "crosswalk@1",
+  "title": "Pension Restoration Act of 1991",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

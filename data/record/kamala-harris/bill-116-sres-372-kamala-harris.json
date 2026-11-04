@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES372",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-372-kamala-harris",
+  "introduced_date": "2019-10-22",
+  "policy_area": "Environmental Protection",
+  "published_at": "2019-10-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/372",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the Federal Government should establish a national goal of conserving at least 30 percent of the land and ocean of the United States by 2030.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

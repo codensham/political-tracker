@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1861",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1861-john-mccain",
+  "introduced_date": "1987-11-10",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1987-11-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1861",
+  "tagged_by": "crosswalk@1",
+  "title": "Chemical Diversion and Trafficking Act of 1987",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

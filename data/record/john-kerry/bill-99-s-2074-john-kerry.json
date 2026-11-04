@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2074",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2074-john-kerry",
+  "introduced_date": "1986-02-18",
+  "policy_area": "Housing and Community Development",
+  "published_at": "1986-02-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2074",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill disapproving the proposed deferral of budget authority for community development block programs.",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

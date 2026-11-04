@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1241",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1241-hillary-clinton",
+  "introduced_date": "2003-06-11",
+  "policy_area": "Commemorations",
+  "published_at": "2003-06-11",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1241",
+  "title": "Kate Mullany National Historic Site Act",
+  "topics": [],
+  "type": "bill"
+}

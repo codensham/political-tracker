@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES376",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-376-joe-biden",
+  "introduced_date": "1986-07-22",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1986-07-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/376",
+  "tagged_by": "crosswalk@1",
+  "title": "White House Conference on Narcotics Abuse and Control Resolution of 1986",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

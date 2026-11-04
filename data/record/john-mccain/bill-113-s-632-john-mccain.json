@@ -1,0 +1,21 @@
+{
+  "bill_number": "S632",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-632-john-mccain",
+  "introduced_date": "2013-03-21",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2013-03-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/632",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Food, Conservation, and Energy Act of 2008 to repeal a duplicative program relating to inspection and grading of catfish.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

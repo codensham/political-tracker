@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES127",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-127-al-gore",
+  "introduced_date": "1990-06-21",
+  "policy_area": "Labor and Employment",
+  "published_at": "1990-06-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/127",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to express the sense of the Congress that Greyhound Lines Inc. and the Amalgamated Transit Union should pursue meaningful negotiations under the auspices of the Federal Mediation and Conciliation Service to resolve their dispute and restore vital transportation services to American communities.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

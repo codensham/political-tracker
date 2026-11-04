@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2624",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2624-john-mccain",
+  "introduced_date": "1992-06-02",
+  "policy_area": "Housing and Community Development",
+  "published_at": "1992-06-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2624",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize appropriations for the Interagency Council on the Homeless, the Federal Emergency Management Food and Shelter Program, and for other purposes.",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

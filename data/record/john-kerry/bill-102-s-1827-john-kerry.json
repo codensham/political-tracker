@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1827",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1827-john-kerry",
+  "introduced_date": "1991-11-20",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1991-11-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1827",
+  "tagged_by": "crosswalk@1",
+  "title": "White House Commemorative Coin Act of 1991",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

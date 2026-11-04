@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1941",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1941-john-kerry",
+  "introduced_date": "1987-12-11",
+  "policy_area": "Environmental Protection",
+  "published_at": "1987-12-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1941",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for an eight-month extension of sanctions under the Clean Air Act.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

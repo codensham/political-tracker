@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3326",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-382-john-kerry",
+  "published_at": "2009-12-19",
+  "question": "On the Motion to Table",
+  "rollnumber": 382,
+  "source_url": "https://voteview.com/rollcall/RS1110382",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-12-19",
+  "vote_result": "Motion to Table Agreed to"
+}

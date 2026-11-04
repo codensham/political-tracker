@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES167",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-167-john-kerry",
+  "introduced_date": "1986-10-09",
+  "policy_area": "Social Welfare",
+  "published_at": "1986-10-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/167",
+  "title": "A concurrent resolution to express the sense of Congress regarding efficient and compassionate management of the Social Security Disability Insurance (SSDI) program.",
+  "topics": [],
+  "type": "bill"
+}

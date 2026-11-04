@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2766",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-551-joe-biden",
+  "published_at": "2006-06-22",
+  "question": "On the Amendment",
+  "rollnumber": 551,
+  "source_url": "https://voteview.com/rollcall/RS1090551",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-06-22",
+  "vote_result": "Amendment Agreed to"
+}

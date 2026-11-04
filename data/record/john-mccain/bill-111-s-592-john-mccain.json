@@ -1,0 +1,21 @@
+{
+  "bill_number": "S592",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-592-john-mccain",
+  "introduced_date": "2009-03-12",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2009-03-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/592",
+  "tagged_by": "crosswalk@1",
+  "title": "Local Community Radio Act of 2009",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

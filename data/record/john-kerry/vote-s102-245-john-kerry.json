@@ -1,0 +1,20 @@
+{
+  "bill_number": "S455",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-245-john-kerry",
+  "published_at": "1991-11-06",
+  "question": "On Passage of the Bill",
+  "rollnumber": 245,
+  "source_url": "https://voteview.com/rollcall/RS1020245",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-11-06",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S4020",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-4020-john-mccain",
+  "introduced_date": "2010-12-16",
+  "policy_area": "Law",
+  "published_at": "2010-12-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/4020",
+  "title": "Restoring the 10th Amendment Act",
+  "topics": [],
+  "type": "bill"
+}

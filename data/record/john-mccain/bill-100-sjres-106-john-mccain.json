@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES106",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-106-john-mccain",
+  "introduced_date": "1987-07-15",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1987-07-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/106",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to recognize the Disabled American Veterans Vietnam Veterans National Memorial as a memorial of national significance.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

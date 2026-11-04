@@ -1,0 +1,21 @@
+{
+  "bill_number": "S714",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-714-john-kerry",
+  "introduced_date": "2001-04-05",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2001-04-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/714",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to urge the United States Trade Representative to pursue the establishment of a small business advocate within the World Trade Organization, and for other purposes.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

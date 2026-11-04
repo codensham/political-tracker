@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 96,
+  "id": "vote-s96-638-joe-biden",
+  "published_at": "1980-05-12",
+  "question": null,
+  "rollnumber": 638,
+  "source_url": "https://voteview.com/rollcall/RS0960638",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1980-05-12",
+  "vote_result": null
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S513",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-513-joe-biden",
+  "introduced_date": "1990-06-14",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1990-06-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/513",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend chapters 83 and 84 of title 5, United States Code, to extend certain retirement provisions of such chapters which are applicable to law enforcement officers to inspectors of the Immigration and Naturalization Service, inspectors and canine enforcement officers of the United States Customs Service, and revenue officers of the Internal Revenue Service.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

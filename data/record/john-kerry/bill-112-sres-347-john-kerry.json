@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES347",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-347-john-kerry",
+  "introduced_date": "2011-12-13",
+  "policy_area": "Health",
+  "published_at": "2011-12-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/347",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the 40th anniversary of the National Cancer Act of 1971 and the more than 12,000,000 survivors of cancer alive today because of the commitment of the United States to cancer research and advances in cancer prevention, detection, diagnosis, and treatment.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

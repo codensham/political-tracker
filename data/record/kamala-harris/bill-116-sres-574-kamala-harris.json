@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES574",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-574-kamala-harris",
+  "introduced_date": "2020-05-13",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2020-05-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/574",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating the week of April 18, 2020, through April 26, 2020, as \"National Park Week\".",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES432",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-432-joe-biden",
+  "introduced_date": "2008-01-28",
+  "policy_area": "International Affairs",
+  "published_at": "2008-01-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/432",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution urging the international community to provide the United Nations-African Union Mission in Sudan with essential tactical and utility helicopters.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES126",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-126-joe-biden",
+  "introduced_date": "2004-07-22",
+  "policy_area": "International Affairs",
+  "published_at": "2004-07-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/126",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution condemning the attack on the AMIA Jewish Community Center in Buenos Aires, Argentina, in July 1994, and expressing the concern of the United States regarding the continuing, decade-long delay in the resolution of this case.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

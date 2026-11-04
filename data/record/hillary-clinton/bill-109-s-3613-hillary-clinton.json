@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3613",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-3613-hillary-clinton",
+  "introduced_date": "2006-06-29",
+  "policy_area": "Commemorations",
+  "published_at": "2006-06-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/3613",
+  "title": "A bill to designate the facility of the United States Postal Service located at 2951 New York Highway 43 in Averill Park, New York, as the \"Major George Quamo Post Office Building\".",
+  "topics": [],
+  "type": "bill"
+}

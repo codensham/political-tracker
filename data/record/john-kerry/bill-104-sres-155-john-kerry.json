@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES155",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-sres-155-john-kerry",
+  "introduced_date": "1995-07-20",
+  "policy_area": "International Affairs",
+  "published_at": "1995-07-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-resolution/155",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the action taken by the Government of Japan against United States air cargo and passenger carriers represents a clear violation of the United States/Japan bilateral aviation agreement that is having severe repercussions on United States air carriers and, in general, customers of these United States carriers.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

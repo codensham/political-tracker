@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES323",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-323-john-kerry",
+  "introduced_date": "1986-04-22",
+  "policy_area": "Commemorations",
+  "published_at": "1986-04-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/323",
+  "title": "A joint resolution to designate May 21, 1986, as \"National Andrei Sakharov Day\".",
+  "topics": [],
+  "type": "bill"
+}

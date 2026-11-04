@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES294",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hconres-294-al-gore",
+  "introduced_date": "1984-06-15",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1984-06-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-concurrent-resolution/294",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the President should express to the Government of the Soviet Union the disapproval of the American people concerning the Soviet Union's systematic nondelivery of international mail addressed to certain persons residing within the Soviet Union, and that the United States delegation to the Congress of the Universal Postal Union seek the compliance of the Government of the Soviet Union with the treaties governing international mail to which it is a party.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

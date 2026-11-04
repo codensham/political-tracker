@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES365",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-365-john-mccain",
+  "introduced_date": "2014-03-11",
+  "policy_area": "International Affairs",
+  "published_at": "2014-03-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/365",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution deploring the violent repression of peaceful demonstrators in Venezuela, calling for full accountability for human rights violations taking place in Venezuela, and supporting the right of the Venezuelan people to the free and peaceful exercise of representative democracy.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

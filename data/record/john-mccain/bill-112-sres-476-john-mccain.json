@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES476",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-476-john-mccain",
+  "introduced_date": "2012-06-04",
+  "policy_area": "International Affairs",
+  "published_at": "2012-06-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/476",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution honoring the contributions of the late Fang Lizhi to the people of China and the cause of freedom.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

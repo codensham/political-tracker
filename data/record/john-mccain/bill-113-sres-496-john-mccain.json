@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES496",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-496-john-mccain",
+  "introduced_date": "2014-07-07",
+  "policy_area": "Congress",
+  "published_at": "2014-07-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/496",
+  "title": "A resolution relative to the death of the Honorable Alan John Dixon, former United States Senator for the State of Illinois.",
+  "topics": [],
+  "type": "bill"
+}

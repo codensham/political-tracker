@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES235",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-235-joe-biden",
+  "introduced_date": "1998-05-22",
+  "policy_area": "International Affairs",
+  "published_at": "1998-05-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/235",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commemorating 100 years of relations between the people of the United States and the people of the Philippines.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

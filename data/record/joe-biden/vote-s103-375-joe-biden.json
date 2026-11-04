@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1607",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-375-joe-biden",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1993-11-17",
+  "question": "On the Amendment",
+  "rollnumber": 375,
+  "source_url": "https://voteview.com/rollcall/RS1030375",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "vote",
+  "vote_date": "1993-11-17",
+  "vote_result": "Amendment Agreed to"
+}

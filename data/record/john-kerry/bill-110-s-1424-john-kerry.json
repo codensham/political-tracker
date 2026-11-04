@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1424",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-1424-john-kerry",
+  "introduced_date": "2007-05-17",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2007-05-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/1424",
+  "tagged_by": "crosswalk@1",
+  "title": "Farm, Nutrition, and Community Investment Act of 2007",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

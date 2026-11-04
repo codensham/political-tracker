@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1476",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1476-john-kerry",
+  "introduced_date": "1995-12-13",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1995-12-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1476",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to establish the Boston Harbor Islands National Recreation Area, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

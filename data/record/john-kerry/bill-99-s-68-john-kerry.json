@@ -1,0 +1,21 @@
+{
+  "bill_number": "S68",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-68-john-kerry",
+  "introduced_date": "1985-01-31",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1985-01-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/68",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit the use of appropriated funds for the production of lethal binary chemical weapons; to express the sense of the Congress on achieving an international agreement to ban the production and stockpiling of chemical weapons; and to express the further sense of the Congress encouraging the improvement of defenses against the effects of the use of chemical weapons on the Armed Forces of the United States.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

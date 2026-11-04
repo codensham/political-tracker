@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1446",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-1446-kamala-harris",
+  "introduced_date": "2017-06-27",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2017-06-27",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1446",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to reauthorize the Historically Black Colleges and Universities Historic Preservation program.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

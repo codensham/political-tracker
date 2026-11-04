@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3021",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-3021-joe-biden",
+  "introduced_date": "2004-11-24",
+  "policy_area": "Commerce",
+  "published_at": "2004-11-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/3021",
+  "title": "Family Entertainment and Copyright Act of 2004",
+  "topics": [],
+  "type": "bill"
+}

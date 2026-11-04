@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES373",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-373-joe-biden",
+  "introduced_date": "2006-02-16",
+  "policy_area": "Commemorations",
+  "published_at": "2006-02-16",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/373",
+  "title": "A resolution expressing the sense of the Senate that the Senate should continue to support the National Domestic Violence Hotline, a critical national resource that saves lives each day, and commemorate its 10th anniversary.",
+  "topics": [],
+  "type": "bill"
+}

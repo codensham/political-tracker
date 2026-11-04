@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES317",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-317-john-mccain",
+  "introduced_date": "2011-11-08",
+  "policy_area": "International Affairs",
+  "published_at": "2011-11-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/317",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the liberation of Libya from the dictatorship led by Muammar Qaddafi.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

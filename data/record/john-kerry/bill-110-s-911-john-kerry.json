@@ -1,0 +1,21 @@
+{
+  "bill_number": "S911",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-911-john-kerry",
+  "introduced_date": "2007-06-04",
+  "policy_area": "Health",
+  "published_at": "2007-06-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/911",
+  "tagged_by": "crosswalk@1",
+  "title": "Conquer Childhood Cancer Act of 2007",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

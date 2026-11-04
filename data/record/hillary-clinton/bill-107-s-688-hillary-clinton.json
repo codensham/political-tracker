@@ -1,0 +1,18 @@
+{
+  "bill_number": "S688",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-688-hillary-clinton",
+  "introduced_date": "2001-06-19",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2001-06-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/688",
+  "title": "A bill to amend title 49, United States Code, relating to the airport noise and access review program.",
+  "topics": [],
+  "type": "bill"
+}

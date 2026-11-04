@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2921",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2921-john-mccain",
+  "introduced_date": "2000-07-25",
+  "policy_area": "Education",
+  "published_at": "2000-07-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2921",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for management and leadership training, the provision of assistance and resources for policy analysis, and other appropriate activities in the training of Native American and Alaska Native professionals in health care and public policy.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

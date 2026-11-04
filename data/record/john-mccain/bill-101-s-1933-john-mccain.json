@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1933",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1933-john-mccain",
+  "introduced_date": "1990-02-07",
+  "policy_area": "Emergency Management",
+  "published_at": "1990-02-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1933",
+  "title": "Benjamin Franklin Memorial Fire Service Bill of Rights Act",
+  "topics": [],
+  "type": "bill"
+}

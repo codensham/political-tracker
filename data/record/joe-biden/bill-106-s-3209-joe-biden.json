@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3209",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-3209-joe-biden",
+  "introduced_date": "2000-10-17",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2000-10-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/3209",
+  "tagged_by": "crosswalk@1",
+  "title": "Washington-Rochambeau Revolutionary Route National Heritage Act of 2000",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

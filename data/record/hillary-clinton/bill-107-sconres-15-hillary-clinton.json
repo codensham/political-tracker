@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES15",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-15-hillary-clinton",
+  "introduced_date": "2001-05-10",
+  "policy_area": "Commemorations",
+  "published_at": "2001-05-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/15",
+  "title": "A concurrent resolution to designate a National Day of Reconciliation.",
+  "topics": [],
+  "type": "bill"
+}

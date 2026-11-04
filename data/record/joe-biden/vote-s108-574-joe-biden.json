@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1031",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-574-joe-biden",
+  "published_at": "2004-06-15",
+  "question": "On the Nomination",
+  "rollnumber": 574,
+  "source_url": "https://voteview.com/rollcall/RS1080574",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-06-15",
+  "vote_result": "Nomination Confirmed"
+}

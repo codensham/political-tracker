@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1358",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1358-john-kerry",
+  "introduced_date": "1989-10-06",
+  "policy_area": "Social Welfare",
+  "published_at": "1989-10-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1358",
+  "title": "A bill to amend the Social Security Act to take into account monthly earnings in determining the amount of disability benefits payable to a recipient of disabled adult child's benefits and certain other beneficiaries and to provide for continued entitlement to disability and Medicare benefits for such individuals, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

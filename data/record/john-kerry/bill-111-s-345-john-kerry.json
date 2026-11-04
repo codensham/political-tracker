@@ -1,0 +1,21 @@
+{
+  "bill_number": "S345",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-345-john-kerry",
+  "introduced_date": "2009-01-29",
+  "policy_area": "International Affairs",
+  "published_at": "2009-01-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/345",
+  "tagged_by": "crosswalk@1",
+  "title": "Tropical Forest and Coral Conservation Reauthorization Act of 2009",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

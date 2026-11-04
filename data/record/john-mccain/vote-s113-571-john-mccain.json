@@ -1,0 +1,24 @@
+{
+  "bill_number": "S2280",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-571-john-mccain",
+  "policy_area": "Energy",
+  "published_at": "2014-11-18",
+  "question": "On Passage of the Bill",
+  "rollnumber": 571,
+  "source_url": "https://voteview.com/rollcall/RS1130571",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "vote",
+  "vote_date": "2014-11-18",
+  "vote_result": "Bill Defeated"
+}

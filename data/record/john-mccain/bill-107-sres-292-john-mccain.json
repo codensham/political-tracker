@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES292",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-292-john-mccain",
+  "introduced_date": "2002-06-26",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2002-06-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/292",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing support for the Pledge of Allegiance.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

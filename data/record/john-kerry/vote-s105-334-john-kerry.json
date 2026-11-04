@@ -1,0 +1,20 @@
+{
+  "bill_number": "TREATYDOC10536",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-334-john-kerry",
+  "published_at": "1998-03-18",
+  "question": "On the Motion to Proceed",
+  "rollnumber": 334,
+  "source_url": "https://voteview.com/rollcall/RS1050334",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-03-18",
+  "vote_result": "Motion to Proceed Agreed to"
+}

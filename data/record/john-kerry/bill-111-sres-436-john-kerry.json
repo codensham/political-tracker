@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES436",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-436-john-kerry",
+  "introduced_date": "2010-03-04",
+  "policy_area": "International Affairs",
+  "published_at": "2010-03-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/436",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing support for the people affected by the natural disasters on Madeira Island.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

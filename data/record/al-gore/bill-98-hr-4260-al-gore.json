@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4260",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-4260-al-gore",
+  "introduced_date": "1983-11-01",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1983-11-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/4260",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide a moratorium until June 30, 1988, on changes to the Federal Communications Commission rules regarding network television syndication, network television financial interests, and prime time access.",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

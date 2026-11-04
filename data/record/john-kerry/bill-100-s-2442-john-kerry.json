@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2442",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2442-john-kerry",
+  "introduced_date": "1988-05-26",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1988-05-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2442",
+  "tagged_by": "crosswalk@1",
+  "title": "Television and Radio Anti-Drug Advertising Act",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

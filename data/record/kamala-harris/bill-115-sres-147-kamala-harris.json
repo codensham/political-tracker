@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES147",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-147-kamala-harris",
+  "introduced_date": "2017-04-27",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2017-04-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/147",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commemorating the 25th anniversary of the 1992 Los Angeles civil unrest.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

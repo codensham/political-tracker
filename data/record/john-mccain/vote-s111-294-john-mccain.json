@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2996",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-294-john-mccain",
+  "published_at": "2009-09-23",
+  "question": "On the Motion to Table",
+  "rollnumber": 294,
+  "source_url": "https://voteview.com/rollcall/RS1110294",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-09-23",
+  "vote_result": "Motion to Table Agreed to"
+}

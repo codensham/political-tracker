@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1002",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1002-john-mccain",
+  "introduced_date": "1992-06-09",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1992-06-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1002",
+  "tagged_by": "crosswalk@1",
+  "title": "Child Support Recovery Act of 1992",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

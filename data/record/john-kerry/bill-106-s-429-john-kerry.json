@@ -1,0 +1,18 @@
+{
+  "bill_number": "S429",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-429-john-kerry",
+  "introduced_date": "1999-05-06",
+  "policy_area": "Commemorations",
+  "published_at": "1999-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/429",
+  "title": "A bill to designate the legal public holiday of \"Washington's Birthday \" as \"Presidents' Day\" in honor of George Washington, Abraham Lincoln, and Franklin Roosevelt and in recognition of the importance of the institution of the Presidency and the contributions that Presidents have made to the development of our Nation and the principles of freedom and democracy.",
+  "topics": [],
+  "type": "bill"
+}

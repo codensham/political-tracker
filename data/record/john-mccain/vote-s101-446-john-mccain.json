@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1970",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-446-john-mccain",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1990-06-28",
+  "question": "On the Amendment",
+  "rollnumber": 446,
+  "source_url": "https://voteview.com/rollcall/RS1010446",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "vote",
+  "vote_date": "1990-06-28",
+  "vote_result": "Amendment Agreed to"
+}

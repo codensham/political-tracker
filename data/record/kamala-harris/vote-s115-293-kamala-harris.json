@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-293-kamala-harris",
+  "published_at": "2017-12-01",
+  "question": "On the Motion to Adjourn",
+  "rollnumber": 293,
+  "source_url": "https://voteview.com/rollcall/RS1150293",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2017-12-01",
+  "vote_result": "Motion to Adjourn Rejected"
+}

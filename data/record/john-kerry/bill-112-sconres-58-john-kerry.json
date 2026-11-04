@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES58",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sconres-58-john-kerry",
+  "introduced_date": "2012-08-02",
+  "policy_area": "Congress",
+  "published_at": "2012-08-02",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-concurrent-resolution/58",
+  "title": "A concurrent resolution directing the Clerk of the House of Representatives to make a correction in the enrollment of H.R. 4240.",
+  "topics": [],
+  "type": "bill"
+}

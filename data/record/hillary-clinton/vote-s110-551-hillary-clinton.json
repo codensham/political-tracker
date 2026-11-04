@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1315",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-551-hillary-clinton",
+  "published_at": "2008-04-22",
+  "question": "On the Cloture Motion",
+  "rollnumber": 551,
+  "source_url": "https://voteview.com/rollcall/RS1100551",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-04-22",
+  "vote_result": "Cloture Motion Agreed to"
+}

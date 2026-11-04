@@ -1,0 +1,21 @@
+{
+  "bill_number": "S839",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-839-mitt-romney",
+  "introduced_date": "2021-04-22",
+  "policy_area": "Education",
+  "published_at": "2021-04-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/839",
+  "tagged_by": "crosswalk@1",
+  "title": "College Transparency Act",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

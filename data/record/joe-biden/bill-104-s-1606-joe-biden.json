@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1606",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1606-joe-biden",
+  "introduced_date": "1996-03-12",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1996-03-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1606",
+  "tagged_by": "crosswalk@1",
+  "title": "Biological Agents Enhanced Penalties and Control Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES278",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-278-john-mccain",
+  "introduced_date": "1998-09-16",
+  "policy_area": "Commemorations",
+  "published_at": "1998-09-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/278",
+  "title": "A resolution designating the 30th day of April of 1999, as \"Dia de los Ninos: Celebrating Young Americans\", and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

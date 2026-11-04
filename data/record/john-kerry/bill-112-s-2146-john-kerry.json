@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2146",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-2146-john-kerry",
+  "introduced_date": "2012-03-01",
+  "policy_area": "Energy",
+  "published_at": "2012-03-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/2146",
+  "tagged_by": "crosswalk@1",
+  "title": "Clean Energy Standard Act of 2012",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1713",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-593-mitt-romney",
+  "published_at": "2020-09-10",
+  "question": "On the Nomination",
+  "rollnumber": 593,
+  "source_url": "https://voteview.com/rollcall/RS1160593",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2020-09-10",
+  "vote_result": "Nomination Confirmed"
+}

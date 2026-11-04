@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES129",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hconres-129-john-mccain",
+  "introduced_date": "1986-09-11",
+  "policy_area": "International Affairs",
+  "published_at": "1986-09-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-concurrent-resolution/129",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to establish a Congressional Commission to be known as the \"Perot Commission on Americans Missing in Southeast Asia\" to determine whether or not U.S.  POWs are being held in Southeast Asia and to report to Congress appropriate action to effect the release of any POWs found to be alive.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

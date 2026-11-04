@@ -1,0 +1,21 @@
+{
+  "bill_number": "S16",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-16-john-kerry",
+  "introduced_date": "2001-01-22",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2001-01-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/16",
+  "tagged_by": "crosswalk@1",
+  "title": "21st Century Law Enforcement, Crime Prevention, and Victims Assistance Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

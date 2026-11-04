@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES182",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-182-al-gore",
+  "introduced_date": "1991-09-18",
+  "policy_area": "International Affairs",
+  "published_at": "1991-09-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/182",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending Hong Kong for successfully holding the first direct elections to its Legislative Council.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES17",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sjres-17-john-mccain",
+  "introduced_date": "2017-02-01",
+  "policy_area": "Health",
+  "published_at": "2017-02-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/17",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution approving the discontinuation of the process for consideration and automatic implementation of the annual proposal of the Independent Medicare Advisory Board under section 1899A of the Social Security Act.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

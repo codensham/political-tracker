@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6040",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-s98-586-joe-biden",
+  "published_at": "1984-08-08",
+  "question": null,
+  "rollnumber": 586,
+  "source_url": "https://voteview.com/rollcall/RS0980586",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-08-08",
+  "vote_result": null
+}

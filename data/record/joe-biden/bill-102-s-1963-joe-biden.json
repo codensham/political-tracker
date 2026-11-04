@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1963",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1963-joe-biden",
+  "introduced_date": "1991-11-13",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1991-11-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1963",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 992 of title 28, United States Code, to provide a member of the United States Sentencing Commission whose term has expired may continue to serve until a successor is appointed or until the expiration of the next session of Congress.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

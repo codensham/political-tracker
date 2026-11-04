@@ -1,0 +1,21 @@
+{
+  "bill_number": "S346",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-346-john-kerry",
+  "introduced_date": "1989-02-02",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1989-02-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/346",
+  "tagged_by": "crosswalk@1",
+  "title": "Tongass Timber Reform Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

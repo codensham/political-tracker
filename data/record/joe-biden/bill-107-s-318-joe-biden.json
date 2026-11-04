@@ -1,0 +1,21 @@
+{
+  "bill_number": "S318",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-318-joe-biden",
+  "introduced_date": "2001-02-13",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2001-02-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/318",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit discrimination on the basis of genetic information with respect to health insurance and employment.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

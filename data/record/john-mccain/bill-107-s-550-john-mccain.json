@@ -1,0 +1,18 @@
+{
+  "bill_number": "S550",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-550-john-mccain",
+  "introduced_date": "2001-03-15",
+  "policy_area": "Social Welfare",
+  "published_at": "2001-03-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/550",
+  "title": "Indian and Alaska Native Foster Care and Adoption Services Amendments of 2001",
+  "topics": [],
+  "type": "bill"
+}

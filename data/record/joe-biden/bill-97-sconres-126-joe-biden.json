@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES126",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-sconres-126-joe-biden",
+  "introduced_date": "1982-09-30",
+  "policy_area": "International Affairs",
+  "published_at": "1982-09-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-concurrent-resolution/126",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution calling upon the United States Government to support the people of Afghanistan with material assistance in their struggle to be free from foreign domination.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

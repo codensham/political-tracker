@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES213",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-213-mitt-romney",
+  "introduced_date": "2021-05-13",
+  "policy_area": "International Affairs",
+  "published_at": "2021-05-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/213",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the importance of the United States-Republic of Korea relationship to safeguarding peace, security and prosperity on the Korean Peninsula, in the Indo-Pacific region and beyond, and welcoming the visit of President Moon Jae-in to the United States.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

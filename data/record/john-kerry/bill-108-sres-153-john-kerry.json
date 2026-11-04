@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES153",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-153-john-kerry",
+  "introduced_date": "2003-06-16",
+  "policy_area": "Education",
+  "published_at": "2003-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/153",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that changes to athletics policies issued under title IX of the Education Amendments of 1972 would contradict the spirit of athletic equality and the intent to prohibit sex discrimination in education programs or activities receiving Federal financial assistance.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

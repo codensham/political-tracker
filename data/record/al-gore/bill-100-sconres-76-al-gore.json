@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES76",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sconres-76-al-gore",
+  "introduced_date": "1987-10-09",
+  "policy_area": "Native Americans",
+  "published_at": "1987-10-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/76",
+  "title": "A concurrent resolution to acknowledge the contribution of the Iroquois Confederacy of Nations to the Development of the United States Constitution and to reaffirm the continuing government-to-government relationship between Indian tribes and the United States established in the Constitution.",
+  "topics": [],
+  "type": "bill"
+}

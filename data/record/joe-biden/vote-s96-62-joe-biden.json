@@ -1,0 +1,20 @@
+{
+  "bill_number": "S210",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 96,
+  "id": "vote-s96-62-joe-biden",
+  "published_at": "1979-04-26",
+  "question": null,
+  "rollnumber": 62,
+  "source_url": "https://voteview.com/rollcall/RS0960062",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1979-04-26",
+  "vote_result": null
+}

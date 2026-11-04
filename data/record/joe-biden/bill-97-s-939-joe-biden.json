@@ -1,0 +1,18 @@
+{
+  "bill_number": "S939",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-939-joe-biden",
+  "introduced_date": "1981-04-08",
+  "policy_area": "Law",
+  "published_at": "1981-04-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/939",
+  "title": "Legal Services Corporation Amendments of 1981",
+  "topics": [],
+  "type": "bill"
+}

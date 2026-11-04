@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2959",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2959-john-mccain",
+  "introduced_date": "2016-05-19",
+  "policy_area": "Native Americans",
+  "published_at": "2016-05-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2959",
+  "title": "A bill to amend the White Mountain Apache Tribe Water Rights Quantification Act of 2010 to clarify the use of amounts in the WMAT Settlement Fund.",
+  "topics": [],
+  "type": "bill"
+}

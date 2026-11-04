@@ -1,0 +1,21 @@
+{
+  "bill_number": "S228",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-228-john-mccain",
+  "introduced_date": "1997-01-29",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "1997-01-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/228",
+  "tagged_by": "crosswalk@1",
+  "title": "Government Shutdown Prevention Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2267",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2267-john-mccain",
+  "introduced_date": "1990-03-09",
+  "policy_area": "Social Welfare",
+  "published_at": "1990-03-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2267",
+  "title": "A bill to amend title II of the Social Security Act to exclude certain rental payments from self-employment income for the excess earnings test.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES50",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sjres-50-john-kerry",
+  "introduced_date": "1998-07-16",
+  "policy_area": "Health",
+  "published_at": "1998-07-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-joint-resolution/50",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to disapprove the rule submitted by the Health Care Financing Administration, Department of Health and Human Services on June 1, 1998, relating to surety bond requirements for home health agencies under the medicare and medicaid programs.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

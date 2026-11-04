@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3456",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-s-3456-mitt-romney",
+  "introduced_date": "2023-12-12",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2023-12-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/3456",
+  "tagged_by": "crosswalk@1",
+  "title": "Military Personnel Confirmation Restoration Act of 2023",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

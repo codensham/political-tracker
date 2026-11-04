@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2559",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-489-john-kerry",
+  "published_at": "2000-05-25",
+  "question": "On the Conference Report",
+  "rollnumber": 489,
+  "source_url": "https://voteview.com/rollcall/RS1060489",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-05-25",
+  "vote_result": "Conference Report Agreed to"
+}

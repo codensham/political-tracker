@@ -1,0 +1,20 @@
+{
+  "bill_number": "S652",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-263-john-mccain",
+  "published_at": "1995-06-14",
+  "question": "On the Amendment",
+  "rollnumber": 263,
+  "source_url": "https://voteview.com/rollcall/RS1040263",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-06-14",
+  "vote_result": "Amendment Agreed to"
+}

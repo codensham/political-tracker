@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES50",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-50-joe-biden",
+  "introduced_date": "1989-02-22",
+  "policy_area": "Families",
+  "published_at": "1989-02-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/50",
+  "title": "A joint resolution to designate the week beginning April 2, 1989, as \"National Child Care Awareness Week\".",
+  "topics": [],
+  "type": "bill"
+}

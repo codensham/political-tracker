@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1447",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-295-john-mccain",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2001-10-11",
+  "question": "On Passage of the Bill",
+  "rollnumber": 295,
+  "source_url": "https://voteview.com/rollcall/RS1070295",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-10-11",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1578",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1578-john-mccain",
+  "introduced_date": "1998-01-28",
+  "policy_area": "Congress",
+  "published_at": "1998-01-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1578",
+  "title": "A bill to make available on the Internet, for purposes of access and retrieval by the public, certain information available through the Congressional Research Service web site.",
+  "topics": [],
+  "type": "bill"
+}

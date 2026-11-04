@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES521",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-521-kamala-harris",
+  "introduced_date": "2020-02-27",
+  "policy_area": "Education",
+  "published_at": "2020-02-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/521",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating the week of February 24 through February 28, 2020, as \"Public Schools Week\".",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

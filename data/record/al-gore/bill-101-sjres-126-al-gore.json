@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES126",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-126-al-gore",
+  "introduced_date": "1989-05-10",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1989-05-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/126",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution commemorating the bicentennial of the United States Coast Guard.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

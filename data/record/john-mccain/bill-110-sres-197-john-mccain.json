@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES197",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-197-john-mccain",
+  "introduced_date": "2007-05-14",
+  "policy_area": "Social Welfare",
+  "published_at": "2007-05-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/197",
+  "title": "A resolution honoring the accomplishments of AmeriCorps.",
+  "topics": [],
+  "type": "bill"
+}

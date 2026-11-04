@@ -1,0 +1,21 @@
+{
+  "bill_number": "S305",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-305-john-kerry",
+  "introduced_date": "1991-01-30",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1991-01-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/305",
+  "tagged_by": "crosswalk@1",
+  "title": "Money Laundering Enforcement Amendments of 1991",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

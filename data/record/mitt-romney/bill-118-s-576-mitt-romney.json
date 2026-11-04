@@ -1,0 +1,18 @@
+{
+  "bill_number": "S576",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-s-576-mitt-romney",
+  "introduced_date": "2023-05-09",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2023-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/576",
+  "title": "Railway Safety Act of 2023",
+  "topics": [],
+  "type": "bill"
+}

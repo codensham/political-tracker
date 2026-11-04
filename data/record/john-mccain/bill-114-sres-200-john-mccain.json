@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES200",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-200-john-mccain",
+  "introduced_date": "2015-06-24",
+  "policy_area": "International Affairs",
+  "published_at": "2015-06-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/200",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution wishing His Holiness the 14th Dalai Lama a happy 80th birthday on July 6, 2015, and recognizing the outstanding contributions His Holiness has made to the promotion of nonviolence, human rights, interfaith dialogue, environmental awareness, and democracy.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

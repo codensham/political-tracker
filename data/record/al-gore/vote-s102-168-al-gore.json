@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1507",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-168-al-gore",
+  "published_at": "1991-07-31",
+  "question": "On the Amendment",
+  "rollnumber": 168,
+  "source_url": "https://voteview.com/rollcall/RS1020168",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-07-31",
+  "vote_result": "Amendment Rejected"
+}

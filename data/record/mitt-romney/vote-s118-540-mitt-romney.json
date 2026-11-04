@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1354",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-540-mitt-romney",
+  "published_at": "2024-06-05",
+  "question": "On the Nomination",
+  "rollnumber": 540,
+  "source_url": "https://voteview.com/rollcall/RS1180540",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2024-06-05",
+  "vote_result": "Nomination Confirmed"
+}

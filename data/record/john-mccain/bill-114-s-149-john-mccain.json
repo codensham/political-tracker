@@ -1,0 +1,21 @@
+{
+  "bill_number": "S149",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-149-john-mccain",
+  "introduced_date": "2015-07-29",
+  "policy_area": "Taxation",
+  "published_at": "2015-07-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/149",
+  "tagged_by": "crosswalk@1",
+  "title": "Medical Device Access and Innovation Protection Act",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

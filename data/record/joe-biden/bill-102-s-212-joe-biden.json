@@ -1,0 +1,18 @@
+{
+  "bill_number": "S212",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-212-joe-biden",
+  "introduced_date": "1991-01-15",
+  "policy_area": "Families",
+  "published_at": "1991-01-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/212",
+  "title": "Domestic Violence Prevention Act of 1991",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S324",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-324-john-kerry",
+  "introduced_date": "2009-03-16",
+  "policy_area": "Health",
+  "published_at": "2009-03-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/324",
+  "tagged_by": "crosswalk@1",
+  "title": "Melanie Blocker Stokes MOTHERS Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

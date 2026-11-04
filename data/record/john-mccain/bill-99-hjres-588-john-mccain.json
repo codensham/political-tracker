@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES588",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-588-john-mccain",
+  "introduced_date": "1986-08-13",
+  "policy_area": "Commemorations",
+  "published_at": "1986-08-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/588",
+  "title": "A joint resolution commemorating January 28, 1987 as a National Day of Excellence in honor of the crew of the space shuttle Challenger.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2800",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2800-joe-biden",
+  "introduced_date": "1986-09-09",
+  "policy_area": "Families",
+  "published_at": "1986-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2800",
+  "title": "Drug Abuse and Alcohol Abuse Prevention, Treatment and Rehabilitation Model Projects for High Risk Youth Act of 1986",
+  "topics": [],
+  "type": "bill"
+}

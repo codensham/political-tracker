@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES140",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-140-joe-biden",
+  "introduced_date": "2003-05-09",
+  "policy_area": "Commemorations",
+  "published_at": "2003-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/140",
+  "title": "A resolution designating the week of August 10, 2003, as \"National Health Center Week\".",
+  "topics": [],
+  "type": "bill"
+}

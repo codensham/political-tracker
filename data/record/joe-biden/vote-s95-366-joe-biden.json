@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2057",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-s95-366-joe-biden",
+  "published_at": "1977-09-13",
+  "question": null,
+  "rollnumber": 366,
+  "source_url": "https://voteview.com/rollcall/RS0950366",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1977-09-13",
+  "vote_result": null
+}

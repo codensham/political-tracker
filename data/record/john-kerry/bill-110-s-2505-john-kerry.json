@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2505",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2505-john-kerry",
+  "introduced_date": "2008-06-24",
+  "policy_area": "Taxation",
+  "published_at": "2008-06-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2505",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to allow employees of a commercial passenger airline carrier who receive payments in a bankruptcy proceeding to roll over such payments into an individual retirement plan, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES575",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-575-john-kerry",
+  "introduced_date": "2012-09-21",
+  "policy_area": "International Affairs",
+  "published_at": "2012-09-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/575",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending the 4 American public servants who died in Benghazi, Libya, United States Ambassador to Libya John Christopher Stevens, Sean Smith, Tyrone Woods, and Glen Doherty, for their tireless efforts on behalf of the American people, and condemning the violent attack on the United States consulate in Benghazi.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

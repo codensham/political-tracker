@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES252",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hres-252-al-gore",
+  "introduced_date": "1981-11-20",
+  "policy_area": "Environmental Protection",
+  "published_at": "1981-11-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-resolution/252",
+  "tagged_by": "crosswalk@1",
+  "title": "Commitment to the Clean Air Act Resolution of the Ninety-Seventh Congress",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

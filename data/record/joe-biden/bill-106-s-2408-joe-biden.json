@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2408",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2408-joe-biden",
+  "introduced_date": "2000-05-23",
+  "policy_area": "Commemorations",
+  "published_at": "2000-05-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2408",
+  "title": "Honoring the Navajo Code Talkers Act",
+  "topics": [],
+  "type": "bill"
+}

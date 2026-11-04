@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4297",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-376-john-kerry",
+  "published_at": "2006-02-02",
+  "question": "On Passage of the Bill",
+  "rollnumber": 376,
+  "source_url": "https://voteview.com/rollcall/RS1090376",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-02-02",
+  "vote_result": "Bill Passed"
+}

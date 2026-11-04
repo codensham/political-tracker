@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR10173",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-h95-1524-al-gore",
+  "published_at": "1978-10-14",
+  "question": null,
+  "rollnumber": 1524,
+  "source_url": "https://voteview.com/rollcall/RH0951524",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-10-14",
+  "vote_result": null
+}

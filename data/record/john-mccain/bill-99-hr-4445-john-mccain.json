@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4445",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-4445-john-mccain",
+  "introduced_date": "1986-03-20",
+  "policy_area": "Environmental Protection",
+  "published_at": "1986-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/4445",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 to provide interim borrowing authority for the Superfund program for 45 days.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

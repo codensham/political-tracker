@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1433",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1433-john-mccain",
+  "introduced_date": "1995-11-29",
+  "policy_area": "Energy",
+  "published_at": "1995-11-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1433",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to direct the Secretary of Energy to establish a system for defining the scope of energy research and development projects, and for other purposes.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

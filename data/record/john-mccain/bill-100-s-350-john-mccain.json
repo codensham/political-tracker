@@ -1,0 +1,21 @@
+{
+  "bill_number": "S350",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-350-john-mccain",
+  "introduced_date": "1987-02-05",
+  "policy_area": "Taxation",
+  "published_at": "1987-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/350",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Tax Reform Act of 1986 to extend for 1 year the waiver of estimated penalties for underpayments by individuals attributable to such Act.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

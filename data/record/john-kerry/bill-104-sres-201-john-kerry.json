@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES201",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-sres-201-john-kerry",
+  "introduced_date": "1995-12-21",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1995-12-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-resolution/201",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending the CIA's statutory Inspector General on his 5-year anniversary in office.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

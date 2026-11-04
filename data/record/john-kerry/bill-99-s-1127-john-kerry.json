@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1127",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-1127-john-kerry",
+  "introduced_date": "1985-09-11",
+  "policy_area": "Social Welfare",
+  "published_at": "1985-09-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/1127",
+  "title": "A bill to extend the medicare prospective payment transition period.",
+  "topics": [],
+  "type": "bill"
+}

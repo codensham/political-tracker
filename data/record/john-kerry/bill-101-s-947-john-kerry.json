@@ -1,0 +1,21 @@
+{
+  "bill_number": "S947",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-947-john-kerry",
+  "introduced_date": "1989-05-09",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1989-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/947",
+  "tagged_by": "crosswalk@1",
+  "title": "Veterans Health-Care Personnel Act of 1989",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

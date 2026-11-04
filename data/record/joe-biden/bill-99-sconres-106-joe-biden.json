@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES106",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-106-joe-biden",
+  "introduced_date": "1986-02-05",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1986-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/106",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress with respect to certain amounts proposed by the President to be rescinded.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

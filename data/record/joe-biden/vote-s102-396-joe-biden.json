@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1306",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-396-joe-biden",
+  "published_at": "1992-06-09",
+  "question": "On the Motion to Table the Motion to Recommit",
+  "rollnumber": 396,
+  "source_url": "https://voteview.com/rollcall/RS1020396",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-06-09",
+  "vote_result": "Motion to Table Motion to Recommit Agreed to"
+}

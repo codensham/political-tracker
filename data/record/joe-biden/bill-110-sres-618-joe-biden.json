@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES618",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-618-joe-biden",
+  "introduced_date": "2008-07-22",
+  "policy_area": "International Affairs",
+  "published_at": "2008-07-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/618",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the tenth anniversary of the bombings of the United States embassies in Nairobi, Kenya and Dar es Salaam, Tanzania, and memorializing the citizens of the United States, Kenya, and Tanzania whose lives were claimed as a result of the al Qaeda led terrorist attacks.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2042",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2042-al-gore",
+  "introduced_date": "1988-02-17",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1988-02-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2042",
+  "tagged_by": "crosswalk@1",
+  "title": "An Act to authorize the Vietnam Women's Memorial Project, Inc., to construct within the Vietnam Veterans' Memorial site in the District of Columbia a specific commemoration of women of the United States who served in the Republic of Vietnam during the Vietnam conflict.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

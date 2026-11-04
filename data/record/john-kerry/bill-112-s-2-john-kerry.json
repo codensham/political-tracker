@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-2-john-kerry",
+  "introduced_date": "2011-01-25",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2011-01-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/2",
+  "tagged_by": "crosswalk@1",
+  "title": "Middle Class Success Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

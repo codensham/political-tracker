@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN135",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-9-joe-biden",
+  "published_at": "1989-02-02",
+  "question": "On the Nomination",
+  "rollnumber": 9,
+  "source_url": "https://voteview.com/rollcall/RS1010009",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1989-02-02",
+  "vote_result": "Nomination Confirmed"
+}

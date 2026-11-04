@@ -1,0 +1,21 @@
+{
+  "bill_number": "S447",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-447-john-kerry",
+  "introduced_date": "1991-09-19",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1991-09-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/447",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to recognize the organization known as The Retired Enlisted Association, Incorporated.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

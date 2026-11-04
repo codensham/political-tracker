@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES374",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-374-john-mccain",
+  "introduced_date": "2016-02-24",
+  "policy_area": "Law",
+  "published_at": "2016-02-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/374",
+  "title": "A resolution relating to the death of Antonin Scalia, Associate Justice of the Supreme Court of the United States.",
+  "topics": [],
+  "type": "bill"
+}

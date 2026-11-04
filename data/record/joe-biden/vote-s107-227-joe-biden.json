@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1077",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-227-joe-biden",
+  "published_at": "2001-07-10",
+  "question": "On the Amendment",
+  "rollnumber": 227,
+  "source_url": "https://voteview.com/rollcall/RS1070227",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-07-10",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES46",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-46-john-mccain",
+  "introduced_date": "1987-02-04",
+  "policy_area": "Commemorations",
+  "published_at": "1987-02-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/46",
+  "title": "A joint resolution to recognize and acknowledge that February 14, 1987 will mark the 75th Anniversary of Arizona's Statehood, and to designate the year 1987 as Arizona's Diamond Jubilee.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES551",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-551-hillary-clinton",
+  "introduced_date": "2006-08-03",
+  "policy_area": "Social Welfare",
+  "published_at": "2006-08-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/551",
+  "title": "A resolution expressing the sense of the Senate that illegal immigrants should not receive Social Security benefits and that this prohibition should be strictly enforced.",
+  "topics": [],
+  "type": "bill"
+}

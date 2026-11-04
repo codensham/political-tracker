@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2576",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-2576-john-kerry",
+  "introduced_date": "1998-10-07",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1998-10-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/2576",
+  "title": "A bill to create a National Museum of Women's History Advisory Committee.",
+  "topics": [],
+  "type": "bill"
+}

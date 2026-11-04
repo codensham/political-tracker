@@ -1,0 +1,20 @@
+{
+  "bill_number": "HCONRES83",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-83-john-mccain",
+  "published_at": "2001-04-05",
+  "question": "On the Amendment",
+  "rollnumber": 83,
+  "source_url": "https://voteview.com/rollcall/RS1070083",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-04-05",
+  "vote_result": "Amendment Rejected"
+}

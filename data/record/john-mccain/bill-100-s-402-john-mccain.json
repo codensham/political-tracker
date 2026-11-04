@@ -1,0 +1,21 @@
+{
+  "bill_number": "S402",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-402-john-mccain",
+  "introduced_date": "1987-01-28",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "1987-01-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/402",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide that during a two-year period each item of any joint resolution making continuing appropriations that is agreed to by both Houses of the Congress in the same form shall be enrolled as a separate joint resolution for presentation to the President.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1204",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-96-john-kerry",
+  "published_at": "1991-06-18",
+  "question": "On the Amendment",
+  "rollnumber": 96,
+  "source_url": "https://voteview.com/rollcall/RS1020096",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-06-18",
+  "vote_result": "Amendment Rejected"
+}

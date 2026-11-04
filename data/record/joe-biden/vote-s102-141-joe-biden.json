@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1367",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-141-joe-biden",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1991-07-22",
+  "question": "On the Amendment",
+  "rollnumber": 141,
+  "source_url": "https://voteview.com/rollcall/RS1020141",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "trade"
+  ],
+  "type": "vote",
+  "vote_date": "1991-07-22",
+  "vote_result": "Amendment Agreed to"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S418",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-418-john-kerry",
+  "introduced_date": "2012-03-12",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2012-03-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/418",
+  "title": "A bill to award a Congressional Gold Medal to the World War II members of the Civil Air Patrol.",
+  "topics": [],
+  "type": "bill"
+}

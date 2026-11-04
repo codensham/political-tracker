@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2899",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2899-john-kerry",
+  "introduced_date": "1992-07-28",
+  "policy_area": "Health",
+  "published_at": "1992-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2899",
+  "tagged_by": "crosswalk@1",
+  "title": "National Institutes of Health Revitalization Amendments of 1992",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

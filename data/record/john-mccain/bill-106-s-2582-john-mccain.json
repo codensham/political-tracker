@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2582",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2582-john-mccain",
+  "introduced_date": "2000-05-17",
+  "policy_area": "Taxation",
+  "published_at": "2000-05-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2582",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 527 of the Internal Revenue Code of 1986 to better define the term political organization.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

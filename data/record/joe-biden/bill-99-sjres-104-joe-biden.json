@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES104",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-104-joe-biden",
+  "introduced_date": "1985-04-03",
+  "policy_area": "Commemorations",
+  "published_at": "1985-04-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/104",
+  "title": "A joint resolution to proclaim October 23, 1985, as \"A time of remembrance\" for all victims of terrorism throughout the world.",
+  "topics": [],
+  "type": "bill"
+}

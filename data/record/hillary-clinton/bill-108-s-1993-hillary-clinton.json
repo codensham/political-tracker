@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1993",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1993-hillary-clinton",
+  "introduced_date": "2003-12-09",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2003-12-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1993",
+  "title": "National Highway Safety Act of 2003",
+  "topics": [],
+  "type": "bill"
+}

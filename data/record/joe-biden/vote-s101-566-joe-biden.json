@@ -1,0 +1,24 @@
+{
+  "bill_number": "S110",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-566-joe-biden",
+  "policy_area": "Health",
+  "published_at": "1990-09-26",
+  "question": "On the Amendment",
+  "rollnumber": 566,
+  "source_url": "https://voteview.com/rollcall/RS1010566",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "vote",
+  "vote_date": "1990-09-26",
+  "vote_result": "Amendment Agreed to"
+}

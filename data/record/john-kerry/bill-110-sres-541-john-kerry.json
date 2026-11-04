@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES541",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-541-john-kerry",
+  "introduced_date": "2008-05-06",
+  "policy_area": "International Affairs",
+  "published_at": "2008-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/541",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting humanitarian assistance, protection of civilians, accountability for abuses in Somalia, and urging concrete progress in line with the Transitional Federal Charter of Somalia toward the establishment of a viable government of national unity.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

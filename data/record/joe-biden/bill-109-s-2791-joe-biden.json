@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2791",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2791-joe-biden",
+  "introduced_date": "2006-05-11",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2006-05-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2791",
+  "title": "A bill to amend title 46 and 49, United States Code, to provide improved maritime, rail, and public transportation security, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

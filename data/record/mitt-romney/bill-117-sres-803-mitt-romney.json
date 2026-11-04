@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES803",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-803-mitt-romney",
+  "introduced_date": "2022-09-28",
+  "policy_area": "International Affairs",
+  "published_at": "2022-09-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/803",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the detention and death of Mahsa Amini and calling on the Government of Iran to end its systemic persecution of women.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

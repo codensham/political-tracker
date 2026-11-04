@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES609",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-609-kamala-harris",
+  "introduced_date": "2018-08-16",
+  "policy_area": "Congress",
+  "published_at": "2018-08-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/609",
+  "title": "A resolution relative to the death of Paul Laxalt, the former Governor and Senator of the State of Nevada.",
+  "topics": [],
+  "type": "bill"
+}

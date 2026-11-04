@@ -1,0 +1,20 @@
+{
+  "bill_number": "S743",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-113-john-mccain",
+  "published_at": "2013-05-06",
+  "question": "On Passage of the Bill",
+  "rollnumber": 113,
+  "source_url": "https://voteview.com/rollcall/RS1130113",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2013-05-06",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES22",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-22-john-mccain",
+  "introduced_date": "1999-01-19",
+  "policy_area": "Commemorations",
+  "published_at": "1999-01-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/22",
+  "title": "A resolution commemorating and acknowledging the dedication and sacrifice made by the men and women who have lost their lives serving as law enforcement officers.",
+  "topics": [],
+  "type": "bill"
+}

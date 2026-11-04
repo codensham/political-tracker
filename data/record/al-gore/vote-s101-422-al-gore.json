@@ -1,0 +1,24 @@
+{
+  "bill_number": "S933",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-422-al-gore",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1990-06-06",
+  "question": "On the Motion to Table",
+  "rollnumber": 422,
+  "source_url": "https://voteview.com/rollcall/RS1010422",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "vote",
+  "vote_date": "1990-06-06",
+  "vote_result": "Motion to Table Failed"
+}

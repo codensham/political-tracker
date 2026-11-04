@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2570",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2570-al-gore",
+  "introduced_date": "1988-06-27",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1988-06-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2570",
+  "title": "Local Rail Service Assistance Reauthorization Act of 1988",
+  "topics": [],
+  "type": "bill"
+}

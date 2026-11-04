@@ -1,0 +1,24 @@
+{
+  "bill_number": "S3369",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-414-john-kerry",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2012-07-16",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 414,
+  "source_url": "https://voteview.com/rollcall/RS1120414",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "vote",
+  "vote_date": "2012-07-16",
+  "vote_result": "Cloture on the Motion to Proceed Rejected"
+}

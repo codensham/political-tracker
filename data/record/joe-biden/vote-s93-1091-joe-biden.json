@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR16900",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 93,
+  "id": "vote-s93-1091-joe-biden",
+  "published_at": "1974-12-09",
+  "question": null,
+  "rollnumber": 1091,
+  "source_url": "https://voteview.com/rollcall/RS0931091",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1974-12-09",
+  "vote_result": null
+}

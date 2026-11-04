@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES532",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-532-john-mccain",
+  "introduced_date": "1986-05-06",
+  "policy_area": "Commemorations",
+  "published_at": "1986-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/532",
+  "title": "A joint resolution to designate the week of May 26 through June 1, 1986, as \"Older Americans Skin Cancer Prevention and Detection Week\".",
+  "topics": [],
+  "type": "bill"
+}

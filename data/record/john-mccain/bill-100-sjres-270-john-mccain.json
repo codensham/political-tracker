@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES270",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-270-john-mccain",
+  "introduced_date": "1988-06-13",
+  "policy_area": "Commemorations",
+  "published_at": "1988-06-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/270",
+  "title": "A joint resolution designating June 26 through July 2, 1988, as \"National Safety Belt Use Week\".",
+  "topics": [],
+  "type": "bill"
+}

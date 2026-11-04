@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR7395",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-7395-al-gore",
+  "introduced_date": "1982-12-08",
+  "policy_area": "Private Legislation",
+  "published_at": "1982-12-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/7395",
+  "title": "A bill for the relief of Richard S. Young, Jr.",
+  "topics": [],
+  "type": "bill"
+}

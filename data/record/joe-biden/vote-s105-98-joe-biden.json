@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-98-joe-biden",
+  "published_at": "1997-06-10",
+  "question": "On the Motion to Adjourn",
+  "rollnumber": 98,
+  "source_url": "https://voteview.com/rollcall/RS1050098",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-06-10",
+  "vote_result": "Motion to Adjourn Agreed to"
+}

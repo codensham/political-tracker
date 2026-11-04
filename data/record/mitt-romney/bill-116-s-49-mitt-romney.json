@@ -1,0 +1,21 @@
+{
+  "bill_number": "S49",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-49-mitt-romney",
+  "introduced_date": "2019-01-08",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2019-01-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/49",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to designate the outstation of the Department of Veterans Affairs in North Ogden, Utah, as the Major Brent Taylor Vet Center Outstation.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

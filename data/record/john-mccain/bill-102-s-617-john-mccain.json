@@ -1,0 +1,21 @@
+{
+  "bill_number": "S617",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-617-john-mccain",
+  "introduced_date": "1991-03-12",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1991-03-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/617",
+  "tagged_by": "crosswalk@1",
+  "title": "Civil Rights Commission Reauthorization Act of 1991",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

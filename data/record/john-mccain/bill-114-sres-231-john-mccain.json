@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES231",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-231-john-mccain",
+  "introduced_date": "2015-07-27",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2015-07-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/231",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution honoring the memory and legacy of the two Louisiana citizens who lost their lives, recognizing the heroism of first responders and those on the scene, and condemning the attack of July 23, 2015, in Lafayette, Louisiana.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

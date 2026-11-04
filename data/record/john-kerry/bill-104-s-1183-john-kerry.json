@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1183",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1183-john-kerry",
+  "introduced_date": "1996-04-24",
+  "policy_area": "Labor and Employment",
+  "published_at": "1996-04-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1183",
+  "tagged_by": "crosswalk@1",
+  "title": "Davis-Bacon Act Reform Amendments of 1995",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

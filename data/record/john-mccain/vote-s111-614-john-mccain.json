@@ -1,0 +1,24 @@
+{
+  "bill_number": "SRES591",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-614-john-mccain",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2010-07-22",
+  "question": "On the Resolution",
+  "rollnumber": 614,
+  "source_url": "https://voteview.com/rollcall/RS1110614",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "vote",
+  "vote_date": "2010-07-22",
+  "vote_result": "Resolution Agreed to"
+}

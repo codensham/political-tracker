@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES213",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-213-john-mccain",
+  "introduced_date": "1998-04-22",
+  "policy_area": "Commemorations",
+  "published_at": "1998-04-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/213",
+  "title": "A resolution congratulating the United States Army Reserve on its 90th anniversary and recognizing the important contributions of Strom Thurmond, the President Pro Tempore of the Senate, who served with distinction in the United States Army Reserve for 36 years.",
+  "topics": [],
+  "type": "bill"
+}

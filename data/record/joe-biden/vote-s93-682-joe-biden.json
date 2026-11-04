@@ -1,0 +1,20 @@
+{
+  "bill_number": "S3044",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 93,
+  "id": "vote-s93-682-joe-biden",
+  "published_at": "1974-03-28",
+  "question": null,
+  "rollnumber": 682,
+  "source_url": "https://voteview.com/rollcall/RS0930682",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1974-03-28",
+  "vote_result": null
+}

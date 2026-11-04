@@ -1,0 +1,18 @@
+{
+  "bill_number": "S134",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-134-joe-biden",
+  "introduced_date": "1991-01-14",
+  "policy_area": "Law",
+  "published_at": "1991-01-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/134",
+  "title": "United States Marshals Association Establishment Act",
+  "topics": [],
+  "type": "bill"
+}

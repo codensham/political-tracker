@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2497",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2497-john-mccain",
+  "introduced_date": "2000-05-02",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2000-05-02",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2497",
+  "tagged_by": "crosswalk@1",
+  "title": "Media Violence Labeling Act of 2000",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

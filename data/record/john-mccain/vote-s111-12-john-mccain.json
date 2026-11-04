@@ -1,0 +1,24 @@
+{
+  "bill_number": "S181",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-12-john-mccain",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2009-01-22",
+  "question": "On the Motion to Table",
+  "rollnumber": 12,
+  "source_url": "https://voteview.com/rollcall/RS1110012",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "vote",
+  "vote_date": "2009-01-22",
+  "vote_result": "Motion to Table Agreed to"
+}

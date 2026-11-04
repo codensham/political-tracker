@@ -1,0 +1,21 @@
+{
+  "bill_number": "S354",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-354-joe-biden",
+  "introduced_date": "1990-03-08",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "1990-03-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/354",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide that during a two-year period each item of any bill making appropriations that is agreed to by both Houses of the Congress in the same form shall be enrolled as a separate joint resolution for presentation to the President.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

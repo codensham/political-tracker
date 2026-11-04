@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES83",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-83-john-kerry",
+  "introduced_date": "1985-02-28",
+  "policy_area": "Congress",
+  "published_at": "1985-02-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/83",
+  "title": "A resolution relative to the death of Henry Cabot Lodge Jr. of Massachusetts, late a Senator of the State of Massachusetts.",
+  "topics": [],
+  "type": "bill"
+}

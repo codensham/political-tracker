@@ -1,0 +1,21 @@
+{
+  "bill_number": "S768",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-768-john-kerry",
+  "introduced_date": "2009-04-01",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2009-04-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/768",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to grant the Congressional Gold Medal to the soldiers from the United States who were prisoners of war at Bataan during World War II.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

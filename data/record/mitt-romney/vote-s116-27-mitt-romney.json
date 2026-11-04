@@ -1,0 +1,24 @@
+{
+  "bill_number": "S311",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-27-mitt-romney",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2019-02-25",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 27,
+  "source_url": "https://voteview.com/rollcall/RS1160027",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "vote",
+  "vote_date": "2019-02-25",
+  "vote_result": "Cloture on the Motion to Proceed Rejected"
+}

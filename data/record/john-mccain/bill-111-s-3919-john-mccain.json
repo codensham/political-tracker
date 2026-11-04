@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3919",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3919-john-mccain",
+  "introduced_date": "2010-12-07",
+  "policy_area": "Animals",
+  "published_at": "2010-12-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3919",
+  "title": "A bill to remove the gray wolf from the list of threatened species or the list of endangered species published under the Endangered Species Act of 1973, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

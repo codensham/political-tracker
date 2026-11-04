@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES14",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-14-john-kerry",
+  "introduced_date": "1991-01-16",
+  "policy_area": "International Affairs",
+  "published_at": "1991-01-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/14",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to express the sense of the Senate that the President should review economic benefits provided to the Soviet Union in light of the crisis in the Baltic states.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

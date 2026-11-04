@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2355",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-550-joe-biden",
+  "published_at": "1988-05-12",
+  "question": null,
+  "rollnumber": 550,
+  "source_url": "https://voteview.com/rollcall/RS1000550",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1988-05-12",
+  "vote_result": null
+}

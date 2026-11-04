@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES157",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hres-157-al-gore",
+  "introduced_date": "1981-06-23",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1981-06-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-resolution/157",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling upon the Postmaster General of the United States to give priority consideration to means other than closing local post offices as a method of reducing expenditures by the United Postal Service.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

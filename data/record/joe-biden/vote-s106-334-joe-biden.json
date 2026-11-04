@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1692",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-334-joe-biden",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1999-10-20",
+  "question": "On the Motion to Table",
+  "rollnumber": 334,
+  "source_url": "https://voteview.com/rollcall/RS1060334",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "vote",
+  "vote_date": "1999-10-20",
+  "vote_result": "Motion to Table Failed"
+}

@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-27-joe-biden",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1995-01-19",
+  "question": "On the Cloture Motion",
+  "rollnumber": 27,
+  "source_url": "https://voteview.com/rollcall/RS1040027",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "vote",
+  "vote_date": "1995-01-19",
+  "vote_result": "Cloture Motion Rejected"
+}

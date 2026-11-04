@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1259",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-1259-john-kerry",
+  "introduced_date": "1986-06-25",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1986-06-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/1259",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to correct certain inequities by providing Federal civil service credit for retirement purposes and for the purpose of computing length of service to determine entitlement to leave, compensation, life insurance, health benefits, severance pay, tenure, and status in the case of certain individuals who performed service as National Guard technicians before January 1, 1969.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

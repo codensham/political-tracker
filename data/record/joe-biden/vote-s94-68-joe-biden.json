@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3260",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 94,
+  "id": "vote-s94-68-joe-biden",
+  "published_at": "1975-03-17",
+  "question": null,
+  "rollnumber": 68,
+  "source_url": "https://voteview.com/rollcall/RS0940068",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1975-03-17",
+  "vote_result": null
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES474",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-474-john-kerry",
+  "introduced_date": "2008-03-05",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2008-03-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/474",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that providing breakfast in schools through the National School Breakfast Program has a positive impact on the lives and classroom performance of low-income children.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

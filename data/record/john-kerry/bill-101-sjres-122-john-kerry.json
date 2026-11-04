@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES122",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-122-john-kerry",
+  "introduced_date": "1989-05-09",
+  "policy_area": "Health",
+  "published_at": "1989-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/122",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to designate October 1989 and 1990 as \"National Down Syndrome Month\".",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

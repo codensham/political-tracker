@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1138",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-1138-kamala-harris",
+  "introduced_date": "2019-04-10",
+  "policy_area": "Taxation",
+  "published_at": "2019-04-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1138",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to expand the earned income and child tax credits, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

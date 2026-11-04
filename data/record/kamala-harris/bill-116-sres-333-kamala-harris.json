@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES333",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-333-kamala-harris",
+  "introduced_date": "2019-09-25",
+  "policy_area": "Congress",
+  "published_at": "2019-09-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/333",
+  "title": "A resolution instructing the managers on the part of the Senate on the bill S. 1790 (116th Congress) to insist upon the provisions contained in subtitle B of title XI of the House amendment (relating to paid family leave for Federal personnel).",
+  "topics": [],
+  "type": "bill"
+}

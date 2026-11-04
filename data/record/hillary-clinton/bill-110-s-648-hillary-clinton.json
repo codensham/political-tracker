@@ -1,0 +1,21 @@
+{
+  "bill_number": "S648",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-648-hillary-clinton",
+  "introduced_date": "2007-04-25",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2007-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/648",
+  "tagged_by": "crosswalk@1",
+  "title": "National Guard and Reserve Retirement Modernization Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

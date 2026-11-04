@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES176",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-176-joe-biden",
+  "introduced_date": "1999-08-05",
+  "policy_area": "Commemorations",
+  "published_at": "1999-08-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/176",
+  "title": "A resolution expressing the appreciation of the Senate for the service of United States Army personnel who lost their lives in service of thier country in an antidrug mission in Colombia and expressing sympathy to the families and loved ones of such personnel.",
+  "topics": [],
+  "type": "bill"
+}

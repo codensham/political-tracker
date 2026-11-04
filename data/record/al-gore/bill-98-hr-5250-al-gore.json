@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5250",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-5250-al-gore",
+  "introduced_date": "1984-03-27",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1984-03-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/5250",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Securities Exchange Act of 1934 to provide uniform margin requirements in transactions involving the acquisition of securities of certain United States Corporations by non-United States persons where such acquisitions is financed by non-United States lenders, to specify a private right of action for violations of margin requirements, and for certain other purposes.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

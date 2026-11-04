@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES99",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-99-john-mccain",
+  "introduced_date": "2011-03-10",
+  "policy_area": "International Affairs",
+  "published_at": "2011-03-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/99",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the primary safeguard for the well-being and protection of children is the family, and that the primary safeguards for the legal rights of children in the United States are the Constitutions of the United States and the several States, and that, because the use of international treaties to govern policy in the United States on families and children is contrary to principles of self-government and federalism, and that, because the United Nations Convention on the Rights of the Child undermines traditional principles of law in the United States regarding parents and children, the President should not transmit the Convention to the Senate for its advice and consent.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

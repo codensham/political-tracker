@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1601",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1601-john-mccain",
+  "introduced_date": "1987-08-06",
+  "policy_area": "Immigration",
+  "published_at": "1987-08-06",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1601",
+  "tagged_by": "crosswalk@1",
+  "title": "Amerasian Homecoming Act",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

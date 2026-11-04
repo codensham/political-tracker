@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES114",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-114-john-kerry",
+  "introduced_date": "1999-06-09",
+  "policy_area": "Commemorations",
+  "published_at": "1999-06-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/114",
+  "title": "A resolution designating June 22, 1999, as \"National Pediatric AIDS Awareness Day\".",
+  "topics": [],
+  "type": "bill"
+}

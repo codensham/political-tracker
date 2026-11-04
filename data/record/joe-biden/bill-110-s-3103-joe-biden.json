@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3103",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3103-joe-biden",
+  "introduced_date": "2008-06-09",
+  "policy_area": "International Affairs",
+  "published_at": "2008-06-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3103",
+  "tagged_by": "crosswalk@1",
+  "title": "International Space Station Payments Act of 2008",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

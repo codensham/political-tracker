@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1523",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-1523-kamala-harris",
+  "introduced_date": "2019-05-16",
+  "policy_area": "Energy",
+  "published_at": "2019-05-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1523",
+  "tagged_by": "crosswalk@1",
+  "title": "Stop Arctic Ocean Drilling Act of 2019",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

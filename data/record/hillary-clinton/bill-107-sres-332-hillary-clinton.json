@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES332",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-332-hillary-clinton",
+  "introduced_date": "2002-10-02",
+  "policy_area": "Families",
+  "published_at": "2002-10-02",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/332",
+  "title": "A resolution recognizing the \"Code Adam\" child safety program, commending retail business establishments that have implemented programs to protect children from abduction, and urging retail business establishments that have not implemented such program to consider doing so.",
+  "topics": [],
+  "type": "bill"
+}

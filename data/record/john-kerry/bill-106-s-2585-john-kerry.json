@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2585",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2585-john-kerry",
+  "introduced_date": "2000-06-20",
+  "policy_area": "Social Welfare",
+  "published_at": "2000-06-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2585",
+  "title": "A bill to amend titles IV and XX of the Social Security Act to restore funding for the Social Services Block Grant, to restore the ability of the States to transfer up to 10 percent of TANF funds to carry out activities under such block grant, and to require an annual report on such activities by the Secretary of Health and Human Services.",
+  "topics": [],
+  "type": "bill"
+}

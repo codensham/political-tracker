@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES540",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-540-kamala-harris",
+  "introduced_date": "2018-06-12",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2018-06-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/540",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that flowers grown in the United States support the farmers, small businesses, jobs, and economy of the United States, that flower farming is an honorable vocation, and designating July as \"American Grown Flower Month\".",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

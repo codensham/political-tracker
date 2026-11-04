@@ -1,0 +1,24 @@
+{
+  "bill_number": "S2662",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-744-john-kerry",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1988-09-09",
+  "question": null,
+  "rollnumber": 744,
+  "source_url": "https://voteview.com/rollcall/RS1000744",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "trade"
+  ],
+  "type": "vote",
+  "vote_date": "1988-09-09",
+  "vote_result": null
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES49",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-49-john-mccain",
+  "introduced_date": "2003-06-04",
+  "policy_area": "Commemorations",
+  "published_at": "2003-06-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/49",
+  "title": "A concurrent resolution designating the week of June 9, 2003, as National Oceans Week and urging the President to issue a proclamation calling upon the people of the United States to observe this week with appropriate recognition, programs, ceremonies, and activities to further ocean literacy, education, and exploration.",
+  "topics": [],
+  "type": "bill"
+}

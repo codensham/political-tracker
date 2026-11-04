@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES65",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-65-john-kerry",
+  "introduced_date": "1989-02-23",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1989-02-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/65",
+  "title": "A joint resolution designating June 12, 1989, as \"Anne Frank Day\".",
+  "topics": [],
+  "type": "bill"
+}

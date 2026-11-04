@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES634",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-634-john-kerry",
+  "introduced_date": "2008-07-30",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2008-07-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/634",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing July 30 , 2008, as the 40th anniversary of the enactment of the resolution establishing the Senate Select Committee on Nutrition and Human Needs.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

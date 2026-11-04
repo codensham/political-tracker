@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2266",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2266-joe-biden",
+  "introduced_date": "2000-03-22",
+  "policy_area": "Commemorations",
+  "published_at": "2000-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2266",
+  "title": "2002 Winter Olympic Commemorative Coin Act",
+  "topics": [],
+  "type": "bill"
+}

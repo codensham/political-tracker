@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES797",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-797-mitt-romney",
+  "introduced_date": "2020-12-08",
+  "policy_area": "Congress",
+  "published_at": "2020-12-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/797",
+  "title": "A resolution honoring the life and achievements of former United States Senator Paul Spyros Sarbanes and expressing condolences to the family of Paul Spyros Sarbanes on his passing.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1628",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-172-kamala-harris",
+  "published_at": "2017-07-26",
+  "question": "On the Motion",
+  "rollnumber": 172,
+  "source_url": "https://voteview.com/rollcall/RS1150172",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2017-07-26",
+  "vote_result": "Motion Rejected"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES95",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-82-barack-obama",
+  "policy_area": "Commemorations",
+  "published_at": "2005-04-05",
+  "question": "On the Resolution",
+  "rollnumber": 82,
+  "source_url": "https://voteview.com/rollcall/RS1090082",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-04-05",
+  "vote_result": "Resolution Agreed to"
+}

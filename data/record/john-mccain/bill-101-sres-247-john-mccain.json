@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES247",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-247-john-mccain",
+  "introduced_date": "1990-02-22",
+  "policy_area": "International Affairs",
+  "published_at": "1990-02-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/247",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the United Nations Human Rights Commission should continue to report on human rights in Cuba.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

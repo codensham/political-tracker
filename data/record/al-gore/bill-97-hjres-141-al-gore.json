@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES141",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hjres-141-al-gore",
+  "introduced_date": "1981-03-10",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1981-03-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-joint-resolution/141",
+  "title": "A joint resolution authorizing and requesting the President to issue a proclamation designating the period from October 4, 1981, through October 10, 1981, as \"National Schoolbus Safety Week\".",
+  "topics": [],
+  "type": "bill"
+}

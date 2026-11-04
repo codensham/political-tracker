@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2660",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-344-hillary-clinton",
+  "published_at": "2003-09-10",
+  "question": "On the Amendment",
+  "rollnumber": 344,
+  "source_url": "https://voteview.com/rollcall/RS1080344",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-09-10",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES113",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-113-hillary-clinton",
+  "introduced_date": "2002-05-17",
+  "policy_area": "Commemorations",
+  "published_at": "2002-05-17",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/113",
+  "title": "A concurrent resolution recognizing and supporting the efforts of the State of New York to develop the National Purple Heart Hall of Honor in New Windsor, New York, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

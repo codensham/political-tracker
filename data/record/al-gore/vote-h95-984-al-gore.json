@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR11686",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "nay",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-h95-984-al-gore",
+  "published_at": "1978-05-17",
+  "question": null,
+  "rollnumber": 984,
+  "source_url": "https://voteview.com/rollcall/RH0950984",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-05-17",
+  "vote_result": null
+}

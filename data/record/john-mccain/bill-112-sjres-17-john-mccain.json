@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES17",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sjres-17-john-mccain",
+  "introduced_date": "2011-05-26",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2011-05-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-joint-resolution/17",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution approving the renewal of import restrictions contained in the Burmese Freedom and Democracy Act of 2003.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

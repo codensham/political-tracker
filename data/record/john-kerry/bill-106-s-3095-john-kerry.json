@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3095",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-3095-john-kerry",
+  "introduced_date": "2000-09-21",
+  "policy_area": "Immigration",
+  "published_at": "2000-09-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/3095",
+  "tagged_by": "crosswalk@1",
+  "title": "Latino and Immigrant Fairness Act of 2000",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3512",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3512-john-mccain",
+  "introduced_date": "2010-06-22",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2010-06-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3512",
+  "title": "Water Assistance from International Vessels for Emergency Response Act",
+  "topics": [],
+  "type": "bill"
+}

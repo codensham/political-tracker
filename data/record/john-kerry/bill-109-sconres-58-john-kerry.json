@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES58",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-58-john-kerry",
+  "introduced_date": "2005-10-07",
+  "policy_area": "Commemorations",
+  "published_at": "2005-10-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/58",
+  "title": "A concurrent resolution supporting \"Lights On Afterschool\", a national celebration of after school programs.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1485",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-360-joe-biden",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1987-10-30",
+  "question": null,
+  "rollnumber": 360,
+  "source_url": "https://voteview.com/rollcall/RS1000360",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1987-10-30",
+  "vote_result": null
+}

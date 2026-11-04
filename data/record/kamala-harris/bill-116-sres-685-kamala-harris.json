@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES685",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-685-kamala-harris",
+  "introduced_date": "2020-09-09",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2020-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/685",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution honoring the service and sacrifice of members of the United States Armed Forces and veterans and condemning the disgraceful denigration by President Donald Trump of military service, prisoners of war, and Gold Star families.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

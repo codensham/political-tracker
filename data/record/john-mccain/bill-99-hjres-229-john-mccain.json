@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES229",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-229-john-mccain",
+  "introduced_date": "1985-07-18",
+  "policy_area": "Commemorations",
+  "published_at": "1985-07-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/229",
+  "title": "A joint resolution designating the week beginning September 22, 1985, as \"National Adult Day Care Center Week\".",
+  "topics": [],
+  "type": "bill"
+}

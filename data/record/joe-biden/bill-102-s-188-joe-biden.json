@@ -1,0 +1,21 @@
+{
+  "bill_number": "S188",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-188-joe-biden",
+  "introduced_date": "1991-01-14",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1991-01-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/188",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend provisions of title 18, United States Code, relating to terms of imprisonment and supervised release following revocation of a term of supervised release.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

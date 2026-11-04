@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN2458",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-930-mitt-romney",
+  "published_at": "2022-12-20",
+  "question": "On the Nomination",
+  "rollnumber": 930,
+  "source_url": "https://voteview.com/rollcall/RS1170930",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2022-12-20",
+  "vote_result": "Nomination Confirmed"
+}

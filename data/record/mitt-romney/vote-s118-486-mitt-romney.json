@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-486-mitt-romney",
+  "published_at": "2024-04-17",
+  "question": "On the Motion to Adjourn",
+  "rollnumber": 486,
+  "source_url": "https://voteview.com/rollcall/RS1180486",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2024-04-17",
+  "vote_result": "Motion to Adjourn Rejected"
+}

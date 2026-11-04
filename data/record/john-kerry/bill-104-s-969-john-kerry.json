@@ -1,0 +1,21 @@
+{
+  "bill_number": "S969",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-969-john-kerry",
+  "introduced_date": "1996-01-02",
+  "policy_area": "Health",
+  "published_at": "1996-01-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/969",
+  "tagged_by": "crosswalk@1",
+  "title": "Newborns' and Mothers' Health Protection Act of 1996",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

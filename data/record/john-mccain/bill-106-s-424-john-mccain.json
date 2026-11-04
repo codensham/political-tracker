@@ -1,0 +1,21 @@
+{
+  "bill_number": "S424",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-424-john-mccain",
+  "introduced_date": "1999-09-21",
+  "policy_area": "Labor and Employment",
+  "published_at": "1999-09-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/424",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to preserve and protect the free choice of individuals and employees to form, join, or assist labor organizations, or to refrain from such activities.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

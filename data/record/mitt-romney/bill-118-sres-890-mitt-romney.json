@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES890",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sres-890-mitt-romney",
+  "introduced_date": "2024-09-25",
+  "policy_area": "International Affairs",
+  "published_at": "2024-09-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-resolution/890",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the brutal Hamas-led terrorist attack on Israel on October 7, 2023, and supporting an outcome that ensures the forever survival of Israel, the complete denial of the ability of Hamas to reconstitute in the region, and the safe release of United States hostages from the Gaza Strip.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

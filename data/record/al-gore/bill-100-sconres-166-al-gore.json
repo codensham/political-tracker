@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES166",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sconres-166-al-gore",
+  "introduced_date": "1988-10-20",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1988-10-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/166",
+  "title": "A concurrent resolution to express strong support for the cabotage laws protecting the coastwise trade for vessels of American construction, crewing, and documentation, as well as other maritime promotional programs, and to urge the Administration in the strongest possible terms that the opening of maritime transportation services not be proposed by the United States at the General Agreement on Tariffs and Trade (GATT) talks, and that the United States reject any such proposal by a foreign nation.",
+  "topics": [],
+  "type": "bill"
+}

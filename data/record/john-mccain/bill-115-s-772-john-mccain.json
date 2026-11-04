@@ -1,0 +1,21 @@
+{
+  "bill_number": "S772",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-772-john-mccain",
+  "introduced_date": "2017-03-29",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2017-03-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/772",
+  "tagged_by": "crosswalk@1",
+  "title": "Ashlynne Mike AMBER Alert in Indian Country Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

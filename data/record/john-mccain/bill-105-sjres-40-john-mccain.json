@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES40",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sjres-40-john-mccain",
+  "introduced_date": "1998-02-04",
+  "policy_area": "Commemorations",
+  "published_at": "1998-02-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-joint-resolution/40",
+  "title": "A joint resolution proposing an amendment to the Constitution of the United States authorizing Congress to prohibit the physical desecration of the flag of the United States.",
+  "topics": [],
+  "type": "bill"
+}

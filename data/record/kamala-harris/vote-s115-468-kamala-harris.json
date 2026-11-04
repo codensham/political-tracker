@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-468-kamala-harris",
+  "published_at": "2018-06-28",
+  "question": "On Passage of the Bill",
+  "rollnumber": 468,
+  "source_url": "https://voteview.com/rollcall/RS1150468",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2018-06-28",
+  "vote_result": "Bill Passed"
+}

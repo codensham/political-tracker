@@ -1,0 +1,21 @@
+{
+  "bill_number": "S823",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-823-barack-obama",
+  "introduced_date": "2007-03-08",
+  "policy_area": "Health",
+  "published_at": "2007-03-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/823",
+  "tagged_by": "crosswalk@1",
+  "title": "Microbicide Development Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

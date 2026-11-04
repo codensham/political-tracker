@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1417",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-1417-joe-biden",
+  "introduced_date": "1981-06-24",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1981-06-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/1417",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to establish a Presidential Protection Commission to advise the President and the Congress on reducing the risk of assassination at public appearances and otherwise to increase efforts to prevent criminal assaults against the President and to recommend amendments to title 18 of the United States Code and other provisions of Federal law relating to safeguarding the President.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

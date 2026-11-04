@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES22",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sjres-22-john-kerry",
+  "introduced_date": "2001-09-12",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2001-09-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-joint-resolution/22",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution expressing the sense of the Senate and House of Representatives regarding the terrorist attacks launched against the Unites States on September 11, 2001.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

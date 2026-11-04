@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN395",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-215-joe-biden",
+  "published_at": "2003-06-11",
+  "question": "On the Nomination",
+  "rollnumber": 215,
+  "source_url": "https://voteview.com/rollcall/RS1080215",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-06-11",
+  "vote_result": "Nomination Confirmed"
+}

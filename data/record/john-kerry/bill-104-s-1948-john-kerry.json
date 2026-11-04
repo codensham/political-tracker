@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1948",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1948-john-kerry",
+  "introduced_date": "1996-07-11",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1996-07-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1948",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 2241 of Title 18, United States Code, to provide for federal jurisdiction over sexual predators.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

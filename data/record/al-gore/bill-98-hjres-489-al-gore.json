@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES489",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-489-al-gore",
+  "introduced_date": "1984-02-23",
+  "policy_area": "International Affairs",
+  "published_at": "1984-02-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/489",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution directing the President to secure a full accounting of Americans missing in Southeast Asia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

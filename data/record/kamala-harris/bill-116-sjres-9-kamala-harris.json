@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES9",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sjres-9-kamala-harris",
+  "introduced_date": "2019-02-28",
+  "policy_area": "Environmental Protection",
+  "published_at": "2019-02-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-joint-resolution/9",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution calling on the United States and Congress to take immediate action to address the challenge of climate change.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

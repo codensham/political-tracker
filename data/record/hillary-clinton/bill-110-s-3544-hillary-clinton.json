@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3544",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3544-hillary-clinton",
+  "introduced_date": "2008-09-23",
+  "policy_area": "Taxation",
+  "published_at": "2008-09-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3544",
+  "tagged_by": "crosswalk@1",
+  "title": "Superfund Polluter Pays Act",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

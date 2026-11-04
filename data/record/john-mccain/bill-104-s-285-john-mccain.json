@@ -1,0 +1,18 @@
+{
+  "bill_number": "S285",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-285-john-mccain",
+  "introduced_date": "1995-01-26",
+  "policy_area": "Social Welfare",
+  "published_at": "1995-01-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/285",
+  "title": "A bill to grant authority to provide social services block grants directly to Indian tribes, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

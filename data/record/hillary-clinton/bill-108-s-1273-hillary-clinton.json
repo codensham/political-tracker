@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1273",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1273-hillary-clinton",
+  "introduced_date": "2003-06-17",
+  "policy_area": "Education",
+  "published_at": "2003-06-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1273",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for a study to ensure that students are not adversely affected by changes to the needs analysis tables, and to require the Secretary of Education to consult with the Advisory Committee on Student Financial Assistance regarding such changes.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

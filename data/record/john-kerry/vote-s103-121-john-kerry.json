@@ -1,0 +1,20 @@
+{
+  "bill_number": "S714",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-121-john-kerry",
+  "published_at": "1993-05-13",
+  "question": "On Passage of the Bill",
+  "rollnumber": 121,
+  "source_url": "https://voteview.com/rollcall/RS1030121",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1993-05-13",
+  "vote_result": "Bill Passed"
+}

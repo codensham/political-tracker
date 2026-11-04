@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES50",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sconres-50-john-mccain",
+  "introduced_date": "2012-06-27",
+  "policy_area": "International Affairs",
+  "published_at": "2012-06-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-concurrent-resolution/50",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress regarding actions to preserve and advance the multistakeholder governance model under which the Internet has thrived.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1016",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1016-john-mccain",
+  "introduced_date": "2001-06-12",
+  "policy_area": "Health",
+  "published_at": "2001-06-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1016",
+  "tagged_by": "crosswalk@1",
+  "title": "Start Healthy, Stay Healthy Act of 2001 ",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

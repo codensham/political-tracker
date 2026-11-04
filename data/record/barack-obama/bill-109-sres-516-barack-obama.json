@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES516",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-516-barack-obama",
+  "introduced_date": "2006-06-19",
+  "policy_area": "Commemorations",
+  "published_at": "2006-06-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/516",
+  "title": "A resolution recognizing the historical significance of Juneteenth Independence Day and expressing the sense of the Senate that history should be regarded as a means for understanding the past and solving the challenges of the future.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1996",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1996-joe-biden",
+  "introduced_date": "1996-07-26",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1996-07-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1996",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Violent Crime Control and Law Enforcement Act of 1994 to allow certain grant funds to be used to provide parent education.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

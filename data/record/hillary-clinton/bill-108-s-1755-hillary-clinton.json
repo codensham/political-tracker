@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1755",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1755-hillary-clinton",
+  "introduced_date": "2003-11-24",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2003-11-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1755",
+  "tagged_by": "crosswalk@1",
+  "title": "Farm-to-Cafeteria Projects Act of 2003",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

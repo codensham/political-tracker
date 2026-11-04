@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1513",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1513-hillary-clinton",
+  "introduced_date": "2003-11-06",
+  "policy_area": "Labor and Employment",
+  "published_at": "2003-11-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1513",
+  "tagged_by": "crosswalk@1",
+  "title": "Employee Right to Choose Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

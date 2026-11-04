@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3640",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-3640-hillary-clinton",
+  "introduced_date": "2006-07-12",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2006-07-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/3640",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the United States Court of International Trade to consider certain civil actions that were delayed because of the terrorist attacks of September 11, 2001.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

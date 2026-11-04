@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES98",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sconres-98-joe-biden",
+  "introduced_date": "1992-03-04",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1992-03-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-concurrent-resolution/98",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the current Canadian quota regime on chicken imports should be removed as part of the Uruguay Round and North American Free Trade Agreement negotiations and that Canada's imposition of quotas on United States processed chicken violates Article XI of the General Agreement on Tariffs and Trade.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

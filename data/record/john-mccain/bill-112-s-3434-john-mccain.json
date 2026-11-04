@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3434",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-3434-john-mccain",
+  "introduced_date": "2012-07-25",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2012-07-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/3434",
+  "tagged_by": "crosswalk@1",
+  "title": "End Government Shutdowns Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

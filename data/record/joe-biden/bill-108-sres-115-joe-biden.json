@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES115",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-115-joe-biden",
+  "introduced_date": "2003-04-09",
+  "policy_area": "Commemorations",
+  "published_at": "2003-04-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/115",
+  "title": "A resolution congratulating the Syracuse University men's basketball team for winning the 2003 NCAA Division I men's basketball national championship.",
+  "topics": [],
+  "type": "bill"
+}

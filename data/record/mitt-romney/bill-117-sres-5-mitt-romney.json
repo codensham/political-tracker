@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES5",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-5-mitt-romney",
+  "introduced_date": "2021-01-19",
+  "policy_area": "Congress",
+  "published_at": "2021-01-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/5",
+  "title": "A resolution honoring the memory of Officer Brian David Sicknick of the United States Capitol Police for his selfless acts of heroism on the grounds of the United States Capitol on January 6, 2021.",
+  "topics": [],
+  "type": "bill"
+}

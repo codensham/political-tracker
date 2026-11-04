@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES44",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-44-john-kerry",
+  "introduced_date": "1999-02-12",
+  "policy_area": "Congress",
+  "published_at": "1999-02-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/44",
+  "title": "A resolution relating to the censure of William Jefferson Clinton.",
+  "topics": [],
+  "type": "bill"
+}

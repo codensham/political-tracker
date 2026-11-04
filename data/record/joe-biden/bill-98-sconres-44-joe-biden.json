@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES44",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-sconres-44-joe-biden",
+  "introduced_date": "1983-06-21",
+  "policy_area": "Taxation",
+  "published_at": "1983-06-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-concurrent-resolution/44",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the continuing possibility that the provisions of the Internal Revenue Code of 1954 relating to withholding from interest and dividends will be repealed is creating, for all payors, an undue hardship within the meaning of section 308 (b) of the Tax Equity and Fiscal Responsibility Act of 1982 and that the Secretary of the Treasury should exercise his authority under such section to delay the effective date of such provisions until December 31, 1983.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

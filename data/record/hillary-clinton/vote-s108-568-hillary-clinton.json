@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN959",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-568-hillary-clinton",
+  "published_at": "2004-06-03",
+  "question": "On the Nomination",
+  "rollnumber": 568,
+  "source_url": "https://voteview.com/rollcall/RS1080568",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-06-03",
+  "vote_result": "Nomination Confirmed"
+}
