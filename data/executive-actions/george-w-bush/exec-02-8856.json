@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-8856",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-02-8856",
+  "published_at": "2002-04-10",
+  "signing_date": "2002-04-01",
+  "source_url": "https://www.federalregister.gov/documents/2002/04/10/02-8856/cancer-control-month-2002",
+  "title": "Cancer Control Month, 2002",
+  "topics": [],
+  "type": "executive_action"
+}

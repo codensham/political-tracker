@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2605",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2605-john-kerry",
+  "introduced_date": "1990-10-08",
+  "policy_area": "Health",
+  "published_at": "1990-10-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2605",
+  "tagged_by": "crosswalk@1",
+  "title": "Pharmaceutical Access and Prudent Purchasing Act of 1990",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

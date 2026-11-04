@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES621",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-621-john-kerry",
+  "introduced_date": "2008-07-23",
+  "policy_area": "Commemorations",
+  "published_at": "2008-07-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/621",
+  "title": "A resolution honoring and commemorating the selfless acts of heroism displayed by the late Detective John Michael Gibson and Private First Class Jacob Joseph Chestnut of the United States Capitol Police on July 24, 1998, and expressing the gratitude and appreciation of the Senate for the professionalism and dedication of the United States Capitol Police.",
+  "topics": [],
+  "type": "bill"
+}

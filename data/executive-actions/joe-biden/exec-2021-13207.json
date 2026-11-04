@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-13207",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2021-13207",
+  "published_at": "2021-06-22",
+  "signing_date": "2021-06-08",
+  "source_url": "https://www.federalregister.gov/documents/2021/06/22/2021-13207/delegation-of-authority-under-section-1217c-of-public-law-116-283",
+  "title": "Delegation of Authority Under Section 1217(c) of Public Law 116-283",
+  "topics": [],
+  "type": "executive_action"
+}

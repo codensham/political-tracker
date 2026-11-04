@@ -1,0 +1,21 @@
+{
+  "bill_number": "S391",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-391-joe-biden",
+  "introduced_date": "1999-06-28",
+  "policy_area": "Health",
+  "published_at": "1999-06-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/391",
+  "tagged_by": "crosswalk@1",
+  "title": "Children's Hospitals Education and Research Act of 1999",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

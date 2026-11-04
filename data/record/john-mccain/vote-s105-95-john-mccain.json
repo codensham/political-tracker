@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1469",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-95-john-mccain",
+  "published_at": "1997-06-05",
+  "question": "On the Conference Report",
+  "rollnumber": 95,
+  "source_url": "https://voteview.com/rollcall/RS1050095",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-06-05",
+  "vote_result": "Conference Report Agreed to"
+}

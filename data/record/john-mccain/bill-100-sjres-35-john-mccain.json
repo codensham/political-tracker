@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES35",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-35-john-mccain",
+  "introduced_date": "1987-01-28",
+  "policy_area": "Commemorations",
+  "published_at": "1987-01-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/35",
+  "title": "A joint resolution relating to the commemoration of January 28, 1988, as a \"National Day of Excellence\".",
+  "topics": [],
+  "type": "bill"
+}

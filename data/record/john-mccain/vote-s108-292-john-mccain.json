@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2555",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-292-john-mccain",
+  "published_at": "2003-07-23",
+  "question": "On the Amendment",
+  "rollnumber": 292,
+  "source_url": "https://voteview.com/rollcall/RS1080292",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-07-23",
+  "vote_result": "Amendment Agreed to"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S677",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-67-joe-biden",
+  "policy_area": "Commerce",
+  "published_at": "1987-04-08",
+  "question": null,
+  "rollnumber": 67,
+  "source_url": "https://voteview.com/rollcall/RS1000067",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1987-04-08",
+  "vote_result": null
+}

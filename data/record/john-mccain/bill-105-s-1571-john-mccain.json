@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1571",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1571-john-mccain",
+  "introduced_date": "1998-01-27",
+  "policy_area": "Social Welfare",
+  "published_at": "1998-01-27",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1571",
+  "title": "Senior Citizens' Freedom to Work Act of 1998",
+  "topics": [],
+  "type": "bill"
+}

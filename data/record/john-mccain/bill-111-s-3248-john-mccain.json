@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3248",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3248-john-mccain",
+  "introduced_date": "2010-04-22",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2010-04-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3248",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to designate the Department of the Interior Building in Washington, District of Columbia, as the \"Stewart Lee Udall Department of the Interior Building\".",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

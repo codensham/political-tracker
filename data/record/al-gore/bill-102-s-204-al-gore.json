@@ -1,0 +1,21 @@
+{
+  "bill_number": "S204",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-204-al-gore",
+  "introduced_date": "1991-01-30",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1991-01-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/204",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to provide for certain recalled retired members of the Armed Forces to serve in the highest grade previously held while on active duty.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

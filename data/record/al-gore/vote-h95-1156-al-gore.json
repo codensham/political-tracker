@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR8099",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-h95-1156-al-gore",
+  "published_at": "1978-06-29",
+  "question": null,
+  "rollnumber": 1156,
+  "source_url": "https://voteview.com/rollcall/RH0951156",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-06-29",
+  "vote_result": null
+}

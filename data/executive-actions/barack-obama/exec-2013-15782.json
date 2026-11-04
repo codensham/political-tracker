@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-15782",
+  "document_type": "executive_order",
+  "executive_order_number": "13646",
+  "id": "exec-2013-15782",
+  "published_at": "2013-06-28",
+  "signing_date": "2013-06-25",
+  "source_url": "https://www.federalregister.gov/documents/2013/06/28/2013-15782/establishing-the-presidents-advisory-council-on-financial-capability-for-young-americans",
+  "title": "Establishing the President's Advisory Council on Financial Capability for Young Americans",
+  "topics": [],
+  "type": "executive_action"
+}

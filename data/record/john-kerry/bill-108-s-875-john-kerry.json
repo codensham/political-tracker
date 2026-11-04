@@ -1,0 +1,21 @@
+{
+  "bill_number": "S875",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-875-john-kerry",
+  "introduced_date": "2003-04-10",
+  "policy_area": "Taxation",
+  "published_at": "2003-04-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/875",
+  "tagged_by": "crosswalk@1",
+  "title": "Community Development Homeownership Tax Credit Act",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

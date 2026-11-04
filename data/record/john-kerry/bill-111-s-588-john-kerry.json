@@ -1,0 +1,18 @@
+{
+  "bill_number": "S588",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-588-john-kerry",
+  "introduced_date": "2009-03-12",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2009-03-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/588",
+  "title": "Cruise Vessel Security and Safety Act of 2009",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES196",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-196-john-kerry",
+  "introduced_date": "1999-10-20",
+  "policy_area": "Commemorations",
+  "published_at": "1999-10-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/196",
+  "title": "A resolution commending the submarine force of the United States Navy on the 100th anniversary of the force.",
+  "topics": [],
+  "type": "bill"
+}

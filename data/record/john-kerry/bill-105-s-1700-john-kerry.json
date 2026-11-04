@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1700",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1700-john-kerry",
+  "introduced_date": "1998-03-03",
+  "policy_area": "Commemorations",
+  "published_at": "1998-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1700",
+  "title": "A bill to designate the headquarters building of the Department of Housing and Urban Development in Washington, District of Columbia, as the \"Robert C. Weaver Federal Building\".",
+  "topics": [],
+  "type": "bill"
+}

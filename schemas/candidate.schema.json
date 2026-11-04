@@ -1,12 +1,12 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Candidate record (type-specific fields)",
-  "description": "Composed with base.schema.json by tracker.validate; unevaluatedProperties is false over the union.",
+  "description": "Composed with base.schema.json by tracker.validate; unevaluatedProperties is false over the union. A candidate is a person with at least one recorded candidacy (D-004, D-006).",
   "type": "object",
   "required": [
     "name",
-    "party",
-    "status",
+    "aliases",
+    "candidacies",
     "fec_candidate_ids",
     "icpsr",
     "bioguide_id",
@@ -16,10 +16,43 @@
   "properties": {
     "type": { "const": "candidate" },
     "name": { "type": "string", "minLength": 1 },
-    "party": { "type": "string", "minLength": 1 },
-    "status": {
-      "type": "string",
-      "enum": ["potential", "declared", "withdrawn", "nominee"]
+    "aliases": {
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "social_accounts": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["platform", "handle", "url"],
+        "additionalProperties": false,
+        "properties": {
+          "platform": { "type": "string", "minLength": 1 },
+          "handle": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "format": "uri" }
+        }
+      }
+    },
+    "candidacies": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["office", "year", "party", "result", "fec_candidate_id", "source_url"],
+        "additionalProperties": false,
+        "properties": {
+          "office": { "const": "president" },
+          "year": { "type": "integer", "minimum": 1789 },
+          "party": { "type": "string", "minLength": 1 },
+          "result": {
+            "type": "string",
+            "enum": ["potential", "declared", "withdrew", "nominee", "won", "lost"]
+          },
+          "fec_candidate_id": { "type": ["string", "null"] },
+          "source_url": { "type": "string", "format": "uri" }
+        }
+      }
     },
     "fec_candidate_ids": {
       "type": "array",
@@ -28,6 +61,7 @@
     "icpsr": { "type": ["integer", "null"] },
     "bioguide_id": { "type": ["string", "null"] },
     "official_site": { "type": ["string", "null"], "format": "uri" },
-    "inclusion_reason": { "type": "string", "minLength": 1 }
+    "inclusion_reason": { "type": "string", "minLength": 1 },
+    "disclosure_names": { "type": "array", "items": { "type": "string", "minLength": 1 } }
   }
 }

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2167",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2167-al-gore",
+  "introduced_date": "1992-02-18",
+  "policy_area": "International Affairs",
+  "published_at": "1992-02-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2167",
+  "tagged_by": "crosswalk@1",
+  "title": "Restrictions on Azerbaijan Act",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

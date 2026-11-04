@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-39-barack-obama",
+  "published_at": "2007-01-31",
+  "question": "On the Motion",
+  "rollnumber": 39,
+  "source_url": "https://voteview.com/rollcall/RS1100039",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-01-31",
+  "vote_result": "Motion Agreed to"
+}

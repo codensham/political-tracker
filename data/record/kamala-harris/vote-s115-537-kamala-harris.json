@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6157",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-537-kamala-harris",
+  "published_at": "2018-09-18",
+  "question": "On the Conference Report",
+  "rollnumber": 537,
+  "source_url": "https://voteview.com/rollcall/RS1150537",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2018-09-18",
+  "vote_result": "Conference Report Agreed to"
+}

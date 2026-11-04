@@ -1,0 +1,21 @@
+{
+  "bill_number": "S684",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-684-john-kerry",
+  "introduced_date": "1999-05-25",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1999-05-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/684",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 11, United States Code, to provide for family fishermen, and to make chapter 12 of title 11, United States Code, permanent.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

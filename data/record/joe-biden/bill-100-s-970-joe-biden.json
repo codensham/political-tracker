@@ -1,0 +1,21 @@
+{
+  "bill_number": "S970",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-970-joe-biden",
+  "introduced_date": "1987-07-17",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1987-07-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/970",
+  "tagged_by": "crosswalk@1",
+  "title": "Alternative Agricultural Products Research Act of 1987",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

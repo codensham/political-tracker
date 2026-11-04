@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1192",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1192-john-kerry",
+  "introduced_date": "1995-08-11",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1995-08-11",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1192",
+  "tagged_by": "crosswalk@1",
+  "title": "Marine Aquaculture Act of 1995",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

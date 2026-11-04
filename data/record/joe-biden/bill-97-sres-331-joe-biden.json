@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES331",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-sres-331-joe-biden",
+  "introduced_date": "1982-03-22",
+  "policy_area": "Energy",
+  "published_at": "1982-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-resolution/331",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the Federal Energy Regulatory Commission should take no action to accelerate the decontrol of wellhead natural gas prices.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

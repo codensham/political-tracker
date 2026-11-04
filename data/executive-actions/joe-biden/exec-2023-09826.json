@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-09826",
+  "document_type": "executive_order",
+  "executive_order_number": "14098",
+  "id": "exec-2023-09826",
+  "published_at": "2023-05-05",
+  "signing_date": "2023-05-04",
+  "source_url": "https://www.federalregister.gov/documents/2023/05/05/2023-09826/imposing-sanctions-on-certain-persons-destabilizing-sudan-and-undermining-the-goal-of-a-democratic",
+  "title": "Imposing Sanctions on Certain Persons Destabilizing Sudan and Undermining the Goal of a Democratic Transition",
+  "topics": [],
+  "type": "executive_action"
+}

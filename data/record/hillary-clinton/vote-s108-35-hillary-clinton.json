@@ -1,0 +1,20 @@
+{
+  "bill_number": "S151",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-35-hillary-clinton",
+  "published_at": "2003-02-24",
+  "question": "On Passage of the Bill",
+  "rollnumber": 35,
+  "source_url": "https://voteview.com/rollcall/RS1080035",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-02-24",
+  "vote_result": "Bill Passed"
+}

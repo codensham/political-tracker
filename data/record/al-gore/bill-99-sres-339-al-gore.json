@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES339",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-339-al-gore",
+  "introduced_date": "1986-02-06",
+  "policy_area": "Taxation",
+  "published_at": "1986-02-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/339",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to express the sense of the Senate with respect to proposals currently before the Congress to tax certain employer-paid benefits and other life-support benefits.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

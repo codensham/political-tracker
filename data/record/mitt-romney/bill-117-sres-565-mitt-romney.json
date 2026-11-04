@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES565",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-565-mitt-romney",
+  "introduced_date": "2022-03-29",
+  "policy_area": "Congress",
+  "published_at": "2022-03-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/565",
+  "title": "A resolution honoring and celebrating the life and legacy of Representative Don Young.",
+  "topics": [],
+  "type": "bill"
+}

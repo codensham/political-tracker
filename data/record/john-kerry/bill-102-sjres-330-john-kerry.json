@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES330",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sjres-330-john-kerry",
+  "introduced_date": "1992-08-06",
+  "policy_area": "Social Sciences and History",
+  "published_at": "1992-08-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/330",
+  "title": "A joint resolution to designate March 1993 as \"Irish-American Heritage Month\".",
+  "topics": [],
+  "type": "bill"
+}

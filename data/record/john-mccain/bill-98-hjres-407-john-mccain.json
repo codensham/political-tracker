@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES407",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-407-john-mccain",
+  "introduced_date": "1984-04-03",
+  "policy_area": "Health",
+  "published_at": "1984-04-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/407",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution designating the week beginning April 8, 1984, as \"National Hearing Impaired Awareness Week\".",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

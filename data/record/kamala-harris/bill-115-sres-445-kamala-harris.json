@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES445",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-445-kamala-harris",
+  "introduced_date": "2018-03-22",
+  "policy_area": "Emergency Management",
+  "published_at": "2018-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/445",
+  "title": "A resolution marking the 6-month anniversary of the devastation of Puerto Rico and the United States Virgin Islands by Hurricane Maria.",
+  "topics": [],
+  "type": "bill"
+}

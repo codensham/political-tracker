@@ -1,0 +1,21 @@
+{
+  "bill_number": "S312",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-312-hillary-clinton",
+  "introduced_date": "2003-02-05",
+  "policy_area": "Health",
+  "published_at": "2003-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/312",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title XXI of the Social Security Act to extend the availability of allotments for fiscal years 1998 through 2001 under the State Children's Health Insurance Program.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1124",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1124-john-kerry",
+  "introduced_date": "1997-07-31",
+  "policy_area": "Labor and Employment",
+  "published_at": "1997-07-31",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1124",
+  "tagged_by": "crosswalk@1",
+  "title": "Workplace Religious Freedom Act of 1997",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1483",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1483-john-kerry",
+  "introduced_date": "1999-08-04",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1999-08-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1483",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the National Defense Authorization Act for Fiscal Year 1998 with respect to export controls on high performance computers.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

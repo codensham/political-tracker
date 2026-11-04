@@ -1,0 +1,18 @@
+{
+  "bill_number": "S195",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-195-john-kerry",
+  "introduced_date": "2005-02-01",
+  "policy_area": "Congress",
+  "published_at": "2005-02-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/195",
+  "title": "No Taxation Without Representation Act of 2005",
+  "topics": [],
+  "type": "bill"
+}

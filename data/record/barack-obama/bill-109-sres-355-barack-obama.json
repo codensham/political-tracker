@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES355",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-355-barack-obama",
+  "introduced_date": "2006-01-30",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2006-01-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/355",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution honoring the service of the National Guard and requesting consultation by the Department of Defense with Congress and the chief executive officers of the States prior to offering proposals to change the National Guard force structure.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

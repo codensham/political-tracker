@@ -1,0 +1,18 @@
+{
+  "bill_number": "S803",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-803-john-kerry",
+  "introduced_date": "1991-07-08",
+  "policy_area": "Families",
+  "published_at": "1991-07-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/803",
+  "title": "A bill to amend the Family Violence Prevention and Services Act to provide grants to States to fund State domestic violence coalitions, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

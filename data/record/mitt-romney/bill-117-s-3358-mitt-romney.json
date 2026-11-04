@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3358",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-3358-mitt-romney",
+  "introduced_date": "2021-12-09",
+  "policy_area": "Congress",
+  "published_at": "2021-12-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/3358",
+  "title": "A bill to authorize the use of the rotunda of the Capitol for the lying in state of the remains of the last Medal of Honor recipient of World War II, in order to honor the Greatest Generation and the more than 16,000,000 men and women who served in the Armed Forces of the United States from 1941 to 1945.",
+  "topics": [],
+  "type": "bill"
+}

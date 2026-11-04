@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1610",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1610-joe-biden",
+  "introduced_date": "1998-02-04",
+  "policy_area": "Families",
+  "published_at": "1998-02-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1610",
+  "title": "Child Care ACCESS (Affordable Child Care for Early Success and Security) Act",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1711",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-1711-john-mccain",
+  "introduced_date": "2015-08-05",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2015-08-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1711",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for a temporary safe harbor from the enforcement of integrated disclosure requirements for mortgage loan transactions under the Real Estate Settlement Procedures Act of 1974 and the Truth in Lending Act, and for other purposes.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

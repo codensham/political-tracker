@@ -1,0 +1,24 @@
+{
+  "bill_number": "HR5541",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-775-john-mccain",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1984-07-21",
+  "question": null,
+  "rollnumber": 775,
+  "source_url": "https://voteview.com/rollcall/RH0980775",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "technology"
+  ],
+  "type": "vote",
+  "vote_date": "1984-07-21",
+  "vote_result": null
+}

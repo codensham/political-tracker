@@ -1,0 +1,18 @@
+{
+  "bill_number": "S912",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-912-john-mccain",
+  "introduced_date": "1989-05-03",
+  "policy_area": "Native Americans",
+  "published_at": "1989-05-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/912",
+  "title": "A bill to establish administrative procedures to extend Federal recognition to certain Indian groups.",
+  "topics": [],
+  "type": "bill"
+}

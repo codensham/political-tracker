@@ -1,0 +1,20 @@
+{
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cash_on_hand_end": 38051.0,
+  "collected_at": "2026-11-04T13:52:32Z",
+  "collector": "fec_finance@1.0",
+  "coverage_end": "1988-12-31",
+  "coverage_start": "1987-04-20",
+  "cycle": 1988,
+  "debts_owed": 0.0,
+  "disbursements": 14953102.0,
+  "fec_candidate_id": "P80000912",
+  "id": "finance-al-gore-p80000912-1988",
+  "published_at": "1988-12-31",
+  "receipts": 14957697.0,
+  "source_url": "https://www.fec.gov/data/candidate/P80000912/?cycle=1988",
+  "topics": [],
+  "type": "finance"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-5670",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-01-5670",
+  "published_at": "2001-03-06",
+  "signing_date": "2001-03-01",
+  "source_url": "https://www.federalregister.gov/documents/2001/03/06/01-5670/womens-history-month-2001",
+  "title": "Women's History Month, 2001",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES103",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-103-john-kerry",
+  "introduced_date": "2007-03-09",
+  "policy_area": "International Affairs",
+  "published_at": "2007-03-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/103",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending the Kingdom of Lesotho, on the occasion of International Women's Day, for the enactment of a law to improve the status of married women and ensure the access of married women to property rights.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

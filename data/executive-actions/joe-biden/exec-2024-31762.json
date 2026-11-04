@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-31762",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2024-31762",
+  "published_at": "2025-01-03",
+  "signing_date": "2024-12-29",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/03/2024-31762/announcing-the-death-of-james-earl-carter-jr",
+  "title": "Announcing the Death of James Earl Carter, Jr.",
+  "topics": [],
+  "type": "executive_action"
+}

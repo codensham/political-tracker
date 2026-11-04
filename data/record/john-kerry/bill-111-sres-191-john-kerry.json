@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES191",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-191-john-kerry",
+  "introduced_date": "2009-06-18",
+  "policy_area": "Health",
+  "published_at": "2009-06-18",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/191",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing that the occurrence of prostate cancer in African-American men has reached epidemic proportions and urging Federal agencies to address that health crisis by designating funds for education, awareness outreach, and research specifically focused on how prostate cancer affects African-American men.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

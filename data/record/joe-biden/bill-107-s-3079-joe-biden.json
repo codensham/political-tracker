@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3079",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-3079-joe-biden",
+  "introduced_date": "2002-10-08",
+  "policy_area": "Immigration",
+  "published_at": "2002-10-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/3079",
+  "tagged_by": "crosswalk@1",
+  "title": "Iraqi Scientists Immigration Act of 2002",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

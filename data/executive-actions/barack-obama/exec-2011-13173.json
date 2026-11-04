@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-13173",
+  "document_type": "executive_order",
+  "executive_order_number": "13574",
+  "id": "exec-2011-13173",
+  "published_at": "2011-05-25",
+  "signing_date": "2011-05-23",
+  "source_url": "https://www.federalregister.gov/documents/2011/05/25/2011-13173/authorizing-the-implementation-of-certain-sanctions-set-forth-in-the-iran-sanctions-act-of-1996-as",
+  "title": "Authorizing the Implementation of Certain Sanctions Set Forth in the Iran Sanctions Act of 1996, as Amended",
+  "topics": [],
+  "type": "executive_action"
+}

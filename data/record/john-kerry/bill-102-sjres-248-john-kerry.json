@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES248",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sjres-248-john-kerry",
+  "introduced_date": "1992-06-23",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1992-06-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/248",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution designating August 7, 1992, as \"Battle of Guadalcanal Remembrance Day\".",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

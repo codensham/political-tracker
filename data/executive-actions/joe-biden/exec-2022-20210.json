@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-20210",
+  "document_type": "executive_order",
+  "executive_order_number": "14082",
+  "id": "exec-2022-20210",
+  "published_at": "2022-09-16",
+  "signing_date": "2022-09-12",
+  "source_url": "https://www.federalregister.gov/documents/2022/09/16/2022-20210/implementation-of-the-energy-and-infrastructure-provisions-of-the-inflation-reduction-act-of-2022",
+  "title": "Implementation of the Energy and Infrastructure Provisions of the Inflation Reduction Act of 2022",
+  "topics": [],
+  "type": "executive_action"
+}

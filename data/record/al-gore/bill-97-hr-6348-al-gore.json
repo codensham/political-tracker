@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR6348",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-6348-al-gore",
+  "introduced_date": "1982-06-17",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1982-06-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/6348",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to recognize the organization known as the National Association of State Directors of Veterans Affairs, Incorporated.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

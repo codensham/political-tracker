@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-25743",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2015-25743",
+  "published_at": "2015-10-07",
+  "signing_date": "2015-10-02",
+  "source_url": "https://www.federalregister.gov/documents/2015/10/07/2015-25743/honoring-the-victims-of-the-tragedy-in-roseburg-oregon",
+  "title": "Honoring the Victims of the Tragedy in Roseburg, Oregon",
+  "topics": [],
+  "type": "executive_action"
+}

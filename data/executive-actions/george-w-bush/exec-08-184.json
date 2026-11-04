@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-184",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-08-184",
+  "published_at": "2008-01-17",
+  "signing_date": "2008-01-14",
+  "source_url": "https://www.federalregister.gov/documents/2008/01/17/08-184/religious-freedom-day-2008",
+  "title": "Religious Freedom Day, 2008",
+  "topics": [],
+  "type": "executive_action"
+}

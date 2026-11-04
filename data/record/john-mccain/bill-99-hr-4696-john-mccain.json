@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR4696",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-4696-john-mccain",
+  "introduced_date": "1986-06-04",
+  "policy_area": "Commerce",
+  "published_at": "1986-06-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/4696",
+  "title": "Manufacture and Public Distribution of Certain Copyrighted Material Act",
+  "topics": [],
+  "type": "bill"
+}

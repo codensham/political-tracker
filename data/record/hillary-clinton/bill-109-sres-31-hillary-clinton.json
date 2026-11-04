@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES31",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-31-hillary-clinton",
+  "introduced_date": "2005-06-15",
+  "policy_area": "Commemorations",
+  "published_at": "2005-06-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/31",
+  "title": "A resolution expressing the sense of the Senate that the week of August 7, 2005, be designated as \"National Health Center Week\" in order to raise awareness of health services provided by community, migrant, public housing, and homeless health centers, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

@@ -51,14 +51,10 @@ def test_run_writes_and_counts(tmp_path: Path):
 def test_rerun_unchanged(tmp_path: Path):
     fake = FakeCollector([vote("vote-a"), vote("vote-b")])
     run_collector(fake, tmp_path)
-    before = {
-        rid: record_path(vote(rid), tmp_path).read_bytes() for rid in ("vote-a", "vote-b")
-    }
+    before = {rid: record_path(vote(rid), tmp_path).read_bytes() for rid in ("vote-a", "vote-b")}
 
     assert run_collector(fake, tmp_path) == RunResult(written=0, unchanged=2)
-    after = {
-        rid: record_path(vote(rid), tmp_path).read_bytes() for rid in ("vote-a", "vote-b")
-    }
+    after = {rid: record_path(vote(rid), tmp_path).read_bytes() for rid in ("vote-a", "vote-b")}
     assert before == after
 
 

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2549",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2549-hillary-clinton",
+  "introduced_date": "2008-01-23",
+  "policy_area": "Environmental Protection",
+  "published_at": "2008-01-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2549",
+  "tagged_by": "crosswalk@1",
+  "title": "Environmental Justice Renewal Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

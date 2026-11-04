@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1653",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1653-john-kerry",
+  "introduced_date": "2009-09-08",
+  "policy_area": "Law",
+  "published_at": "2009-09-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1653",
+  "title": "Federal Judgeship Act of 2009",
+  "topics": [],
+  "type": "bill"
+}

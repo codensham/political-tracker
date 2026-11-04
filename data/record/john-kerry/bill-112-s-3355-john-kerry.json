@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3355",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-3355-john-kerry",
+  "introduced_date": "2012-06-28",
+  "policy_area": "Taxation",
+  "published_at": "2012-06-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/3355",
+  "tagged_by": "crosswalk@1",
+  "title": "Taxpayer Bill of Rights Act of 2012",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

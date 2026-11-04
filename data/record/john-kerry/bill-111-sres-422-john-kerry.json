@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES422",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-422-john-kerry",
+  "introduced_date": "2010-02-25",
+  "policy_area": "International Affairs",
+  "published_at": "2010-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/422",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the important progress made by the people of Ukraine in the establishment of democratic institutions following the presidential run-off election on February 7, 2010.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

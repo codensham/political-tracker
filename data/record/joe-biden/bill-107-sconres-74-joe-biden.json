@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES74",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-74-joe-biden",
+  "introduced_date": "2001-10-02",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2001-10-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/74",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution condemning bigotry and violence against Sikh-Americans in the wake of terrorist attacks in New York City and Washington, D.C. on September 11, 2001.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

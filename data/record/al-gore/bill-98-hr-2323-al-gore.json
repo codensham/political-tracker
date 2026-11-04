@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR2323",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-2323-al-gore",
+  "introduced_date": "1983-04-25",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1983-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/2323",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38, United States Code, to extend by three years the period during which Vietnam-era veterans may request psychological readjustment counseling from the Veterans' Administration and to direct the Administrator of Veterans' Affairs to carry out a comprehensive study of the prevalence of post-traumatic stress disorder and related readjustment problems among Vietnam-era veterans.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

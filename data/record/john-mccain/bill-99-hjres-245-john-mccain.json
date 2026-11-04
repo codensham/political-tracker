@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES245",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-245-john-mccain",
+  "introduced_date": "1985-11-20",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1985-11-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/245",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to direct the Postmaster General to issue a commemorative stamp to honor the 40th anniversary of the Blue Angels.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

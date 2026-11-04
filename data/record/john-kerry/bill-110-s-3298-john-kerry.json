@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3298",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3298-john-kerry",
+  "introduced_date": "2008-07-22",
+  "policy_area": "Environmental Protection",
+  "published_at": "2008-07-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3298",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to clarify the circumstances during which the Administrator of the Environmental Protection Agency and applicable States may require permits for discharges from certain vessels, and to require the Administrator to conduct a study of discharges incidental to the normal operation of vessels.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

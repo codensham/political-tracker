@@ -1,0 +1,20 @@
+{
+  "bill_number": "S372",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 93,
+  "id": "vote-s93-344-joe-biden",
+  "published_at": "1973-07-30",
+  "question": null,
+  "rollnumber": 344,
+  "source_url": "https://voteview.com/rollcall/RS0930344",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1973-07-30",
+  "vote_result": null
+}

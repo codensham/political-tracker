@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1265",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1265-hillary-clinton",
+  "introduced_date": "2005-06-16",
+  "policy_area": "Environmental Protection",
+  "published_at": "2005-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1265",
+  "tagged_by": "crosswalk@1",
+  "title": "Diesel Emissions Reduction Act of 2005",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

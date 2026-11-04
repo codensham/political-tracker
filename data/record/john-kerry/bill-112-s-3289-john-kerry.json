@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3289",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-3289-john-kerry",
+  "introduced_date": "2012-06-13",
+  "policy_area": "Health",
+  "published_at": "2012-06-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/3289",
+  "tagged_by": "crosswalk@1",
+  "title": "Children's Mental Health Accessibility Act of 2012",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

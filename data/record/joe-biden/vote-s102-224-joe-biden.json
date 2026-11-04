@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2942",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-224-joe-biden",
+  "published_at": "1991-10-16",
+  "question": "On the Conference Report",
+  "rollnumber": 224,
+  "source_url": "https://voteview.com/rollcall/RS1020224",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-10-16",
+  "vote_result": "Conference Report Agreed to"
+}

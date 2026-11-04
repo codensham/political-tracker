@@ -1,0 +1,20 @@
+{
+  "bill_number": "S460",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-36-john-kerry",
+  "published_at": "1993-03-17",
+  "question": "On the Motion to Table",
+  "rollnumber": 36,
+  "source_url": "https://voteview.com/rollcall/RS1030036",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1993-03-17",
+  "vote_result": "Motion to Table Agreed to"
+}

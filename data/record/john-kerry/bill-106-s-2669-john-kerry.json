@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2669",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2669-john-kerry",
+  "introduced_date": "2000-06-07",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2000-06-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2669",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to extend to persons over age 64 eligibility for medical care under CHAMPUS and TRICARE; to extend the TRICARE Senior Prime demonstration program in conjunction with the extension of eligibility under CHAMPUS and TRICARE to such persons, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,24 @@
+{
+  "bill_number": "S306",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-11-hillary-clinton",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2005-02-17",
+  "question": "On Passage of the Bill",
+  "rollnumber": 11,
+  "source_url": "https://voteview.com/rollcall/RS1090011",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "vote",
+  "vote_date": "2005-02-17",
+  "vote_result": "Bill Passed"
+}

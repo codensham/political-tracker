@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1260",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-208-mitt-romney",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2021-05-26",
+  "question": "On the Amendment",
+  "rollnumber": 208,
+  "source_url": "https://voteview.com/rollcall/RS1170208",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "technology"
+  ],
+  "type": "vote",
+  "vote_date": "2021-05-26",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3108",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-464-joe-biden",
+  "published_at": "2004-01-28",
+  "question": "On Passage of the Bill",
+  "rollnumber": 464,
+  "source_url": "https://voteview.com/rollcall/RS1080464",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-01-28",
+  "vote_result": "Bill Passed"
+}

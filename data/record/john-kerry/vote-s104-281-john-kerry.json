@@ -1,0 +1,24 @@
+{
+  "bill_number": "S240",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-281-john-kerry",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1995-06-22",
+  "question": "On the Motion to Table the Motion to Reconsider",
+  "rollnumber": 281,
+  "source_url": "https://voteview.com/rollcall/RS1040281",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "economy"
+  ],
+  "type": "vote",
+  "vote_date": "1995-06-22",
+  "vote_result": "Motion to Table Motion to Reconsider Agreed to"
+}

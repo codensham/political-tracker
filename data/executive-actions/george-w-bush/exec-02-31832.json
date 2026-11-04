@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-31832",
+  "document_type": "executive_order",
+  "executive_order_number": "13280",
+  "id": "exec-02-31832",
+  "published_at": "2002-12-16",
+  "signing_date": "2002-12-12",
+  "source_url": "https://www.federalregister.gov/documents/2002/12/16/02-31832/responsibilities-of-the-department-of-agriculture-and-the-agency-for-international-development-with",
+  "title": "Responsibilities of the Department of Agriculture and the Agency for International Development With Respect to Faith-Based and Community Initiatives",
+  "topics": [],
+  "type": "executive_action"
+}

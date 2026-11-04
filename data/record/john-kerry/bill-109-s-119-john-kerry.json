@@ -1,0 +1,21 @@
+{
+  "bill_number": "S119",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-119-john-kerry",
+  "introduced_date": "2005-04-21",
+  "policy_area": "Immigration",
+  "published_at": "2005-04-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/119",
+  "tagged_by": "crosswalk@1",
+  "title": "Unaccompanied Alien Child Protection Act of 2005",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

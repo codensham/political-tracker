@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2248",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-444-hillary-clinton",
+  "published_at": "2008-01-24",
+  "question": "On the Motion to Table",
+  "rollnumber": 444,
+  "source_url": "https://voteview.com/rollcall/RS1100444",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-01-24",
+  "vote_result": "Motion to Table Agreed to"
+}

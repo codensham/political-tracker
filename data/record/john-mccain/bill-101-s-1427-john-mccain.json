@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1427",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1427-john-mccain",
+  "introduced_date": "1989-09-06",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1989-09-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1427",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Federal Meat and the Poultry Products Inspection Act to authorize the distribution of wholesome meat and poultry products for human consumption that have been seized and condemned under such Acts to charity and public agencies, and for other purposes.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

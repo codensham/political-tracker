@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES516",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-516-john-kerry",
+  "introduced_date": "2008-04-15",
+  "policy_area": "International Affairs",
+  "published_at": "2008-04-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/516",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution solemnly commemorating the 25th anniversary of the tragic April 1983 bombing of the United States Embassy in Beirut and remembering those who lost their lives and those who where injured.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

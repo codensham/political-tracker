@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES157",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-157-john-mccain",
+  "introduced_date": "2017-05-04",
+  "policy_area": "International Affairs",
+  "published_at": "2017-05-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/157",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing that for 50 years, the Association of South East Asian Nations (ASEAN) and its ten members-Brunei, Cambodia, Indonesia, Laos, Malaysia, Myanmar, the Philippines, Singapore, Thailand, and Vietnam-have worked toward stability, prosperity, and peace in Southeast Asia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

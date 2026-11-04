@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2639",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2639-john-mccain",
+  "introduced_date": "2016-03-03",
+  "policy_area": "Congress",
+  "published_at": "2016-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2639",
+  "title": "Equal Access to Congressional Research Service Reports Act of 2016",
+  "topics": [],
+  "type": "bill"
+}

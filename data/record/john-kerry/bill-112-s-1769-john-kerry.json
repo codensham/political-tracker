@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1769",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1769-john-kerry",
+  "introduced_date": "2011-10-31",
+  "policy_area": "Labor and Employment",
+  "published_at": "2011-10-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1769",
+  "tagged_by": "crosswalk@1",
+  "title": "Rebuild America Jobs Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

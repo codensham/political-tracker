@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES30",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-30-john-mccain",
+  "introduced_date": "2003-03-27",
+  "policy_area": "International Affairs",
+  "published_at": "2003-03-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/30",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress to commend and express the gratitude of the United States to the nations participating with the United States in the Coalition to Disarm Iraq.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

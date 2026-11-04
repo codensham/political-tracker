@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3142",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-3142-al-gore",
+  "introduced_date": "1990-09-28",
+  "policy_area": "Health",
+  "published_at": "1990-09-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/3142",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for recognition of costs of certain nursing and allied health education programs as allowable direct costs reimbursable to a hospital on a reasonable basis for purposes of payment under title XVIII of the Social Security Act, and for other purposes.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

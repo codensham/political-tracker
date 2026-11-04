@@ -1,0 +1,18 @@
+{
+  "bill_number": "S429",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-429-joe-biden",
+  "introduced_date": "1991-02-20",
+  "policy_area": "Commerce",
+  "published_at": "1991-02-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/429",
+  "title": "Consumer Protection Against Price-Fixing Act of 1991",
+  "topics": [],
+  "type": "bill"
+}

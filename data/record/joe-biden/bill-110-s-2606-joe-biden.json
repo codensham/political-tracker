@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2606",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2606-joe-biden",
+  "introduced_date": "2008-02-07",
+  "policy_area": "Emergency Management",
+  "published_at": "2008-02-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2606",
+  "title": "United States Fire Administration Reauthorization Act of 2008",
+  "topics": [],
+  "type": "bill"
+}

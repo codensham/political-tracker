@@ -1,0 +1,20 @@
+{
+  "bill_number": "HRE443",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-549-al-gore",
+  "published_at": "1984-03-29",
+  "question": null,
+  "rollnumber": 549,
+  "source_url": "https://voteview.com/rollcall/RH0980549",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-03-29",
+  "vote_result": null
+}

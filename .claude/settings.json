@@ -1,0 +1,14 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "if [ -f scripts/verify.py ]; then python scripts/verify.py; fi"
+          }
+        ]
+      }
+    ]
+  }
+}

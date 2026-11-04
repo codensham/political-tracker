@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJRES751",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-h99-861-john-mccain",
+  "published_at": "1986-10-10",
+  "question": null,
+  "rollnumber": 861,
+  "source_url": "https://voteview.com/rollcall/RH0990861",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1986-10-10",
+  "vote_result": null
+}

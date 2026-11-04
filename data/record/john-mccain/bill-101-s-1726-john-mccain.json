@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1726",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1726-john-mccain",
+  "introduced_date": "1989-10-04",
+  "policy_area": "Health",
+  "published_at": "1989-10-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1726",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to repeal medicare catastrophic coverage provisions effective in years after 1989 and the supplemental medicare premium, and for other purposes.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

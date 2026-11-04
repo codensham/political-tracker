@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES234",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-234-hillary-clinton",
+  "introduced_date": "2005-09-07",
+  "policy_area": "Commemorations",
+  "published_at": "2005-09-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/234",
+  "title": "A resolution relative to the death of William H. Rehnquist, Chief Justice of the United States.",
+  "topics": [],
+  "type": "bill"
+}

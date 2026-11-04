@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJRES83",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-93-john-mccain",
+  "published_at": "2017-03-22",
+  "question": "On the Joint Resolution",
+  "rollnumber": 93,
+  "source_url": "https://voteview.com/rollcall/RS1150093",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2017-03-22",
+  "vote_result": "Joint Resolution Passed"
+}

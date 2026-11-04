@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2627",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2627-john-mccain",
+  "introduced_date": "1990-05-15",
+  "policy_area": "International Affairs",
+  "published_at": "1990-05-15",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2627",
+  "tagged_by": "crosswalk@1",
+  "title": "Weapons of Mass Destruction Control Act",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES443",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-443-kamala-harris",
+  "introduced_date": "2019-11-21",
+  "policy_area": "Commerce",
+  "published_at": "2019-11-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/443",
+  "title": "A resolution recognizing and celebrating on November 30, 2019, the vital role of small businesses and the efforts of the Small Business Administration to help people in the United States start, build, and grow businesses.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-13869",
+  "document_type": "executive_order",
+  "executive_order_number": "13214",
+  "id": "exec-01-13869",
+  "published_at": "2001-05-31",
+  "signing_date": "2001-05-28",
+  "source_url": "https://www.federalregister.gov/documents/2001/05/31/01-13869/presidents-task-force-to-improve-health-care-delivery-for-our-nations-veterans",
+  "title": "President's Task Force To Improve Health Care Delivery for Our Nation's Veterans",
+  "topics": [],
+  "type": "executive_action"
+}

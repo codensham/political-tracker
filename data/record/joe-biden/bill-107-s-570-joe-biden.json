@@ -1,0 +1,21 @@
+{
+  "bill_number": "S570",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-570-joe-biden",
+  "introduced_date": "2001-03-20",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2001-03-20",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/570",
+  "tagged_by": "crosswalk@1",
+  "title": "Violence Against Women Office Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

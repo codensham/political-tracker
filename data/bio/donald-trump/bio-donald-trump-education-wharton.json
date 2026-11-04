@@ -1,0 +1,18 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T14:57:17Z",
+  "collector": "manual",
+  "end_date": null,
+  "id": "bio-donald-trump-education-wharton",
+  "kind": "education",
+  "location": null,
+  "organization": "University of Pennsylvania, The Wharton School",
+  "published_at": "2025-05-06",
+  "source_url": "https://www.bestcolleges.com/news/analysis/2021/10/25/where-did-trump-go-to-college/",
+  "start_date": null,
+  "title": "Bachelor of Science in economics (1968)",
+  "topics": [],
+  "type": "bio"
+}

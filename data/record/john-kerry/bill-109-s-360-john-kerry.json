@@ -1,0 +1,21 @@
+{
+  "bill_number": "S360",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-360-john-kerry",
+  "introduced_date": "2005-02-10",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2005-02-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/360",
+  "tagged_by": "crosswalk@1",
+  "title": "Coastal Zone Enhancement Reauthorization Act of 2005",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

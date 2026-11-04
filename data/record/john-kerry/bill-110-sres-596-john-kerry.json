@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES596",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-596-john-kerry",
+  "introduced_date": "2008-06-19",
+  "policy_area": "Commemorations",
+  "published_at": "2008-06-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/596",
+  "title": "A resolution congratulating the Boston Celtics on winning the 2008 National Basketball Association Championship.",
+  "topics": [],
+  "type": "bill"
+}

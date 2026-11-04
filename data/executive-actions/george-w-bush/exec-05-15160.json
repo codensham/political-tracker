@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-15160",
+  "document_type": "executive_order",
+  "executive_order_number": "13384",
+  "id": "exec-05-15160",
+  "published_at": "2005-07-29",
+  "signing_date": "2005-07-27",
+  "source_url": "https://www.federalregister.gov/documents/2005/07/29/05-15160/assignment-of-functions-relating-to-original-appointments-as-commissioned-officers-and-chief-warrant",
+  "title": "Assignment of Functions Relating to Original Appointments as Commissioned Officers and Chief Warrant Officer Appointments in the Armed Forces",
+  "topics": [],
+  "type": "executive_action"
+}

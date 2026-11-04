@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES115",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-115-hillary-clinton",
+  "introduced_date": "2002-05-22",
+  "policy_area": "Labor and Employment",
+  "published_at": "2002-05-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/115",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that all workers deserve fair treatment and safe working conditions, and honoring Dolores Huerta for her commitment to the improvement of working conditions for children, women, and farm worker families.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

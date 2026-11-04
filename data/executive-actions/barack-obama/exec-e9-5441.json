@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-5441",
+  "document_type": "executive_order",
+  "executive_order_number": "13505",
+  "id": "exec-e9-5441",
+  "published_at": "2009-03-11",
+  "signing_date": "2009-03-09",
+  "source_url": "https://www.federalregister.gov/documents/2009/03/11/E9-5441/removing-barriers-to-responsible-scientific-research-involving-human-stem-cells",
+  "title": "Removing Barriers to Responsible Scientific Research Involving Human Stem Cells",
+  "topics": [],
+  "type": "executive_action"
+}

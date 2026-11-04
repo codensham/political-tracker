@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2236",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2236-john-mccain",
+  "introduced_date": "2004-06-03",
+  "policy_area": "Energy",
+  "published_at": "2004-06-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2236",
+  "tagged_by": "crosswalk@1",
+  "title": "Electric Reliability Act of 2004",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

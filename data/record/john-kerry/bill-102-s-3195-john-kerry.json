@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3195",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-3195-john-kerry",
+  "introduced_date": "1992-09-18",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1992-09-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/3195",
+  "tagged_by": "crosswalk@1",
+  "title": "World War II 50th Anniversary Commemorative Coins Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

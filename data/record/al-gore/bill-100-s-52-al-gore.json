@@ -1,0 +1,21 @@
+{
+  "bill_number": "S52",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-52-al-gore",
+  "introduced_date": "1987-03-11",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1987-03-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/52",
+  "tagged_by": "crosswalk@1",
+  "title": "Continental Scientific Drilling and Exploration Act",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

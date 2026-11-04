@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2019",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-511-john-kerry",
+  "published_at": "1994-05-17",
+  "question": "On the Amendment",
+  "rollnumber": 511,
+  "source_url": "https://voteview.com/rollcall/RS1030511",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1994-05-17",
+  "vote_result": "Amendment Rejected"
+}

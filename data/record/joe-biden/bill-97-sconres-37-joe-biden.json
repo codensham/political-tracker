@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES37",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-sconres-37-joe-biden",
+  "introduced_date": "1981-10-01",
+  "policy_area": "International Affairs",
+  "published_at": "1981-10-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-concurrent-resolution/37",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution disapproving the proposed sales to Saudi Arabia of E-3A Airborne Warning and Control System (AWACS) aircraft, conformal fuel tanks for F-15 aircraft, AIM-9L Sidewinder missiles, and Boeing 707 aerial refueling aircraft.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

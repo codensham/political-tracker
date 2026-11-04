@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES181",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-181-hillary-clinton",
+  "introduced_date": "2003-06-24",
+  "policy_area": "Commemorations",
+  "published_at": "2003-06-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/181",
+  "title": "A resolution congratulating all New Yorkers on the occasion of their first Kentucky Derby victory and the subsequent Preakness Stakes victory with New York-bred gelding, Funny Cide.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES33",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-33-al-gore",
+  "introduced_date": "1985-02-19",
+  "policy_area": "Commemorations",
+  "published_at": "1985-02-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/33",
+  "title": "A joint resolution to authorize and request the President to designate May 12, 1985 to June 16, 1985, as \"Family Reunion Month\".",
+  "topics": [],
+  "type": "bill"
+}

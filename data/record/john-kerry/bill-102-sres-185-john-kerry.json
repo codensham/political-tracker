@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES185",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-185-john-kerry",
+  "introduced_date": "1991-09-26",
+  "policy_area": "Congress",
+  "published_at": "1991-09-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/185",
+  "title": "An original resolution to provide for expenses and supplemental authority of the Select Committee on POW/MIA Affairs.",
+  "topics": [],
+  "type": "bill"
+}

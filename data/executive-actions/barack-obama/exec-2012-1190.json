@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-1190",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2012-1190",
+  "published_at": "2012-01-20",
+  "signing_date": "2012-01-13",
+  "source_url": "https://www.federalregister.gov/documents/2012/01/20/2012-1190/martin-luther-king-jr-federal-holiday-2012",
+  "title": "Martin Luther King, Jr., Federal Holiday, 2012",
+  "topics": [],
+  "type": "executive_action"
+}

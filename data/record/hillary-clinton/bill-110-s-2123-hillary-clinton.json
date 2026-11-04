@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2123",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2123-hillary-clinton",
+  "introduced_date": "2007-10-01",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2007-10-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2123",
+  "tagged_by": "crosswalk@1",
+  "title": "Public Safety Employer-Employee Cooperation Act of 2007",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

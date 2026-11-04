@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES297",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-297-john-kerry",
+  "introduced_date": "1990-05-09",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1990-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/297",
+  "title": "A joint resolution designating September 1990 as \"National Craft Month\".",
+  "topics": [],
+  "type": "bill"
+}

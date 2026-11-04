@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-1256",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-06-1256",
+  "published_at": "2006-02-09",
+  "signing_date": "2006-02-06",
+  "source_url": "https://www.federalregister.gov/documents/2006/02/09/06-1256/death-of-coretta-scott-king",
+  "title": "Death of Coretta Scott King",
+  "topics": [],
+  "type": "executive_action"
+}

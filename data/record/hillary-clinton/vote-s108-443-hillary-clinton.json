@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2673",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-443-hillary-clinton",
+  "published_at": "2003-11-06",
+  "question": "On the Motion",
+  "rollnumber": 443,
+  "source_url": "https://voteview.com/rollcall/RS1080443",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-11-06",
+  "vote_result": "Motion Rejected"
+}

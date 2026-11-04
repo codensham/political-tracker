@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES255",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-255-john-kerry",
+  "introduced_date": "1987-07-28",
+  "policy_area": "International Affairs",
+  "published_at": "1987-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/255",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Congress with regard to the forthcoming negotiations by General John Vessey to resolve the fate of Americans missing in Southeast Asia, and other issues of humanitarian concern to the people of the United States and Vietnam.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

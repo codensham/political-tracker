@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2771",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2771-john-kerry",
+  "introduced_date": "2008-03-13",
+  "policy_area": "Families",
+  "published_at": "2008-03-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2771",
+  "title": "White House Conference on Children and Youth in 2010 Act",
+  "topics": [],
+  "type": "bill"
+}

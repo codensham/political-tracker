@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES500",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-500-john-kerry",
+  "introduced_date": "2012-06-20",
+  "policy_area": "Education",
+  "published_at": "2012-06-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/500",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution celebrating the accomplishments of title IX of the Education Amendments of 1972, also known as the Patsy Takemoto Mink Equal Opportunity in Education Act, and recognizing the need to continue pursuing the goal of equal educational opportunities for all women and girls.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

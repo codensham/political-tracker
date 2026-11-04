@@ -1,0 +1,17 @@
+{
+  "archive_url": null,
+  "author": "Jonathan Chait",
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T14:27:26Z",
+  "collector": "rss@1.0",
+  "extraction_status": "pending",
+  "headline": "Donald Trump Is Bad at Politics",
+  "id": "article-the-atlantic-b0f8f0aea7cc",
+  "outlet_id": "the-atlantic",
+  "published_at": "2026-11-03",
+  "source_url": "https://www.theatlantic.com/ideas/2026/11/trump-midterm-losses-winners-losers/689262/?utm_source=feed",
+  "topics": [],
+  "type": "article"
+}

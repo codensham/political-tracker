@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-12221",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2021-12221",
+  "published_at": "2021-06-09",
+  "signing_date": "2021-06-04",
+  "source_url": "https://www.federalregister.gov/documents/2021/06/09/2021-12221/2020-unified-command-plan",
+  "title": "2020 Unified Command Plan",
+  "topics": [],
+  "type": "executive_action"
+}

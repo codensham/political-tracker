@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1012",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1012-john-kerry",
+  "introduced_date": "1987-04-10",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1987-04-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1012",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to increase the amount authorized to be appropriated for property acquisition, restoration, and development, and for transportation, educational, and cultural programs, relating to the Lowell National Historical Park; to continue the term of a member of the Lowell Historic Preservation Commission pending the appointment of a successor; to adjust a quorum of the Commission in the event of a vacancy; and to delay the termination of the Commission.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

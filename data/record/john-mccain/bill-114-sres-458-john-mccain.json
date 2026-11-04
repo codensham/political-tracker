@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES458",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-458-john-mccain",
+  "introduced_date": "2016-05-09",
+  "policy_area": "Congress",
+  "published_at": "2016-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/458",
+  "title": "A resolution relative to the death of Robert F. Bennett, former Senator of the State of Utah.",
+  "topics": [],
+  "type": "bill"
+}

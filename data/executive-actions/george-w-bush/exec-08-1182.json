@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-1182",
+  "document_type": "executive_order",
+  "executive_order_number": "13463",
+  "id": "exec-08-1182",
+  "published_at": "2008-04-23",
+  "signing_date": "2008-04-18",
+  "source_url": "https://www.federalregister.gov/documents/2008/04/23/08-1182/amending-executive-orders-13389-and-13390",
+  "title": "Amending Executive Orders 13389 and 13390",
+  "topics": [],
+  "type": "executive_action"
+}

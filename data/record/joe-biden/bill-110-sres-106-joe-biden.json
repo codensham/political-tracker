@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES106",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-106-joe-biden",
+  "introduced_date": "2008-01-22",
+  "policy_area": "International Affairs",
+  "published_at": "2008-01-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/106",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling on the President to ensure that the foreign policy of the United States reflects appropriate understanding and sensitivity concerning issues related to human rights, ethnic cleansing, and genocide documented in the United States record relating to the Armenian Genocide.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3033",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-3033-kamala-harris",
+  "introduced_date": "2018-06-07",
+  "policy_area": "Emergency Management",
+  "published_at": "2018-06-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3033",
+  "title": "COUNT Victims Act",
+  "topics": [],
+  "type": "bill"
+}

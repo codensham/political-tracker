@@ -1,0 +1,225 @@
+{
+  "version": 1,
+  "source": "Congress.gov policy area names (bill.policyArea.name). Unlisted areas map to no topics.",
+  "mappings": [
+    {
+      "policy_area": "Agriculture and Food",
+      "topics": [
+        "agriculture"
+      ]
+    },
+    {
+      "policy_area": "Animals",
+      "topics": []
+    },
+    {
+      "policy_area": "Armed Forces and National Security",
+      "topics": [
+        "defense"
+      ]
+    },
+    {
+      "policy_area": "Arts, Culture, Religion",
+      "topics": []
+    },
+    {
+      "policy_area": "Civil Rights and Liberties, Minority Issues",
+      "topics": [
+        "civil-rights"
+      ]
+    },
+    {
+      "policy_area": "Commerce",
+      "topics": []
+    },
+    {
+      "policy_area": "Congress",
+      "topics": []
+    },
+    {
+      "policy_area": "Crime and Law Enforcement",
+      "topics": [
+        "criminal-justice"
+      ]
+    },
+    {
+      "policy_area": "Economics and Public Finance",
+      "topics": [
+        "economy"
+      ]
+    },
+    {
+      "policy_area": "Education",
+      "topics": [
+        "education"
+      ]
+    },
+    {
+      "policy_area": "Emergency Management",
+      "topics": []
+    },
+    {
+      "policy_area": "Energy",
+      "topics": [
+        "climate-energy"
+      ]
+    },
+    {
+      "policy_area": "Environmental Protection",
+      "topics": [
+        "environment"
+      ]
+    },
+    {
+      "policy_area": "Families",
+      "topics": []
+    },
+    {
+      "policy_area": "Finance and Financial Sector",
+      "topics": [
+        "economy"
+      ]
+    },
+    {
+      "policy_area": "Foreign Trade and International Finance",
+      "topics": [
+        "trade"
+      ]
+    },
+    {
+      "policy_area": "Government Operations and Politics",
+      "topics": [
+        "elections-democracy"
+      ]
+    },
+    {
+      "policy_area": "Health",
+      "topics": [
+        "healthcare"
+      ]
+    },
+    {
+      "policy_area": "Housing and Community Development",
+      "topics": [
+        "housing"
+      ]
+    },
+    {
+      "policy_area": "Immigration",
+      "topics": [
+        "immigration"
+      ]
+    },
+    {
+      "policy_area": "International Affairs",
+      "topics": [
+        "foreign-policy"
+      ]
+    },
+    {
+      "policy_area": "Labor and Employment",
+      "topics": [
+        "labor"
+      ]
+    },
+    {
+      "policy_area": "Law",
+      "topics": []
+    },
+    {
+      "policy_area": "Native Americans",
+      "topics": []
+    },
+    {
+      "policy_area": "Public Lands and Natural Resources",
+      "topics": [
+        "environment"
+      ]
+    },
+    {
+      "policy_area": "Science, Technology, Communications",
+      "topics": [
+        "technology"
+      ]
+    },
+    {
+      "policy_area": "Social Sciences and History",
+      "topics": []
+    },
+    {
+      "policy_area": "Social Welfare",
+      "topics": []
+    },
+    {
+      "policy_area": "Sports and Recreation",
+      "topics": []
+    },
+    {
+      "policy_area": "Taxation",
+      "topics": [
+        "taxes"
+      ]
+    },
+    {
+      "policy_area": "Transportation and Public Works",
+      "topics": []
+    },
+    {
+      "policy_area": "Water Resources Development",
+      "topics": [
+        "environment"
+      ]
+    },
+    {
+      "policy_area": "Private Legislation",
+      "topics": []
+    },
+    {
+      "policy_area": "Commemorations",
+      "topics": []
+    },
+    {
+      "policy_area": "Disasters",
+      "topics": []
+    },
+    {
+      "policy_area": "Leases",
+      "topics": []
+    },
+    {
+      "policy_area": "Independent regulatory commissions",
+      "topics": []
+    },
+    {
+      "policy_area": "Credit",
+      "topics": [
+        "economy"
+      ]
+    },
+    {
+      "policy_area": "Depletion allowances",
+      "topics": [
+        "taxes"
+      ]
+    },
+    {
+      "policy_area": "Power resources",
+      "topics": [
+        "labor"
+      ]
+    },
+    {
+      "policy_area": "Busing (School integration)",
+      "topics": [
+        "education",
+        "civil-rights"
+      ]
+    },
+    {
+      "policy_area": "Automobile theft",
+      "topics": [
+        "criminal-justice"
+      ]
+    }
+  ]
+}

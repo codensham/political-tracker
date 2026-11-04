@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1428",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1428-john-mccain",
+  "introduced_date": "1995-11-28",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1995-11-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1428",
+  "tagged_by": "crosswalk@1",
+  "title": "Federal Shutdown Equity Act",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

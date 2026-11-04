@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2937",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-2937-kamala-harris",
+  "introduced_date": "2019-11-21",
+  "policy_area": "Labor and Employment",
+  "published_at": "2019-11-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2937",
+  "tagged_by": "crosswalk@1",
+  "title": "Treating Workers with Dignity Act of 2019",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

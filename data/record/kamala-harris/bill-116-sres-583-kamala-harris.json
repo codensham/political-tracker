@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES583",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-583-kamala-harris",
+  "introduced_date": "2020-05-19",
+  "policy_area": "Congress",
+  "published_at": "2020-05-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/583",
+  "title": "A resolution honoring the life and achievements of former United States Senator Thomas Allen Coburn and expressing condolences to the family of Thomas Allen Coburn on his passing.",
+  "topics": [],
+  "type": "bill"
+}

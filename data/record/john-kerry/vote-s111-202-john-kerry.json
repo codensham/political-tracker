@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2346",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-202-john-kerry",
+  "published_at": "2009-05-21",
+  "question": "On Passage of the Bill",
+  "rollnumber": 202,
+  "source_url": "https://voteview.com/rollcall/RS1110202",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-05-21",
+  "vote_result": "Bill Passed"
+}

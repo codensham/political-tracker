@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2801",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2801-john-mccain",
+  "introduced_date": "1990-06-27",
+  "policy_area": "Health",
+  "published_at": "1990-06-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2801",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to direct the Secretary of Health and Human Services to phase in the update to the area wage index used to determine the amount of payment made to a hospital under Part A of the Medicare program for the operating costs of inpatient hospital services for inpatient discharges occurring during fiscal year 1991, and for other purposes.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

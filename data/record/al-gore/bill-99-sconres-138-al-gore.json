@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES138",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-138-al-gore",
+  "introduced_date": "1986-05-14",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1986-05-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/138",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress with respect to Farm Credit System agricultural loan restructing.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

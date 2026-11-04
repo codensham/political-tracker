@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2618",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-2618-john-mccain",
+  "introduced_date": "1998-10-10",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1998-10-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/2618",
+  "tagged_by": "crosswalk@1",
+  "title": "Foreign Competition in Foreign Commerce Act",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

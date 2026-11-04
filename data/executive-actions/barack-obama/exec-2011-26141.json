@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-26141",
+  "document_type": "executive_order",
+  "executive_order_number": "13585",
+  "id": "exec-2011-26141",
+  "published_at": "2011-10-07",
+  "signing_date": "2011-09-30",
+  "source_url": "https://www.federalregister.gov/documents/2011/10/07/2011-26141/continuance-of-certain-federal-advisory-committees",
+  "title": "Continuance of Certain Federal Advisory Committees",
+  "topics": [],
+  "type": "executive_action"
+}

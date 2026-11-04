@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR748",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-508-kamala-harris",
+  "published_at": "2020-03-25",
+  "question": "On Passage of the Bill",
+  "rollnumber": 508,
+  "source_url": "https://voteview.com/rollcall/RS1160508",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2020-03-25",
+  "vote_result": "Bill Passed"
+}

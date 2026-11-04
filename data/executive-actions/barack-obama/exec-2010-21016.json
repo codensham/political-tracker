@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-21016",
+  "document_type": "executive_order",
+  "executive_order_number": "13549",
+  "id": "exec-2010-21016",
+  "published_at": "2010-08-23",
+  "signing_date": "2010-08-18",
+  "source_url": "https://www.federalregister.gov/documents/2010/08/23/2010-21016/classified-national-security-information-program-for-state-local-tribal-and-private-sector-entities",
+  "title": "Classified National Security Information Program for State, Local, Tribal, and Private Sector Entities",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-24066",
+  "document_type": "executive_order",
+  "executive_order_number": "13741",
+  "id": "exec-2016-24066",
+  "published_at": "2016-10-04",
+  "signing_date": "2016-09-29",
+  "source_url": "https://www.federalregister.gov/documents/2016/10/04/2016-24066/amending-executive-order-13467-to-establish-the-roles-and-responsibilities-of-the-national",
+  "title": "Amending Executive Order 13467 To Establish the Roles and Responsibilities of the National Background Investigations Bureau and Related Matters",
+  "topics": [],
+  "type": "executive_action"
+}

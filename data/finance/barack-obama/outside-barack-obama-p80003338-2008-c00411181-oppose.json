@@ -1,0 +1,18 @@
+{
+  "amount": 7200.86,
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C00411181",
+  "committee_name": "FIDELIS POLITICAL ACTION",
+  "cycle": 2008,
+  "fec_candidate_id": "P80003338",
+  "id": "outside-barack-obama-p80003338-2008-c00411181-oppose",
+  "published_at": "2008-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P80003338/?cycle=2008",
+  "support_oppose": "oppose",
+  "topics": [],
+  "type": "outside_spending"
+}

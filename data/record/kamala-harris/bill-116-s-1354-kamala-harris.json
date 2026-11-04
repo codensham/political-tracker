@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1354",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-1354-kamala-harris",
+  "introduced_date": "2019-06-10",
+  "policy_area": "Education",
+  "published_at": "2019-06-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1354",
+  "tagged_by": "crosswalk@1",
+  "title": "Student Loan Borrower Bill of Rights",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES309",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-309-joe-biden",
+  "introduced_date": "1990-05-08",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1990-05-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/309",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution designating the month of October 1990 as \"Crime Prevention Month\".",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

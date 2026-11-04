@@ -1,0 +1,24 @@
+{
+  "bill_number": "S2631",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-693-al-gore",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1988-07-28",
+  "question": null,
+  "rollnumber": 693,
+  "source_url": "https://voteview.com/rollcall/RS1000693",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "vote",
+  "vote_date": "1988-07-28",
+  "vote_result": null
+}

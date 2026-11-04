@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES252",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-252-kamala-harris",
+  "introduced_date": "2019-09-12",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2019-09-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/252",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating September 2019 as National Democracy Month as a time to reflect on the contributions of the system of government of the United States to a more free and stable world.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

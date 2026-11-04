@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3541",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3541-hillary-clinton",
+  "introduced_date": "2008-09-23",
+  "policy_area": "International Affairs",
+  "published_at": "2008-09-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3541",
+  "tagged_by": "crosswalk@1",
+  "title": "Iraqi Refugee and Internally Displaced Persons Humanitarian Assistance, Resettlement, and Security Act of 2008",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

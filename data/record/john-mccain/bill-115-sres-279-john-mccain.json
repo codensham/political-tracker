@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES279",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-279-john-mccain",
+  "introduced_date": "2017-10-03",
+  "policy_area": "International Affairs",
+  "published_at": "2017-10-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/279",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution reaffirming the commitment of the United States to promote democracy, human rights, and the rule of law in Cambodia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES512",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-512-john-mccain",
+  "introduced_date": "2006-06-14",
+  "policy_area": "Commemorations",
+  "published_at": "2006-06-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/512",
+  "title": "A resolution celebrating the 231st birthday of the Army and commending the men and women of the Army as exceptional individuals who live by the values of loyalty, duty, and selfless service.",
+  "topics": [],
+  "type": "bill"
+}

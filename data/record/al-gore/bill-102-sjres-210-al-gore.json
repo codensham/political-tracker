@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES210",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sjres-210-al-gore",
+  "introduced_date": "1992-02-25",
+  "policy_area": "Social Welfare",
+  "published_at": "1992-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/210",
+  "title": "A joint resolution to designate March 12, 1992, as \"Girl Scouts of the United States of America 80th Anniversary Day\".",
+  "topics": [],
+  "type": "bill"
+}

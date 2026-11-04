@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES563",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-563-john-kerry",
+  "introduced_date": "2012-09-19",
+  "policy_area": "Health",
+  "published_at": "2012-09-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/563",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating December 3, 2012, as \"National Phenylketonuria Awareness Day\".",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

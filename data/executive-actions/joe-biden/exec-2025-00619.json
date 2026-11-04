@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-00619",
+  "document_type": "executive_order",
+  "executive_order_number": "14138",
+  "id": "exec-2025-00619",
+  "published_at": "2025-01-13",
+  "signing_date": "2025-01-03",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/13/2025-00619/providing-an-order-of-succession-within-the-office-of-management-and-budget",
+  "title": "Providing an Order of Succession Within the Office of Management and Budget",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3732",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3732-john-kerry",
+  "introduced_date": "2010-08-05",
+  "policy_area": "Education",
+  "published_at": "2010-08-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3732",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to establish within the Department of Education the Innovation Inspiration school grant program, and for other purposes.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

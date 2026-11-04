@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3711",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3711-john-kerry",
+  "introduced_date": "2010-08-05",
+  "policy_area": "Health",
+  "published_at": "2010-08-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3711",
+  "tagged_by": "crosswalk@1",
+  "title": "Viral Hepatitis and Liver Cancer Control and Prevention Act of 2010",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES17",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-17-john-kerry",
+  "introduced_date": "2001-03-19",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2001-03-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/17",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress that there should continue to be parity between the adjustments in the compensation of members of the uniformed services and the adjustments in the compensation of civilian employees of the United States.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

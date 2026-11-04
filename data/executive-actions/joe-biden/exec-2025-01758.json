@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-01758",
+  "document_type": "executive_order",
+  "executive_order_number": "14145",
+  "id": "exec-2025-01758",
+  "published_at": "2025-01-24",
+  "signing_date": "2025-01-19",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/24/2025-01758/helping-left-behind-communities-make-a-comeback",
+  "title": "Helping Left-Behind Communities Make a Comeback",
+  "topics": [],
+  "type": "executive_action"
+}

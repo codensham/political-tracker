@@ -1,0 +1,18 @@
+{
+  "bill_number": "S287",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-287-joe-biden",
+  "introduced_date": "1999-01-21",
+  "policy_area": "Commerce",
+  "published_at": "1999-01-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/287",
+  "title": "Small Business Administration Equal Representation Act",
+  "topics": [],
+  "type": "bill"
+}

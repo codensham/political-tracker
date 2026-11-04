@@ -1,0 +1,20 @@
+{
+  "archive_url": null,
+  "author": null,
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T14:27:26Z",
+  "collector": "rss@1.0",
+  "extraction_status": "pending",
+  "headline": "Democrat seize House control in stunning blue tsunami, vow retribution against Trump admin",
+  "id": "article-fox-0c95369b224e",
+  "outlet_id": "fox",
+  "published_at": "2026-11-03",
+  "source_url": "https://www.foxnews.com/politics/democrat-seize-house-control-stunning-blue-tsunami-vow-retribution-against-trump-admin",
+  "tagged_by": "tag-records@1",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "article"
+}

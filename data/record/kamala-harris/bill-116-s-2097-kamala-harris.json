@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2097",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-2097-kamala-harris",
+  "introduced_date": "2019-07-11",
+  "policy_area": "Immigration",
+  "published_at": "2019-07-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2097",
+  "tagged_by": "crosswalk@1",
+  "title": "Protecting Sensitive Locations Act",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

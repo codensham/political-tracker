@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES203",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-203-joe-biden",
+  "introduced_date": "1987-11-13",
+  "policy_area": "International Affairs",
+  "published_at": "1987-11-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/203",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution calling upon the Soviet Union immediately to grant permission to emigrate to all those who wish to join spouses in the United States.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

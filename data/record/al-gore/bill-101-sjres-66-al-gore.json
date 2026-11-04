@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES66",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-66-al-gore",
+  "introduced_date": "1989-03-17",
+  "policy_area": "Animals",
+  "published_at": "1989-03-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/66",
+  "title": "A joint resolution to designate the third week of June of 1989 as \"National Dairy Goat Awareness Week\".",
+  "topics": [],
+  "type": "bill"
+}

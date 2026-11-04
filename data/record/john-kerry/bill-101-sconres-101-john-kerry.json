@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES101",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-101-john-kerry",
+  "introduced_date": "1990-03-27",
+  "policy_area": "International Affairs",
+  "published_at": "1990-03-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/101",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Senate concerning negotiations for a peace settlement in Cambodia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

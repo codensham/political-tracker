@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-12651",
+  "document_type": "executive_order",
+  "executive_order_number": "13668",
+  "id": "exec-2014-12651",
+  "published_at": "2014-05-29",
+  "signing_date": "2014-05-27",
+  "source_url": "https://www.federalregister.gov/documents/2014/05/29/2014-12651/ending-immunities-granted-to-the-development-fund-for-iraq-and-certain-other-iraqi-property-and",
+  "title": "Ending Immunities Granted to the Development Fund for Iraq and Certain Other Iraqi Property and Interests in Property Pursuant to Executive Order 13303, as Amended",
+  "topics": [],
+  "type": "executive_action"
+}

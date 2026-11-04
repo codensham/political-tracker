@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-11810",
+  "document_type": "executive_order",
+  "executive_order_number": "14074",
+  "id": "exec-2022-11810",
+  "published_at": "2022-05-31",
+  "signing_date": "2022-05-25",
+  "source_url": "https://www.federalregister.gov/documents/2022/05/31/2022-11810/advancing-effective-accountable-policing-and-criminal-justice-practices-to-enhance-public-trust-and",
+  "title": "Advancing Effective, Accountable Policing and Criminal Justice Practices To Enhance Public Trust and Public Safety",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1200",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-426-john-mccain",
+  "published_at": "2002-03-12",
+  "question": "On the Nomination",
+  "rollnumber": 426,
+  "source_url": "https://voteview.com/rollcall/RS1070426",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-03-12",
+  "vote_result": "Nomination Confirmed"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1333",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1333-john-mccain",
+  "introduced_date": "1987-06-25",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1987-06-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1333",
+  "title": "A bill to allow the 65 miles per hour speed limit on highways that meet interstate standards and are not currently on the National System of Interstate and Defense Highways.",
+  "topics": [],
+  "type": "bill"
+}

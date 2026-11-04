@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5517",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-444-john-kerry",
+  "published_at": "1992-07-30",
+  "question": "On the Motion to Table",
+  "rollnumber": 444,
+  "source_url": "https://voteview.com/rollcall/RS1020444",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-07-30",
+  "vote_result": "Motion to Table Agreed to"
+}

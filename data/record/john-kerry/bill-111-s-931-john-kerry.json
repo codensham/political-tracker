@@ -1,0 +1,18 @@
+{
+  "bill_number": "S931",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-931-john-kerry",
+  "introduced_date": "2009-04-29",
+  "policy_area": "Law",
+  "published_at": "2009-04-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/931",
+  "title": "Arbitration Fairness Act of 2009",
+  "topics": [],
+  "type": "bill"
+}

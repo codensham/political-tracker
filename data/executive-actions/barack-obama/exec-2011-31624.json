@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-31624",
+  "document_type": "executive_order",
+  "executive_order_number": "13592",
+  "id": "exec-2011-31624",
+  "published_at": "2011-12-08",
+  "signing_date": "2011-12-02",
+  "source_url": "https://www.federalregister.gov/documents/2011/12/08/2011-31624/improving-american-indian-and-alaska-native-educational-opportunities-and-strengthening-tribal",
+  "title": "Improving American Indian and Alaska Native Educational Opportunities and Strengthening Tribal Colleges and Universities",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-19960",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2013-19960",
+  "published_at": "2013-08-15",
+  "signing_date": "2013-08-12",
+  "source_url": "https://www.federalregister.gov/documents/2013/08/15/2013-19960/reviewing-our-global-signals-intelligence-collection-and-communications-technologies",
+  "title": "Reviewing Our Global Signals Intelligence Collection and Communications Technologies",
+  "topics": [],
+  "type": "executive_action"
+}

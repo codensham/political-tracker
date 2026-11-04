@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1052",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-193-john-mccain",
+  "policy_area": "Health",
+  "published_at": "2001-06-21",
+  "question": "On the Motion to Proceed",
+  "rollnumber": 193,
+  "source_url": "https://voteview.com/rollcall/RS1070193",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "vote",
+  "vote_date": "2001-06-21",
+  "vote_result": "Motion to Proceed Agreed to"
+}

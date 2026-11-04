@@ -1,0 +1,21 @@
+{
+  "bill_number": "S644",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-644-john-kerry",
+  "introduced_date": "2007-06-14",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2007-06-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/644",
+  "tagged_by": "crosswalk@1",
+  "title": "Total Force Educational Assistance Enhancement and Integration Act of 2007",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

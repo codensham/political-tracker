@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1557",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1557-john-mccain",
+  "introduced_date": "1987-07-28",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1987-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1557",
+  "title": "Air Traffic Control Safety Improvement Act of 1987",
+  "topics": [],
+  "type": "bill"
+}

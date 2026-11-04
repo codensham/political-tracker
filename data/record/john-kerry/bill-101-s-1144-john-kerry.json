@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1144",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1144-john-kerry",
+  "introduced_date": "1989-06-07",
+  "policy_area": "International Affairs",
+  "published_at": "1989-06-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1144",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize and direct the United States Executive Director of the International Monetary Fund to promote staffing and policy changes with respect to the management of natural resources, and for other purposes.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

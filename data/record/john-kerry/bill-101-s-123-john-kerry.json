@@ -1,0 +1,21 @@
+{
+  "bill_number": "S123",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-123-john-kerry",
+  "introduced_date": "1989-01-25",
+  "policy_area": "Education",
+  "published_at": "1989-01-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/123",
+  "tagged_by": "crosswalk@1",
+  "title": "Smart Start:  The Community Collaborative for Early Childhood Development Act of 1989",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

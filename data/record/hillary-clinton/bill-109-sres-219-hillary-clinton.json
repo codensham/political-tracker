@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES219",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-219-hillary-clinton",
+  "introduced_date": "2005-07-28",
+  "policy_area": "Commemorations",
+  "published_at": "2005-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/219",
+  "title": "A resolution designating March 8, 2006, as \"Endangered Species Day\", and encouraging the people of the United States to become educated about, and aware of, threats to species, success stories in species recovery, and the opportunity to promote species conservation worldwide.",
+  "topics": [],
+  "type": "bill"
+}

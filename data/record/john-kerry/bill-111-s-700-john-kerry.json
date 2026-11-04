@@ -1,0 +1,21 @@
+{
+  "bill_number": "S700",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-700-john-kerry",
+  "introduced_date": "2010-03-16",
+  "policy_area": "Health",
+  "published_at": "2010-03-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/700",
+  "tagged_by": "crosswalk@1",
+  "title": "Ending the Medicare Disability Waiting Period Act of 2009",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

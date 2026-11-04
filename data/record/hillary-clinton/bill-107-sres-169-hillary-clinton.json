@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES169",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-169-hillary-clinton",
+  "introduced_date": "2001-10-09",
+  "policy_area": "Commemorations",
+  "published_at": "2001-10-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/169",
+  "title": "A resolution relative to the death of the Honorable Mike Mansfield, formerly a Senator from the State of Montana.",
+  "topics": [],
+  "type": "bill"
+}

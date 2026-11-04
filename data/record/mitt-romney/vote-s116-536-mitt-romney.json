@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1685",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-536-mitt-romney",
+  "published_at": "2020-06-03",
+  "question": "On the Cloture Motion",
+  "rollnumber": 536,
+  "source_url": "https://voteview.com/rollcall/RS1160536",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2020-06-03",
+  "vote_result": "Cloture Motion Agreed to"
+}

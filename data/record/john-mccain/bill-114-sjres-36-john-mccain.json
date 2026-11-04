@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES36",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sjres-36-john-mccain",
+  "introduced_date": "2016-06-29",
+  "policy_area": "Families",
+  "published_at": "2016-06-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-joint-resolution/36",
+  "title": "A joint resolution proposing an amendment to the Constitution of the United States relating to parental rights.",
+  "topics": [],
+  "type": "bill"
+}

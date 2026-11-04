@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-25439",
+  "document_type": "executive_order",
+  "executive_order_number": "13681",
+  "id": "exec-2014-25439",
+  "published_at": "2014-10-23",
+  "signing_date": "2014-10-17",
+  "source_url": "https://www.federalregister.gov/documents/2014/10/23/2014-25439/improving-the-security-of-consumer-financial-transactions",
+  "title": "Improving the Security of Consumer Financial Transactions",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1345",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1345-john-kerry",
+  "introduced_date": "2003-07-08",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2003-07-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1345",
+  "title": "Ferry Transportation Enhancement Act",
+  "topics": [],
+  "type": "bill"
+}

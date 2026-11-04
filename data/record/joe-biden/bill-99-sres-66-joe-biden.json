@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES66",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-66-joe-biden",
+  "introduced_date": "1985-03-06",
+  "policy_area": "International Affairs",
+  "published_at": "1985-03-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/66",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate with respect to certain matters involving the Government of New Zealand and the United States.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2954",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2954-john-kerry",
+  "introduced_date": "2000-07-27",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2000-07-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2954",
+  "tagged_by": "crosswalk@1",
+  "title": "Dr. Nancy Foster Marine Biology Scholarship Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

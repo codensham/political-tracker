@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4783",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-s-4783-mitt-romney",
+  "introduced_date": "2024-07-25",
+  "policy_area": "Education",
+  "published_at": "2024-07-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/4783",
+  "tagged_by": "crosswalk@1",
+  "title": "Smart Kids not Smartphones Act of 2024",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

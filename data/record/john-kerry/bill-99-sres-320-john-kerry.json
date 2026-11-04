@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES320",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-320-john-kerry",
+  "introduced_date": "1986-02-03",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "1986-02-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/320",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution affirming, in part, and disaffirming, in part, the order issued by the President under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 for fiscal year 1986, and instructing the appropriate committees of the Senate to report certain changes in the laws within their jurisdiction.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES70",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-70-al-gore",
+  "introduced_date": "1989-09-18",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1989-09-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/70",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution commending NASA and the Jet Propulsion Laboratory for the continuing successes of the Voyager space missions to the outer solar system.",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

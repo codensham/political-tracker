@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-19209",
+  "document_type": "executive_order",
+  "executive_order_number": "13703",
+  "id": "exec-2015-19209",
+  "published_at": "2015-08-04",
+  "signing_date": "2015-07-30",
+  "source_url": "https://www.federalregister.gov/documents/2015/08/04/2015-19209/implementing-the-national-hivaids-strategy-for-the-united-states-for-2015-2020",
+  "title": "Implementing the National HIV/AIDS Strategy for the United States for 2015-2020",
+  "topics": [],
+  "type": "executive_action"
+}

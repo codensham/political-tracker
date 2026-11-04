@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR9230",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-hr-9230-al-gore",
+  "introduced_date": "1977-09-20",
+  "policy_area": "Private Legislation",
+  "published_at": "1977-09-20",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/house-bill/9230",
+  "title": "A bill for the relief of Imelda T. Santos, Lourdes G. Rulloda, and Norma Calica.",
+  "topics": [],
+  "type": "bill"
+}

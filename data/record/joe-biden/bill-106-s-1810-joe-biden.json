@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1810",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1810-joe-biden",
+  "introduced_date": "2000-03-20",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2000-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1810",
+  "tagged_by": "crosswalk@1",
+  "title": "Veterans Programs Enhancement Act of 2000",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

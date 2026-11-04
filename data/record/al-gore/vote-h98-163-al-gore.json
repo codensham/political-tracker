@@ -1,0 +1,24 @@
+{
+  "bill_number": "HR2355",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-163-al-gore",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1983-06-07",
+  "question": null,
+  "rollnumber": 163,
+  "source_url": "https://voteview.com/rollcall/RH0980163",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "defense"
+  ],
+  "type": "vote",
+  "vote_date": "1983-06-07",
+  "vote_result": null
+}

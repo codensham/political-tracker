@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1099",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1099-john-kerry",
+  "introduced_date": "1991-06-03",
+  "policy_area": "Education",
+  "published_at": "1991-06-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1099",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 201(b)(2) of the Higher Education Act of 1965 to reauthorize funding for library training, research, and development.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

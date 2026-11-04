@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR860",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-860-al-gore",
+  "introduced_date": "1981-01-16",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1981-01-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/860",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Wild and Scenic Rivers Act to provide for the study of certain river segments for potential inclusion in the National Wild and Scenic Rivers System and to designate certain river segments for inclusion in such system, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

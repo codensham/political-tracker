@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-4071",
+  "document_type": "executive_order",
+  "executive_order_number": "13257",
+  "id": "exec-02-4071",
+  "published_at": "2002-02-19",
+  "signing_date": "2002-02-13",
+  "source_url": "https://www.federalregister.gov/documents/2002/02/19/02-4071/presidents-interagency-task-force-to-monitor-and-combat-trafficking-in-persons",
+  "title": "President's Interagency Task Force To Monitor and Combat Trafficking in Persons",
+  "topics": [],
+  "type": "executive_action"
+}

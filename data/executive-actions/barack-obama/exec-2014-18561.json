@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-18561",
+  "document_type": "executive_order",
+  "executive_order_number": "13673",
+  "id": "exec-2014-18561",
+  "published_at": "2014-08-05",
+  "signing_date": "2014-07-31",
+  "source_url": "https://www.federalregister.gov/documents/2014/08/05/2014-18561/fair-pay-and-safe-workplaces",
+  "title": "Fair Pay and Safe Workplaces",
+  "topics": [],
+  "type": "executive_action"
+}

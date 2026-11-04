@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES29",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-29-joe-biden",
+  "introduced_date": "1991-01-31",
+  "policy_area": "Congress",
+  "published_at": "1991-01-31",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/29",
+  "title": "An original resolution authorizing expenditures by the Committee on the Judiciary.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S519",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-519-joe-biden",
+  "introduced_date": "1989-04-05",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1989-04-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/519",
+  "title": "A bill to prohibit smoking on any scheduled airline flight in intrastate, interstate, or overseas air transportation.",
+  "topics": [],
+  "type": "bill"
+}

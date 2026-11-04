@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES524",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-524-mitt-romney",
+  "introduced_date": "2022-02-17",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2022-02-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/524",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing support for the designation of February 19 through February 26, 2022, as \"National FFA Week\", recognizing the important role of the National FFA Organization in developing the next generation of leaders who will change the world, and celebrating 70 years of the National FFA Organization's membership magazine, originally called The National Future Farmer, now called New Horizons.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

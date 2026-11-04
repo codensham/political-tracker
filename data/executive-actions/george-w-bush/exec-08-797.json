@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-797",
+  "document_type": "executive_order",
+  "executive_order_number": "13461",
+  "id": "exec-08-797",
+  "published_at": "2008-02-20",
+  "signing_date": "2008-02-15",
+  "source_url": "https://www.federalregister.gov/documents/2008/02/20/08-797/providing-an-order-of-succession-within-the-department-of-health-and-human-services",
+  "title": "Providing an Order of Succession Within the Department of Health and Human Services",
+  "topics": [],
+  "type": "executive_action"
+}

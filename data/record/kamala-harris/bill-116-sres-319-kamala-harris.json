@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES319",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-319-kamala-harris",
+  "introduced_date": "2019-09-19",
+  "policy_area": "Education",
+  "published_at": "2019-09-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/319",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating the week beginning September 16, 2019, as National Hispanic-Serving Institutions Week.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

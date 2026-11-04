@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES280",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-280-john-mccain",
+  "introduced_date": "1988-07-28",
+  "policy_area": "Commemorations",
+  "published_at": "1988-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/280",
+  "title": "A joint resolution to designate the week of November 27, 1988 through December 3, 1988 as \"National Home Care Week\".",
+  "topics": [],
+  "type": "bill"
+}

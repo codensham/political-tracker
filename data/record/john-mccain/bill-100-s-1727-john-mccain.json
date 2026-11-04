@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1727",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1727-john-mccain",
+  "introduced_date": "1988-05-09",
+  "policy_area": "Health",
+  "published_at": "1988-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1727",
+  "tagged_by": "crosswalk@1",
+  "title": "National Deafness and Other Communications Disorders Act of 1988",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

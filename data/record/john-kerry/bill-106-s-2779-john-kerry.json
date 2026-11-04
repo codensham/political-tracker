@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2779",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2779-john-kerry",
+  "introduced_date": "2000-06-22",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2000-06-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2779",
+  "tagged_by": "crosswalk@1",
+  "title": "American Community Renewal and New Markets Empowerment Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

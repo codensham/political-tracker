@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES26",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-26-john-kerry",
+  "introduced_date": "2011-01-26",
+  "policy_area": "International Affairs",
+  "published_at": "2011-01-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/26",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the anniversary of the tragic earthquake in Haiti on January 12, 2010, honoring those who lost their lives in that earthquake, and expressing continued solidarity with the Haitian people.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

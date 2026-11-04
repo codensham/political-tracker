@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-08650",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-08650",
+  "published_at": "2014-04-15",
+  "signing_date": "2014-04-10",
+  "source_url": "https://www.federalregister.gov/documents/2014/04/15/2014-08650/education-and-sharing-day-usa-2014",
+  "title": "Education and Sharing Day, U.S.A., 2014",
+  "topics": [],
+  "type": "executive_action"
+}

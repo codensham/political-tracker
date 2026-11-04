@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2455",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-s-2455-joe-biden",
+  "introduced_date": "1978-01-30",
+  "policy_area": "Housing and Community Development",
+  "published_at": "1978-01-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/senate-bill/2455",
+  "tagged_by": "crosswalk@1",
+  "title": "Home Owners Equity Act",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

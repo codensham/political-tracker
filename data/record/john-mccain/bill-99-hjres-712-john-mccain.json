@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES712",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-712-john-mccain",
+  "introduced_date": "1986-08-14",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1986-08-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/712",
+  "title": "A joint resolution to request that the entertainment industry take certain steps to assist in the national war against illegal drugs.",
+  "topics": [],
+  "type": "bill"
+}

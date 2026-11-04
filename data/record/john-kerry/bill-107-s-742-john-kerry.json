@@ -1,0 +1,21 @@
+{
+  "bill_number": "S742",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-742-john-kerry",
+  "introduced_date": "2001-04-06",
+  "policy_area": "Labor and Employment",
+  "published_at": "2001-04-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/742",
+  "tagged_by": "crosswalk@1",
+  "title": "Retirement Security and Savings Act of 2001",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

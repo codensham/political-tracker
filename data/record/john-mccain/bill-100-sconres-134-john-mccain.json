@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES134",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sconres-134-john-mccain",
+  "introduced_date": "1988-08-02",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1988-08-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/134",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to urge States and the Federal Election Commission to evaluate the success of the Kids Voting Program in Arizona.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

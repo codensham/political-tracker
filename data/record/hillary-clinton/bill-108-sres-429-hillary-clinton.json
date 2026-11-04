@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES429",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-429-hillary-clinton",
+  "introduced_date": "2004-09-27",
+  "policy_area": "Congress",
+  "published_at": "2004-09-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/429",
+  "title": "A resolution establishing a special committee of the Senate to investigate the awarding and carrying out of contracts to conduct activities in Afghanistan and Iraq and to fight the war on terrorism.",
+  "topics": [],
+  "type": "bill"
+}

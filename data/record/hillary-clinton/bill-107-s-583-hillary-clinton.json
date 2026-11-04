@@ -1,0 +1,18 @@
+{
+  "bill_number": "S583",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-583-hillary-clinton",
+  "introduced_date": "2001-03-21",
+  "policy_area": "Social Welfare",
+  "published_at": "2001-03-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/583",
+  "title": "Nutrition Assistance for Working Families and Seniors Act of 2001",
+  "topics": [],
+  "type": "bill"
+}

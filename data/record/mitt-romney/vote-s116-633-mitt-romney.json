@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1663",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-633-mitt-romney",
+  "published_at": "2020-10-20",
+  "question": "On the Motion to Proceed",
+  "rollnumber": 633,
+  "source_url": "https://voteview.com/rollcall/RS1160633",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2020-10-20",
+  "vote_result": "Motion to Proceed Agreed to"
+}

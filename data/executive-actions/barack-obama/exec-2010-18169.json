@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-18169",
+  "document_type": "executive_order",
+  "executive_order_number": "13547",
+  "id": "exec-2010-18169",
+  "published_at": "2010-07-22",
+  "signing_date": "2010-07-19",
+  "source_url": "https://www.federalregister.gov/documents/2010/07/22/2010-18169/stewardship-of-the-ocean-our-coasts-and-the-great-lakes",
+  "title": "Stewardship of the Ocean, Our Coasts, and the Great Lakes",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1932",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1932-john-kerry",
+  "introduced_date": "2010-03-25",
+  "policy_area": "Education",
+  "published_at": "2010-03-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1932",
+  "tagged_by": "crosswalk@1",
+  "title": "Post 9/11 Troops to Teachers Enhancement Act",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

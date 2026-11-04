@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-00058",
+  "document_type": "executive_order",
+  "executive_order_number": "13687",
+  "id": "exec-2015-00058",
+  "published_at": "2015-01-06",
+  "signing_date": "2015-01-02",
+  "source_url": "https://www.federalregister.gov/documents/2015/01/06/2015-00058/imposing-additional-sanctions-with-respect-to-north-korea",
+  "title": "Imposing Additional Sanctions With Respect To North Korea",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "S919",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-207-joe-biden",
+  "published_at": "1993-07-22",
+  "question": "On the Motion to Reconsider",
+  "rollnumber": 207,
+  "source_url": "https://voteview.com/rollcall/RS1030207",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1993-07-22",
+  "vote_result": "Motion to Reconsider Agreed to"
+}

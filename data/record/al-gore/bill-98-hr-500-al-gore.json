@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR500",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-500-al-gore",
+  "introduced_date": "1983-02-15",
+  "policy_area": "Taxation",
+  "published_at": "1983-02-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/500",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to repeal sections 302 through 308 of the Tax Equity and Fiscal Responsibility Act of 1982, which impose withholding on interest and dividends.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

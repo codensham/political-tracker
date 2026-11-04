@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES508",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-508-mitt-romney",
+  "introduced_date": "2020-02-27",
+  "policy_area": "Congress",
+  "published_at": "2020-02-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/508",
+  "title": "A resolution commemorating the 150th anniversary of the historic seating of Hiram Rhodes Revels as the first African American United States Senator.",
+  "topics": [],
+  "type": "bill"
+}

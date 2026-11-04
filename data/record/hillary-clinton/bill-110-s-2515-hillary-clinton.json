@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2515",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2515-hillary-clinton",
+  "introduced_date": "2007-12-18",
+  "policy_area": "Emergency Management",
+  "published_at": "2007-12-18",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2515",
+  "title": "Skilled Trades Second Responders Act of 2007",
+  "topics": [],
+  "type": "bill"
+}

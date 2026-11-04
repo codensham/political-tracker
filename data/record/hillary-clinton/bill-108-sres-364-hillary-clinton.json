@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES364",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-364-hillary-clinton",
+  "introduced_date": "2004-05-18",
+  "policy_area": "Energy",
+  "published_at": "2004-05-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/364",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate concerning oil markets.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

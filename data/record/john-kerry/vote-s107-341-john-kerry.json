@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1552",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-341-john-kerry",
+  "published_at": "2001-11-15",
+  "question": "On the Motion to Table",
+  "rollnumber": 341,
+  "source_url": "https://voteview.com/rollcall/RS1070341",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-11-15",
+  "vote_result": "Motion to Table Agreed to"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2449",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2449-john-kerry",
+  "introduced_date": "2006-03-16",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2006-03-16",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2449",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to reduce the age for receipt of military retired pay for nonregular service from 60 years of age to 55 years of age.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3658",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3658-kamala-harris",
+  "introduced_date": "2020-08-05",
+  "policy_area": "Emergency Management",
+  "published_at": "2020-08-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3658",
+  "title": "Achieving Racial and Ethnic Equity in Disaster Response, Recovery, and Resilience Act of 2020",
+  "topics": [],
+  "type": "bill"
+}

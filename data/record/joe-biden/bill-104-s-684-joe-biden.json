@@ -1,0 +1,21 @@
+{
+  "bill_number": "S684",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-684-joe-biden",
+  "introduced_date": "1995-12-15",
+  "policy_area": "Health",
+  "published_at": "1995-12-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/684",
+  "tagged_by": "crosswalk@1",
+  "title": "Morris K. Udall Parkinson's Research, Assistance, and Education Act of 1995",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

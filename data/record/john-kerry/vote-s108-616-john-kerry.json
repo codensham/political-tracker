@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4520",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-616-john-kerry",
+  "published_at": "2004-07-15",
+  "question": "On the Motion",
+  "rollnumber": 616,
+  "source_url": "https://voteview.com/rollcall/RS1080616",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-07-15",
+  "vote_result": "Motion Agreed to"
+}

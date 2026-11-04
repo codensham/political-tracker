@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES253",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-253-john-mccain",
+  "introduced_date": "1988-02-04",
+  "policy_area": "Commemorations",
+  "published_at": "1988-02-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/253",
+  "title": "A joint resolution designating April 9, 1988 and April 9, 1989, as \"National Former Prisoner of War Recognition Day.\"",
+  "topics": [],
+  "type": "bill"
+}

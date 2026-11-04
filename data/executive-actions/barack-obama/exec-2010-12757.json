@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-12757",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-12757",
+  "published_at": "2010-05-26",
+  "signing_date": "2010-05-21",
+  "source_url": "https://www.federalregister.gov/documents/2010/05/26/2010-12757/improving-energy-security-american-competitiveness-and-job-creation-and-environmental-protection",
+  "title": "Improving Energy Security, American Competitiveness and Job Creation, and Environmental Protection Through a Transformation of Our Nation's Fleet of Cars And Trucks",
+  "topics": [],
+  "type": "executive_action"
+}

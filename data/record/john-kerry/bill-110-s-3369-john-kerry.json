@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3369",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3369-john-kerry",
+  "introduced_date": "2008-07-30",
+  "policy_area": "Immigration",
+  "published_at": "2008-07-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3369",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Immigration and Nationality Act to provide for relief to surviving spouses and children, and for other purposes.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

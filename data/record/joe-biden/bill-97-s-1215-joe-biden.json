@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1215",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-1215-joe-biden",
+  "introduced_date": "1982-05-24",
+  "policy_area": "Commerce",
+  "published_at": "1982-05-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/1215",
+  "title": "Malt Beverage Interbrand Competition Act",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S399",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-399-john-mccain",
+  "introduced_date": "1997-03-05",
+  "policy_area": "Environmental Protection",
+  "published_at": "1997-03-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/399",
+  "tagged_by": "crosswalk@1",
+  "title": "Environmental Policy and Conflict Resolution Act of 1997",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

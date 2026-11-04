@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1854",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-317-joe-biden",
+  "published_at": "1995-07-20",
+  "question": "On the Amendment",
+  "rollnumber": 317,
+  "source_url": "https://voteview.com/rollcall/RS1040317",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-07-20",
+  "vote_result": "Amendment Rejected"
+}

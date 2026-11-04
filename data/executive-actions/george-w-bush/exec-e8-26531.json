@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-26531",
+  "document_type": "executive_order",
+  "executive_order_number": "13477",
+  "id": "exec-e8-26531",
+  "published_at": "2008-11-05",
+  "signing_date": "2008-10-31",
+  "source_url": "https://www.federalregister.gov/documents/2008/11/05/E8-26531/settlement-of-claims-against-libya",
+  "title": "Settlement of Claims Against Libya",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-30463",
+  "document_type": "executive_order",
+  "executive_order_number": "13590",
+  "id": "exec-2011-30463",
+  "published_at": "2011-11-23",
+  "signing_date": "2011-11-20",
+  "source_url": "https://www.federalregister.gov/documents/2011/11/23/2011-30463/authorizing-the-imposition-of-certain-sanctions-with-respect-to-the-provision-of-goods-services",
+  "title": "Authorizing the Imposition of Certain Sanctions With Respect to the Provision of Goods, Services, Technology, or Support for Iran's Energy and Petrochemical Sectors",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES159",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-159-john-kerry",
+  "introduced_date": "1989-06-20",
+  "policy_area": "Environmental Protection",
+  "published_at": "1989-06-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/159",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to designate April 22, 1990 as Earth Day, and to set aside the day for public activities promoting preservation of the global environment.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

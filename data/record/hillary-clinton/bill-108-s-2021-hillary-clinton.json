@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2021",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2021-hillary-clinton",
+  "introduced_date": "2004-01-22",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2004-01-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2021",
+  "tagged_by": "crosswalk@1",
+  "title": "Domestic Defense Fund Act of 2004",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-10559",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-10559",
+  "published_at": "2009-05-05",
+  "signing_date": "2009-05-01",
+  "source_url": "https://www.federalregister.gov/documents/2009/05/05/E9-10559/loyalty-day-2009",
+  "title": "Loyalty Day, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2224",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2224-joe-biden",
+  "introduced_date": "1990-03-01",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1990-03-01",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2224",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize appropriations for the Administrative Conference of the United States for fiscal years 1991, 1992, 1993, and 1994, and for other purposes.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

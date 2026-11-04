@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2415",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-670-john-mccain",
+  "published_at": "2000-12-05",
+  "question": "On the Cloture Motion",
+  "rollnumber": 670,
+  "source_url": "https://voteview.com/rollcall/RS1060670",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-12-05",
+  "vote_result": "Cloture Motion Agreed to"
+}

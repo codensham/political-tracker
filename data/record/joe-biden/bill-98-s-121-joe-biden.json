@@ -1,0 +1,21 @@
+{
+  "bill_number": "S121",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-s-121-joe-biden",
+  "introduced_date": "1983-03-15",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1983-03-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-bill/121",
+  "tagged_by": "crosswalk@1",
+  "title": "Department of International Trade and Industry Act of 1983",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

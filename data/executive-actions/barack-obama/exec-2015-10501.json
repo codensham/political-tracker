@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-10501",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2015-10501",
+  "published_at": "2015-05-04",
+  "signing_date": "2015-04-16",
+  "source_url": "https://www.federalregister.gov/documents/2015/05/04/2015-10501/delegation-of-authority-to-transfer-certain-funds-in-accordance-with-section-610-of-the-foreign",
+  "title": "Delegation of Authority To Transfer Certain Funds in Accordance With Section 610 of the Foreign Assistance Act of 1961, as Amended",
+  "topics": [],
+  "type": "executive_action"
+}

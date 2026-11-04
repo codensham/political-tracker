@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES374",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-sres-374-joe-biden",
+  "introduced_date": "1982-04-26",
+  "policy_area": "International Affairs",
+  "published_at": "1982-04-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-resolution/374",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending the completion of the current phase of the Camp David Agreement.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

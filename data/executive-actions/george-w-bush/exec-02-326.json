@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-326",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-02-326",
+  "published_at": "2002-01-04",
+  "signing_date": "2001-12-27",
+  "source_url": "https://www.federalregister.gov/documents/2002/01/04/02-326/to-extend-nondiscriminatory-treatment-normal-trade-relations-treatment-to-the-products-of-the",
+  "title": "To Extend Nondiscriminatory Treatment (Normal Trade Relations Treatment) to the Products of the People's Republic of China",
+  "topics": [],
+  "type": "executive_action"
+}

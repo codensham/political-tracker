@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1282",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1282-john-kerry",
+  "introduced_date": "1995-09-28",
+  "policy_area": "Private Legislation",
+  "published_at": "1995-09-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1282",
+  "title": "A bill to authorize the Secretary of Transportation to issue a certificate of documentation with the appropriate endorsement for employment in the coastwise trade for the vessel TRIAD.",
+  "topics": [],
+  "type": "bill"
+}

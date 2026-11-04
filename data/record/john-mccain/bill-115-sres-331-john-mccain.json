@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES331",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-331-john-mccain",
+  "introduced_date": "2017-11-14",
+  "policy_area": "Families",
+  "published_at": "2017-11-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/331",
+  "title": "A resolution expressing support for the goals of National Adoption Day and National Adoption Month by promoting national awareness of adoption and the children awaiting families, celebrating children and families involved in adoption, and encouraging the people of the United States to secure safety, permanency, and well-being for all children.",
+  "topics": [],
+  "type": "bill"
+}

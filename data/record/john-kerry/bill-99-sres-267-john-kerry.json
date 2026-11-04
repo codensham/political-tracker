@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES267",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-267-john-kerry",
+  "introduced_date": "1985-12-06",
+  "policy_area": "Congress",
+  "published_at": "1985-12-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/267",
+  "title": "A resolution establishing a special panel on asylum.",
+  "topics": [],
+  "type": "bill"
+}

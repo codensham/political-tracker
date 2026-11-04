@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES110",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-110-john-kerry",
+  "introduced_date": "1997-07-31",
+  "policy_area": "Congress",
+  "published_at": "1997-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/110",
+  "title": "A bill to permit an individual with a disability with access to the Senate floor to bring necessary supporting aids and services.",
+  "topics": [],
+  "type": "bill"
+}

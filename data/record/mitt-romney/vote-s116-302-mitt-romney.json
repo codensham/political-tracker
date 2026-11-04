@@ -1,0 +1,20 @@
+{
+  "bill_number": "SJRES54",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-302-mitt-romney",
+  "published_at": "2019-09-25",
+  "question": "On the Joint Resolution",
+  "rollnumber": 302,
+  "source_url": "https://voteview.com/rollcall/RS1160302",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2019-09-25",
+  "vote_result": "Joint Resolution Passed"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5192",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-5192-al-gore",
+  "introduced_date": "1982-05-13",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1982-05-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/5192",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to expand the membership of the Advisory Commission on Intergovernmental Relations to include elected school board officials.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

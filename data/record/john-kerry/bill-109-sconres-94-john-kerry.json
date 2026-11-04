@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES94",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-94-john-kerry",
+  "introduced_date": "2006-07-20",
+  "policy_area": "Emergency Management",
+  "published_at": "2006-07-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/94",
+  "title": "A concurrent resolution expressing the sense of Congress that the needs of children and youth affected or displaced by disasters are unique and should be given special consideration in planning, responding, and recovering from such disasters in the United States.",
+  "topics": [],
+  "type": "bill"
+}

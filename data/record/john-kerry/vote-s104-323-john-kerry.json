@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1817",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-323-john-kerry",
+  "published_at": "1995-07-21",
+  "question": "On Passage of the Bill",
+  "rollnumber": 323,
+  "source_url": "https://voteview.com/rollcall/RS1040323",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-07-21",
+  "vote_result": "Bill Passed"
+}

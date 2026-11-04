@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES273",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-273-joe-biden",
+  "introduced_date": "1985-12-12",
+  "policy_area": "Congress",
+  "published_at": "1985-12-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/273",
+  "title": "A resolution expressing condolences to the Goldwater Family.",
+  "topics": [],
+  "type": "bill"
+}

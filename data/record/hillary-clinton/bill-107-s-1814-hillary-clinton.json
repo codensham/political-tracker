@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1814",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1814-hillary-clinton",
+  "introduced_date": "2001-12-12",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2001-12-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1814",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to name the national cemetery in Saratoga, New York, as the Gerald B. H. Solomon Saratoga National Cemetery, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

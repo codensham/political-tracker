@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES320",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-320-john-kerry",
+  "introduced_date": "2011-11-10",
+  "policy_area": "Commerce",
+  "published_at": "2011-11-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/320",
+  "title": "A resolution designating November 26, 2011, as \"Small Business Saturday\" and supporting efforts to increase awareness of the value of locally owned small businesses.",
+  "topics": [],
+  "type": "bill"
+}

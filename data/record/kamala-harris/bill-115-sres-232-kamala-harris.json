@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES232",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-232-kamala-harris",
+  "introduced_date": "2017-07-26",
+  "policy_area": "Environmental Protection",
+  "published_at": "2017-07-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/232",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting the inclusion and meaningful engagement of Latinos in environmental protection and conservation efforts.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

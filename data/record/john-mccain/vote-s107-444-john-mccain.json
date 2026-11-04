@@ -1,0 +1,24 @@
+{
+  "bill_number": "S565",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-444-john-mccain",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2002-04-11",
+  "question": "On the Amendment",
+  "rollnumber": 444,
+  "source_url": "https://voteview.com/rollcall/RS1070444",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "vote",
+  "vote_date": "2002-04-11",
+  "vote_result": "Amendment Rejected"
+}

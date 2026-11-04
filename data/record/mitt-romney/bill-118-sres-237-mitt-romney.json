@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES237",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sres-237-mitt-romney",
+  "introduced_date": "2023-06-06",
+  "policy_area": "International Affairs",
+  "published_at": "2023-06-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-resolution/237",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution remembering the victims of the 1989 Tiananmen Square massacre and condemning the continued and intensifying crackdown on human rights and basic freedoms within the People's Republic of China, including the Hong Kong Special Administrative Region, by the Chinese Communist Party, and for other purposes.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

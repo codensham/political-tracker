@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1714",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1714-hillary-clinton",
+  "introduced_date": "2005-09-15",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2005-09-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1714",
+  "title": "A bill to modify requirements under the emergency relief program under title 23, United States Code, with respect to projects for repair or reconstruction in response to damage caused by Hurricane Katrina.",
+  "topics": [],
+  "type": "bill"
+}

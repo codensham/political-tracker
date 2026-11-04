@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1241",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1241-john-mccain",
+  "introduced_date": "1999-06-17",
+  "policy_area": "Labor and Employment",
+  "published_at": "1999-06-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1241",
+  "tagged_by": "crosswalk@1",
+  "title": "Family Friendly Workplace Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

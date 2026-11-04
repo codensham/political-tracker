@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-07275",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2022-07275",
+  "published_at": "2022-04-05",
+  "signing_date": "2022-03-31",
+  "source_url": "https://www.federalregister.gov/documents/2022/04/05/2022-07275/national-sexual-assault-awareness-and-prevention-month-2022",
+  "title": "National Sexual Assault Awareness and Prevention Month, 2022",
+  "topics": [],
+  "type": "executive_action"
+}

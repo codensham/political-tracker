@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-325",
+  "document_type": "executive_order",
+  "executive_order_number": "13455",
+  "id": "exec-08-325",
+  "published_at": "2008-01-24",
+  "signing_date": "2008-01-22",
+  "source_url": "https://www.federalregister.gov/documents/2008/01/24/08-325/establishing-the-presidents-advisory-council-on-financial-literacy",
+  "title": "Establishing the President's Advisory Council on Financial Literacy",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2334",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-2334-kamala-harris",
+  "introduced_date": "2018-01-24",
+  "policy_area": "Commerce",
+  "published_at": "2018-01-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2334",
+  "title": "Music Modernization Act of 2018",
+  "topics": [],
+  "type": "bill"
+}

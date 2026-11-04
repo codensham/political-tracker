@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3002",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3002-john-mccain",
+  "introduced_date": "2010-02-04",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2010-02-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3002",
+  "tagged_by": "crosswalk@1",
+  "title": "Dietary Supplement Safety Act of 2010",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

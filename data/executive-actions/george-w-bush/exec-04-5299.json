@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-5299",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-04-5299",
+  "published_at": "2004-03-08",
+  "signing_date": "2004-03-03",
+  "source_url": "https://www.federalregister.gov/documents/2004/03/08/04-5299/presidential-determination-on-imports-of-certain-ductile-iron-waterworks-fittings-from-the-peoples",
+  "title": "Presidential Determination on Imports of Certain Ductile Iron Waterworks Fittings from the People's Republic of China",
+  "topics": [],
+  "type": "executive_action"
+}

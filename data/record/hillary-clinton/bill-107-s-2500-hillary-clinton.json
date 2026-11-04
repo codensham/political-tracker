@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2500",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2500-hillary-clinton",
+  "introduced_date": "2002-05-09",
+  "policy_area": "Emergency Management",
+  "published_at": "2002-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2500",
+  "title": "A bill to authorize the use of certain funds to compensate New York City public schools for operating and education-related expenses (including expenses relating to the provision of mental health and trauma counseling and other appropriate support services) resulting from the terrorist attack on that city on September 11, 2001.",
+  "topics": [],
+  "type": "bill"
+}

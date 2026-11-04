@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-22807",
+  "document_type": "executive_order",
+  "executive_order_number": "13626",
+  "id": "exec-2012-22807",
+  "published_at": "2012-09-13",
+  "signing_date": "2012-09-10",
+  "source_url": "https://www.federalregister.gov/documents/2012/09/13/2012-22807/gulf-coast-ecosystem-restoration",
+  "title": "Gulf Coast Ecosystem Restoration",
+  "topics": [],
+  "type": "executive_action"
+}

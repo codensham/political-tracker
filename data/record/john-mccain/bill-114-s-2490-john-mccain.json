@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2490",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2490-john-mccain",
+  "introduced_date": "2016-02-08",
+  "policy_area": "Law",
+  "published_at": "2016-02-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2490",
+  "title": "Judicial Administration and Improvement Act of 2016",
+  "topics": [],
+  "type": "bill"
+}

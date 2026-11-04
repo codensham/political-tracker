@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3070",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3070-john-kerry",
+  "introduced_date": "2008-06-10",
+  "policy_area": "Commemorations",
+  "published_at": "2008-06-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3070",
+  "title": "Boy Scouts of America Centennial Commemorative Coin Act",
+  "topics": [],
+  "type": "bill"
+}

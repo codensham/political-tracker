@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES123",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-123-al-gore",
+  "introduced_date": "1987-05-05",
+  "policy_area": "Commemorations",
+  "published_at": "1987-05-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/123",
+  "title": "A joint resolution to designate the period commencing on June 15, 1987 and ending on June 21, 1987, as \"National Anti-Apartheid Week\" and to designate June 16, 1987, as \"National Anti-Apartheid Day\".",
+  "topics": [],
+  "type": "bill"
+}

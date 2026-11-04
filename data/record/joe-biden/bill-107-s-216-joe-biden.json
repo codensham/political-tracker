@@ -1,0 +1,21 @@
+{
+  "bill_number": "S216",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-216-joe-biden",
+  "introduced_date": "2001-01-30",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2001-01-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/216",
+  "tagged_by": "crosswalk@1",
+  "title": "Commission on the Comprehensive Study of Voting Procedures Act of 2001",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

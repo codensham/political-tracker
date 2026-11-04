@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES115",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-115-john-mccain",
+  "introduced_date": "2013-04-25",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2013-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/115",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending the heroism, courage, and sacrifice of Sean Collier, an officer in the Massachusetts Institute of Technology Police Department, Martin Richard, an 8-year-old resident of Dorchester, Massachusetts, Krystle Campbell, a native of Medford, Massachusetts, Lu Lingzi, a student at Boston University, and all the victims who are recovering from injuries caused by the attacks in Boston, Massachusetts, including Richard Donohue, Jr., an officer in the Massachusetts Bay Transportation Authority Transit Police Department.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

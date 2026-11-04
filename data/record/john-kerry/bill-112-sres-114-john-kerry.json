@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES114",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-114-john-kerry",
+  "introduced_date": "2011-03-29",
+  "policy_area": "Congress",
+  "published_at": "2011-03-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/114",
+  "title": "A resolution honoring Congresswoman Geraldine A. Ferraro, the first woman selected by a major political party as its candidate for Vice President of the United States, and extending the condolences of the Senate on her death.",
+  "topics": [],
+  "type": "bill"
+}

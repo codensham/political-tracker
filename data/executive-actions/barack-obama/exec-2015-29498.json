@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-29498",
+  "document_type": "executive_order",
+  "executive_order_number": "13711",
+  "id": "exec-2015-29498",
+  "published_at": "2015-11-17",
+  "signing_date": "2015-11-12",
+  "source_url": "https://www.federalregister.gov/documents/2015/11/17/2015-29498/establishing-an-emergency-board-to-investigate-disputes-between-new-jersey-transit-rail-and-certain",
+  "title": "Establishing an Emergency Board To Investigate Disputes Between New Jersey Transit Rail and Certain of Its Employees Represented by Certain Labor Organizations",
+  "topics": [],
+  "type": "executive_action"
+}

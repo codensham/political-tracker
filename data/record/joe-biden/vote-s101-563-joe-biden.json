@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5268",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-563-joe-biden",
+  "published_at": "1990-09-25",
+  "question": "On Passage of the Bill",
+  "rollnumber": 563,
+  "source_url": "https://voteview.com/rollcall/RS1010563",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1990-09-25",
+  "vote_result": "Bill Passed"
+}

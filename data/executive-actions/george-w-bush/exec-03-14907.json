@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-14907",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-14907",
+  "published_at": "2003-06-11",
+  "signing_date": "2003-06-06",
+  "source_url": "https://www.federalregister.gov/documents/2003/06/11/03-14907/flag-day-and-national-flag-week-2003",
+  "title": "Flag Day and National Flag Week, 2003",
+  "topics": [],
+  "type": "executive_action"
+}

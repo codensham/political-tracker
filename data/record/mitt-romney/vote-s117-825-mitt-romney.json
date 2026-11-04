@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5376",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-825-mitt-romney",
+  "published_at": "2022-08-07",
+  "question": "On the Motion",
+  "rollnumber": 825,
+  "source_url": "https://voteview.com/rollcall/RS1170825",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2022-08-07",
+  "vote_result": "Motion Rejected"
+}

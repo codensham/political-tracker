@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1102",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1102-john-kerry",
+  "introduced_date": "1991-06-03",
+  "policy_area": "Health",
+  "published_at": "1991-06-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1102",
+  "tagged_by": "crosswalk@1",
+  "title": "Mental Health Care Amendment Act of 1991",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

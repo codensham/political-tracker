@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES43",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sconres-43-joe-biden",
+  "introduced_date": "1987-11-18",
+  "policy_area": "Education",
+  "published_at": "1987-11-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/43",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to encourage State and local governments and local educational agencies to provide quality daily physical education programs for all children from kindergarten through grade 12.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

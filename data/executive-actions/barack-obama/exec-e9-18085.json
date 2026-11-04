@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-18085",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-18085",
+  "published_at": "2009-07-28",
+  "signing_date": "2009-07-23",
+  "source_url": "https://www.federalregister.gov/documents/2009/07/28/E9-18085/35th-anniversary-of-the-legal-services-corporation-2009",
+  "title": "35th Anniversary of the Legal Services Corporation, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

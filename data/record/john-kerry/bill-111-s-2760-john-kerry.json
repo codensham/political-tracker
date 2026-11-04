@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2760",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-2760-john-kerry",
+  "introduced_date": "2010-02-25",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2010-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/2760",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38, United States Code, to provide for an increase in the annual amount authorized to be appropriated to the Secretary of Veterans Affairs to carry out comprehensive service programs for homeless veterans.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

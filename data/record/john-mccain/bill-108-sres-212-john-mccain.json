@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES212",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-212-john-mccain",
+  "introduced_date": "2003-09-09",
+  "policy_area": "Commemorations",
+  "published_at": "2003-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/212",
+  "title": "A resolution welcoming His Holiness the Fourteenth Dalai Lama and recognizing his commitment to non-violence, human rights, freedom, and democracy.",
+  "topics": [],
+  "type": "bill"
+}

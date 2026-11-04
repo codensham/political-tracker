@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2031",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-s-2031-joe-biden",
+  "introduced_date": "1984-02-02",
+  "policy_area": "International Affairs",
+  "published_at": "1984-02-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-bill/2031",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill relating to the residence of the American Ambassador to Israel.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

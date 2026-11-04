@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1175",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-556-john-kerry",
+  "published_at": "2004-05-18",
+  "question": "On the Nomination",
+  "rollnumber": 556,
+  "source_url": "https://voteview.com/rollcall/RS1080556",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-05-18",
+  "vote_result": "Nomination Confirmed"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN83",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-6-john-mccain",
+  "published_at": "1997-02-06",
+  "question": "On the Nomination",
+  "rollnumber": 6,
+  "source_url": "https://voteview.com/rollcall/RS1050006",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-02-06",
+  "vote_result": "Nomination Confirmed"
+}

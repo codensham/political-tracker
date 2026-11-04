@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2606",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2606-john-mccain",
+  "introduced_date": "1992-04-09",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1992-04-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2606",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to further clarify authorities and duties of the Secretary of Agriculture in issuing ski area permits on National Forest System lands.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

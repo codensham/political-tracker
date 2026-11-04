@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2003",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2003-john-mccain",
+  "introduced_date": "2000-01-24",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2000-01-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2003",
+  "tagged_by": "crosswalk@1",
+  "title": "Keep Our Promise to America's Military Retirees Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

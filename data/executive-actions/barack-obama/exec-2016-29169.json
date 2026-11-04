@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-29169",
+  "document_type": "executive_order",
+  "executive_order_number": "13750",
+  "id": "exec-2016-29169",
+  "published_at": "2016-12-02",
+  "signing_date": "2016-11-29",
+  "source_url": "https://www.federalregister.gov/documents/2016/12/02/2016-29169/providing-for-the-appointment-of-alumni-of-the-fulbright-us-student-program-the-benjamin-a-gilman",
+  "title": "Providing for the Appointment of Alumni of the Fulbright U.S. Student Program, the Benjamin A. Gilman International Scholarship Program, and the Critical Language Scholarship Program to the Competitive Service",
+  "topics": [],
+  "type": "executive_action"
+}

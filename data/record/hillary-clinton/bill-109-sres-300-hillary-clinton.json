@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES300",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-300-hillary-clinton",
+  "introduced_date": "2005-11-03",
+  "policy_area": "Congress",
+  "published_at": "2005-11-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/300",
+  "title": "A resolution relative to the death of Henry Ku'ualoha Giugni, former Sergeant-at-Arms of the United States Senate.",
+  "topics": [],
+  "type": "bill"
+}

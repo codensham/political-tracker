@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES132",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sconres-132-joe-biden",
+  "introduced_date": "1992-07-31",
+  "policy_area": "International Affairs",
+  "published_at": "1992-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-concurrent-resolution/132",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress regarding the desperate humanitarian crisis in Somalia and urging the deployment of United Nations security guards to assure that humanitarian relief gets to those most in need.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

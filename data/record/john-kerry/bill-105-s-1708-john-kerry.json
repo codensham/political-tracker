@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1708",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1708-john-kerry",
+  "introduced_date": "1998-03-04",
+  "policy_area": "Education",
+  "published_at": "1998-03-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1708",
+  "tagged_by": "crosswalk@1",
+  "title": "Revitalize and Empower Public School Communities to Upgrade for Long-Term Success Act",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

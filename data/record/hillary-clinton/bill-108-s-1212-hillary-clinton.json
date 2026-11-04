@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1212",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1212-hillary-clinton",
+  "introduced_date": "2003-06-09",
+  "policy_area": "Emergency Management",
+  "published_at": "2003-06-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1212",
+  "title": "A bill to identify certain sites as key resources for protection by the Directorate for Information Analysis and Infrastructure Protection  of the Department of Homeland Security, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

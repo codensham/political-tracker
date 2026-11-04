@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1321",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1321-hillary-clinton",
+  "introduced_date": "2003-06-24",
+  "policy_area": "Education",
+  "published_at": "2003-06-24",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1321",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize resources to foster a safe learning environment that supports academic achievement for all students by improving the quality of interim alternative educational settings, providing more behavioral supports in schools, and supporting whole school interventions.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

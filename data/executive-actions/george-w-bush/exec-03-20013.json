@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-20013",
+  "document_type": "executive_order",
+  "executive_order_number": "13313",
+  "id": "exec-03-20013",
+  "published_at": "2003-08-05",
+  "signing_date": "2003-07-31",
+  "source_url": "https://www.federalregister.gov/documents/2003/08/05/03-20013/delegation-of-certain-congressional-reporting-functions",
+  "title": "Delegation of Certain Congressional Reporting Functions",
+  "topics": [],
+  "type": "executive_action"
+}

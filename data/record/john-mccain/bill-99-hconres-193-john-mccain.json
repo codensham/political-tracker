@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES193",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hconres-193-john-mccain",
+  "introduced_date": "1985-10-09",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1985-10-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-concurrent-resolution/193",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress concerning the appropriation of additional funds for the United States contribution to the seventh replenishment of the resources of the International Development Association.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

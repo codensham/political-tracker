@@ -1,0 +1,21 @@
+{
+  "bill_number": "S474",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-474-john-mccain",
+  "introduced_date": "2015-02-25",
+  "policy_area": "Education",
+  "published_at": "2015-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/474",
+  "tagged_by": "crosswalk@1",
+  "title": "Protecting Students from Sexual and Violent Predators Act",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

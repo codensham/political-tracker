@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-03714",
+  "document_type": "executive_order",
+  "executive_order_number": "13691",
+  "id": "exec-2015-03714",
+  "published_at": "2015-02-20",
+  "signing_date": "2015-02-13",
+  "source_url": "https://www.federalregister.gov/documents/2015/02/20/2015-03714/promoting-private-sector-cybersecurity-information-sharing",
+  "title": "Promoting Private Sector Cybersecurity Information Sharing",
+  "topics": [],
+  "type": "executive_action"
+}

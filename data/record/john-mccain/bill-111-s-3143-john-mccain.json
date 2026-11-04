@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3143",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3143-john-mccain",
+  "introduced_date": "2010-03-22",
+  "policy_area": "Congress",
+  "published_at": "2010-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3143",
+  "title": "No Pay Raise for Congress Until the Budget is Balanced Act",
+  "topics": [],
+  "type": "bill"
+}

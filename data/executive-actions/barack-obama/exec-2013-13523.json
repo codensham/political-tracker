@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-13523",
+  "document_type": "executive_order",
+  "executive_order_number": "13645",
+  "id": "exec-2013-13523",
+  "published_at": "2013-06-05",
+  "signing_date": "2013-06-03",
+  "source_url": "https://www.federalregister.gov/documents/2013/06/05/2013-13523/authorizing-the-implementation-of-certain-sanctions-set-forth-in-the-iran-freedom-and-counter-",
+  "title": "Authorizing the Implementation of Certain Sanctions Set Forth in the Iran Freedom and Counter- Proliferation Act of 2012 and Additional Sanctions With Respect To Iran",
+  "topics": [],
+  "type": "executive_action"
+}

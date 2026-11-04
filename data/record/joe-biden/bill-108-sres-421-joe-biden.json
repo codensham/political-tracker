@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES421",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-421-joe-biden",
+  "introduced_date": "2004-09-09",
+  "policy_area": "International Affairs",
+  "published_at": "2004-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/421",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing outrage at the recent terrorist atrocities in Beslan, Russian Federation, and condolences to the victims of the families.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

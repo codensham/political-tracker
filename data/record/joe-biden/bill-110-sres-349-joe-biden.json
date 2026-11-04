@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES349",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-349-joe-biden",
+  "introduced_date": "2007-10-17",
+  "policy_area": "Commemorations",
+  "published_at": "2007-10-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/349",
+  "title": "A resolution honoring Vice President Albert Gore, Jr., and the Intergovernmental Panel on Climate Change for receiving the 2007 Nobel Peace Prize, in recognition of their efforts to promote understanding of the threats posed by global warming.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES455",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-455-john-kerry",
+  "introduced_date": "1988-08-05",
+  "policy_area": "International Affairs",
+  "published_at": "1988-08-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/455",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning Romania for its human rights abuses, particularly its plan to raze agricultural villages in traditionally Hungarian areas.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

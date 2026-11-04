@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4297",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-484-john-mccain",
+  "published_at": "2006-05-11",
+  "question": "On the Conference Report",
+  "rollnumber": 484,
+  "source_url": "https://voteview.com/rollcall/RS1090484",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-05-11",
+  "vote_result": "Conference Report Agreed to"
+}

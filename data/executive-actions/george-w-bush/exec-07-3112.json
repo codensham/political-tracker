@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-3112",
+  "document_type": "executive_order",
+  "executive_order_number": "13435",
+  "id": "exec-07-3112",
+  "published_at": "2007-06-22",
+  "signing_date": "2007-06-20",
+  "source_url": "https://www.federalregister.gov/documents/2007/06/22/07-3112/expanding-approved-stem-cell-lines-in-ethically-responsible-ways",
+  "title": "Expanding Approved Stem Cell Lines in Ethically Responsible Ways",
+  "topics": [],
+  "type": "executive_action"
+}

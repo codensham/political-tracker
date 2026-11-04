@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-2484",
+  "document_type": "executive_order",
+  "executive_order_number": "13495",
+  "id": "exec-e9-2484",
+  "published_at": "2009-02-04",
+  "signing_date": "2009-01-30",
+  "source_url": "https://www.federalregister.gov/documents/2009/02/04/E9-2484/nondisplacement-of-qualified-workers-under-service-contracts",
+  "title": "Nondisplacement of Qualified Workers Under Service Contracts",
+  "topics": [],
+  "type": "executive_action"
+}

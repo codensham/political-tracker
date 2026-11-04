@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-6298",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2011-6298",
+  "published_at": "2011-03-16",
+  "signing_date": "2011-03-11",
+  "source_url": "https://www.federalregister.gov/documents/2011/03/16/2011-6298/government-reform-for-competitiveness-and-innovation",
+  "title": "Government Reform for Competitiveness and Innovation",
+  "topics": [],
+  "type": "executive_action"
+}

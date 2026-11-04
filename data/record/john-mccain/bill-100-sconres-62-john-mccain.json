@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES62",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sconres-62-john-mccain",
+  "introduced_date": "1987-06-19",
+  "policy_area": "International Affairs",
+  "published_at": "1987-06-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/62",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the insistence of the Congress on the extradition of Mohammed Hamadei to the United States for trial in connection with the murder of Navy diver Robert Stethem and the opposition of Congress to any trade of Mohammed Hamadei for West German nationals being held hostage.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

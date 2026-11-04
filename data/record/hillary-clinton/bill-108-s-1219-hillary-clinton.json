@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1219",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1219-hillary-clinton",
+  "introduced_date": "2003-06-10",
+  "policy_area": "Education",
+  "published_at": "2003-06-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1219",
+  "tagged_by": "crosswalk@1",
+  "title": "School Service Act of 2003",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

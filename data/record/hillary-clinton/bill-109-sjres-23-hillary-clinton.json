@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES23",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sjres-23-hillary-clinton",
+  "introduced_date": "2005-09-15",
+  "policy_area": "Commemorations",
+  "published_at": "2005-09-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-joint-resolution/23",
+  "title": "A joint resolution supporting the goals and ideals of Gold Star Mothers Day.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES368",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-368-al-gore",
+  "introduced_date": "1986-03-18",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1986-03-18",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/368",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to express the sense of the Senate that Federal funding to States for Cooperative Extension Service programs for fiscal year 1987 be restored to at least the level approved in the 1986 budget resolution, except for reductions required in such programs by the Balanced Budget and Emergency Deficit Control Act of 1985.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

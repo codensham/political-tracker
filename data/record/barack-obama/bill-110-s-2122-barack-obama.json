@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2122",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2122-barack-obama",
+  "introduced_date": "2007-10-01",
+  "policy_area": "Education",
+  "published_at": "2007-10-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2122",
+  "tagged_by": "crosswalk@1",
+  "title": "Facilitating Outstanding Classrooms Using Size reduction Act (FOCUS Act)",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

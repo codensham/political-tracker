@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-4103",
+  "document_type": "executive_order",
+  "executive_order_number": "13504",
+  "id": "exec-e9-4103",
+  "published_at": "2009-02-24",
+  "signing_date": "2009-02-20",
+  "source_url": "https://www.federalregister.gov/documents/2009/02/24/E9-4103/amending-executive-order-13390",
+  "title": "Amending Executive Order 13390",
+  "topics": [],
+  "type": "executive_action"
+}

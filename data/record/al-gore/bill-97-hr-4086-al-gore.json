@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4086",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-4086-al-gore",
+  "introduced_date": "1982-03-30",
+  "policy_area": "Immigration",
+  "published_at": "1982-03-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/4086",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to confer citizenship posthumously on Corporal Wladyslaw Staniszewski.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

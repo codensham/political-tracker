@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2608",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2608-john-kerry",
+  "introduced_date": "2002-06-11",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2002-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2608",
+  "tagged_by": "crosswalk@1",
+  "title": "Coastal and Estuarine Land Protection Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

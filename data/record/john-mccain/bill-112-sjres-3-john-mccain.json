@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES3",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sjres-3-john-mccain",
+  "introduced_date": "2011-01-26",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2011-01-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-joint-resolution/3",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution proposing an amendment to the Constitution of the United States relative to balancing  the budget.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

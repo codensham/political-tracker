@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES693",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-693-kamala-harris",
+  "introduced_date": "2018-11-15",
+  "policy_area": "Commerce",
+  "published_at": "2018-11-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/693",
+  "title": "A resolution celebrating October 25, 2018, as the 30th anniversary of the passage of the Women's Business Ownership Act of 1988, while commending the unique entrepreneurial spirit shared by women small business owners of the United States.",
+  "topics": [],
+  "type": "bill"
+}

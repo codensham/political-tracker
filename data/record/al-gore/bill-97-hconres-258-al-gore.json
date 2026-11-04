@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES258",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hconres-258-al-gore",
+  "introduced_date": "1982-06-16",
+  "policy_area": "International Affairs",
+  "published_at": "1982-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-concurrent-resolution/258",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to express the sense of the Congress that the United States and the Soviet Union should engage in a balanced, mutual reduction of their nuclear weapons, that all countries should reduce their nuclear arsenals, and that greater efforts should be made to control the spread of nuclear weapons to countries not possessing such weapons.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES111",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-111-barack-obama",
+  "introduced_date": "2006-07-20",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2006-07-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/111",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Senate that the United States should expand trade opportunities with Mongolia and initiate negotiations to enter into a free trade agreement with Mongolia.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

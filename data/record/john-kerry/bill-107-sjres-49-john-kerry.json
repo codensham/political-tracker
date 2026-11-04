@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES49",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sjres-49-john-kerry",
+  "introduced_date": "2002-10-08",
+  "policy_area": "Commemorations",
+  "published_at": "2002-10-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-joint-resolution/49",
+  "title": "A joint resolution recognizing the contributions of Patsy Takemoto Mink.",
+  "topics": [],
+  "type": "bill"
+}

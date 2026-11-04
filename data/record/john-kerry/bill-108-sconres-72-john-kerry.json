@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES72",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-72-john-kerry",
+  "introduced_date": "2003-10-21",
+  "policy_area": "Commemorations",
+  "published_at": "2003-10-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/72",
+  "title": "A concurrent resolution commemorating the 60th anniversary of the establishment of the United States Cadet Nurse Corps and voicing the appreciation of Congress regarding the service of the members of the United States Cadet Nurse Corps during World War II.",
+  "topics": [],
+  "type": "bill"
+}

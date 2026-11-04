@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-28404",
+  "document_type": "executive_order",
+  "executive_order_number": "13367",
+  "id": "exec-04-28404",
+  "published_at": "2004-12-27",
+  "signing_date": "2004-12-21",
+  "source_url": "https://www.federalregister.gov/documents/2004/12/27/04-28404/united-states-mexico-border-health-commission",
+  "title": "United States-Mexico Border Health Commission",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2750",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-2750-john-kerry",
+  "introduced_date": "2010-07-26",
+  "policy_area": "Health",
+  "published_at": "2010-07-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/2750",
+  "tagged_by": "crosswalk@1",
+  "title": "Student-to-School Nurse Ratio Improvement Act of 2009",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-9148",
+  "document_type": "executive_order",
+  "executive_order_number": "13414",
+  "id": "exec-06-9148",
+  "published_at": "2006-11-08",
+  "signing_date": "2006-11-03",
+  "source_url": "https://www.federalregister.gov/documents/2006/11/08/06-9148/amendment-to-executive-order-13402-strengthening-federal-efforts-to-protect-against-identity-theft",
+  "title": "Amendment to Executive Order 13402, Strengthening Federal Efforts To Protect Against Identity Theft",
+  "topics": [],
+  "type": "executive_action"
+}

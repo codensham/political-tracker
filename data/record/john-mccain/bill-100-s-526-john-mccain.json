@@ -1,0 +1,21 @@
+{
+  "bill_number": "S526",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-526-john-mccain",
+  "introduced_date": "1987-02-17",
+  "policy_area": "Water Resources Development",
+  "published_at": "1987-02-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/526",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to designate the Salt-Gila aqueduct of the central Arizona project as the \"Fannin-McFarland Aqueduct\".",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1348",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1348-hillary-clinton",
+  "introduced_date": "2001-08-03",
+  "policy_area": "Commemorations",
+  "published_at": "2001-08-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1348",
+  "title": "A bill to designate the Federal building located at 10th Street and Constitution Avenue, NW, in Washington, District of Columbia, as the \"Robert F. Kennedy Department of Justice Building\".",
+  "topics": [],
+  "type": "bill"
+}

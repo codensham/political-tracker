@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2673",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-2673-john-mccain",
+  "introduced_date": "2014-07-28",
+  "policy_area": "International Affairs",
+  "published_at": "2014-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2673",
+  "tagged_by": "crosswalk@1",
+  "title": "United States-Israel Strategic Partnership Act of 2014",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

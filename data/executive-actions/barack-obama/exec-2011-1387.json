@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-1387",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2011-1387",
+  "published_at": "2011-01-21",
+  "signing_date": "2011-01-18",
+  "source_url": "https://www.federalregister.gov/documents/2011/01/21/2011-1387/regulatory-flexibility-small-business-and-job-creation",
+  "title": "Regulatory Flexibility, Small Business, and Job Creation",
+  "topics": [],
+  "type": "executive_action"
+}

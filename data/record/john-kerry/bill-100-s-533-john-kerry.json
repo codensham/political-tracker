@@ -1,0 +1,21 @@
+{
+  "bill_number": "S533",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-533-john-kerry",
+  "introduced_date": "1987-06-19",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1987-06-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/533",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to establish the Veterans' Administration as an executive department; to establish the National Commission on Executive Organization and Management, and for other purposes.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

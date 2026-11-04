@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-30101",
+  "document_type": "executive_order",
+  "executive_order_number": "13752",
+  "id": "exec-2016-30101",
+  "published_at": "2016-12-13",
+  "signing_date": "2016-12-08",
+  "source_url": "https://www.federalregister.gov/documents/2016/12/13/2016-30101/relating-to-the-implementation-of-the-convention-on-the-international-recovery-of-child-support-and",
+  "title": "Relating to the Implementation of the Convention on the International Recovery of Child Support and Other Forms of Family Maintenance",
+  "topics": [],
+  "type": "executive_action"
+}

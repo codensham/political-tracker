@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN659",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-355-john-kerry",
+  "published_at": "2003-09-22",
+  "question": "On the Nomination",
+  "rollnumber": 355,
+  "source_url": "https://voteview.com/rollcall/RS1080355",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-09-22",
+  "vote_result": "Nomination Confirmed"
+}

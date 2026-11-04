@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2007",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-2007-john-kerry",
+  "introduced_date": "2011-12-15",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2011-12-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/2007",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the African Growth and Opportunity Act to extend the third-country fabric rule, to add South Sudan to the list of countries eligible for designation under that Act, and for other purposes.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

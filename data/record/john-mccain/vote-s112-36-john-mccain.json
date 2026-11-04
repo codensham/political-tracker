@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-36-john-mccain",
+  "published_at": "2011-03-09",
+  "question": "On Passage of the Bill",
+  "rollnumber": 36,
+  "source_url": "https://voteview.com/rollcall/RS1120036",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2011-03-09",
+  "vote_result": "Bill Defeated"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJRES109",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-521-mitt-romney",
+  "published_at": "2024-05-16",
+  "question": "On the Joint Resolution",
+  "rollnumber": 521,
+  "source_url": "https://voteview.com/rollcall/RS1180521",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2024-05-16",
+  "vote_result": "Joint Resolution Passed"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-2170",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-07-2170",
+  "published_at": "2007-05-01",
+  "signing_date": "2007-04-27",
+  "source_url": "https://www.federalregister.gov/documents/2007/05/01/07-2170/national-charter-schools-week-2007",
+  "title": "National Charter Schools Week, 2007",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,9 +1,6 @@
-import csv
-import io
 from pathlib import Path
 
 import httpx
-import pytest
 
 from tracker.collectors import REGISTRY
 from tracker.collectors.voteview import VoteviewCollector, map_cast
@@ -42,17 +39,20 @@ def fixture_client(calls: list[str] | None = None):
 def test_cast_mapping():
     assert [map_cast(c) for c in range(10)] == [
         None,
-        "yea", "yea", "yea",
-        "nay", "nay", "nay",
-        "present", "present",
+        "yea",
+        "yea",
+        "yea",
+        "nay",
+        "nay",
+        "nay",
+        "present",
+        "present",
         "not_voting",
     ]
 
 
 def test_join_and_fields(tmp_path: Path):
-    records = list(
-        VoteviewCollector(fixture_client(), cache_dir=tmp_path).collect([CAND])
-    )
+    records = list(VoteviewCollector(fixture_client(), cache_dir=tmp_path).collect([CAND]))
     by_id = {r["id"]: r for r in records}
     assert len(records) == 12
 
@@ -89,17 +89,13 @@ def test_records_validate(tmp_path: Path):
 def test_no_icpsr_skipped(tmp_path: Path):
     calls: list[str] = []
     no_icpsr = {**CAND, "icpsr": None}
-    records = list(
-        VoteviewCollector(fixture_client(calls), cache_dir=tmp_path).collect([no_icpsr])
-    )
+    records = list(VoteviewCollector(fixture_client(calls), cache_dir=tmp_path).collect([no_icpsr]))
     assert records == []
     assert calls == []
 
 
 def test_both_chambers(tmp_path: Path):
-    records = list(
-        VoteviewCollector(fixture_client(), cache_dir=tmp_path).collect([CAND])
-    )
+    records = list(VoteviewCollector(fixture_client(), cache_dir=tmp_path).collect([CAND]))
     assert {(r["chamber"], r["congress"]) for r in records} == {
         ("house", 115),
         ("senate", 117),

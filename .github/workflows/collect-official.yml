@@ -19,18 +19,31 @@ jobs:
           python-version: "3.12"
       - run: python -m pip install -e .
       - name: Run official collectors
+        id: collect
         env:
           FEC_API_KEY: ${{ secrets.FEC_API_KEY }}
         run: |
-          python -m tracker.candidates
-          python -m tracker.collectors fec_finance
-          python -m tracker.collectors voteview
-          python -m tracker.collectors federal_register
-          python -m tracker.validate data
+          # Every collector runs even if an earlier one fails (spec §6). A failure is written to
+          # the failures file, and the last step fails the workflow after the PR is opened.
+          FAILURES="$RUNNER_TEMP/collector-failures.txt"
+          : > "$FAILURES"
+          collect_step() { "$@" || echo "$*" >> "$FAILURES"; }
+          collect_step python -m tracker.candidates
+          collect_step python -m tracker.collectors fec_finance
+          collect_step python -m tracker.collectors fec_outside_spending
+          collect_step python -m tracker.collectors voteview
+          collect_step python -m tracker.collectors congress_bills
+          collect_step python -m tracker.tagging data
+          collect_step python -m tracker.collectors federal_register
+          collect_step python -m tracker.collectors house_clerk
+      - name: Validate records
+        id: validate
+        run: python -m tracker.validate data
       - name: Compute date
         id: date
         run: echo "date=$(date -u +%F)" >> "$GITHUB_OUTPUT"
       - name: Open or update the official-records pull request
+        if: always() && steps.validate.outcome == 'success'
         uses: peter-evans/create-pull-request@v7
         with:
           # A PAT or GitHub App token, not GITHUB_TOKEN: PRs opened with GITHUB_TOKEN
@@ -41,3 +54,12 @@ jobs:
           commit-message: "Official records update"
           labels: official-record
           add-paths: data
+      - name: Fail if any collector failed
+        if: always()
+        run: |
+          FAILURES="$RUNNER_TEMP/collector-failures.txt"
+          if [ -s "$FAILURES" ]; then
+            echo "Collectors that failed:"
+            cat "$FAILURES"
+            exit 1
+          fi

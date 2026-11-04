@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES406",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sres-406-mitt-romney",
+  "introduced_date": "2023-10-16",
+  "policy_area": "Congress",
+  "published_at": "2023-10-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-resolution/406",
+  "title": "A resolution to honor the life and death of Richard Clarence Clark, former Senator for the State of Iowa.",
+  "topics": [],
+  "type": "bill"
+}

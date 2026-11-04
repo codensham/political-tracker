@@ -1,12 +1,13 @@
 # Neutrality rules
 
-The project records evidence. It never states what a candidate believes or what their position is. Reviewers enforce these rules on every pull request.
+The project records evidence. It never states what a candidate believes or what their position is. Reviewers enforce these rules on every pull request. The full rationale is in [spec §1 and §4](superpowers/specs/2026-11-03-political-tracker-design.md).
 
-1. **Evidence, not verdicts.** Every record is a dated fact with a source URL: a quote, a vote, a filing, a platform page, a fact-check, a poll, an article. No summaries, sentiment scores, or stance labels authored by the project.
-2. **Attribute every judgment.** Fact-check ratings belong to the checker. Poll numbers belong to the pollster. Outlet lean ratings come from a named third-party rater, never from us. Topic tags are the only classifications we add, and each one records how it was tagged.
-3. **Candidate's own words only in statements.** Quotes from surrogates, opponents, or officials may appear on article records. They are never returned as the candidate's evidence.
-4. **Fixed vocabulary.** Topics come only from `taxonomy/topics.json`. Changing the list needs a pull request with a stated reason.
-5. **Same rules for everyone.** Collectors run the same way for every candidate and every outlet in the config. Do not add a candidate or outlet for a reason that is not recorded in `docs/SOURCES.md` or the `inclusion_reason` field.
-6. **No copyrighted full text.** Store metadata, the outlet's own headline, and short verbatim quotes. Link to the original and to an archived copy. Government records may be stored in fuller form.
-7. **Verbatim quotes.** Every quote must appear word for word in the linked source. Reviewers spot-check quotes against the source before merging.
-8. **Corrections are visible.** A correction keeps the prior value in the pull request description. History stays in git.
+1. **Evidence, not verdicts.** Every record is a dated fact with a source URL: a quote, a vote, a bill, an executive action, a filing, a platform page snapshot, a poll, an endorsement, an appearance, an article. No summaries, sentiment scores, verdicts or stance labels authored by the project. The schemas reject unknown fields, and `tracker.skillkit.write_checked` refuses `stance`, `sentiment`, `summary` and `verdict` by name.
+2. **Attribute every judgment.** A poll belongs to its named pollster. An endorsement is named as the endorser states it. Lean ratings are never stored: an outlet record holds only a link to a named rater (AllSides, Ad Fontes) and the date the link was checked (D-015). Topic tags are the only classifications the project adds, and each record names how it was tagged in `tagged_by`.
+3. **Candidate's own words only in statements.** Quotes from surrogates, opponents or officials may appear on article records. They are never returned as the candidate's evidence. The validator enforces that a statement's speaker is the candidate's name or an alias (D-037).
+4. **Fixed vocabulary.** Topics come only from `taxonomy/topics.json`. Changing the list needs a pull request with a stated reason. Policy-area mappings live in `taxonomy/policy_area_crosswalk.json` and change the same way.
+5. **Same rules for everyone.** Collectors run the same way for every candidate and every outlet in the config. A candidate or outlet is added only through `config/candidates.yaml` or `config/outlets.yaml`, with the basis recorded in `inclusion_reason` or the outlet entry and in [SOURCES.md](SOURCES.md).
+6. **No copyrighted full text.** Store metadata, the outlet's own headline, and short verbatim quotes. Link to the original and to an archived copy. Collectors may fetch full pages transiently to extract quotes and tags, but that text is never committed. Government records may be stored in fuller form.
+7. **Verbatim quotes.** Every quote must appear word for word in the linked source. CI re-fetches the source for new or changed records (`tracker.checks`). If the source cannot be fetched, the quote is flagged for the reviewer rather than passed.
+8. **Corrections are visible.** A correction changes the source fields in place and keeps the prior value in the pull request description. History stays in git. See [CORRECTIONS.md](CORRECTIONS.md).
+9. **No duplicate evidence.** The same quote from the same source, the same article URL, the same endorsement, appearance or poll entered twice is rejected by the validator as a duplicate.

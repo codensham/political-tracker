@@ -1,0 +1,21 @@
+{
+  "bill_number": "S729",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-729-kamala-harris",
+  "introduced_date": "2019-04-04",
+  "policy_area": "Environmental Protection",
+  "published_at": "2019-04-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/729",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit the use of funds to Federal agencies to establish a panel, task force, advisory committee, or other effort to challenge the scientific consensus on climate change, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

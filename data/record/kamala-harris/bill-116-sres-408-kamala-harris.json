@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES408",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-408-kamala-harris",
+  "introduced_date": "2019-11-06",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2019-11-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/408",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that Members of Congress and their staffs, employees of the Executive Office of the President and executive branch agencies, and the President of the United States have a duty to protect the identities of whistleblowers and safeguard whistleblowers from retaliation.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,24 @@
+{
+  "bill_number": "S121",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-9-hillary-clinton",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2003-01-21",
+  "question": "On Passage of the Bill",
+  "rollnumber": 9,
+  "source_url": "https://voteview.com/rollcall/RS1080009",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "vote",
+  "vote_date": "2003-01-21",
+  "vote_result": "Bill Passed"
+}

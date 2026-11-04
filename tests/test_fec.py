@@ -4,15 +4,13 @@ from pathlib import Path
 import httpx
 
 from tracker.collectors import REGISTRY
+from tracker.collectors.__main__ import main as collectors_main
 from tracker.collectors.base import run_collector
 from tracker.collectors.fec import FecFinanceCollector
-from tracker.collectors.__main__ import main as collectors_main
 from tracker.records import write_record
 from tracker.validate import validate_record, validate_tree
 
-FIXTURE = json.loads(
-    (Path(__file__).parent / "fixtures" / "fec_totals.json").read_text(encoding="utf-8")
-)
+FIXTURE = json.loads((Path(__file__).parent / "fixtures" / "fec_totals.json").read_text(encoding="utf-8"))
 FEC_ID = FIXTURE["candidate_id"]
 ROW = FIXTURE["results"][0]
 TOTALS_PATH = f"/v1/candidate/{FEC_ID}/totals/"
@@ -74,8 +72,17 @@ def test_records_validate(tmp_path: Path):
             "collector": "candidates@1.0",
             "topics": [],
             "name": "Jane Doe",
-            "party": "DEM",
-            "status": "potential",
+            "aliases": ["Jane Doe"],
+            "candidacies": [
+                {
+                    "office": "president",
+                    "year": 2028,
+                    "party": "DEM",
+                    "result": "potential",
+                    "fec_candidate_id": None,
+                    "source_url": "https://www.fec.gov/",
+                }
+            ],
             "icpsr": None,
             "bioguide_id": None,
             "official_site": None,
@@ -86,18 +93,22 @@ def test_records_validate(tmp_path: Path):
     result = run_collector(collector, tmp_path)
     assert result.written == 1
     assert validate_tree(tmp_path) == {}
-    assert validate_record(
-        {**next(collector.collect([CANDIDATE])), "collector": "fec_finance@1.0",
-         "collected_at": "2026-11-03T09:00:00Z"}
-    ) == []
+    assert (
+        validate_record(
+            {
+                **next(collector.collect([CANDIDATE])),
+                "collector": "fec_finance@1.0",
+                "collected_at": "2026-11-03T09:00:00Z",
+            }
+        )
+        == []
+    )
 
 
 def test_candidate_without_fec_ids_skipped():
     calls: list[str] = []
     no_ids = {**CANDIDATE, "fec_candidate_ids": []}
-    records = list(
-        FecFinanceCollector(fixture_client(calls), sleep=lambda s: None).collect([no_ids])
-    )
+    records = list(FecFinanceCollector(fixture_client(calls), sleep=lambda s: None).collect([no_ids]))
     assert records == []
     assert calls == []
 
@@ -116,12 +127,16 @@ def test_cli_nonzero_on_failure(tmp_path: Path, monkeypatch):
     other_id = "P99999999"
     candidates = [
         CANDIDATE,
-        {"id": "john-roe", "type": "candidate", "candidate_ids": ["john-roe"],
-         "fec_candidate_ids": [other_id]},
+        {
+            "id": "john-roe",
+            "type": "candidate",
+            "candidate_ids": ["john-roe"],
+            "fec_candidate_ids": [other_id],
+        },
     ]
     data = tmp_path / "data"
-    from tracker.records import write_record
     from tracker.collectors import base as _base  # noqa: F401
+    from tracker.records import write_record
 
     for cand in candidates:
         write_record(
@@ -133,8 +148,17 @@ def test_cli_nonzero_on_failure(tmp_path: Path, monkeypatch):
                 "collector": "candidates@1.0",
                 "topics": [],
                 "name": cand["id"],
-                "party": "DEM",
-                "status": "potential",
+                "aliases": [cand["id"]],
+                "candidacies": [
+                    {
+                        "office": "president",
+                        "year": 2028,
+                        "party": "DEM",
+                        "result": "potential",
+                        "fec_candidate_id": None,
+                        "source_url": "https://www.fec.gov/",
+                    }
+                ],
                 "icpsr": None,
                 "bioguide_id": None,
                 "official_site": None,
@@ -150,9 +174,7 @@ def test_cli_nonzero_on_failure(tmp_path: Path, monkeypatch):
                 return httpx.Response(200, json=FIXTURE)
             return httpx.Response(500, json={})
 
-        return FecFinanceCollector(
-            httpx.Client(transport=httpx.MockTransport(handler)), sleep=lambda s: None
-        )
+        return FecFinanceCollector(httpx.Client(transport=httpx.MockTransport(handler)), sleep=lambda s: None)
 
     monkeypatch.setitem(REGISTRY, "fec_finance", factory)
     code = collectors_main(["fec_finance", "--data", str(data)])

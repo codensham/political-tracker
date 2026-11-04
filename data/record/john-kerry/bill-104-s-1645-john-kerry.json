@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1645",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1645-john-kerry",
+  "introduced_date": "1996-03-26",
+  "policy_area": "Environmental Protection",
+  "published_at": "1996-03-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1645",
+  "tagged_by": "crosswalk@1",
+  "title": "Antarctic Science, Tourism, and Conservation Act of 1996",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

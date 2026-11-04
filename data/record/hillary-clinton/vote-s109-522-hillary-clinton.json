@@ -1,0 +1,24 @@
+{
+  "bill_number": "S2611",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-522-hillary-clinton",
+  "policy_area": "Immigration",
+  "published_at": "2006-05-25",
+  "question": "On the Amendment",
+  "rollnumber": 522,
+  "source_url": "https://voteview.com/rollcall/RS1090522",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "immigration"
+  ],
+  "type": "vote",
+  "vote_date": "2006-05-25",
+  "vote_result": "Amendment Agreed to"
+}

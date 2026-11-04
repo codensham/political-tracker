@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES94",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-94-kamala-harris",
+  "introduced_date": "2019-03-05",
+  "policy_area": "Health",
+  "published_at": "2019-03-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/94",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the Department of Justice should protect individuals with pre-existing medical conditions by defending the Patient Protection and Affordable Care Act (Public Law 111-148; 124 Stat. 119) in Texas v. United States, No. 4:18-cv-00167-O (N.D. Tex.), in which the plaintiffs seek to invalidate protections for individuals with pre-existing medical conditions.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

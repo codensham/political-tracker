@@ -1,0 +1,18 @@
+{
+  "bill_number": "S487",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-487-john-mccain",
+  "introduced_date": "1995-03-02",
+  "policy_area": "Native Americans",
+  "published_at": "1995-03-02",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/487",
+  "title": "Indian Gaming Regulatory Act Amendments Act of 1995",
+  "topics": [],
+  "type": "bill"
+}

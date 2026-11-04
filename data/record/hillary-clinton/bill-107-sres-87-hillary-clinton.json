@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES87",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-87-hillary-clinton",
+  "introduced_date": "2001-05-10",
+  "policy_area": "Congress",
+  "published_at": "2001-05-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/87",
+  "title": "A resolution expressing the sense of the Senate that there should be established a joint committee of the Senate and House of Representatives to investigate the rapidly increasing energy prices across the country and to determine what is causing the increases.",
+  "topics": [],
+  "type": "bill"
+}

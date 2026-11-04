@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4515",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-s99-497-joe-biden",
+  "published_at": "1986-06-05",
+  "question": null,
+  "rollnumber": 497,
+  "source_url": "https://voteview.com/rollcall/RS0990497",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1986-06-05",
+  "vote_result": null
+}

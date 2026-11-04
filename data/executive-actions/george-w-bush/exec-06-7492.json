@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-7492",
+  "document_type": "executive_order",
+  "executive_order_number": "13411",
+  "id": "exec-06-7492",
+  "published_at": "2006-09-06",
+  "signing_date": "2006-08-29",
+  "source_url": "https://www.federalregister.gov/documents/2006/09/06/06-7492/improving-assistance-for-disaster-victims",
+  "title": "Improving Assistance for Disaster Victims",
+  "topics": [],
+  "type": "executive_action"
+}

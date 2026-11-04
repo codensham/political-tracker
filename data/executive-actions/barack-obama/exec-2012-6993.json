@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-6993",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2012-6993",
+  "published_at": "2012-03-21",
+  "signing_date": "2012-03-16",
+  "source_url": "https://www.federalregister.gov/documents/2012/03/21/2012-6993/delegation-of-reporting-functions-specified-in-section-1045-of-the-national-defense-authorization",
+  "title": "Delegation of Reporting Functions Specified in Section 1045 of the National Defense Authorization Act for Fiscal Year 2012, and Condition 9 of the Resolution of Advice and Consent to Ratification of the Treaty Between the United States of America and the Russian Federation on the Measures for the Further Reduction and Limitation of Strategic Offensive Arms (the \"New Start Treaty\")",
+  "topics": [],
+  "type": "executive_action"
+}

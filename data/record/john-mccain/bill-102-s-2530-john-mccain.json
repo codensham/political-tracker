@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2530",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2530-john-mccain",
+  "introduced_date": "1992-04-02",
+  "policy_area": "Commerce",
+  "published_at": "1992-04-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2530",
+  "title": "John Heinz Competitive Excellence Award Act of 1992",
+  "topics": [],
+  "type": "bill"
+}

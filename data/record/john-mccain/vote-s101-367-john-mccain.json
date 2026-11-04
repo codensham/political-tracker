@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1630",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-367-john-mccain",
+  "policy_area": "Environmental Protection",
+  "published_at": "1990-04-03",
+  "question": "On Passage of the Bill",
+  "rollnumber": 367,
+  "source_url": "https://voteview.com/rollcall/RS1010367",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "environment"
+  ],
+  "type": "vote",
+  "vote_date": "1990-04-03",
+  "vote_result": "Bill Passed"
+}

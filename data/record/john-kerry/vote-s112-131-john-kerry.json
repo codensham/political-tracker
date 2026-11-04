@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJRES66",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-131-john-kerry",
+  "published_at": "2011-09-12",
+  "question": "On the Cloture Motion",
+  "rollnumber": 131,
+  "source_url": "https://voteview.com/rollcall/RS1120131",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2011-09-12",
+  "vote_result": "Cloture Motion Rejected"
+}

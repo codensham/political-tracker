@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1991",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-1991-john-mccain",
+  "introduced_date": "2015-08-05",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2015-08-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/1991",
+  "tagged_by": "crosswalk@1",
+  "title": "Permanent Department of Veterans Affairs Choice Card Act of 2015",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

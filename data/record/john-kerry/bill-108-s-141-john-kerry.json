@@ -1,0 +1,18 @@
+{
+  "bill_number": "S141",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-141-john-kerry",
+  "introduced_date": "2003-01-10",
+  "policy_area": "Commerce",
+  "published_at": "2003-01-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/141",
+  "title": "A bill to improve the calculation of the Federal subsidy rate with respect to certain small business loans, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

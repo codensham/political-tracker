@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3363",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-3363-john-mccain",
+  "introduced_date": "2016-09-20",
+  "policy_area": "International Affairs",
+  "published_at": "2016-09-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/3363",
+  "tagged_by": "crosswalk@1",
+  "title": "Emergency Supplemental Appropriations Act for the Defense of Israel, 2016",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

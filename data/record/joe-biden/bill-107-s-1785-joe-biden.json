@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1785",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1785-joe-biden",
+  "introduced_date": "2001-12-07",
+  "policy_area": "Commemorations",
+  "published_at": "2001-12-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1785",
+  "title": "White House Commission on National Military Appreciation Month Act",
+  "topics": [],
+  "type": "bill"
+}

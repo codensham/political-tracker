@@ -1,0 +1,20 @@
+{
+  "bill_number": "SCONRES92",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-s97-642-joe-biden",
+  "published_at": "1982-05-21",
+  "question": null,
+  "rollnumber": 642,
+  "source_url": "https://voteview.com/rollcall/RS0970642",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1982-05-21",
+  "vote_result": null
+}

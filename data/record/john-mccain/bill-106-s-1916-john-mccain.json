@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1916",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1916-john-mccain",
+  "introduced_date": "1999-11-10",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1999-11-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1916",
+  "title": "FAA Authorization Extension Act",
+  "topics": [],
+  "type": "bill"
+}

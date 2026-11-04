@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-17620",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-17620",
+  "published_at": "2010-07-16",
+  "signing_date": "2010-07-13",
+  "source_url": "https://www.federalregister.gov/documents/2010/07/16/2010-17620/implementation-of-the-national-hivaids-strategy",
+  "title": "Implementation of the National HIV/AIDS Strategy",
+  "topics": [],
+  "type": "executive_action"
+}

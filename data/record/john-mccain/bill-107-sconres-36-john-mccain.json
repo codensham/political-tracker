@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES36",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-36-john-mccain",
+  "introduced_date": "2001-05-03",
+  "policy_area": "Commemorations",
+  "published_at": "2001-05-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/36",
+  "title": "A concurrent resolution honoring the National Science Foundation for 50 years of service to the Nation.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES14",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-419-joe-biden",
+  "policy_area": "Commemorations",
+  "published_at": "2000-03-28",
+  "question": "On the Amendment",
+  "rollnumber": 419,
+  "source_url": "https://voteview.com/rollcall/RS1060419",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-03-28",
+  "vote_result": "Amendment Rejected"
+}

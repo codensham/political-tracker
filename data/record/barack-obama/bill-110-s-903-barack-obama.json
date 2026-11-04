@@ -1,0 +1,18 @@
+{
+  "bill_number": "S903",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-903-barack-obama",
+  "introduced_date": "2008-04-22",
+  "policy_area": "Commemorations",
+  "published_at": "2008-04-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/903",
+  "title": "A bill to award a Congressional Gold Medal to Dr. Muhammad Yunus, in recognition of his contributions to the fight against global poverty.",
+  "topics": [],
+  "type": "bill"
+}

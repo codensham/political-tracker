@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-2583",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-07-2583",
+  "published_at": "2007-05-23",
+  "signing_date": "2007-05-18",
+  "source_url": "https://www.federalregister.gov/documents/2007/05/23/07-2583/world-trade-week-2007",
+  "title": "World Trade Week, 2007",
+  "topics": [],
+  "type": "executive_action"
+}

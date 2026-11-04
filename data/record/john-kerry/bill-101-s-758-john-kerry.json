@@ -1,0 +1,21 @@
+{
+  "bill_number": "S758",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-758-john-kerry",
+  "introduced_date": "1990-10-19",
+  "policy_area": "International Affairs",
+  "published_at": "1990-10-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/758",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the Secretary of the Treasury to monitor the adherence by certain United States corporations to principles of nondiscrimination and freedom of opportunity in employment practices in Northern Ireland.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

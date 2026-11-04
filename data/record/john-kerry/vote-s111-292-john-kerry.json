@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2996",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-292-john-kerry",
+  "published_at": "2009-09-22",
+  "question": "On the Motion",
+  "rollnumber": 292,
+  "source_url": "https://voteview.com/rollcall/RS1110292",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-09-22",
+  "vote_result": "Motion Agreed to"
+}

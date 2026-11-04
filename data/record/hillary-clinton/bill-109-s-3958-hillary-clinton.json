@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3958",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-3958-hillary-clinton",
+  "introduced_date": "2006-09-27",
+  "policy_area": "Education",
+  "published_at": "2006-09-27",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/3958",
+  "tagged_by": "crosswalk@1",
+  "title": "Public Service Academy Act of 2006",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

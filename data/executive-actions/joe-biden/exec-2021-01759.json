@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01759",
+  "document_type": "executive_order",
+  "executive_order_number": "13987",
+  "id": "exec-2021-01759",
+  "published_at": "2021-01-25",
+  "signing_date": "2021-01-20",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01759/organizing-and-mobilizing-the-united-states-government-to-provide-a-unified-and-effective-response",
+  "title": "Organizing and Mobilizing the United States Government To Provide a Unified and Effective Response To Combat COVID-19 and To Provide United States Leadership on Global Health and Security",
+  "topics": [],
+  "type": "executive_action"
+}

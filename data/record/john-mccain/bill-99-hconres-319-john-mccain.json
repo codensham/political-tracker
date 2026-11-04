@@ -1,0 +1,18 @@
+{
+  "bill_number": "HCONRES319",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hconres-319-john-mccain",
+  "introduced_date": "1986-04-16",
+  "policy_area": "Commemorations",
+  "published_at": "1986-04-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-concurrent-resolution/319",
+  "title": "A concurrent resolution to commemorate the bicentennial of Australia and to honor the April 1986 visit of Australian Prime Minister Robert Hawke to the United States.",
+  "topics": [],
+  "type": "bill"
+}

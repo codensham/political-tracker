@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN195",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-134-barack-obama",
+  "published_at": "2005-06-09",
+  "question": "On the Nomination",
+  "rollnumber": 134,
+  "source_url": "https://voteview.com/rollcall/RS1090134",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-06-09",
+  "vote_result": "Nomination Confirmed"
+}

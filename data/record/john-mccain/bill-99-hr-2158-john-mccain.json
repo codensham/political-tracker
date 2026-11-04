@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR2158",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-2158-john-mccain",
+  "introduced_date": "1985-04-22",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1985-04-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/2158",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit the importation into the United States of beef, bananas, and sugar from Nicaragua until the President finds that the policies of the Government of Nicaragua regarding opposition to the democratic resistance forces and a free democratic form of government are consistent with its obligations under the terms of the Nicaraguan revolution and the promises made to the Organization of American States.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

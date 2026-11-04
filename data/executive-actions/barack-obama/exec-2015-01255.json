@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-01255",
+  "document_type": "executive_order",
+  "executive_order_number": "13688",
+  "id": "exec-2015-01255",
+  "published_at": "2015-01-22",
+  "signing_date": "2015-01-16",
+  "source_url": "https://www.federalregister.gov/documents/2015/01/22/2015-01255/federal-support-for-local-law-enforcement-equipment-acquisition",
+  "title": "Federal Support for Local Law Enforcement Equipment Acquisition",
+  "topics": [],
+  "type": "executive_action"
+}

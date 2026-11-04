@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1735",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1735-joe-biden",
+  "introduced_date": "2001-11-27",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2001-11-27",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1735",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to establish a National Commission on Threats to the Homeland and United States National Security.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

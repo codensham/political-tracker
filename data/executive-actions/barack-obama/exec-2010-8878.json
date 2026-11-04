@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-8878",
+  "document_type": "executive_order",
+  "executive_order_number": "13536",
+  "id": "exec-2010-8878",
+  "published_at": "2010-04-15",
+  "signing_date": "2010-04-12",
+  "source_url": "https://www.federalregister.gov/documents/2010/04/15/2010-8878/blocking-property-of-certain-persons-contributing-to-the-conflict-in-somalia",
+  "title": "Blocking Property of Certain Persons Contributing to the Conflict in Somalia",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-11562",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-11562",
+  "published_at": "2021-05-28",
+  "signing_date": "2021-05-26",
+  "source_url": "https://www.federalregister.gov/documents/2021/05/28/2021-11562/honoring-the-victims-of-the-tragedy-in-san-jose-california",
+  "title": "Honoring the Victims of the Tragedy in San Jose, California",
+  "topics": [],
+  "type": "executive_action"
+}

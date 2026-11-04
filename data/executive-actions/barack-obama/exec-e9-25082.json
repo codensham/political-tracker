@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-25082",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-25082",
+  "published_at": "2009-10-16",
+  "signing_date": "2009-10-09",
+  "source_url": "https://www.federalregister.gov/documents/2009/10/16/E9-25082/columbus-day-2009",
+  "title": "Columbus Day, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

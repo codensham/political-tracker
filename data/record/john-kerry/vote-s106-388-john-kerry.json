@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN499",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-388-john-kerry",
+  "published_at": "2000-02-24",
+  "question": "On the Nomination",
+  "rollnumber": 388,
+  "source_url": "https://voteview.com/rollcall/RS1060388",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-02-24",
+  "vote_result": "Nomination Confirmed"
+}

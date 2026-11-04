@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1158",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-125-joe-biden",
+  "published_at": "1995-03-30",
+  "question": "On the Motion to Table",
+  "rollnumber": 125,
+  "source_url": "https://voteview.com/rollcall/RS1040125",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-03-30",
+  "vote_result": "Motion to Table Agreed to"
+}

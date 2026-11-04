@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-28904",
+  "document_type": "executive_order",
+  "executive_order_number": null,
+  "id": "exec-01-28904",
+  "published_at": "2001-11-16",
+  "signing_date": null,
+  "source_url": "https://www.federalregister.gov/documents/2001/11/16/01-28904/detention-treatment-and-trial-of-certain-non--citizens-in-the-war-against-terrorism",
+  "title": "Detention, Treatment, and Trial of Certain Non- Citizens in the War Against Terrorism",
+  "topics": [],
+  "type": "executive_action"
+}

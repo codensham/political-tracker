@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES239",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-239-al-gore",
+  "introduced_date": "1988-02-23",
+  "policy_area": "Commemorations",
+  "published_at": "1988-02-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/239",
+  "title": "A joint resolution to designate May 1 through May 31, 1988, as \"Worldwide Bluegrass Music Month\".",
+  "topics": [],
+  "type": "bill"
+}

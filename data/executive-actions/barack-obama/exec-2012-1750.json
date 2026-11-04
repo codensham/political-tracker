@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-1750",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2012-1750",
+  "published_at": "2012-01-25",
+  "signing_date": "2012-01-20",
+  "source_url": "https://www.federalregister.gov/documents/2012/01/25/2012-1750/federal-support-for-the-randolph-sheppard-vending-facility-program",
+  "title": "Federal Support for the Randolph-Sheppard Vending Facility Program",
+  "topics": [],
+  "type": "executive_action"
+}

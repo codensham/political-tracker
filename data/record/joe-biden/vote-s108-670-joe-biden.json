@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4520",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-670-joe-biden",
+  "published_at": "2004-10-11",
+  "question": "On the Conference Report",
+  "rollnumber": 670,
+  "source_url": "https://voteview.com/rollcall/RS1080670",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-10-11",
+  "vote_result": "Conference Report Agreed to"
+}

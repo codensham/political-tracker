@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1196",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1196-john-mccain",
+  "introduced_date": "1997-09-18",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1997-09-18",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1196",
+  "title": "Foreign Air Carrier Family Support Act",
+  "topics": [],
+  "type": "bill"
+}

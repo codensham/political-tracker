@@ -1,0 +1,24 @@
+{
+  "bill_number": "S636",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-369-john-mccain",
+  "policy_area": "Health",
+  "published_at": "1993-11-16",
+  "question": "On the Amendment",
+  "rollnumber": 369,
+  "source_url": "https://voteview.com/rollcall/RS1030369",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "vote",
+  "vote_date": "1993-11-16",
+  "vote_result": "Amendment Agreed to"
+}

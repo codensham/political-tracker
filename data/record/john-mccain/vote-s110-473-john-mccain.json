@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1200",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-473-john-mccain",
+  "policy_area": "Native Americans",
+  "published_at": "2008-02-26",
+  "question": "On the Amendment",
+  "rollnumber": 473,
+  "source_url": "https://voteview.com/rollcall/RS1100473",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-02-26",
+  "vote_result": "Amendment Agreed to"
+}

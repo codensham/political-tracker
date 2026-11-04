@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3456",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-h99-457-john-mccain",
+  "published_at": "1986-02-06",
+  "question": null,
+  "rollnumber": 457,
+  "source_url": "https://voteview.com/rollcall/RH0990457",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1986-02-06",
+  "vote_result": null
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR242",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-242-john-mccain",
+  "introduced_date": "1985-01-22",
+  "policy_area": "Taxation",
+  "published_at": "1985-01-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/242",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to repeal the changes made by the Tax Reform Act of 1984 with respect to the tax treatment of debt instruments issued for property.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

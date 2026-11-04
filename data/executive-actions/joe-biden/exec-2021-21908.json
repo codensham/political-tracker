@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-21908",
+  "document_type": "executive_order",
+  "executive_order_number": "14048",
+  "id": "exec-2021-21908",
+  "published_at": "2021-10-05",
+  "signing_date": "2021-09-30",
+  "source_url": "https://www.federalregister.gov/documents/2021/10/05/2021-21908/continuance-or-reestablishment-of-certain-federal-advisory-committees-and-amendments-to-other",
+  "title": "Continuance or Reestablishment of Certain Federal Advisory Committees and Amendments to Other Executive Orders",
+  "topics": [],
+  "type": "executive_action"
+}

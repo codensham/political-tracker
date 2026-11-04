@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES378",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-378-john-mccain",
+  "introduced_date": "2016-02-29",
+  "policy_area": "International Affairs",
+  "published_at": "2016-02-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/378",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the courageous work and life of Russian opposition leader Boris Yefimovich Nemtsov and renewing the call for a full and transparent investigation into the tragic murder of Boris Yefimovich Nemtsov in Moscow on February 27, 2015.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2167",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2167-hillary-clinton",
+  "introduced_date": "2005-12-21",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2005-12-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2167",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the USA PATRIOT ACT to extend the sunset of certain provisions of that Act and the lone wolf provision of the Intelligence Reform and Terrorism Prevention Act of 2004 to July 1, 2006.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

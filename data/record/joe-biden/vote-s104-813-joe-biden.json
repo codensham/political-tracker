@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3610",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-813-joe-biden",
+  "published_at": "1996-07-18",
+  "question": "On Passage of the Bill",
+  "rollnumber": 813,
+  "source_url": "https://voteview.com/rollcall/RS1040813",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-07-18",
+  "vote_result": "Bill Passed"
+}

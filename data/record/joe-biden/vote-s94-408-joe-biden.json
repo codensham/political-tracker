@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR8069",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 94,
+  "id": "vote-s94-408-joe-biden",
+  "published_at": "1975-09-19",
+  "question": null,
+  "rollnumber": 408,
+  "source_url": "https://voteview.com/rollcall/RS0940408",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1975-09-19",
+  "vote_result": null
+}

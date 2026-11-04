@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES101",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sjres-101-al-gore",
+  "introduced_date": "1991-03-21",
+  "policy_area": "International Affairs",
+  "published_at": "1991-03-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/101",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution noting the finding of the Commission of Inquiry Into Aspects of the Forest Industry on Papua New Guinea, and calling for appropriate actions.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

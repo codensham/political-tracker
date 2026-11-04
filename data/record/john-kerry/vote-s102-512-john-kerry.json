@@ -1,0 +1,24 @@
+{
+  "bill_number": "S5",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-512-john-kerry",
+  "policy_area": "Labor and Employment",
+  "published_at": "1992-09-24",
+  "question": "On Overriding the Veto",
+  "rollnumber": 512,
+  "source_url": "https://voteview.com/rollcall/RS1020512",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "labor"
+  ],
+  "type": "vote",
+  "vote_date": "1992-09-24",
+  "vote_result": "Veto Overridden"
+}

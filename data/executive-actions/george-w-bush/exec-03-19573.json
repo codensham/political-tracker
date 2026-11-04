@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-19573",
+  "document_type": "executive_order",
+  "executive_order_number": "13310",
+  "id": "exec-03-19573",
+  "published_at": "2003-07-30",
+  "signing_date": "2003-07-28",
+  "source_url": "https://www.federalregister.gov/documents/2003/07/30/03-19573/blocking-property-of-the-government-of-burma-and-prohibiting-certain-transactions",
+  "title": "Blocking Property of the Government of Burma and Prohibiting Certain Transactions",
+  "topics": [],
+  "type": "executive_action"
+}

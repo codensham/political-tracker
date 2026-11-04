@@ -1,26 +1,137 @@
 # Candidates to track. Each entry becomes data/candidates/<id>.json via `python -m tracker.candidates`.
-# Inclusion criteria and sources: docs/SOURCES.md
+# Scope and inclusion criteria: docs/SOURCES.md, spec §4b, DECISIONS.md D-004 to D-006.
 #
 # Entry format:
-#   - id: jane-doe                      # lowercase letters, digits, hyphens
+#   - id: jane-doe                         # lowercase letters, digits, hyphens
 #     name: Jane Doe
-#     party: DEM
-#     status: potential                 # potential | declared | withdrawn | nominee
-#     as_of: "2026-11-03"              # date the inclusion facts were checked
+#     aliases: ["Jane Doe", "Jane M. Doe"] # full name forms only; a bare surname never matches (D-009)
+#     candidacies:                         # one entry per presidential election
+#       - {office: president, year: 2028, party: DEM, result: potential,
+#          fec_candidate_id: P00000001, source_url: "https://www.fec.gov/data/candidate/P00000001/"}
+#     social_accounts: []                  # optional: [{platform, handle, url}]
+#     as_of: "2026-11-03"                  # date the inclusion facts were checked
 #     fec_candidate_ids: ["P00000001"]
-#     icpsr: 12345                      # null if no congressional career
+#     icpsr: 12345                         # null if no congressional career
 #     bioguide_id: null
 #     official_site: https://janedoe.example/   # or null
-#     inclusion_reason: "FEC Form 2 filed for 2028 (fec.gov)"
+#     inclusion_reason: "Major-party nominee 2028 (FEC Form 2, checked 2026-11-03)"
+#
+# result: potential | declared | withdrew | nominee | won | lost
+# `status` and `party` at the top level are retired; the sync rejects them.
 
 candidates:
   - id: donald-trump
     name: Donald J. Trump
-    party: REP
-    status: nominee
+    aliases: ["Donald J. Trump", "Donald Trump"]
+    candidacies:
+      - {office: president, year: 2016, party: REP, result: won, fec_candidate_id: P80001571, source_url: "https://www.fec.gov/data/candidate/P80001571/"}
+      - {office: president, year: 2020, party: REP, result: lost, fec_candidate_id: P80001571, source_url: "https://www.fec.gov/data/candidate/P80001571/"}
+      - {office: president, year: 2024, party: REP, result: won, fec_candidate_id: P80001571, source_url: "https://www.fec.gov/data/candidate/P80001571/"}
     as_of: "2026-11-04"
     fec_candidate_ids: ["P80001571"]
     icpsr: null
     bioguide_id: null
     official_site: null
-    inclusion_reason: "(c) Past candidate: major-party nominee in 2016, 2020, and 2024. FEC candidate search office=P shows P80001571 with those election years (checked 2026-11-04)."
+    inclusion_reason: "Major-party nominee 2016, 2020, 2024 (FEC candidate search office=P shows P80001571 with those election years, checked 2026-11-04). D-004, D-007."
+  - id: al-gore
+    name: Al Gore
+    aliases: ["Al Gore", "Albert Gore Jr.", "Albert Arnold Gore Jr."]
+    candidacies:
+      - {office: president, year: 2000, party: DEM, result: lost, fec_candidate_id: P80000912, source_url: "https://www.fec.gov/data/candidate/P80000912/"}
+    as_of: "2026-11-04"
+    fec_candidate_ids: ["P80000912"]
+    icpsr: 14423
+    bioguide_id: G000321
+    official_site: null
+    inclusion_reason: "Major-party nominee 2000 (FEC candidate P80000912, election years 1988, 1996, 2000; checked 2026-11-04). D-004."
+  - id: george-w-bush
+    name: George W. Bush
+    aliases: ["George W. Bush", "George Walker Bush"]
+    candidacies:
+      - {office: president, year: 2000, party: REP, result: won, fec_candidate_id: P00003335, source_url: "https://www.fec.gov/data/candidate/P00003335/"}
+      - {office: president, year: 2004, party: REP, result: won, fec_candidate_id: P00003335, source_url: "https://www.fec.gov/data/candidate/P00003335/"}
+    as_of: "2026-11-04"
+    fec_candidate_ids: ["P00003335"]
+    icpsr: null
+    bioguide_id: null
+    official_site: null
+    inclusion_reason: "Major-party nominee 2000 and 2004 (FEC candidate P00003335, election years 2000, 2004; checked 2026-11-04). D-004."
+  - id: john-kerry
+    name: John Kerry
+    aliases: ["John Kerry", "John F. Kerry"]
+    candidacies:
+      - {office: president, year: 2004, party: DEM, result: lost, fec_candidate_id: P80000235, source_url: "https://www.fec.gov/data/candidate/P80000235/"}
+    as_of: "2026-11-04"
+    fec_candidate_ids: ["P80000235"]
+    icpsr: 14920
+    bioguide_id: K000148
+    official_site: null
+    inclusion_reason: "Major-party nominee 2004 (FEC candidate P80000235, election years 1988, 2004; checked 2026-11-04). D-004."
+  - id: barack-obama
+    name: Barack Obama
+    aliases: ["Barack Obama", "Barack H. Obama"]
+    candidacies:
+      - {office: president, year: 2008, party: DEM, result: won, fec_candidate_id: P80003338, source_url: "https://www.fec.gov/data/candidate/P80003338/"}
+      - {office: president, year: 2012, party: DEM, result: won, fec_candidate_id: P80003338, source_url: "https://www.fec.gov/data/candidate/P80003338/"}
+    as_of: "2026-11-04"
+    fec_candidate_ids: ["P80003338"]
+    icpsr: 40502
+    bioguide_id: O000167
+    official_site: null
+    inclusion_reason: "Major-party nominee 2008 and 2012 (FEC candidate P80003338, election years 2008, 2012; checked 2026-11-04). FEC shows the joint name with the running mate. D-004."
+  - id: john-mccain
+    name: John McCain
+    aliases: ["John McCain", "John S. McCain"]
+    candidacies:
+      - {office: president, year: 2008, party: REP, result: lost, fec_candidate_id: P80002801, source_url: "https://www.fec.gov/data/candidate/P80002801/"}
+    as_of: "2026-11-04"
+    fec_candidate_ids: ["P80002801"]
+    icpsr: 15039
+    bioguide_id: M000303
+    official_site: null
+    inclusion_reason: "Major-party nominee 2008 (FEC candidate P80002801, election years 2000, 2008; checked 2026-11-04). D-004."
+  - id: mitt-romney
+    name: Mitt Romney
+    aliases: ["Mitt Romney", "Willard Mitt Romney"]
+    candidacies:
+      - {office: president, year: 2012, party: REP, result: lost, fec_candidate_id: P80003353, source_url: "https://www.fec.gov/data/candidate/P80003353/"}
+    as_of: "2026-11-04"
+    fec_candidate_ids: ["P80003353"]
+    icpsr: 41902
+    bioguide_id: R000615
+    official_site: null
+    inclusion_reason: "Major-party nominee 2012 (FEC candidate P80003353, election years 2008, 2012; checked 2026-11-04). FEC shows the joint name with the running mate. D-004."
+  - id: hillary-clinton
+    name: Hillary Clinton
+    aliases: ["Hillary Clinton", "Hillary Rodham Clinton", "Hillary R. Clinton"]
+    candidacies:
+      - {office: president, year: 2016, party: DEM, result: lost, fec_candidate_id: P00003392, source_url: "https://www.fec.gov/data/candidate/P00003392/"}
+    as_of: "2026-11-04"
+    fec_candidate_ids: ["P00003392"]
+    icpsr: 40105
+    bioguide_id: C001041
+    official_site: null
+    inclusion_reason: "Major-party nominee 2016 (FEC candidate P00003392, election years 2008, 2016; checked 2026-11-04). D-004."
+  - id: joe-biden
+    name: Joe Biden
+    aliases: ["Joe Biden", "Joseph R. Biden", "Joseph Biden"]
+    candidacies:
+      - {office: president, year: 2020, party: DEM, result: won, fec_candidate_id: P80000722, source_url: "https://www.fec.gov/data/candidate/P80000722/"}
+      - {office: president, year: 2024, party: DEM, result: withdrew, fec_candidate_id: P80000722, source_url: "https://www.fec.gov/data/candidate/P80000722/"}
+    as_of: "2026-11-04"
+    fec_candidate_ids: ["P80000722"]
+    icpsr: 14101
+    bioguide_id: B000444
+    official_site: null
+    inclusion_reason: "Nominee 2020; 2024 candidacy withdrawn in July 2024 (FEC candidate P80000722, election years 1988, 2008, 2020, 2024; checked 2026-11-04). D-004."
+  - id: kamala-harris
+    name: Kamala Harris
+    aliases: ["Kamala Harris", "Kamala D. Harris"]
+    candidacies:
+      - {office: president, year: 2024, party: DEM, result: lost, fec_candidate_id: P00009423, source_url: "https://www.fec.gov/data/candidate/P00009423/"}
+    as_of: "2026-11-04"
+    fec_candidate_ids: ["P00009423"]
+    icpsr: 41701
+    bioguide_id: H001075
+    official_site: null
+    inclusion_reason: "Major-party nominee 2024 (FEC candidate P00009423, election years 2020, 2024; checked 2026-11-04). D-004."

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1585",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-433-joe-biden",
+  "published_at": "2007-12-14",
+  "question": "On the Conference Report",
+  "rollnumber": 433,
+  "source_url": "https://voteview.com/rollcall/RS1100433",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-12-14",
+  "vote_result": "Conference Report Agreed to"
+}

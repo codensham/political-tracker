@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4393",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-4393-john-mccain",
+  "introduced_date": "1986-08-06",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1986-08-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/4393",
+  "tagged_by": "crosswalk@1",
+  "title": "Uniformed and Overseas Citizens Absentee Voting Act",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

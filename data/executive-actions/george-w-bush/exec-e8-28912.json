@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-28912",
+  "document_type": "executive_order",
+  "executive_order_number": "13480",
+  "id": "exec-e8-28912",
+  "published_at": "2008-12-04",
+  "signing_date": "2008-11-26",
+  "source_url": "https://www.federalregister.gov/documents/2008/12/04/E8-28912/exclusions-from-the-federal-labor-management-relations-program",
+  "title": "Exclusions From the Federal Labor-management Relations Program",
+  "topics": [],
+  "type": "executive_action"
+}

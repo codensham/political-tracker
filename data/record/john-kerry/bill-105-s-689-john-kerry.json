@@ -1,0 +1,18 @@
+{
+  "bill_number": "S689",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-689-john-kerry",
+  "introduced_date": "1997-05-01",
+  "policy_area": "Commemorations",
+  "published_at": "1997-05-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/689",
+  "title": "A bill to authorize the President to award a gold medal on behalf of the Congress to Mother Teresa of Calcutta in recognition of her outstanding and enduring contributions through humanitarian and charitable activities, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

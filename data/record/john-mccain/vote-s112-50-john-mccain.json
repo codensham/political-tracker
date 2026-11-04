@@ -1,0 +1,21 @@
+{
+  "bill_number": "S493",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-50-john-mccain",
+  "policy_area": "Commerce",
+  "published_at": "2011-04-05",
+  "question": "On the Motion to Table",
+  "rollnumber": 50,
+  "source_url": "https://voteview.com/rollcall/RS1120050",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2011-04-05",
+  "vote_result": "Motion to Table Agreed to"
+}

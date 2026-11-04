@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES627",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-627-hillary-clinton",
+  "introduced_date": "2008-07-31",
+  "policy_area": "International Affairs",
+  "published_at": "2008-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/627",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution welcoming  home Keith Stansell, Thomas Howes, and Marc Gonsalves, three citizens of the United States who were held hostage for over five years by the Revolutionary Armed Forces of Colombia (FARC) after their plane crashed on February 13, 2003.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

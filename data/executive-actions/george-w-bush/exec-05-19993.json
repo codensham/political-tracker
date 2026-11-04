@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-19993",
+  "document_type": "executive_order",
+  "executive_order_number": "13385",
+  "id": "exec-05-19993",
+  "published_at": "2005-10-04",
+  "signing_date": "2005-09-29",
+  "source_url": "https://www.federalregister.gov/documents/2005/10/04/05-19993/continuance-of-certain-federal-advisory-committees-and-amendments-to-and-revocation-of-other",
+  "title": "Continuance of Certain Federal Advisory Committees and Amendments to and Revocation of Other Executive Orders",
+  "topics": [],
+  "type": "executive_action"
+}

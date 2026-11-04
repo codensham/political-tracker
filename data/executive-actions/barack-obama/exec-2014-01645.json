@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-01645",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2014-01645",
+  "published_at": "2014-01-27",
+  "signing_date": "2014-01-22",
+  "source_url": "https://www.federalregister.gov/documents/2014/01/27/2014-01645/establishing-a-white-house-task-force-to-protect-students-from-sexual-assault",
+  "title": "Establishing a White House Task Force To Protect Students From Sexual Assault",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES266",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-266-john-mccain",
+  "introduced_date": "1990-03-05",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1990-03-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/266",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution designating March 1990, as \"United States Naval Reserve Month\".",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

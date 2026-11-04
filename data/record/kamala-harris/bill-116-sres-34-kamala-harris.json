@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES34",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-34-kamala-harris",
+  "introduced_date": "2019-01-29",
+  "policy_area": "International Affairs",
+  "published_at": "2019-01-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/34",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the Governments of Burma and Bangladesh ensure the safe, dignified, voluntary, and sustainable return of the Rohingya refugees who have been displaced by the campaign of ethnic cleansing conducted by the Burmese military and to immediately release unjustly imprisoned journalists, Wa Lone and Kyaw Soe Oo.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "amount": 246648.09,
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C00891325",
+  "committee_name": "OAKLAND CORPS PAC",
+  "cycle": 2024,
+  "fec_candidate_id": "P00009423",
+  "id": "outside-kamala-harris-p00009423-2024-c00891325-support",
+  "published_at": "2024-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P00009423/?cycle=2024",
+  "support_oppose": "support",
+  "topics": [],
+  "type": "outside_spending"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES82",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sconres-82-john-kerry",
+  "introduced_date": "1987-10-13",
+  "policy_area": "International Affairs",
+  "published_at": "1987-10-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/82",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution urging the German Democratic chief of state Erich Honecker to repeal permanently the order directing East German border guards to shoot to kill anyone who, without authorization, attempts to cross the Berlin Wall, and to issue an order to tear down the Berlin Wall.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

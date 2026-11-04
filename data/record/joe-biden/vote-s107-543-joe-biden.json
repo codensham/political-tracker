@@ -1,0 +1,24 @@
+{
+  "bill_number": "SRES292",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-543-joe-biden",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2002-06-26",
+  "question": "On the Resolution",
+  "rollnumber": 543,
+  "source_url": "https://voteview.com/rollcall/RS1070543",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "vote",
+  "vote_date": "2002-06-26",
+  "vote_result": "Resolution Agreed to"
+}

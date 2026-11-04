@@ -1,0 +1,45 @@
+{
+  "aliases": [
+    "Joe Biden",
+    "Joseph R. Biden",
+    "Joseph Biden"
+  ],
+  "bioguide_id": "B000444",
+  "candidacies": [
+    {
+      "fec_candidate_id": "P80000722",
+      "office": "president",
+      "party": "DEM",
+      "result": "won",
+      "source_url": "https://www.fec.gov/data/candidate/P80000722/",
+      "year": 2020
+    },
+    {
+      "fec_candidate_id": "P80000722",
+      "office": "president",
+      "party": "DEM",
+      "result": "withdrew",
+      "source_url": "https://www.fec.gov/data/candidate/P80000722/",
+      "year": 2024
+    }
+  ],
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T14:39:31Z",
+  "collector": "candidates@1.0",
+  "disclosure_names": [],
+  "fec_candidate_ids": [
+    "P80000722"
+  ],
+  "icpsr": 14101,
+  "id": "joe-biden",
+  "inclusion_reason": "Nominee 2020; 2024 candidacy withdrawn in July 2024 (FEC candidate P80000722, election years 1988, 2008, 2020, 2024; checked 2026-11-04). D-004.",
+  "name": "Joe Biden",
+  "official_site": null,
+  "published_at": "2026-11-04",
+  "social_accounts": [],
+  "source_url": "https://www.fec.gov/data/candidate/P80000722/",
+  "topics": [],
+  "type": "candidate"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1905",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-173-joe-biden",
+  "published_at": "1999-06-16",
+  "question": "On Passage of the Bill",
+  "rollnumber": 173,
+  "source_url": "https://voteview.com/rollcall/RS1060173",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1999-06-16",
+  "vote_result": "Bill Passed"
+}

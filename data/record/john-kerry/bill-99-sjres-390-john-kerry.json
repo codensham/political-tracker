@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES390",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-390-john-kerry",
+  "introduced_date": "1986-09-10",
+  "policy_area": "Commemorations",
+  "published_at": "1986-09-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/390",
+  "title": "A joint resolution to authorize and request the President to proclaim the week of November 23, 1986, to November 30, 1986, as \"American Indian Week\".",
+  "topics": [],
+  "type": "bill"
+}

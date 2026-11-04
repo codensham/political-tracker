@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES123",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-123-hillary-clinton",
+  "introduced_date": "2004-07-12",
+  "policy_area": "Commemorations",
+  "published_at": "2004-07-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/123",
+  "title": "A concurrent resolution recognizing and honoring the life and legacy of Alexander Hamilton on the bicentennial of his death because of his standing as one of the most influential Founding Fathers of the United States.",
+  "topics": [],
+  "type": "bill"
+}

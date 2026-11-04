@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4444",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-614-joe-biden",
+  "published_at": "2000-09-13",
+  "question": "On the Amendment",
+  "rollnumber": 614,
+  "source_url": "https://voteview.com/rollcall/RS1060614",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-09-13",
+  "vote_result": "Amendment Rejected"
+}

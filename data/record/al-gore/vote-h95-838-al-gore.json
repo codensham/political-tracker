@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR50",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-h95-838-al-gore",
+  "published_at": "1978-03-16",
+  "question": null,
+  "rollnumber": 838,
+  "source_url": "https://voteview.com/rollcall/RH0950838",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-03-16",
+  "vote_result": null
+}

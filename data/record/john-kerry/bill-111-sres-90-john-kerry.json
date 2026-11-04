@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES90",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-90-john-kerry",
+  "introduced_date": "2009-03-30",
+  "policy_area": "International Affairs",
+  "published_at": "2009-03-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/90",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the Fifth Summit of the Americas, held in Port of Spain, Trinidad and Tobago, April 17, 18, and 19, 2009.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

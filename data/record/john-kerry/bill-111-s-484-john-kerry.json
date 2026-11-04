@@ -1,0 +1,18 @@
+{
+  "bill_number": "S484",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-484-john-kerry",
+  "introduced_date": "2009-02-25",
+  "policy_area": "Social Welfare",
+  "published_at": "2009-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/484",
+  "title": "Social Security Fairness Act of 2009",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1807",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1807-john-kerry",
+  "introduced_date": "2003-12-09",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2003-12-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1807",
+  "tagged_by": "crosswalk@1",
+  "title": "Gun Show Loophole Closing Act of 2003",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

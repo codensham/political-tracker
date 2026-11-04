@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES470",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-470-john-kerry",
+  "introduced_date": "2008-03-13",
+  "policy_area": "International Affairs",
+  "published_at": "2008-03-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/470",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling on the relevant governments, multilateral bodies, and non-state actors in Chad, the Central African Republic, and Sudan to devote ample political commitment and material resources towards the achievement and implementation of a negotiated resolution to the national and regional conflicts in Chad, the Central African Republic, and Darfur, Sudan.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

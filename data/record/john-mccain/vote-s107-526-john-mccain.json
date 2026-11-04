@@ -1,0 +1,20 @@
+{
+  "bill_number": "SRES272",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-526-john-mccain",
+  "published_at": "2002-06-10",
+  "question": "On the Resolution",
+  "rollnumber": 526,
+  "source_url": "https://voteview.com/rollcall/RS1070526",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-06-10",
+  "vote_result": "Resolution Agreed to"
+}

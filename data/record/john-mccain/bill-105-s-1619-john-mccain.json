@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1619",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1619-john-mccain",
+  "introduced_date": "1998-02-09",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1998-02-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1619",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to direct the Federal Communications Commission to study systems for filtering or blocking matter on the Internet, to require the installation of such a system on computers in schools and libraries with Internet access, and for other purposes.",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

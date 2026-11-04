@@ -1,0 +1,21 @@
+{
+  "bill_number": "S160",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-160-john-kerry",
+  "introduced_date": "2003-02-04",
+  "policy_area": "Taxation",
+  "published_at": "2003-02-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/160",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to allow the expensing of broadband Internet access expenditures, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

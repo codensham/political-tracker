@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES40",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-40-hillary-clinton",
+  "introduced_date": "2003-02-04",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2003-02-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/40",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution  reaffirming congressional commitment to title IX of the Education Amendments of 1972 and its critical role in guaranteeing equal educational opportunities for women and girls, particularly with respect to school athletics.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

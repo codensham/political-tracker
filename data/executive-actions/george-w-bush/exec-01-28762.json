@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-28762",
+  "document_type": "executive_order",
+  "executive_order_number": "13234",
+  "id": "exec-01-28762",
+  "published_at": "2001-11-15",
+  "signing_date": "2001-11-09",
+  "source_url": "https://www.federalregister.gov/documents/2001/11/15/01-28762/presidential-task-force-on-citizen-preparedness-in-the-war-on-terrorism",
+  "title": "Presidential Task Force on Citizen Preparedness in the War on Terrorism",
+  "topics": [],
+  "type": "executive_action"
+}

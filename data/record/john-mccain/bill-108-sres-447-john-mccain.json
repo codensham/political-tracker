@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES447",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-447-john-mccain",
+  "introduced_date": "2004-10-05",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2004-10-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/447",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the President of the United States should exercise his Constitutional Authority to pardon posthumously John Arthur \"Jack\" Johnson for Mr. Johnson's racially-motivated 1913 conviction that diminished his athletic, cultural, and historic significance, and unduly tarnished his reputation.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

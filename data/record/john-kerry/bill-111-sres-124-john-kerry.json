@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES124",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-124-john-kerry",
+  "introduced_date": "2009-04-30",
+  "policy_area": "International Affairs",
+  "published_at": "2009-04-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/124",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the threats to press freedom and expression around the world and reaffirming press freedom as a priority in the efforts of the United States to promote democracy and good governance, on the occasion of World Press Freedom Day on May 3, 2009.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

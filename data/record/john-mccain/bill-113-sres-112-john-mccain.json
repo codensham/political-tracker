@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES112",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-112-john-mccain",
+  "introduced_date": "2013-04-24",
+  "policy_area": "Congress",
+  "published_at": "2013-04-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/112",
+  "title": "A resolution commending employees of the Senate Post Office, employees of the Sergeant at Arms of the Senate, members of the Capitol Police, and members of the Capitol Hill community for their courage and professionalism following the biochemical attack against the Senate on April 16, 2013.",
+  "topics": [],
+  "type": "bill"
+}

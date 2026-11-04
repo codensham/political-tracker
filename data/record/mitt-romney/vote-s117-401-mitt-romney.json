@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN443",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-401-mitt-romney",
+  "published_at": "2021-09-30",
+  "question": "On the Nomination",
+  "rollnumber": 401,
+  "source_url": "https://voteview.com/rollcall/RS1170401",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2021-09-30",
+  "vote_result": "Nomination Confirmed"
+}

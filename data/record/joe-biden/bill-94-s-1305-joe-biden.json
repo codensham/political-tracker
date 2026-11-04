@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1305",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 94,
+  "id": "bill-94-s-1305-joe-biden",
+  "introduced_date": "1975-03-21",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1975-03-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/94th-congress/senate-bill/1305",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Agricultural Trade Development and Assistance Act of 1954 to prohibit the disposition of food to foreign countries under such Act in any fiscal year unless the Secretary of Agriculture determines and certifies that all domestic feeding programs will be adequately provided with appropriate foods in such fiscal year.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

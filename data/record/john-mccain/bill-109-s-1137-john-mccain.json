@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1137",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1137-john-mccain",
+  "introduced_date": "2005-05-26",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2005-05-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1137",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to include dehydroepiandrosterone as an anabolic steroid.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

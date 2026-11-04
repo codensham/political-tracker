@@ -1,0 +1,21 @@
+{
+  "bill_number": "S434",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-434-john-mccain",
+  "introduced_date": "1990-01-23",
+  "policy_area": "Taxation",
+  "published_at": "1990-01-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/434",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit a State from imposing an income tax on the pension income of individuals who are not residents or domiciliaries of that State.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

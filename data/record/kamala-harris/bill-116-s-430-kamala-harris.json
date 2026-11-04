@@ -1,0 +1,21 @@
+{
+  "bill_number": "S430",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-430-kamala-harris",
+  "introduced_date": "2019-10-15",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2019-10-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/430",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to extend the Secure Rural Schools and Community Self-Determination Act of 2000.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

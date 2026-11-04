@@ -1,0 +1,18 @@
+{
+  "bill_number": "S4122",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-4122-john-mccain",
+  "introduced_date": "2006-12-08",
+  "policy_area": "Native Americans",
+  "published_at": "2006-12-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/4122",
+  "title": "Indian Health Care Improvement Act Amendments of 2006",
+  "topics": [],
+  "type": "bill"
+}

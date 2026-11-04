@@ -1,0 +1,21 @@
+{
+  "bill_number": "S335",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-335-john-kerry",
+  "introduced_date": "1999-07-13",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1999-07-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/335",
+  "tagged_by": "crosswalk@1",
+  "title": "Deceptive Mail Prevention and Enforcement Act",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

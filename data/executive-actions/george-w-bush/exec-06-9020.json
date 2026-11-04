@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-9020",
+  "document_type": "executive_order",
+  "executive_order_number": "13413",
+  "id": "exec-06-9020",
+  "published_at": "2006-10-31",
+  "signing_date": "2006-10-27",
+  "source_url": "https://www.federalregister.gov/documents/2006/10/31/06-9020/blocking-property-of-certain-persons-contributing-to-the-conflict-in-the-democratic-republic-of-the",
+  "title": "Blocking Property of Certain Persons Contributing to the Conflict in the Democratic Republic of the Congo",
+  "topics": [],
+  "type": "executive_action"
+}

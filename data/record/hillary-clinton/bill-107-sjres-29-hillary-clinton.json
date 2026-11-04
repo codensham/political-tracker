@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES29",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sjres-29-hillary-clinton",
+  "introduced_date": "2001-12-05",
+  "policy_area": "Commemorations",
+  "published_at": "2001-12-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-joint-resolution/29",
+  "title": "A joint resolution amending title 36, United States Code, to designate September 11 as Patriot Day.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2874",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2874-hillary-clinton",
+  "introduced_date": "2008-04-18",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2008-04-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2874",
+  "tagged_by": "crosswalk@1",
+  "title": "Hubbard Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

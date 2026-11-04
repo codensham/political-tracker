@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES99",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-99-john-mccain",
+  "introduced_date": "2006-06-12",
+  "policy_area": "International Affairs",
+  "published_at": "2006-06-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/99",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress regarding the policy of the United States at the 58th Annual Meeting of the International Whaling Commission.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

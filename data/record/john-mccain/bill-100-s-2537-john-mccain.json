@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2537",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2537-john-mccain",
+  "introduced_date": "1988-06-17",
+  "policy_area": "Native Americans",
+  "published_at": "1988-06-17",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2537",
+  "title": "A bill to provide for the transfer to the governing body of the San Carlos Apache Tribe to purchase property within the San Carlos Mineral Strip.",
+  "topics": [],
+  "type": "bill"
+}

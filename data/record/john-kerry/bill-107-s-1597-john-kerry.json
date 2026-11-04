@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1597",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1597-john-kerry",
+  "introduced_date": "2001-10-31",
+  "policy_area": "Health",
+  "published_at": "2001-10-31",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1597",
+  "tagged_by": "crosswalk@1",
+  "title": "Nurse Reinvestment Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

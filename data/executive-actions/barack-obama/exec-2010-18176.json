@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-18176",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-18176",
+  "published_at": "2010-07-22",
+  "signing_date": "2010-07-19",
+  "source_url": "https://www.federalregister.gov/documents/2010/07/22/2010-18176/the-presidential-power-initiative-protecting-our-workers-and-ensuring-reemployment",
+  "title": "The Presidential POWER Initiative: Protecting Our Workers and Ensuring Reemployment",
+  "topics": [],
+  "type": "executive_action"
+}

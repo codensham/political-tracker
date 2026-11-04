@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5503",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-456-al-gore",
+  "published_at": "1992-08-06",
+  "question": "On the Motion to Table",
+  "rollnumber": 456,
+  "source_url": "https://voteview.com/rollcall/RS1020456",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-08-06",
+  "vote_result": "Motion to Table Agreed to"
+}

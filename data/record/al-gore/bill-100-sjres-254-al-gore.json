@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES254",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-254-al-gore",
+  "introduced_date": "1988-02-16",
+  "policy_area": "Commemorations",
+  "published_at": "1988-02-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/254",
+  "title": "A joint resolution to designate the period commencing on May 15, 1988, and ending on May 21, 1988, as \"National Rural Health Awareness Week\".",
+  "topics": [],
+  "type": "bill"
+}

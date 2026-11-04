@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES64",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-sjres-64-john-kerry",
+  "introduced_date": "1996-09-24",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1996-09-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-joint-resolution/64",
+  "title": "A joint resolution to commend Operation Sail for its advancement of brotherhood among nations, its continuing commemoration of the history of the United States, and its nurturing of young cadets through training in seamanship.",
+  "topics": [],
+  "type": "bill"
+}

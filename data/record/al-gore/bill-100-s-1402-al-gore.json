@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1402",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1402-al-gore",
+  "introduced_date": "1987-07-01",
+  "policy_area": "Health",
+  "published_at": "1987-07-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1402",
+  "tagged_by": "crosswalk@1",
+  "title": "Nursing Shortage Reduction Act of 1987",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES330",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hconres-330-al-gore",
+  "introduced_date": "1982-07-22",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1982-07-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-concurrent-resolution/330",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress with respect to the Soviet Union's obligations under international law to allow Ida Nudel to emigrate to Israel, and for other purposes.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

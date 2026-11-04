@@ -1,0 +1,20 @@
+{
+  "bill_number": "SJRES4",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-19-john-kerry",
+  "published_at": "2005-03-03",
+  "question": "On the Joint Resolution",
+  "rollnumber": 19,
+  "source_url": "https://voteview.com/rollcall/RS1090019",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-03-03",
+  "vote_result": "Joint Resolution Passed"
+}

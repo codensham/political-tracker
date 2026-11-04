@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-10174",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-10174",
+  "published_at": "2010-04-29",
+  "signing_date": "2010-04-26",
+  "source_url": "https://www.federalregister.gov/documents/2010/04/29/2010-10174/establishing-an-interagency-task-force-on-federal-contracting-opportunities-for-small-businesses",
+  "title": "Establishing an Interagency Task Force on Federal Contracting Opportunities for Small Businesses",
+  "topics": [],
+  "type": "executive_action"
+}

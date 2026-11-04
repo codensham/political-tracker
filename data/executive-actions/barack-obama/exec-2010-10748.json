@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-10748",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2010-10748",
+  "published_at": "2010-05-05",
+  "signing_date": "2010-04-29",
+  "source_url": "https://www.federalregister.gov/documents/2010/05/05/2010-10748/loyalty-day-2010",
+  "title": "Loyalty Day, 2010",
+  "topics": [],
+  "type": "executive_action"
+}

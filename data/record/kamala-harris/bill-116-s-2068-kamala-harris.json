@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2068",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-2068-kamala-harris",
+  "introduced_date": "2019-07-23",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2019-07-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2068",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit the Bureau of the Census from including citizenship data in the legislative redistricting data prepared by the Bureau.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

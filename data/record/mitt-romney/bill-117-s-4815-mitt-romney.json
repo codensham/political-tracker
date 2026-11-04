@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4815",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-4815-mitt-romney",
+  "introduced_date": "2022-09-13",
+  "policy_area": "Environmental Protection",
+  "published_at": "2022-09-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/4815",
+  "tagged_by": "crosswalk@1",
+  "title": "START Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

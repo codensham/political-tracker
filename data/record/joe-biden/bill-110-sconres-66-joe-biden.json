@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES66",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sconres-66-joe-biden",
+  "introduced_date": "2008-02-07",
+  "policy_area": "Commemorations",
+  "published_at": "2008-02-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-concurrent-resolution/66",
+  "title": "A concurrent resolution commemorating the 175th anniversary of the commencement of the special relationship between the United States and the Kingdom of Thailand.",
+  "topics": [],
+  "type": "bill"
+}

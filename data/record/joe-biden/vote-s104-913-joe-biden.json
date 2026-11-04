@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1350",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-913-joe-biden",
+  "published_at": "1996-09-24",
+  "question": "On Passage of the Bill",
+  "rollnumber": 913,
+  "source_url": "https://voteview.com/rollcall/RS1040913",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-09-24",
+  "vote_result": "Bill Passed"
+}

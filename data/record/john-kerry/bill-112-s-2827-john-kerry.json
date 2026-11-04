@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2827",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-2827-john-kerry",
+  "introduced_date": "2012-05-07",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2012-05-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/2827",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to extend the suspension of duty on Basic Violet 1.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

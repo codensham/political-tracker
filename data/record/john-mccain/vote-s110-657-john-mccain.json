@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR7005",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-657-john-mccain",
+  "published_at": "2008-12-11",
+  "question": "On the Cloture Motion",
+  "rollnumber": 657,
+  "source_url": "https://voteview.com/rollcall/RS1100657",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-12-11",
+  "vote_result": "Cloture Motion Rejected"
+}

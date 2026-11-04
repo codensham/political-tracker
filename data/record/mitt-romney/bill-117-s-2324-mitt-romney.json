@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2324",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-2324-mitt-romney",
+  "introduced_date": "2021-07-29",
+  "policy_area": "Environmental Protection",
+  "published_at": "2021-07-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/2324",
+  "tagged_by": "crosswalk@1",
+  "title": "Federal Permitting Reform and Jobs Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

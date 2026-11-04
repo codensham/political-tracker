@@ -1,0 +1,21 @@
+{
+  "bill_number": "S140",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-566-kamala-harris",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2018-11-14",
+  "question": "On the Motion",
+  "rollnumber": 566,
+  "source_url": "https://voteview.com/rollcall/RS1150566",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2018-11-14",
+  "vote_result": "Motion Agreed to"
+}

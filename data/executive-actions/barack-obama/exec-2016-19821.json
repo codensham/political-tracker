@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-19821",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2016-19821",
+  "published_at": "2016-08-18",
+  "signing_date": "2016-08-01",
+  "source_url": "https://www.federalregister.gov/documents/2016/08/18/2016-19821/delegation-of-functions-and-authorities-under-the-protect-and-preserve-international-cultural",
+  "title": "Delegation of Functions and Authorities Under the Protect and Preserve International Cultural Property Act",
+  "topics": [],
+  "type": "executive_action"
+}

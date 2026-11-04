@@ -1,0 +1,21 @@
+{
+  "bill_number": "S43",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-43-john-mccain",
+  "introduced_date": "2009-01-14",
+  "policy_area": "Taxation",
+  "published_at": "2009-01-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/43",
+  "tagged_by": "crosswalk@1",
+  "title": "Permanent Internet Tax Freedom Act of 2009",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

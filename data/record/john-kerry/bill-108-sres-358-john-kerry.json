@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES358",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-358-john-kerry",
+  "introduced_date": "2004-05-12",
+  "policy_area": "Health",
+  "published_at": "2004-05-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/358",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that no later than December 31, 2006, legislation should be enacted to provide every individual in the United States with the opportunity to purchase health insurance coverage that is the same as, or is better than, the health insurance coverage available to members of Congress, at the same or lower rates.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

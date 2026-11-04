@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES180",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-180-hillary-clinton",
+  "introduced_date": "2005-06-23",
+  "policy_area": "Commemorations",
+  "published_at": "2005-06-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/180",
+  "title": "A resolution supporting the goals and ideals of a National Epidermolysis Bullosa Awareness Week to raise public awareness and understanding of the disease and to foster understanding of the impact of the disease on patients and their families.",
+  "topics": [],
+  "type": "bill"
+}

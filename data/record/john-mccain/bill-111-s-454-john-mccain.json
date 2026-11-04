@@ -1,0 +1,21 @@
+{
+  "bill_number": "S454",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-454-john-mccain",
+  "introduced_date": "2009-02-23",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2009-02-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/454",
+  "tagged_by": "crosswalk@1",
+  "title": "Weapon Systems Acquisition Reform Act of 2009",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

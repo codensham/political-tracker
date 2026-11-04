@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3581",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3581-john-mccain",
+  "introduced_date": "2010-07-26",
+  "policy_area": "International Affairs",
+  "published_at": "2010-07-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3581",
+  "tagged_by": "crosswalk@1",
+  "title": "Defense Trade Cooperation Treaties Implementation Act of 2010",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES542",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-542-hillary-clinton",
+  "introduced_date": "2008-04-30",
+  "policy_area": "Commemorations",
+  "published_at": "2008-04-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/542",
+  "title": "A resolution designating April 2008 as \"National STD Awareness Month\".",
+  "topics": [],
+  "type": "bill"
+}

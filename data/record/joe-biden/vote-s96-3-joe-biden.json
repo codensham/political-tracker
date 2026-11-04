@@ -1,0 +1,20 @@
+{
+  "bill_number": "SRES61",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 96,
+  "id": "vote-s96-3-joe-biden",
+  "published_at": "1979-02-22",
+  "question": null,
+  "rollnumber": 3,
+  "source_url": "https://voteview.com/rollcall/RS0960003",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1979-02-22",
+  "vote_result": null
+}

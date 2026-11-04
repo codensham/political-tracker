@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-09182",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2023-09182",
+  "published_at": "2023-04-28",
+  "signing_date": "2023-04-25",
+  "source_url": "https://www.federalregister.gov/documents/2023/04/28/2023-09182/2022-unified-command-plan",
+  "title": "2022 Unified Command Plan",
+  "topics": [],
+  "type": "executive_action"
+}

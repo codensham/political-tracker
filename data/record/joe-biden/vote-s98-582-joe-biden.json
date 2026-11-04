@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5743",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-s98-582-joe-biden",
+  "published_at": "1984-08-06",
+  "question": null,
+  "rollnumber": 582,
+  "source_url": "https://voteview.com/rollcall/RS0980582",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-08-06",
+  "vote_result": null
+}

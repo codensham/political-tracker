@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES39",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-39-barack-obama",
+  "introduced_date": "2005-02-17",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2005-02-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/39",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution apologizing to the victims of lynching and the descendants of those victims for the failure of the Senate to enact anti-lynching legislation.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

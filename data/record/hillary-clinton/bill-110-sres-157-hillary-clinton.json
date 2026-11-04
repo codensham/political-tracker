@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES157",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-157-hillary-clinton",
+  "introduced_date": "2007-04-18",
+  "policy_area": "Commemorations",
+  "published_at": "2007-04-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/157",
+  "title": "A resolution extending the best wishes of the Senate to New Jersey Governor Jon S. Corzine and expressing the Senate's hope for his speedy and complete recovery.",
+  "topics": [],
+  "type": "bill"
+}

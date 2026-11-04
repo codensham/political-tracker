@@ -1,0 +1,21 @@
+{
+  "bill_number": "S645",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-645-hillary-clinton",
+  "introduced_date": "2001-03-29",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2001-03-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/645",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require individuals who lobby the President on pardon issues to register under the Lobbying Disclosure Act of 1995 and to require the President to report any gifts, pledges, or commitments of a gift to a trust fund established for purposes of establishing a Presidential library for that President after his or her term has expired.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

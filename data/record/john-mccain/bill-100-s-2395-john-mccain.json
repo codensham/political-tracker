@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2395",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2395-john-mccain",
+  "introduced_date": "1988-09-27",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1988-09-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2395",
+  "tagged_by": "crosswalk@1",
+  "title": "Commercial Space Launch Act Amendments of 1988",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

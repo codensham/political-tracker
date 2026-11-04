@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1983",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-1983-john-kerry",
+  "introduced_date": "1985-12-18",
+  "policy_area": "Environmental Protection",
+  "published_at": "1985-12-18",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/1983",
+  "tagged_by": "crosswalk@1",
+  "title": "National Acid Rain Control Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

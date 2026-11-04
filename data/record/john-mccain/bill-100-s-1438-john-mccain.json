@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1438",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1438-john-mccain",
+  "introduced_date": "1987-06-26",
+  "policy_area": "Social Welfare",
+  "published_at": "1987-06-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1438",
+  "title": "Medicare Rural Hospital Payment Equity Act of 1987",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-4206",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-06-4206",
+  "published_at": "2006-05-03",
+  "signing_date": "2006-04-28",
+  "source_url": "https://www.federalregister.gov/documents/2006/05/03/06-4206/loyalty-day-2006",
+  "title": "Loyalty Day, 2006",
+  "topics": [],
+  "type": "executive_action"
+}

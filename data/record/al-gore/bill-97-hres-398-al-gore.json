@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES398",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hres-398-al-gore",
+  "introduced_date": "1982-04-29",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1982-04-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-resolution/398",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to express the sense of the House of Representatives that Alexsei Murzhenko and Yuri Fiodorov should be released from prison and allowed to emigrate from the Soviet Union.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

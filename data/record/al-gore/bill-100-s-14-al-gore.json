@@ -1,0 +1,21 @@
+{
+  "bill_number": "S14",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-14-al-gore",
+  "introduced_date": "1987-09-09",
+  "policy_area": "Energy",
+  "published_at": "1987-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/14",
+  "tagged_by": "crosswalk@1",
+  "title": "Independent Nuclear Safety Board Act of 1987",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

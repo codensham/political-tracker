@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES73",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-73-joe-biden",
+  "introduced_date": "2001-09-21",
+  "policy_area": "Commemorations",
+  "published_at": "2001-09-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/73",
+  "title": "A concurrent resolution expressing the profound sorrow of Congress for the deaths and injuries suffered by first responders as they endeavored to save innocent people in the aftermath of the terrorist attacks on the World Trade Center and the Pentagon on September 11, 2001.",
+  "topics": [],
+  "type": "bill"
+}

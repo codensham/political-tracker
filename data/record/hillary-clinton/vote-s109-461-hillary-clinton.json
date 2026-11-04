@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4939",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-461-hillary-clinton",
+  "published_at": "2006-04-26",
+  "question": "On the Amendment",
+  "rollnumber": 461,
+  "source_url": "https://voteview.com/rollcall/RS1090461",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-04-26",
+  "vote_result": "Amendment Rejected"
+}

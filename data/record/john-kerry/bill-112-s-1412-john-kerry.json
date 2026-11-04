@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1412",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1412-john-kerry",
+  "introduced_date": "2011-07-25",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2011-07-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1412",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to designate the facility of the United States Postal Service located at 462 Washington Street, Woburn, Massachusetts, as the \"Officer John Maguire Post Office\".",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

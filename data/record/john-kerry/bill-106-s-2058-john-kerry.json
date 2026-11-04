@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2058",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2058-john-kerry",
+  "introduced_date": "2000-03-30",
+  "policy_area": "Immigration",
+  "published_at": "2000-03-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2058",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to extend filing deadlines for applications for adjustment of status of certain Cuban, Nicaraguan, and Haitian nationals.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

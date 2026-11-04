@@ -1,0 +1,18 @@
+{
+  "bill_number": "S235",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-235-john-mccain",
+  "introduced_date": "2001-02-01",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2001-02-01",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/235",
+  "title": "Pipeline Safety Improvement Act of 2001",
+  "topics": [],
+  "type": "bill"
+}

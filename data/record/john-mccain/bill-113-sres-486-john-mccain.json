@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES486",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-486-john-mccain",
+  "introduced_date": "2014-06-26",
+  "policy_area": "Immigration",
+  "published_at": "2014-06-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/486",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that President Obama should take immediate action to mitigate the humanitarian crisis along the international border between the United States and Mexico involving unaccompanied migrant children and to prevent future crises.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

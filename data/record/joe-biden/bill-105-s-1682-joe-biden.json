@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1682",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1682-joe-biden",
+  "introduced_date": "1998-02-26",
+  "policy_area": "Taxation",
+  "published_at": "1998-02-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1682",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to repeal joint and several liability of spouses on joint returns of Federal income tax, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-15933",
+  "document_type": "executive_order",
+  "executive_order_number": "13345",
+  "id": "exec-04-15933",
+  "published_at": "2004-07-13",
+  "signing_date": "2004-07-08",
+  "source_url": "https://www.federalregister.gov/documents/2004/07/13/04-15933/assigning-foreign-affairs-functions-and-implementing-the-enterprise-for-the-americas-initiative-and",
+  "title": "Assigning Foreign Affairs Functions and Implementing the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act",
+  "topics": [],
+  "type": "executive_action"
+}

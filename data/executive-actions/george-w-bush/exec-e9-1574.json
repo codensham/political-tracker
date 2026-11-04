@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-1574",
+  "document_type": "executive_order",
+  "executive_order_number": "13488",
+  "id": "exec-e9-1574",
+  "published_at": "2009-01-22",
+  "signing_date": "2009-01-16",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/22/E9-1574/granting-reciprocity-on-excepted-service-and-federal-contractor-employee-fitness-and-reinvestigating",
+  "title": "Granting Reciprocity on Excepted Service and Federal Contractor Employee Fitness and Reinvestigating Individuals in Positions of Public Trust",
+  "topics": [],
+  "type": "executive_action"
+}

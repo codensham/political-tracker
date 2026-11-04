@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-3616",
+  "document_type": "executive_order",
+  "executive_order_number": "13600",
+  "id": "exec-2012-3616",
+  "published_at": "2012-02-14",
+  "signing_date": "2012-02-09",
+  "source_url": "https://www.federalregister.gov/documents/2012/02/14/2012-3616/establishing-the-presidents-global-development-council",
+  "title": "Establishing the President's Global Development Council",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-00708",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2014-00708",
+  "published_at": "2014-01-14",
+  "signing_date": "2014-01-09",
+  "source_url": "https://www.federalregister.gov/documents/2014/01/14/2014-00708/establishing-a-quadrennial-energy-review",
+  "title": "Establishing a Quadrennial Energy Review",
+  "topics": [],
+  "type": "executive_action"
+}

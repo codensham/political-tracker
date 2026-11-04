@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-23432",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2022-23432",
+  "published_at": "2022-10-26",
+  "signing_date": "2022-10-21",
+  "source_url": "https://www.federalregister.gov/documents/2022/10/26/2022-23432/united-nations-day-2022",
+  "title": "United Nations Day, 2022",
+  "topics": [],
+  "type": "executive_action"
+}

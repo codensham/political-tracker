@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-08659",
+  "document_type": "executive_order",
+  "executive_order_number": "14095",
+  "id": "exec-2023-08659",
+  "published_at": "2023-04-21",
+  "signing_date": "2023-04-18",
+  "source_url": "https://www.federalregister.gov/documents/2023/04/21/2023-08659/increasing-access-to-high-quality-care-and-supporting-caregivers",
+  "title": "Increasing Access to High-Quality Care and Supporting Caregivers",
+  "topics": [],
+  "type": "executive_action"
+}

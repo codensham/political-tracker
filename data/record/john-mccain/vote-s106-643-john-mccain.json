@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3244",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-643-john-mccain",
+  "published_at": "2000-10-11",
+  "question": "On the Conference Report",
+  "rollnumber": 643,
+  "source_url": "https://voteview.com/rollcall/RS1060643",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-10-11",
+  "vote_result": "Conference Report Agreed to"
+}

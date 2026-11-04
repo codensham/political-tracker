@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1349",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1349-john-mccain",
+  "introduced_date": "1987-06-10",
+  "policy_area": "Taxation",
+  "published_at": "1987-06-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1349",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to improve the portability of pension benefits, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

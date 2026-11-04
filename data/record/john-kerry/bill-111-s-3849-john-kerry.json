@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3849",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3849-john-kerry",
+  "introduced_date": "2010-09-28",
+  "policy_area": "Social Welfare",
+  "published_at": "2010-09-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3849",
+  "title": "Job Preservation for Parents in Poverty Act",
+  "topics": [],
+  "type": "bill"
+}

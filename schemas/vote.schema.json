@@ -3,19 +3,66 @@
   "title": "Vote record (type-specific fields)",
   "description": "Composed with base.schema.json by tracker.validate; unevaluatedProperties is false over the union.",
   "type": "object",
-  "required": ["chamber", "congress", "rollnumber", "vote_date", "cast"],
+  "required": [
+    "chamber",
+    "congress",
+    "rollnumber",
+    "vote_date",
+    "cast"
+  ],
   "properties": {
-    "type": { "const": "vote" },
-    "chamber": { "type": "string", "enum": ["house", "senate"] },
-    "congress": { "type": "integer" },
-    "rollnumber": { "type": "integer" },
-    "vote_date": { "type": "string", "format": "date" },
-    "question": { "type": ["string", "null"] },
-    "bill_number": { "type": ["string", "null"] },
-    "vote_result": { "type": ["string", "null"] },
+    "type": {
+      "const": "vote"
+    },
+    "chamber": {
+      "type": "string",
+      "enum": [
+        "house",
+        "senate"
+      ]
+    },
+    "congress": {
+      "type": "integer"
+    },
+    "rollnumber": {
+      "type": "integer"
+    },
+    "vote_date": {
+      "type": "string",
+      "format": "date"
+    },
+    "question": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "bill_number": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "vote_result": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
     "cast": {
       "type": "string",
-      "enum": ["yea", "nay", "present", "not_voting"]
+      "enum": [
+        "yea",
+        "nay",
+        "present",
+        "not_voting"
+      ]
+    },
+    "policy_area": {
+      "type": [
+        "string",
+        "null"
+      ]
     }
   }
 }

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1834",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1834-john-kerry",
+  "introduced_date": "2003-11-25",
+  "policy_area": "Commemorations",
+  "published_at": "2003-11-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1834",
+  "title": "A bill to waive time limitations in order to allow the Medal of Honor to be awarded to Gary Lee McKiddy, of Miamisburg, Ohio, for acts of valor while a helicopter crew chief and door gunner with the 1st Cavalry Division during the Vietnam War.",
+  "topics": [],
+  "type": "bill"
+}

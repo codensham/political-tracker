@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR217",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-217-john-mccain",
+  "introduced_date": "1985-01-22",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1985-01-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/217",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 5112 of title 31, United States Code, to return to the 95 percent copper penny, and for other purposes.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

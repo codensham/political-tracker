@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES65",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sconres-65-john-kerry",
+  "introduced_date": "1998-02-05",
+  "policy_area": "International Affairs",
+  "published_at": "1998-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-concurrent-resolution/65",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution calling for a United States effort to end restriction on the freedoms and human rights of the enclaved people in the occupied area of Cyprus.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

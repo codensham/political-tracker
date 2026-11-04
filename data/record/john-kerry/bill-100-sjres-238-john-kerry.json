@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES238",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-238-john-kerry",
+  "introduced_date": "1988-04-21",
+  "policy_area": "Commemorations",
+  "published_at": "1988-04-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/238",
+  "title": "A joint resolution to designate the month of May, 1988, as \"National Digestive Diseases Awareness Month\".",
+  "topics": [],
+  "type": "bill"
+}

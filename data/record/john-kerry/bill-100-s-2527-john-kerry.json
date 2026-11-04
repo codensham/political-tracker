@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2527",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2527-john-kerry",
+  "introduced_date": "1988-06-20",
+  "policy_area": "Labor and Employment",
+  "published_at": "1988-06-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2527",
+  "tagged_by": "crosswalk@1",
+  "title": "Worker Adjustment and Retraining Notification Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

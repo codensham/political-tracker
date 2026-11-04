@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-14946",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2014-14946",
+  "published_at": "2014-06-24",
+  "signing_date": "2014-06-20",
+  "source_url": "https://www.federalregister.gov/documents/2014/06/24/2014-14946/creating-a-federal-strategy-to-promote-the-health-of-honey-bees-and-other-pollinators",
+  "title": "Creating a Federal Strategy To Promote the Health of Honey Bees and Other Pollinators",
+  "topics": [],
+  "type": "executive_action"
+}

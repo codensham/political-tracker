@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES612",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-612-joe-biden",
+  "introduced_date": "2008-07-14",
+  "policy_area": "International Affairs",
+  "published_at": "2008-07-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/612",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that President George W. Bush, President Dmitry Medvedev of the Russian Federation, and other participants in the 2008 Group of Eight (G8) Summit in Toyako, Hokkaido, Japan should work together to foster a more constructive relationship, and that the Government of the Russian Federation should eschew behaviors that are inconsistent with the Group's objectives of protecting global security, economic stability, and democracy.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

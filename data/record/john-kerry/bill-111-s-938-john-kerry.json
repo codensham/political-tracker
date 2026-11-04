@@ -1,0 +1,18 @@
+{
+  "bill_number": "S938",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-938-john-kerry",
+  "introduced_date": "2010-02-02",
+  "policy_area": "Families",
+  "published_at": "2010-02-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/938",
+  "title": "White House Conference on Children and Youth in 2010 Act",
+  "topics": [],
+  "type": "bill"
+}

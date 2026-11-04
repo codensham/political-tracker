@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES272",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-272-hillary-clinton",
+  "introduced_date": "2005-10-07",
+  "policy_area": "Commemorations",
+  "published_at": "2005-10-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/272",
+  "title": "A resolution recognizing and honoring the life and achievements of Constance Baker Motley, a judge for the United States District Court, Southern District of New York.",
+  "topics": [],
+  "type": "bill"
+}

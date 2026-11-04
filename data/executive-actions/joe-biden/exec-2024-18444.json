@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-18444",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2024-18444",
+  "published_at": "2024-08-15",
+  "signing_date": "2024-08-12",
+  "source_url": "https://www.federalregister.gov/documents/2024/08/15/2024-18444/to-further-facilitate-positive-adjustment-to-competition-from-imports-of-certain-crystalline-silicon",
+  "title": "To Further Facilitate Positive Adjustment to Competition From Imports of Certain Crystalline Silicon Photovoltaic Cells (Whether or Not Partially or Fully Assembled Into Other Products)",
+  "topics": [],
+  "type": "executive_action"
+}

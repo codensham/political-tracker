@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1277",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1277-john-mccain",
+  "introduced_date": "1989-06-23",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1989-06-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1277",
+  "title": "A bill to amend the Federal Aviation Act of 1958 to prohibit the acquisition of a controlling interest in an air carrier unless the Secretary of Transportation has made certain determinations concerning the effect of such acquisition on aviation safety.",
+  "topics": [],
+  "type": "bill"
+}

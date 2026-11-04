@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3000",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3000-john-kerry",
+  "introduced_date": "2010-02-04",
+  "policy_area": "Health",
+  "published_at": "2010-02-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3000",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to extend the increase in the FMAP provided in the American Recovery and Reinvestment Act of 2009 for an additional 6 months.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

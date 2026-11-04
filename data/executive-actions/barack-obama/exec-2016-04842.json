@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-04842",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2016-04842",
+  "published_at": "2016-03-03",
+  "signing_date": "2016-02-29",
+  "source_url": "https://www.federalregister.gov/documents/2016/03/03/2016-04842/american-red-cross-month-2016",
+  "title": "American Red Cross Month, 2016",
+  "topics": [],
+  "type": "executive_action"
+}

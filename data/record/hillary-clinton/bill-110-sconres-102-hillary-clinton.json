@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES102",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sconres-102-hillary-clinton",
+  "introduced_date": "2008-09-24",
+  "policy_area": "Health",
+  "published_at": "2008-09-24",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-concurrent-resolution/102",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress that ensuring the availability of adequate housing is an essential component of an effective strategy for the prevention and treatment of HIV and the care of individuals with HIV.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

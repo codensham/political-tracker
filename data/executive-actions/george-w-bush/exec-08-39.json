@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-39",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-08-39",
+  "published_at": "2008-01-08",
+  "signing_date": "2007-12-27",
+  "source_url": "https://www.federalregister.gov/documents/2008/01/08/08-39/to-adjust-the-rules-of-origin-under-the-united-states-chile-free-trade-agreement-and-the-united",
+  "title": "To Adjust the Rules of Origin Under the United States-Chile Free Trade Agreement and the United States-Singapore Free Trade Agreement",
+  "topics": [],
+  "type": "executive_action"
+}

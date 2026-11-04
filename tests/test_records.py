@@ -27,9 +27,7 @@ def test_candidate_path(tmp_path: Path):
 
 def test_vote_path(tmp_path: Path):
     rec = base()
-    assert record_path(rec, tmp_path) == (
-        tmp_path / "record" / "jane-doe" / "vote-s117-42-jane-doe.json"
-    )
+    assert record_path(rec, tmp_path) == (tmp_path / "record" / "jane-doe" / "vote-s117-42-jane-doe.json")
 
 
 def test_roundtrip(tmp_path: Path):

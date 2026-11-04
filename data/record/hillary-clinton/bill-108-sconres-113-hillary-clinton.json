@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES113",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-113-hillary-clinton",
+  "introduced_date": "2004-07-20",
+  "policy_area": "Commemorations",
+  "published_at": "2004-07-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/113",
+  "title": "A concurrent resolution recognizing the importance of early diagnosis, proper treatment, and enhanced public awareness of Tourette Syndrome and supporting the goals and ideals of National Tourette Syndrome Awareness Month.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES378",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-378-john-mccain",
+  "introduced_date": "2000-10-18",
+  "policy_area": "Commemorations",
+  "published_at": "2000-10-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/378",
+  "title": "A resolution honoring the members of the crew of the guided missile destroyer U.S.S. COLE (DDG-67) who were killed or wounded in the terrorist bombing attack on that vessel in Aden, Yemen, on October 12, 2000, expressing the sympathies of the Senate to the families of those crew members, commending the ship's crew for their heroic damage control efforts, and condemning the bombing of that ship.",
+  "topics": [],
+  "type": "bill"
+}

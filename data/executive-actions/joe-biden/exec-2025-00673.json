@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-00673",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2025-00673",
+  "published_at": "2025-01-13",
+  "signing_date": "2025-01-03",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/13/2025-00673/designation-of-officials-of-the-office-of-science-and-technology-policy-to-act-as-director",
+  "title": "Designation of Officials of the Office of Science and Technology Policy To Act as Director",
+  "topics": [],
+  "type": "executive_action"
+}

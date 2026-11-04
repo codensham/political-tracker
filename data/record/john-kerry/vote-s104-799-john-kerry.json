@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3448",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-799-john-kerry",
+  "published_at": "1996-07-09",
+  "question": "On Passage of the Bill",
+  "rollnumber": 799,
+  "source_url": "https://voteview.com/rollcall/RS1040799",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-07-09",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-24342",
+  "document_type": "executive_order",
+  "executive_order_number": "13475",
+  "id": "exec-e8-24342",
+  "published_at": "2008-10-10",
+  "signing_date": "2008-10-07",
+  "source_url": "https://www.federalregister.gov/documents/2008/10/10/E8-24342/further-amendments-to-executive-orders-12139-and-12949-in-light-of-the-foreign-intelligence",
+  "title": "Further Amendments To Executive Orders 12139 And 12949 In Light of the Foreign Intelligence Surveillance Act of 1978 Amendments Act of 2008",
+  "topics": [],
+  "type": "executive_action"
+}

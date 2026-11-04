@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES99",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-99-john-kerry",
+  "introduced_date": "1999-09-15",
+  "policy_area": "Commemorations",
+  "published_at": "1999-09-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/99",
+  "title": "A resolution designating November 20, 1999, as \"National Survivors for Prevention of Suicide Day\".",
+  "topics": [],
+  "type": "bill"
+}

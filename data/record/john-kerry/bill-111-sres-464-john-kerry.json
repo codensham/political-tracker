@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES464",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-464-john-kerry",
+  "introduced_date": "2010-03-22",
+  "policy_area": "International Affairs",
+  "published_at": "2010-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/464",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the 189th anniversary of the independence of Greece and celebrating Greek and American democracy.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

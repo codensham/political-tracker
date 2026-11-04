@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES9",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-sconres-9-john-mccain",
+  "introduced_date": "1995-03-22",
+  "policy_area": "International Affairs",
+  "published_at": "1995-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-concurrent-resolution/9",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress regarding a private visit by President Lee Teng-hui of the Republic of China on Taiwan to the United States.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

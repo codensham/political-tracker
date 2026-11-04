@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-24983",
+  "document_type": "executive_order",
+  "executive_order_number": "13226",
+  "id": "exec-01-24983",
+  "published_at": "2001-10-03",
+  "signing_date": "2001-09-30",
+  "source_url": "https://www.federalregister.gov/documents/2001/10/03/01-24983/presidents-council-of-advisors-on-science-and-technology",
+  "title": "President's Council of Advisors on Science and Technology",
+  "topics": [],
+  "type": "executive_action"
+}

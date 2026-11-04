@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1105",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-1105-john-mccain",
+  "introduced_date": "2013-06-06",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2013-06-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/1105",
+  "tagged_by": "crosswalk@1",
+  "title": "Currency Optimization, Innovation, and National Savings Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

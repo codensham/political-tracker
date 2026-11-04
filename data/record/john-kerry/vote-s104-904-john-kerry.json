@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3662",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-904-john-kerry",
+  "published_at": "1996-09-17",
+  "question": "On the Motion to Table",
+  "rollnumber": 904,
+  "source_url": "https://voteview.com/rollcall/RS1040904",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-09-17",
+  "vote_result": "Motion to Table Failed"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-3106",
+  "document_type": "executive_order",
+  "executive_order_number": "13499",
+  "id": "exec-e9-3106",
+  "published_at": "2009-02-11",
+  "signing_date": "2009-02-05",
+  "source_url": "https://www.federalregister.gov/documents/2009/02/11/E9-3106/further-amendments-to-executive-order-12835-establishment-of-the-national-economic-council",
+  "title": "Further Amendments to Executive Order 12835, Establishment of the National Economic Council",
+  "topics": [],
+  "type": "executive_action"
+}

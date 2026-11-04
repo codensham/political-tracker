@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2363",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2363-john-kerry",
+  "introduced_date": "2006-03-02",
+  "policy_area": "Education",
+  "published_at": "2006-03-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2363",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to extend the educational flexibility program under section 4 of the Education Flexibility Partnership Act of 1999.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

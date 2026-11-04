@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4995",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-s97-429-joe-biden",
+  "published_at": "1981-11-30",
+  "question": null,
+  "rollnumber": 429,
+  "source_url": "https://voteview.com/rollcall/RS0970429",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1981-11-30",
+  "vote_result": null
+}

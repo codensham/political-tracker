@@ -1,0 +1,21 @@
+{
+  "bill_number": "S647",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-647-hillary-clinton",
+  "introduced_date": "2003-05-20",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2003-05-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/647",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to provide for Department of Defense funding of continuation of health benefits plan coverage for certain Reserves called or ordered to active duty and their dependents, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

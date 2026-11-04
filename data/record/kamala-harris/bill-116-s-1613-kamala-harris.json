@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1613",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-1613-kamala-harris",
+  "introduced_date": "2019-05-22",
+  "policy_area": "Environmental Protection",
+  "published_at": "2019-05-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/1613",
+  "tagged_by": "crosswalk@1",
+  "title": "Contaminant and Lead Electronic Accounting and Reporting Requirements for (CLEARR) Drinking Water Act of 2019",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

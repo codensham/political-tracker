@@ -1,0 +1,21 @@
+{
+  "bill_number": "S104",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-104-joe-biden",
+  "introduced_date": "1985-01-03",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1985-01-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/104",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend Chapter 44, Title 18, United States Code, to regulate the manufacture and importation of armor piercing bullets.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

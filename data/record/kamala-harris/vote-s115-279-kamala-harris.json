@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN587",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-279-kamala-harris",
+  "published_at": "2017-11-16",
+  "question": "On the Cloture Motion",
+  "rollnumber": 279,
+  "source_url": "https://voteview.com/rollcall/RS1150279",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2017-11-16",
+  "vote_result": "Cloture Motion Agreed to"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES381",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-381-al-gore",
+  "introduced_date": "1986-06-03",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1986-06-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/381",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate with respect to United States corporations doing business in Angola.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

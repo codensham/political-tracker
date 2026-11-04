@@ -1,0 +1,21 @@
+{
+  "bill_number": "S619",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-619-hillary-clinton",
+  "introduced_date": "2003-03-13",
+  "policy_area": "Environmental Protection",
+  "published_at": "2003-03-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/619",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for the transfer to the Secretary of Energy of title to, and full responsibility for the possession, transportation, and disposal of, radioactive waste associated with the West Valley Demonstration project, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

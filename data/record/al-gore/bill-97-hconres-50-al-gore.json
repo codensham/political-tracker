@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES50",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hconres-50-al-gore",
+  "introduced_date": "1981-02-03",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1981-02-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-concurrent-resolution/50",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the Soviet Union should provide proper medical care for Dr. Viktor Brailovsky and permit him and his family to emigrate to Israel, urging the President to protest the continued suppression of human rights in the Soviet Union, and for other purposes.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

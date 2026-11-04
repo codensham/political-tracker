@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3813",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-s95-709-joe-biden",
+  "published_at": "1978-03-21",
+  "question": null,
+  "rollnumber": 709,
+  "source_url": "https://voteview.com/rollcall/RS0950709",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1978-03-21",
+  "vote_result": null
+}

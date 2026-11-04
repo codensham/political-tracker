@@ -1,0 +1,24 @@
+{
+  "bill_number": "HR4280",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-636-al-gore",
+  "policy_area": "Labor and Employment",
+  "published_at": "1984-05-22",
+  "question": null,
+  "rollnumber": 636,
+  "source_url": "https://voteview.com/rollcall/RH0980636",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "labor"
+  ],
+  "type": "vote",
+  "vote_date": "1984-05-22",
+  "vote_result": null
+}

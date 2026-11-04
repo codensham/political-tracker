@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-17832",
+  "document_type": "executive_order",
+  "executive_order_number": "14106",
+  "id": "exec-2023-17832",
+  "published_at": "2023-08-17",
+  "signing_date": "2023-08-14",
+  "source_url": "https://www.federalregister.gov/documents/2023/08/17/2023-17832/united-states-coast-guard-officer-personnel-management",
+  "title": "United States Coast Guard Officer Personnel Management",
+  "topics": [],
+  "type": "executive_action"
+}

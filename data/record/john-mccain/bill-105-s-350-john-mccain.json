@@ -1,0 +1,21 @@
+{
+  "bill_number": "S350",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-350-john-mccain",
+  "introduced_date": "1997-05-08",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1997-05-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/350",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize payment of special annuities to surviving spouses of deceased members of the uniformed services who are ineligible for a survivor annuity under transition laws relating to the establishment of the Survivor Benefit Plan under chapter 73 of title 10, United States Code.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

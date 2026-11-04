@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES183",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-183-kamala-harris",
+  "introduced_date": "2017-05-25",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2017-05-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/183",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the significance of May 2017 as Asian/Pacific American Heritage Month and as an important time to celebrate the significant contributions of Asian Americans and Pacific Islanders to the history of the United States.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

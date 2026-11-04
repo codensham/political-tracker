@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2329",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2329-john-kerry",
+  "introduced_date": "2004-04-21",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2004-04-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2329",
+  "tagged_by": "crosswalk@1",
+  "title": "Scott Campbell, Stephanie Roper, Wendy Preston, Louarna Gillis, and Nila Lynn Crime Victims' Rights Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

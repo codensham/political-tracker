@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-31373",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2013-31373",
+  "published_at": "2013-12-31",
+  "signing_date": "2013-12-23",
+  "source_url": "https://www.federalregister.gov/documents/2013/12/31/2013-31373/to-take-certain-actions-under-the-african-growth-and-opportunity-act-and-for-other-purposes",
+  "title": "To Take Certain Actions Under the African Growth and Opportunity Act and for Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

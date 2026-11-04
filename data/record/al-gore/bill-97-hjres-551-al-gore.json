@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES551",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hjres-551-al-gore",
+  "introduced_date": "1982-09-08",
+  "policy_area": "Labor and Employment",
+  "published_at": "1982-09-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-joint-resolution/551",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to prohibit the Secretary of Labor from promulgating regulations which expand the number of hours which 14 and 15-year old children would be permitted to work and which further change the conditions of employment of young children and students.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

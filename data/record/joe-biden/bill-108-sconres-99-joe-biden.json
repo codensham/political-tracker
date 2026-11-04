@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES99",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-99-joe-biden",
+  "introduced_date": "2004-04-29",
+  "policy_area": "International Affairs",
+  "published_at": "2004-04-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/99",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution condemning the Government of the Republic of the Sudan for its participation and complicity in the attacks against innocent civilians in the impoverished Darfur region of western Sudan.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

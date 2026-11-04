@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-31959",
+  "document_type": "executive_order",
+  "executive_order_number": "13248",
+  "id": "exec-01-31959",
+  "published_at": "2001-12-27",
+  "signing_date": "2001-12-20",
+  "source_url": "https://www.federalregister.gov/documents/2001/12/27/01-31959/establishing-an-emergency-board-to-investigate-a-dispute-between-united-airlines-inc-and-its",
+  "title": "Establishing an Emergency Board To Investigate a Dispute Between United Airlines, Inc., and its Mechanics and Related Employees Represented by the International Association of Machinists and Aerospace Workers",
+  "topics": [],
+  "type": "executive_action"
+}

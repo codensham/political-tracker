@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-210",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-06-210",
+  "published_at": "2006-01-09",
+  "signing_date": "2005-12-15",
+  "source_url": "https://www.federalregister.gov/documents/2006/01/09/06-210/assignment-of-functions-under-section-1306-of-public-law-107-314",
+  "title": "Assignment of Functions Under Section 1306 of Public Law 107-314",
+  "topics": [],
+  "type": "executive_action"
+}

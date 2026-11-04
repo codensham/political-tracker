@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-6622",
+  "document_type": "executive_order",
+  "executive_order_number": "13333",
+  "id": "exec-04-6622",
+  "published_at": "2004-03-23",
+  "signing_date": "2004-03-18",
+  "source_url": "https://www.federalregister.gov/documents/2004/03/23/04-6622/amending-executive-order-13257-to-implement-the-trafficking-victims-protection-reauthorization-act",
+  "title": "Amending Executive Order 13257 To Implement the Trafficking Victims Protection Reauthorization Act of 2003",
+  "topics": [],
+  "type": "executive_action"
+}

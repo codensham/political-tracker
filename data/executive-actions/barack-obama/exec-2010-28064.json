@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-28064",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2010-28064",
+  "published_at": "2010-11-04",
+  "signing_date": "2010-10-29",
+  "source_url": "https://www.federalregister.gov/documents/2010/11/04/2010-28064/national-diabetes-month-2010",
+  "title": "National Diabetes Month, 2010",
+  "topics": [],
+  "type": "executive_action"
+}

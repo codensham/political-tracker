@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-02252",
+  "document_type": "executive_order",
+  "executive_order_number": "14009",
+  "id": "exec-2021-02252",
+  "published_at": "2021-02-02",
+  "signing_date": "2021-01-28",
+  "source_url": "https://www.federalregister.gov/documents/2021/02/02/2021-02252/strengthening-medicaid-and-the-affordable-care-act",
+  "title": "Strengthening Medicaid and the Affordable Care Act",
+  "topics": [],
+  "type": "executive_action"
+}

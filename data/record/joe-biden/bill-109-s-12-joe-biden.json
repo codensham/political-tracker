@@ -1,0 +1,21 @@
+{
+  "bill_number": "S12",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-12-joe-biden",
+  "introduced_date": "2005-01-24",
+  "policy_area": "International Affairs",
+  "published_at": "2005-01-24",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/12",
+  "tagged_by": "crosswalk@1",
+  "title": "Targeting Terrorists More Effectively Act of 2005",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

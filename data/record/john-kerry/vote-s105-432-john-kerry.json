@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1260",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-432-john-kerry",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1998-05-13",
+  "question": "On the Motion to Table",
+  "rollnumber": 432,
+  "source_url": "https://voteview.com/rollcall/RS1050432",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "economy"
+  ],
+  "type": "vote",
+  "vote_date": "1998-05-13",
+  "vote_result": "Motion to Table Agreed to"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-01169",
+  "document_type": "executive_order",
+  "executive_order_number": "13760",
+  "id": "exec-2017-01169",
+  "published_at": "2017-01-17",
+  "signing_date": "2017-01-12",
+  "source_url": "https://www.federalregister.gov/documents/2017/01/17/2017-01169/exclusions-from-the-federal-labor-management-relations-program",
+  "title": "Exclusions From the Federal Labor-Management Relations Program",
+  "topics": [],
+  "type": "executive_action"
+}

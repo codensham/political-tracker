@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES282",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-282-mitt-romney",
+  "introduced_date": "2019-07-23",
+  "policy_area": "Law",
+  "published_at": "2019-07-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/282",
+  "title": "A resolution honoring former Associate Justice John Paul Stevens of the Supreme Court of the United States.",
+  "topics": [],
+  "type": "bill"
+}

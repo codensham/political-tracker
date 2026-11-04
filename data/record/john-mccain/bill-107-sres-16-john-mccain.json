@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES16",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-16-john-mccain",
+  "introduced_date": "2001-05-14",
+  "policy_area": "Commemorations",
+  "published_at": "2001-05-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/16",
+  "title": "A resolution designating August 16, 2001, as \"National Airborne Day\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1722",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-204-al-gore",
+  "policy_area": "Labor and Employment",
+  "published_at": "1991-09-24",
+  "question": "On the Motion",
+  "rollnumber": 204,
+  "source_url": "https://voteview.com/rollcall/RS1020204",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "labor"
+  ],
+  "type": "vote",
+  "vote_date": "1991-09-24",
+  "vote_result": "Motion Rejected"
+}

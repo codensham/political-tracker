@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-05355",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2015-05355",
+  "published_at": "2015-03-06",
+  "signing_date": "2015-02-19",
+  "source_url": "https://www.federalregister.gov/documents/2015/03/06/2015-05355/delegation-of-authority-under-the-ukraine-freedom-support-act-of-2014",
+  "title": "Delegation of Authority Under the Ukraine Freedom Support Act of 2014",
+  "topics": [],
+  "type": "executive_action"
+}

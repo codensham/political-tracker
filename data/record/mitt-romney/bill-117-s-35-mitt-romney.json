@@ -1,0 +1,18 @@
+{
+  "bill_number": "S35",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-35-mitt-romney",
+  "introduced_date": "2021-01-22",
+  "policy_area": "Congress",
+  "published_at": "2021-01-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/35",
+  "title": "Officer Eugene Goodman Congressional Gold Medal Act",
+  "topics": [],
+  "type": "bill"
+}

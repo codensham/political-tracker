@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN367",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-365-kamala-harris",
+  "published_at": "2018-02-28",
+  "question": "On the Nomination",
+  "rollnumber": 365,
+  "source_url": "https://voteview.com/rollcall/RS1150365",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2018-02-28",
+  "vote_result": "Nomination Confirmed"
+}

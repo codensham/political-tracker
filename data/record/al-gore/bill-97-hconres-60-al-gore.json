@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES60",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hconres-60-al-gore",
+  "introduced_date": "1981-09-25",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1981-09-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-concurrent-resolution/60",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the Postmaster General should issue a postage stamp in honor of the Nation's small businesses.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

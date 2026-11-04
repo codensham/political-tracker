@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1971",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1971-john-kerry",
+  "introduced_date": "1999-11-19",
+  "policy_area": "Commemorations",
+  "published_at": "1999-11-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1971",
+  "title": "Milton Friedman Congressional Gold Medal Act",
+  "topics": [],
+  "type": "bill"
+}

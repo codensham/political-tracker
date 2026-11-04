@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1607",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1607-john-mccain",
+  "introduced_date": "1991-07-31",
+  "policy_area": "Native Americans",
+  "published_at": "1991-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1607",
+  "title": "Northern Cheyenne Indian Reserved Water Rights Settlement Act of 1992",
+  "topics": [],
+  "type": "bill"
+}

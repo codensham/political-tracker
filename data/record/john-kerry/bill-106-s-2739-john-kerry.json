@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2739",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2739-john-kerry",
+  "introduced_date": "2000-06-27",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2000-06-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2739",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 39, United States Code, to provide for the issuance of a semipostal stamp in order to afford the public a convenient way to contribute to funding for the establishment of the World War II Memorial.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

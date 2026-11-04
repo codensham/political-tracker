@@ -1,0 +1,21 @@
+{
+  "bill_number": "S413",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-413-john-kerry",
+  "introduced_date": "1995-02-14",
+  "policy_area": "Labor and Employment",
+  "published_at": "1995-02-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/413",
+  "tagged_by": "crosswalk@1",
+  "title": "Working Wage Increase Act of 1995",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-1776",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-1776",
+  "published_at": "2005-01-31",
+  "signing_date": "2005-01-25",
+  "source_url": "https://www.federalregister.gov/documents/2005/01/31/05-1776/60th-anniversary-of-the-liberation-of-the-auschwitz-concentration-camp-2005",
+  "title": "60th Anniversary of the Liberation of the Auschwitz Concentration Camp, 2005",
+  "topics": [],
+  "type": "executive_action"
+}

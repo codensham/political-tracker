@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES422",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hres-422-al-gore",
+  "introduced_date": "1982-05-06",
+  "policy_area": "Education",
+  "published_at": "1982-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-resolution/422",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the House of Representatives that graduate and professional students should remain eligible for guaranteed student loans and that funds for Pell grants and campus-based student assistance should not be further reduced.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-27380",
+  "document_type": "executive_order",
+  "executive_order_number": "14058",
+  "id": "exec-2021-27380",
+  "published_at": "2021-12-16",
+  "signing_date": "2021-12-13",
+  "source_url": "https://www.federalregister.gov/documents/2021/12/16/2021-27380/transforming-federal-customer-experience-and-service-delivery-to-rebuild-trust-in-government",
+  "title": "Transforming Federal Customer Experience and Service Delivery To Rebuild Trust in Government",
+  "topics": [],
+  "type": "executive_action"
+}

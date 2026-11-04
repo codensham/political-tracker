@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES495",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-495-joe-biden",
+  "introduced_date": "2006-05-25",
+  "policy_area": "Commemorations",
+  "published_at": "2006-05-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/495",
+  "title": "A resolution designating June 8, 2006, as the day of a National Vigil for Lost Promise.",
+  "topics": [],
+  "type": "bill"
+}

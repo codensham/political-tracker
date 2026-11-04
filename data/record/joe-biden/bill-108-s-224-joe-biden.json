@@ -1,0 +1,21 @@
+{
+  "bill_number": "S224",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-224-joe-biden",
+  "introduced_date": "2003-01-28",
+  "policy_area": "Labor and Employment",
+  "published_at": "2003-01-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/224",
+  "tagged_by": "crosswalk@1",
+  "title": "Fair Minimum Wage Act of 2003",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

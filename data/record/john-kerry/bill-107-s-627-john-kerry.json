@@ -1,0 +1,21 @@
+{
+  "bill_number": "S627",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-627-john-kerry",
+  "introduced_date": "2002-02-07",
+  "policy_area": "Taxation",
+  "published_at": "2002-02-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/627",
+  "tagged_by": "crosswalk@1",
+  "title": "Long-Term Care and Retirement Security Act of 2001",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

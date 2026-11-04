@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-21571",
+  "document_type": "executive_order",
+  "executive_order_number": "13388",
+  "id": "exec-05-21571",
+  "published_at": "2005-10-27",
+  "signing_date": "2005-10-25",
+  "source_url": "https://www.federalregister.gov/documents/2005/10/27/05-21571/further-strengthening-the-sharing-of-terrorism-information-to-protect-americans",
+  "title": "Further Strengthening the Sharing of Terrorism Information To Protect Americans",
+  "topics": [],
+  "type": "executive_action"
+}

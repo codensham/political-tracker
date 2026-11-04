@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4460",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-4460-al-gore",
+  "introduced_date": "1981-10-05",
+  "policy_area": "Taxation",
+  "published_at": "1981-10-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/4460",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to repeal those provisions of the Economic Recovery Tax Act of 1981 which extended the credit against the windfall profit tax on domestic crude oil for royalty owners, which reduced the rate of such tax on newly discovered oil, and which exempted from such tax independent producer stripper well oil.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-32518",
+  "document_type": "executive_order",
+  "executive_order_number": "13281",
+  "id": "exec-02-32518",
+  "published_at": "2002-12-23",
+  "signing_date": "2002-12-19",
+  "source_url": "https://www.federalregister.gov/documents/2002/12/23/02-32518/half-day-closing-of-executive-departments-and-agencies-of-the-federal-government-on-tuesday-december",
+  "title": "Half-Day Closing of Executive Departments and Agencies of the Federal Government on Tuesday, December 24, 2002",
+  "topics": [],
+  "type": "executive_action"
+}

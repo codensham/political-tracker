@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-24581",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2016-24581",
+  "published_at": "2016-10-07",
+  "signing_date": "2016-10-03",
+  "source_url": "https://www.federalregister.gov/documents/2016/10/07/2016-24581/national-youth-substance-use-and-substance-use-disorder-prevention-month-2016",
+  "title": "National Youth Substance Use and Substance Use Disorder Prevention Month, 2016",
+  "topics": [],
+  "type": "executive_action"
+}

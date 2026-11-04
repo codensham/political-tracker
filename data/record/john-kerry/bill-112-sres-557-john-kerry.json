@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES557",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-557-john-kerry",
+  "introduced_date": "2012-09-13",
+  "policy_area": "International Affairs",
+  "published_at": "2012-09-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/557",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution honoring the contributions of Lodi Gyaltsen Gyari as Special Envoy of His Holiness the Dalai Lama and in promoting the legitimate rights and aspirations of the Tibetan people.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

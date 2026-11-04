@@ -1,0 +1,21 @@
+{
+  "bill_number": "S357",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-357-john-kerry",
+  "introduced_date": "2003-02-11",
+  "policy_area": "Taxation",
+  "published_at": "2003-02-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/357",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to modify the credit for the production of fuel from nonconventional sources to include production of fuel from agricultural and animal waste.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

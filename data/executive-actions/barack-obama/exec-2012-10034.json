@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-10034",
+  "document_type": "executive_order",
+  "executive_order_number": "13606",
+  "id": "exec-2012-10034",
+  "published_at": "2012-04-24",
+  "signing_date": "2012-04-22",
+  "source_url": "https://www.federalregister.gov/documents/2012/04/24/2012-10034/blocking-the-property-and-suspending-entry-into-the-united-states-of-certain-persons-with-respect-to",
+  "title": "Blocking the Property and Suspending Entry Into the United States of Certain Persons With Respect to Grave Human Rights Abuses by the Governments of Iran and Syria via Information Technology",
+  "topics": [],
+  "type": "executive_action"
+}

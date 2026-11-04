@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES137",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-137-john-kerry",
+  "introduced_date": "2005-05-12",
+  "policy_area": "Commemorations",
+  "published_at": "2005-05-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/137",
+  "title": "A resolution designating May 1, 2005, as \"National Child Care Worthy Wage Day\".",
+  "topics": [],
+  "type": "bill"
+}

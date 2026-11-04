@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1568",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1568-john-kerry",
+  "introduced_date": "2003-10-21",
+  "policy_area": "Taxation",
+  "published_at": "2003-10-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1568",
+  "tagged_by": "crosswalk@1",
+  "title": "Real Estate Investment Trust Improvement Act of 2003",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES172",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-172-john-kerry",
+  "introduced_date": "2005-06-29",
+  "policy_area": "Commemorations",
+  "published_at": "2005-06-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/172",
+  "title": "A resolution affirming the importance of a national weekend of prayer for the victims of genocide and crimes against humanity in Darfur, Sudan, and expressing the sense of the Senate that July 15 through 17, 2005, should be designated as a national weekend of prayer and reflection for Darfur.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5504",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "not_voting",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-696-al-gore",
+  "published_at": "1984-06-07",
+  "question": null,
+  "rollnumber": 696,
+  "source_url": "https://voteview.com/rollcall/RH0980696",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-06-07",
+  "vote_result": null
+}

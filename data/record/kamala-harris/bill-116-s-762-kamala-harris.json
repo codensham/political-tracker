@@ -1,0 +1,18 @@
+{
+  "bill_number": "S762",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-762-kamala-harris",
+  "introduced_date": "2019-11-05",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2019-11-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/762",
+  "title": "Aviation Funding Stability Act of 2019",
+  "topics": [],
+  "type": "bill"
+}

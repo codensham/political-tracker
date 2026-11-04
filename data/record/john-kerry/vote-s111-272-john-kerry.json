@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1023",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-272-john-kerry",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2009-09-09",
+  "question": "On Passage of the Bill",
+  "rollnumber": 272,
+  "source_url": "https://voteview.com/rollcall/RS1110272",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-09-09",
+  "vote_result": "Bill Passed"
+}

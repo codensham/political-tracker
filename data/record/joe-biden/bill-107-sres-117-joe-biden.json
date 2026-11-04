@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES117",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-117-joe-biden",
+  "introduced_date": "2001-06-27",
+  "policy_area": "Commemorations",
+  "published_at": "2001-06-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/117",
+  "title": "A resolution honoring John J. Downing, Brian Fahey, and Harry Ford, who lost their lives in the course of duty as firefighters.",
+  "topics": [],
+  "type": "bill"
+}

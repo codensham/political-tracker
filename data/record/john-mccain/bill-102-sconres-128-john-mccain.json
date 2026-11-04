@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES128",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sconres-128-john-mccain",
+  "introduced_date": "1992-07-01",
+  "policy_area": "Congress",
+  "published_at": "1992-07-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-concurrent-resolution/128",
+  "title": "A concurrent resolution providing for the printing of the book entitled \"Year of the American Indian, 1992: Congressional Recognition and Appreciation\" as a Senate document.",
+  "topics": [],
+  "type": "bill"
+}

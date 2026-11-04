@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES286",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-286-joe-biden",
+  "introduced_date": "2000-04-12",
+  "policy_area": "International Affairs",
+  "published_at": "2000-04-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/286",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the United States Senate Committee on Foreign Relations should hold hearings and the Senate should act on the Convention on the Elimination of All Forms of Discrimination Against Women (CEDAW).",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

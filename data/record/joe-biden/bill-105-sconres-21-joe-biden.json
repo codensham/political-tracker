@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES21",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sconres-21-joe-biden",
+  "introduced_date": "1997-05-07",
+  "policy_area": "International Affairs",
+  "published_at": "1997-05-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-concurrent-resolution/21",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution congratulating the residents of Jerusalem and the people of Israel on the thirtieth anniversary of the reunification of that historic city, and for other purposes.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

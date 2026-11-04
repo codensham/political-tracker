@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1511",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-557-joe-biden",
+  "policy_area": "Labor and Employment",
+  "published_at": "1990-09-24",
+  "question": "On Passage of the Bill",
+  "rollnumber": 557,
+  "source_url": "https://voteview.com/rollcall/RS1010557",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "labor"
+  ],
+  "type": "vote",
+  "vote_date": "1990-09-24",
+  "vote_result": "Bill Passed"
+}

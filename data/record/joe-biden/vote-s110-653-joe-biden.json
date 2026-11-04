@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR7081",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-653-joe-biden",
+  "published_at": "2008-10-01",
+  "question": "On Passage of the Bill",
+  "rollnumber": 653,
+  "source_url": "https://voteview.com/rollcall/RS1100653",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-10-01",
+  "vote_result": "Bill Passed"
+}

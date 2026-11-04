@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1213",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1213-john-mccain",
+  "introduced_date": "1999-06-10",
+  "policy_area": "Native Americans",
+  "published_at": "1999-06-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1213",
+  "title": "Indian Child Welfare Act Amendments of 1999",
+  "topics": [],
+  "type": "bill"
+}

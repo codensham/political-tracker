@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2178",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2178-al-gore",
+  "introduced_date": "1990-03-09",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1990-03-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2178",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 18, United States Code, to establish a Federal criminal offense for illegal creation of a fuel shortage.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

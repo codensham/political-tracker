@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1670",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1670-john-kerry",
+  "introduced_date": "2011-10-06",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2011-10-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1670",
+  "tagged_by": "crosswalk@1",
+  "title": "End Racial Profiling Act of 2011",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

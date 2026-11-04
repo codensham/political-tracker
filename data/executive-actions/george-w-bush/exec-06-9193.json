@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-9193",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-06-9193",
+  "published_at": "2006-11-13",
+  "signing_date": "2006-11-06",
+  "source_url": "https://www.federalregister.gov/documents/2006/11/13/06-9193/determinations-under-section-1106a-of-the-omnibus-trade-and-competitiveness-act-of-1988-socialist",
+  "title": "Determinations Under Section 1106(a) of the Omnibus Trade and Competitiveness Act of 1988 Socialist Republic of Vietnam",
+  "topics": [],
+  "type": "executive_action"
+}

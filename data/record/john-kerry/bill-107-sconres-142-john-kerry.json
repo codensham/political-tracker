@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES142",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-142-john-kerry",
+  "introduced_date": "2002-09-30",
+  "policy_area": "Commemorations",
+  "published_at": "2002-09-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/142",
+  "title": "A concurrent resolution expressing support for the goals and ideas of a day of tribute to all firefighters who have died in the line of duty and recognizing the important mission of the Fallen Firefighters Foundation in assisting family members to overcome the loss of their fallen heroes.",
+  "topics": [],
+  "type": "bill"
+}

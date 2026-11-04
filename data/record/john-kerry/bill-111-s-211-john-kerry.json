@@ -1,0 +1,21 @@
+{
+  "bill_number": "S211",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-211-john-kerry",
+  "introduced_date": "2009-01-12",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2009-01-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/211",
+  "tagged_by": "crosswalk@1",
+  "title": "Calling for 2-1-1 Act of 2009",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

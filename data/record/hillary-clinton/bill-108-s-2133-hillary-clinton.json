@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2133",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2133-hillary-clinton",
+  "introduced_date": "2004-02-26",
+  "policy_area": "Commemorations",
+  "published_at": "2004-02-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2133",
+  "title": "A bill to name the Department of Veterans Affairs medical center in the Bronx, New York, as the James J. Peters Department of Veterans Affairs Medical Center.",
+  "topics": [],
+  "type": "bill"
+}

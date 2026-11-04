@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2419",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-422-john-mccain",
+  "published_at": "2007-12-12",
+  "question": "On the Amendment",
+  "rollnumber": 422,
+  "source_url": "https://voteview.com/rollcall/RS1100422",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2007-12-12",
+  "vote_result": "Amendment Rejected"
+}

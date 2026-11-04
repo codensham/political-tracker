@@ -1,0 +1,21 @@
+{
+  "bill_number": "S488",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-488-hillary-clinton",
+  "introduced_date": "2004-06-24",
+  "policy_area": "Taxation",
+  "published_at": "2004-06-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/488",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to provide a 5-year extension of the credit for electricity produced from wind.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

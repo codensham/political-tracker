@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES638",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-638-kamala-harris",
+  "introduced_date": "2020-06-30",
+  "policy_area": "Health",
+  "published_at": "2020-06-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/638",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the Department of Justice should defend the Patient Protection and Affordable Care Act (Public Law 111-148 Stat. 119) and halt its efforts to repeal, sabotage, or undermine health care protections for millions of people in the United States in the midst of the public health emergency relating to the Coronavirus Disease 2019 (COVID-19).",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

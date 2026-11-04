@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES396",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-396-john-kerry",
+  "introduced_date": "1986-09-10",
+  "policy_area": "Commemorations",
+  "published_at": "1986-09-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/396",
+  "title": "A joint resolution to designate the week of October 26, 1986, through November 1, 1986, as \"National Adult Immunization Awareness Week\".",
+  "topics": [],
+  "type": "bill"
+}

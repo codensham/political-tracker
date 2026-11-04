@@ -1,0 +1,18 @@
+{
+  "bill_number": "HCONRES196",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hconres-196-john-mccain",
+  "introduced_date": "1985-09-30",
+  "policy_area": "Emergency Management",
+  "published_at": "1985-09-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-concurrent-resolution/196",
+  "title": "A concurrent resolution expressing the sense of the Congress in support of the provision of disaster assistance for the victims of the earthquake in Mexico on September 19, 1985.",
+  "topics": [],
+  "type": "bill"
+}

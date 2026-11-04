@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES437",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-437-john-kerry",
+  "introduced_date": "2012-04-25",
+  "policy_area": "Sports and Recreation",
+  "published_at": "2012-04-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/437",
+  "title": "A resolution congratulating the Boston College men's ice hockey team on winning its fifth National Collegiate Athletic Association Division I Men's Hockey Championship.",
+  "topics": [],
+  "type": "bill"
+}

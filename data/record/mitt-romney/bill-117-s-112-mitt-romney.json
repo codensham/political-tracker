@@ -1,0 +1,18 @@
+{
+  "bill_number": "S112",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-112-mitt-romney",
+  "introduced_date": "2021-01-28",
+  "policy_area": "Native Americans",
+  "published_at": "2021-01-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/112",
+  "title": "A bill to require the Secretary of Health and Human Services to award additional funding through the Sanitation Facilities Construction Program of the Indian Health Service, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

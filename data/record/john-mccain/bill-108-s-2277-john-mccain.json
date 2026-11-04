@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2277",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2277-john-mccain",
+  "introduced_date": "2004-04-01",
+  "policy_area": "Native Americans",
+  "published_at": "2004-04-01",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2277",
+  "title": "A bill to amend the Act of November 2, 1966 (80 Stat. 1112), to allow binding arbitration clauses to be included in all contracts affecting the land within the Salt River Pima-Maricopa Indian Reservation.",
+  "topics": [],
+  "type": "bill"
+}

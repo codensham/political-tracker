@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1329",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1329-al-gore",
+  "introduced_date": "1991-06-19",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1991-06-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1329",
+  "tagged_by": "crosswalk@1",
+  "title": "Federal Technology Strategy Act of 1991",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

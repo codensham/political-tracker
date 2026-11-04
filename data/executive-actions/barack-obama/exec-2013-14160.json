@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-14160",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2013-14160",
+  "published_at": "2013-06-13",
+  "signing_date": "2013-06-03",
+  "source_url": "https://www.federalregister.gov/documents/2013/06/13/2013-14160/delegation-of-certain-functions-and-authorities-under-the-iran-freedom-and-counter-proliferation-act",
+  "title": "Delegation of Certain Functions and Authorities Under the Iran Freedom and Counter-Proliferation Act of 2012",
+  "topics": [],
+  "type": "executive_action"
+}

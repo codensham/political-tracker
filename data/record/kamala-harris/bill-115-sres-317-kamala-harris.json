@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES317",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-317-kamala-harris",
+  "introduced_date": "2017-10-31",
+  "policy_area": "Congress",
+  "published_at": "2017-10-31",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/317",
+  "title": "A resolution celebrating the 40th anniversary of the Senate Black Legislative Staff Caucus and its achievements in the Senate.",
+  "topics": [],
+  "type": "bill"
+}

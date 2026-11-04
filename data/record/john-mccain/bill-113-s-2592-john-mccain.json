@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2592",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-2592-john-mccain",
+  "introduced_date": "2014-07-10",
+  "policy_area": "Energy",
+  "published_at": "2014-07-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2592",
+  "tagged_by": "crosswalk@1",
+  "title": "North Atlantic Energy Security Act",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

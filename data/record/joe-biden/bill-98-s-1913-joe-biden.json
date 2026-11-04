@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1913",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-s-1913-joe-biden",
+  "introduced_date": "1983-11-08",
+  "policy_area": "Education",
+  "published_at": "1983-11-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-bill/1913",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for improvements in the school lunch and certain other child nutrition programs.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

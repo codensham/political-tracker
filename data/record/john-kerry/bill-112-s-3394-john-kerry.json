@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3394",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-3394-john-kerry",
+  "introduced_date": "2012-09-19",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2012-09-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/3394",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to address fee disclosure requirements under the Electronic Fund Transfer Act, to amend the Federal Deposit Insurance Act with respect to information provided to the Bureau of Consumer Financial Protection, and for other purposes.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

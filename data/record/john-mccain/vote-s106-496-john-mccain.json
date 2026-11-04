@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2549",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-496-john-mccain",
+  "published_at": "2000-06-08",
+  "question": "On the Point of Order",
+  "rollnumber": 496,
+  "source_url": "https://voteview.com/rollcall/RS1060496",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-06-08",
+  "vote_result": "Point of Order Not Sustained"
+}

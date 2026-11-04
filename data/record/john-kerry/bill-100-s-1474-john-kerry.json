@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1474",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1474-john-kerry",
+  "introduced_date": "1988-01-25",
+  "policy_area": "International Affairs",
+  "published_at": "1988-01-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1474",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require that any United States Government support for military or paramilitary operations in Angola be openly acknowledged and publicly debated.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

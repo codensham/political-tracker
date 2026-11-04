@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES23",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-23-hillary-clinton",
+  "introduced_date": "2001-03-13",
+  "policy_area": "International Affairs",
+  "published_at": "2001-03-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/23",
+  "tagged_by": "crosswalk@1",
+  "title": "Justice for the Victims of Pan Am 103 Resolution of 2001",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

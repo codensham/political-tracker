@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2930",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-2930-john-mccain",
+  "introduced_date": "2014-11-17",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2014-11-17",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2930",
+  "tagged_by": "crosswalk@1",
+  "title": "Clay Hunt SAV Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2494",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2494-john-mccain",
+  "introduced_date": "1990-06-26",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1990-06-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2494",
+  "tagged_by": "crosswalk@1",
+  "title": "Telemarketing and Consumer Fraud and Abuse Prevention Act",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

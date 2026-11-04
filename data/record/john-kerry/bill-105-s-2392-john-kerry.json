@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2392",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-2392-john-kerry",
+  "introduced_date": "1998-09-28",
+  "policy_area": "Law",
+  "published_at": "1998-09-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/2392",
+  "title": "Year 2000 Information and Readiness Disclosure Act",
+  "topics": [],
+  "type": "bill"
+}

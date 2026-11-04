@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-07756",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2022-07756",
+  "published_at": "2022-04-08",
+  "signing_date": "2022-04-05",
+  "source_url": "https://www.federalregister.gov/documents/2022/04/08/2022-07756/addressing-the-long-term-effects-of-covid-19",
+  "title": "Addressing the Long-Term Effects of COVID-19",
+  "topics": [],
+  "type": "executive_action"
+}

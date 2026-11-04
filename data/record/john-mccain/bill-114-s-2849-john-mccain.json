@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2849",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2849-john-mccain",
+  "introduced_date": "2016-05-12",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2016-05-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2849",
+  "tagged_by": "crosswalk@1",
+  "title": "GAO Access and Oversight Act of 2016",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

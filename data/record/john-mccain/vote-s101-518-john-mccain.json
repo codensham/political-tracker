@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1465",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-518-john-mccain",
+  "published_at": "1990-08-02",
+  "question": "On the Conference Report",
+  "rollnumber": 518,
+  "source_url": "https://voteview.com/rollcall/RS1010518",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1990-08-02",
+  "vote_result": "Conference Report Agreed to"
+}

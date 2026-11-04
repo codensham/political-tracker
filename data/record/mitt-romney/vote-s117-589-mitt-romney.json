@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6617",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-589-mitt-romney",
+  "published_at": "2022-02-17",
+  "question": "On the Amendment",
+  "rollnumber": 589,
+  "source_url": "https://voteview.com/rollcall/RS1170589",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2022-02-17",
+  "vote_result": "Amendment Rejected"
+}

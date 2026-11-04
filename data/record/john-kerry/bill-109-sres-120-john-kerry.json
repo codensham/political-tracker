@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES120",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-120-john-kerry",
+  "introduced_date": "2005-04-25",
+  "policy_area": "Commemorations",
+  "published_at": "2005-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/120",
+  "title": "A resolution honoring small businesses during the Small Business Administration's National Small Business Week, the week beginning April 24, 2005.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1482",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 96,
+  "id": "bill-96-s-1482-joe-biden",
+  "introduced_date": "1979-07-11",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1979-07-11",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/96th-congress/senate-bill/1482",
+  "tagged_by": "crosswalk@1",
+  "title": "Classified Information Procedures Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

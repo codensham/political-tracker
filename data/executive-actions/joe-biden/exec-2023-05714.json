@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-05714",
+  "document_type": "executive_order",
+  "executive_order_number": "14092",
+  "id": "exec-2023-05714",
+  "published_at": "2023-03-17",
+  "signing_date": "2023-03-14",
+  "source_url": "https://www.federalregister.gov/documents/2023/03/17/2023-05714/reducing-gun-violence-and-making-our-communities-safer",
+  "title": "Reducing Gun Violence and Making Our Communities Safer",
+  "topics": [],
+  "type": "executive_action"
+}

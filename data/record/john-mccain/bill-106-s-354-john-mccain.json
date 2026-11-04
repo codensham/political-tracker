@@ -1,0 +1,21 @@
+{
+  "bill_number": "S354",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-354-john-mccain",
+  "introduced_date": "1999-02-03",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1999-02-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/354",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize the extension of nondiscriminatory trade status to the products of Mongolia.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

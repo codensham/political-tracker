@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES36",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sjres-36-hillary-clinton",
+  "introduced_date": "2004-04-29",
+  "policy_area": "International Affairs",
+  "published_at": "2004-04-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-joint-resolution/36",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution approving the renewal of import restrictions contained in Burmese Freedom and Democracy Act of 2003.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

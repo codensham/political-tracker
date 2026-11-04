@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-31671",
+  "document_type": "executive_order",
+  "executive_order_number": "13246",
+  "id": "exec-01-31671",
+  "published_at": "2001-12-21",
+  "signing_date": "2001-12-18",
+  "source_url": "https://www.federalregister.gov/documents/2001/12/21/01-31671/providing-an-order-of-succession-within-the-department-of-the-treasury",
+  "title": "Providing an Order of Succession Within the Department of the Treasury",
+  "topics": [],
+  "type": "executive_action"
+}

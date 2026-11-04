@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES760",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-760-mitt-romney",
+  "introduced_date": "2020-11-10",
+  "policy_area": "International Affairs",
+  "published_at": "2020-11-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/760",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the atrocities perpetrated by the Government of the People's Republic of China against Uyghurs, ethnic Kazakhs, Kyrgyz, and members of other Muslim minority groups in the Xinjiang Uyghur Autonomous Region constitutes genocide.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

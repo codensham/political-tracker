@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4033",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-4033-john-kerry",
+  "introduced_date": "2006-09-29",
+  "policy_area": "Education",
+  "published_at": "2006-09-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/4033",
+  "tagged_by": "crosswalk@1",
+  "title": "Kindergarten Plus Act of 2006",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

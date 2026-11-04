@@ -1,0 +1,20 @@
+{
+  "bill_number": "HCONRES398",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-638-joe-biden",
+  "published_at": "2008-07-31",
+  "question": "On the Concurrent Resolution",
+  "rollnumber": 638,
+  "source_url": "https://voteview.com/rollcall/RS1100638",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-07-31",
+  "vote_result": "Concurrent Resolution Agreed to"
+}

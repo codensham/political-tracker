@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3133",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3133-john-kerry",
+  "introduced_date": "2008-06-19",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2008-06-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3133",
+  "tagged_by": "crosswalk@1",
+  "title": "Responsible Ownership of Public Land Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

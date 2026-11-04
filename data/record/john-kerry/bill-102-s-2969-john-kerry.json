@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2969",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2969-john-kerry",
+  "introduced_date": "1992-07-24",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1992-07-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2969",
+  "tagged_by": "crosswalk@1",
+  "title": "Religious Freedom Restoration Act of 1992",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

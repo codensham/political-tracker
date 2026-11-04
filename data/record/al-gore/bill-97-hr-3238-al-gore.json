@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR3238",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-3238-al-gore",
+  "introduced_date": "1981-05-19",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1981-05-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/3238",
+  "tagged_by": "crosswalk@1",
+  "title": "Public Broadcasting Amendments Act of 1981",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

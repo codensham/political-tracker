@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES251",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-sjres-251-joe-biden",
+  "introduced_date": "1982-09-24",
+  "policy_area": "Social Welfare",
+  "published_at": "1982-09-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-joint-resolution/251",
+  "title": "A joint resolution authorizing and requesting the President to designate October 10, 1982, as \"National Peace Day\".",
+  "topics": [],
+  "type": "bill"
+}

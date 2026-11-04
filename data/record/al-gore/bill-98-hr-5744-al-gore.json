@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5744",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-5744-al-gore",
+  "introduced_date": "1984-05-30",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1984-05-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/5744",
+  "tagged_by": "crosswalk@1",
+  "title": "Nuclear Arms Stability Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

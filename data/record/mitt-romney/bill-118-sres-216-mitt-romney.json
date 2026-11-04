@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES216",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sres-216-mitt-romney",
+  "introduced_date": "2023-05-17",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2023-05-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-resolution/216",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating the week of May 14 through May 20, 2023, as \"National Police Week\".",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

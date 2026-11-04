@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES298",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hjres-298-john-mccain",
+  "introduced_date": "1985-11-20",
+  "policy_area": "Social Welfare",
+  "published_at": "1985-11-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-joint-resolution/298",
+  "title": "A joint resolution recognizing Camp Fire, Inc.  for its 75 years of service.",
+  "topics": [],
+  "type": "bill"
+}

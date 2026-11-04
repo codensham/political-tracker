@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5836",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 96,
+  "id": "bill-96-hr-5836-al-gore",
+  "introduced_date": "1979-11-08",
+  "policy_area": "Health",
+  "published_at": "1979-11-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/96th-congress/house-bill/5836",
+  "tagged_by": "crosswalk@1",
+  "title": "Infant Formula Act of 1979",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

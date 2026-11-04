@@ -1,0 +1,21 @@
+{
+  "bill_number": "S11",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-11-john-kerry",
+  "introduced_date": "1987-01-06",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1987-01-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/11",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38, United States Code, to establish certain procedures for the adjudication of claims for benefits under laws administered by the Veterans' Administration; to apply the provisions of section 553 of title 5, United States Code, to rule-making procedures of the Veterans' Administration; to provide for judicial review of certain final decisions of the Board of veterans' Appeals; to provide for the payment of reasonable fees to attorneys for rendering legal representation to individuals claiming benefits under laws administered by the Veterans' Administration, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

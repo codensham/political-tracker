@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3114",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-3114-john-mccain",
+  "introduced_date": "2016-06-29",
+  "policy_area": "International Affairs",
+  "published_at": "2016-06-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/3114",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to express the sense of the Senate regarding the safe and expeditious resettlement to Albania of all residents of Camp Liberty.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

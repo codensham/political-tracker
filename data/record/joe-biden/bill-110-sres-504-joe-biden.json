@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES504",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-504-joe-biden",
+  "introduced_date": "2008-04-07",
+  "policy_area": "International Affairs",
+  "published_at": "2008-04-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/504",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the violence in Tibet and calling for restraint by the Government of the People's Republic of China and the people of Tibet.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

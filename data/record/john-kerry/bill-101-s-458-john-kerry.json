@@ -1,0 +1,21 @@
+{
+  "bill_number": "S458",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-458-john-kerry",
+  "introduced_date": "1989-02-28",
+  "policy_area": "Immigration",
+  "published_at": "1989-02-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/458",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for a General Accounting Office investigation and report on conditions of displaced Salvadorans and Nicaraguans, to provide certain rules of the House of Representatives and of the Senate with respect to review of the report, to provide for the temporary stay of detention and deportation of certain Salvadorans and Nicaraguans, and for other purposes.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

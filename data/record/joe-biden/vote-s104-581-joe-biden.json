@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJRES122",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-581-joe-biden",
+  "published_at": "1995-11-16",
+  "question": "On the Joint Resolution",
+  "rollnumber": 581,
+  "source_url": "https://voteview.com/rollcall/RS1040581",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-11-16",
+  "vote_result": "Joint Resolution Passed"
+}

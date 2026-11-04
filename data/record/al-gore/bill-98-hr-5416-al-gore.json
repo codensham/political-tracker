@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5416",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-5416-al-gore",
+  "introduced_date": "1984-04-11",
+  "policy_area": "Energy",
+  "published_at": "1984-04-11",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/5416",
+  "tagged_by": "crosswalk@1",
+  "title": "Electric Utility Competition Act of 1984",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

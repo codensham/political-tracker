@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5241",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-543-john-kerry",
+  "published_at": "1990-09-11",
+  "question": "On Passage of the Bill",
+  "rollnumber": 543,
+  "source_url": "https://voteview.com/rollcall/RS1010543",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1990-09-11",
+  "vote_result": "Bill Passed"
+}

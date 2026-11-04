@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2673",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-556-john-mccain",
+  "published_at": "2002-07-15",
+  "question": "On Passage of the Bill",
+  "rollnumber": 556,
+  "source_url": "https://voteview.com/rollcall/RS1070556",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-07-15",
+  "vote_result": "Bill Passed"
+}

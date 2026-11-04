@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES81",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-81-john-mccain",
+  "introduced_date": "1991-03-22",
+  "policy_area": "International Affairs",
+  "published_at": "1991-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/81",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commending the Baltic States for their efforts to regain independence and urging measures to support such efforts.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

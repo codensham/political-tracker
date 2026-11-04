@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES37",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-37-john-kerry",
+  "introduced_date": "2003-04-11",
+  "policy_area": "Commemorations",
+  "published_at": "2003-04-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/37",
+  "title": "A concurrent resolution expressing support for the celebration of Patriot's Day and honoring the Nation's first patriots.",
+  "topics": [],
+  "type": "bill"
+}

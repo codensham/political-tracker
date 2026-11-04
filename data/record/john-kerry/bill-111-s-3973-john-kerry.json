@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3973",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3973-john-kerry",
+  "introduced_date": "2010-11-18",
+  "policy_area": "Environmental Protection",
+  "published_at": "2010-11-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3973",
+  "tagged_by": "crosswalk@1",
+  "title": "Diesel Emissions Reduction Act of 2010",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

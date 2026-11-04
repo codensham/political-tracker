@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-10968",
+  "document_type": "executive_order",
+  "executive_order_number": "13609",
+  "id": "exec-2012-10968",
+  "published_at": "2012-05-04",
+  "signing_date": "2012-05-01",
+  "source_url": "https://www.federalregister.gov/documents/2012/05/04/2012-10968/promoting-international-regulatory-cooperation",
+  "title": "Promoting International Regulatory Cooperation",
+  "topics": [],
+  "type": "executive_action"
+}

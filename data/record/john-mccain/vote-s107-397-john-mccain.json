@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1731",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-397-john-mccain",
+  "published_at": "2002-02-07",
+  "question": "On the Amendment",
+  "rollnumber": 397,
+  "source_url": "https://voteview.com/rollcall/RS1070397",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-02-07",
+  "vote_result": "Amendment Agreed to"
+}

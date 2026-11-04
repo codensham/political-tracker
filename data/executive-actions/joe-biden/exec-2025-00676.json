@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-00676",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2025-00676",
+  "published_at": "2025-01-13",
+  "signing_date": "2025-01-03",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/13/2025-00676/designation-of-officials-of-the-united-states-international-development-finance-corporation-to-act",
+  "title": "Designation of Officials of the United States International Development Finance Corporation To Act as Chief Executive Officer",
+  "topics": [],
+  "type": "executive_action"
+}

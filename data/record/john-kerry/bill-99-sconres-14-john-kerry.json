@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES14",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-14-john-kerry",
+  "introduced_date": "1985-03-14",
+  "policy_area": "International Affairs",
+  "published_at": "1985-03-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/14",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to express the sense of the Congress that Josef Mengele should be brought to justice.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

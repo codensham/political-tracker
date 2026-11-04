@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-17034",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-17034",
+  "published_at": "2003-07-02",
+  "signing_date": "2003-06-30",
+  "source_url": "https://www.federalregister.gov/documents/2003/07/02/03-17034/death-of-james-strom-thurmond",
+  "title": "Death of James Strom Thurmond",
+  "topics": [],
+  "type": "executive_action"
+}

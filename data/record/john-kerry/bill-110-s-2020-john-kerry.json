@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2020",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2020-john-kerry",
+  "introduced_date": "2008-09-11",
+  "policy_area": "International Affairs",
+  "published_at": "2008-09-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2020",
+  "tagged_by": "crosswalk@1",
+  "title": "Tropical Forest and Coral Conservation Reauthorization Act of 2007",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

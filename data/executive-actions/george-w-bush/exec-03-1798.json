@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-1798",
+  "document_type": "executive_order",
+  "executive_order_number": "13283",
+  "id": "exec-03-1798",
+  "published_at": "2003-01-24",
+  "signing_date": "2003-01-21",
+  "source_url": "https://www.federalregister.gov/documents/2003/01/24/03-1798/establishing-the-office-of-global-communications",
+  "title": "Establishing the Office of Global Communications",
+  "topics": [],
+  "type": "executive_action"
+}

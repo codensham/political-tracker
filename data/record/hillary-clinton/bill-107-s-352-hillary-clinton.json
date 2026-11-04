@@ -1,0 +1,21 @@
+{
+  "bill_number": "S352",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-352-hillary-clinton",
+  "introduced_date": "2001-02-15",
+  "policy_area": "Energy",
+  "published_at": "2001-02-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/352",
+  "tagged_by": "crosswalk@1",
+  "title": "Energy Emergency Response Act of 2001",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

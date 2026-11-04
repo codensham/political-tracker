@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES136",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-136-john-kerry",
+  "introduced_date": "2009-05-07",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2009-05-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/136",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill expressing the sense of the Senate that the United States should initiate negotiations to enter into a free trade agreement with the country of Georgia.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2883",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T14:13:06Z",
+  "collector": "congress_bills@1.0",
+  "congress": 93,
+  "id": "bill-93-s-2883-joe-biden",
+  "introduced_date": "1974-01-23",
+  "policy_area": "Credit",
+  "published_at": "1974-01-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/93rd-congress/senate-bill/2883",
+  "tagged_by": "crosswalk@1",
+  "title": "Fair Credit Reporting Act Amendments",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

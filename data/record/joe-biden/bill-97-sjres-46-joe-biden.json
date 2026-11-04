@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES46",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-sjres-46-joe-biden",
+  "introduced_date": "1981-05-07",
+  "policy_area": "Sports and Recreation",
+  "published_at": "1981-05-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-joint-resolution/46",
+  "title": "A joint resolution declaring \"United States Tennis Association Day\".",
+  "topics": [],
+  "type": "bill"
+}

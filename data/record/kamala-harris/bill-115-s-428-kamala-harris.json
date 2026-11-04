@@ -1,0 +1,21 @@
+{
+  "bill_number": "S428",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-428-kamala-harris",
+  "introduced_date": "2017-02-16",
+  "policy_area": "Health",
+  "published_at": "2017-02-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/428",
+  "tagged_by": "crosswalk@1",
+  "title": "ACE Kids Act of 2017",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

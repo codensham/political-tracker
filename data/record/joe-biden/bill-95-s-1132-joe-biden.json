@@ -1,0 +1,22 @@
+{
+  "bill_number": "S1132",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T14:13:06Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-s-1132-joe-biden",
+  "introduced_date": "1977-03-25",
+  "policy_area": "Busing (School integration)",
+  "published_at": "1977-03-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/senate-bill/1132",
+  "tagged_by": "crosswalk@1",
+  "title": "Equal Educational Opportunity Amendments",
+  "topics": [
+    "education",
+    "civil-rights"
+  ],
+  "type": "bill"
+}

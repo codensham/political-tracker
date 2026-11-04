@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3048",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-3048-joe-biden",
+  "introduced_date": "1982-11-30",
+  "policy_area": "Health",
+  "published_at": "1982-11-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/3048",
+  "tagged_by": "crosswalk@1",
+  "title": "Federal Anti-Tampering Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

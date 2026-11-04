@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN173",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-204-john-mccain",
+  "published_at": "2017-09-27",
+  "question": "On the Nomination",
+  "rollnumber": 204,
+  "source_url": "https://voteview.com/rollcall/RS1150204",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2017-09-27",
+  "vote_result": "Nomination Confirmed"
+}

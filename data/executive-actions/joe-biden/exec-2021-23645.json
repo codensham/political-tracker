@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-23645",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-23645",
+  "published_at": "2021-10-28",
+  "signing_date": "2021-10-25",
+  "source_url": "https://www.federalregister.gov/documents/2021/10/28/2021-23645/advancing-the-safe-resumption-of-global-travel-during-the-covid-19-pandemic",
+  "title": "Advancing the Safe Resumption of Global Travel During the COVID-19 Pandemic",
+  "topics": [],
+  "type": "executive_action"
+}

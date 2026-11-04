@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2914",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2914-john-mccain",
+  "introduced_date": "1992-07-27",
+  "policy_area": "Health",
+  "published_at": "1992-07-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2914",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to direct the Secretary of Health and Human Services to make separate payment for interpretations of electrocardiograms.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1315",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1315-barack-obama",
+  "introduced_date": "2005-11-02",
+  "policy_area": "International Affairs",
+  "published_at": "2005-11-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1315",
+  "tagged_by": "crosswalk@1",
+  "title": "International Cooperation to Meet the Millennium Development Goals Act of 2005",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

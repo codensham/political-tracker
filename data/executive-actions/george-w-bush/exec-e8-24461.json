@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-24461",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e8-24461",
+  "published_at": "2008-10-14",
+  "signing_date": "2008-10-08",
+  "source_url": "https://www.federalregister.gov/documents/2008/10/14/E8-24461/leif-erikson-day-2008",
+  "title": "Leif Erikson Day, 2008",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1983",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1983-hillary-clinton",
+  "introduced_date": "2002-03-04",
+  "policy_area": "Commemorations",
+  "published_at": "2002-03-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1983",
+  "title": "A bill to designate the facility of the United States Postal Service located at 201 Main Street, Lake Placid, New York, as the \"John A. \"Jack\" Shea Post Office Building\".",
+  "topics": [],
+  "type": "bill"
+}

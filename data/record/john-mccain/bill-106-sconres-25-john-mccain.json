@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES25",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sconres-25-john-mccain",
+  "introduced_date": "1999-07-14",
+  "policy_area": "Education",
+  "published_at": "1999-07-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-concurrent-resolution/25",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution urging the Congress and the President to fully fund the Federal Government's obligation under the Individuals with Disabilities Education Act.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

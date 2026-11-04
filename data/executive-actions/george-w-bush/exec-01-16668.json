@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-16668",
+  "document_type": "executive_order",
+  "executive_order_number": "13219",
+  "id": "exec-01-16668",
+  "published_at": "2001-06-29",
+  "signing_date": "2001-06-26",
+  "source_url": "https://www.federalregister.gov/documents/2001/06/29/01-16668/blocking-property-of-persons-who-threaten-international-stabilization-efforts-in-the-western-balkans",
+  "title": "Blocking Property of Persons Who Threaten International Stabilization Efforts in the Western Balkans",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2264",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-245-joe-biden",
+  "published_at": "1993-08-06",
+  "question": "On the Decision of the Chair",
+  "rollnumber": 245,
+  "source_url": "https://voteview.com/rollcall/RS1030245",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1993-08-06",
+  "vote_result": "Decision of Chair Sustained"
+}

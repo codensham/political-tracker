@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-27999",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2023-27999",
+  "published_at": "2023-12-19",
+  "signing_date": "2023-12-07",
+  "source_url": "https://www.federalregister.gov/documents/2023/12/19/2023-27999/delegation-of-certain-functions-and-authorities-under-the-uyghur-human-rights-policy-act-of-2020-and",
+  "title": "Delegation of Certain Functions and Authorities Under the Uyghur Human Rights Policy Act of 2020 and Public Law 117-78",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES210",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-210-john-kerry",
+  "introduced_date": "2003-09-03",
+  "policy_area": "Commemorations",
+  "published_at": "2003-09-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/210",
+  "title": "A resolution expressing the sense of the Senate that supporting a balance between work and personal life is in the best interest of national worker productivity, and that the President should issue a proclamation designating October of 2003 as \"National Work and Family Month\".",
+  "topics": [],
+  "type": "bill"
+}

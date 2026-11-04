@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES138",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-138-hillary-clinton",
+  "introduced_date": "2002-10-01",
+  "policy_area": "Health",
+  "published_at": "2002-10-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/138",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress that the Secretary of Health And Human Services should conduct or support research on certain tests to screen for ovarian cancer, and Federal health care programs and group and individual health plans should cover the tests if demonstrated to be effective, and for other purposes.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-02038",
+  "document_type": "executive_order",
+  "executive_order_number": "14005",
+  "id": "exec-2021-02038",
+  "published_at": "2021-01-28",
+  "signing_date": "2021-01-25",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/28/2021-02038/ensuring-the-future-is-made-in-all-of-america-by-all-of-americas-workers",
+  "title": "Ensuring the Future Is Made in All of America by All of America's Workers",
+  "topics": [],
+  "type": "executive_action"
+}

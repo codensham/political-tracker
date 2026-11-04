@@ -1,0 +1,24 @@
+{
+  "bill_number": "SJRES1",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-1-joe-biden",
+  "policy_area": "International Affairs",
+  "published_at": "1991-01-12",
+  "question": "On the Joint Resolution",
+  "rollnumber": 1,
+  "source_url": "https://voteview.com/rollcall/RS1020001",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "vote",
+  "vote_date": "1991-01-12",
+  "vote_result": "Joint Resolution Defeated"
+}

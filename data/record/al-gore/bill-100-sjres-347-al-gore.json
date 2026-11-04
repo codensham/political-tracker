@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES347",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-347-al-gore",
+  "introduced_date": "1988-08-10",
+  "policy_area": "International Affairs",
+  "published_at": "1988-08-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/347",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution in support of the restoration of a free and independent Cambodia and the protection of the Cambodian people from a return to power by the genocidal Khmer Rouge.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

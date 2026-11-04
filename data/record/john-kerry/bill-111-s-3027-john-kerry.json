@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3027",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3027-john-kerry",
+  "introduced_date": "2010-03-03",
+  "policy_area": "Commerce",
+  "published_at": "2010-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3027",
+  "title": "P2P Cyber Protection and Informed User Act",
+  "topics": [],
+  "type": "bill"
+}

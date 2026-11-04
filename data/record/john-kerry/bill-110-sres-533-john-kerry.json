@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES533",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-533-john-kerry",
+  "introduced_date": "2008-04-24",
+  "policy_area": "International Affairs",
+  "published_at": "2008-04-24",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/533",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the political situation in Zimbabwe.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

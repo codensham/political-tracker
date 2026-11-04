@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES39",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sconres-39-kamala-harris",
+  "introduced_date": "2020-06-04",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2020-06-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-concurrent-resolution/39",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress that the constitutional rights of Americans to peaceably assemble, exercise freedom of speech, and petition the Government for redress of grievances must be respected; that violence and looting are unlawful, unacceptable, and contrary to the purpose of peaceful protests; and that Congress condemns the President of the United States for ordering Federal officers to use gas and rubber bullets against the Americans who were peaceably protesting in Lafayette Square in Washington, DC on the night of June 1, 2020, thereby violating the constitutional rights of those peaceful protestors.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

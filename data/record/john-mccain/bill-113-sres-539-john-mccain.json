@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES539",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-539-john-mccain",
+  "introduced_date": "2014-09-09",
+  "policy_area": "Congress",
+  "published_at": "2014-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/539",
+  "title": "A resolution relative to the death of James M. Jeffords, former United States Senator for the State of Vermont.",
+  "topics": [],
+  "type": "bill"
+}

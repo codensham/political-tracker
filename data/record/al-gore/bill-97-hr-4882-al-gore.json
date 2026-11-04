@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4882",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-4882-al-gore",
+  "introduced_date": "1982-08-17",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "1982-08-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/4882",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Congressional Budget Act of 1974 to require that each congressional budget resolution fix the level of tax expenditures for the fiscal year involved as well as the recommended aggregate level of Federal revenues.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

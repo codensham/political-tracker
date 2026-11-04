@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-02869",
+  "document_type": "executive_order",
+  "executive_order_number": "14063",
+  "id": "exec-2022-02869",
+  "published_at": "2022-02-09",
+  "signing_date": "2022-02-04",
+  "source_url": "https://www.federalregister.gov/documents/2022/02/09/2022-02869/use-of-project-labor-agreements-for-federal-construction-projects",
+  "title": "Use of Project Labor Agreements for Federal Construction Projects",
+  "topics": [],
+  "type": "executive_action"
+}

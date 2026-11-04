@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-24900",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-24900",
+  "published_at": "2010-10-01",
+  "signing_date": "2010-09-29",
+  "source_url": "https://www.federalregister.gov/documents/2010/10/01/2010-24900/provision-of-aviation-insurance-coverage-for-commercial-air-carrier-service-in-domestic-and",
+  "title": "Provision of Aviation Insurance Coverage for Commercial Air Carrier Service in Domestic and International Operations",
+  "topics": [],
+  "type": "executive_action"
+}

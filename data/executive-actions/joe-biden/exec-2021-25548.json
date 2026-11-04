@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-25548",
+  "document_type": "executive_order",
+  "executive_order_number": "14054",
+  "id": "exec-2021-25548",
+  "published_at": "2021-11-19",
+  "signing_date": "2021-11-18",
+  "source_url": "https://www.federalregister.gov/documents/2021/11/19/2021-25548/termination-of-emergency-with-respect-to-the-situation-in-burundi",
+  "title": "Termination of Emergency With Respect to the Situation in Burundi",
+  "topics": [],
+  "type": "executive_action"
+}

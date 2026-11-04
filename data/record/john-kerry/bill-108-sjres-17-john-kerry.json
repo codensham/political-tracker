@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES17",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sjres-17-john-kerry",
+  "introduced_date": "2003-07-15",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2003-07-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-joint-resolution/17",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution disapproving the rule submitted by the Federal Communications Commission with respect to broadcast media ownership.",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

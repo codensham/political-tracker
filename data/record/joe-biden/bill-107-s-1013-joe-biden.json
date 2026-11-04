@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1013",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1013-joe-biden",
+  "introduced_date": "2001-06-12",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2001-06-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1013",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38, United States Code, to provide for the payment to States of plot allowances for certain veterans eligible for burial in a national cemetery who are buried in cemeteries of such States.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

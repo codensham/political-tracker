@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1536",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1536-joe-biden",
+  "introduced_date": "2000-10-03",
+  "policy_area": "Social Welfare",
+  "published_at": "2000-10-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1536",
+  "title": "Older Americans Act Amendments of 2000",
+  "topics": [],
+  "type": "bill"
+}

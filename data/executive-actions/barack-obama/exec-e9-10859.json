@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-10859",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-10859",
+  "published_at": "2009-05-07",
+  "signing_date": "2009-05-04",
+  "source_url": "https://www.federalregister.gov/documents/2009/05/07/E9-10859/older-americans-month-2009",
+  "title": "Older Americans Month, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

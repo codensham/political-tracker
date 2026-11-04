@@ -1,0 +1,24 @@
+{
+  "bill_number": "HR4269",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-h97-165-al-gore",
+  "policy_area": "Taxation",
+  "published_at": "1981-07-29",
+  "question": null,
+  "rollnumber": 165,
+  "source_url": "https://voteview.com/rollcall/RH0970165",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "taxes"
+  ],
+  "type": "vote",
+  "vote_date": "1981-07-29",
+  "vote_result": null
+}

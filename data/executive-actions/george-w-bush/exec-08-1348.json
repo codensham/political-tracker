@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-1348",
+  "document_type": "executive_order",
+  "executive_order_number": "13465",
+  "id": "exec-08-1348",
+  "published_at": "2008-06-11",
+  "signing_date": "2008-06-06",
+  "source_url": "https://www.federalregister.gov/documents/2008/06/11/08-1348/amending-executive-order-12989-as-amended",
+  "title": "Amending Executive Order 12989, as Amended",
+  "topics": [],
+  "type": "executive_action"
+}

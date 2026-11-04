@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-10884",
+  "document_type": "executive_order",
+  "executive_order_number": "13608",
+  "id": "exec-2012-10884",
+  "published_at": "2012-05-03",
+  "signing_date": "2012-05-01",
+  "source_url": "https://www.federalregister.gov/documents/2012/05/03/2012-10884/prohibiting-certain-transactions-with-and-suspending-entry-into-the-united-states-of-foreign",
+  "title": "Prohibiting Certain Transactions With and Suspending Entry Into the United States of Foreign Sanctions Evaders With Respect to Iran and Syria",
+  "topics": [],
+  "type": "executive_action"
+}

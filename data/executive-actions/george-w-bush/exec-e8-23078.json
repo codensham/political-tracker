@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-23078",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-e8-23078",
+  "published_at": "2008-09-29",
+  "signing_date": "2008-09-25",
+  "source_url": "https://www.federalregister.gov/documents/2008/09/29/E8-23078/assignment-of-function-under-section-203e2a-of-the-andean-trade-preference-act-as-amended",
+  "title": "Assignment of Function Under Section 203(e)(2)(A) of the Andean Trade Preference Act, As Amended",
+  "topics": [],
+  "type": "executive_action"
+}

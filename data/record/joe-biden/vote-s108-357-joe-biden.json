@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN540",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-357-joe-biden",
+  "published_at": "2003-09-23",
+  "question": "On the Nomination",
+  "rollnumber": 357,
+  "source_url": "https://voteview.com/rollcall/RS1080357",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-09-23",
+  "vote_result": "Nomination Confirmed"
+}

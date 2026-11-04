@@ -2,17 +2,28 @@
 
 from __future__ import annotations
 
+import re
 import time
-from typing import Callable
+from collections.abc import Callable
 
 import httpx
 
 MAX_RETRIES = 3
+# Spec §5: collectors identify the project, with no email address.
+USER_AGENT = "political-tracker (+https://github.com/codensham/political-tracker)"
 BASE_DELAY = 1.0
 
 
 def _retryable(status: int) -> bool:
     return status == 429 or status >= 500
+
+
+_KEY_PARAM = re.compile(r"(api_key=)[^&\s'\")]+")
+
+
+def redact(text: str) -> str:
+    """Replace any api_key value in a string with REDACTED."""
+    return _KEY_PARAM.sub(r"\1REDACTED", text)
 
 
 def _get(
@@ -23,11 +34,18 @@ def _get(
     sleep: Callable[[float], None] = time.sleep,
 ) -> httpx.Response:
     for attempt in range(MAX_RETRIES + 1):
-        resp = client.get(url, params=params)
+        resp = client.get(url, params=params, headers={"User-Agent": USER_AGENT})
         if _retryable(resp.status_code) and attempt < MAX_RETRIES:
             sleep(BASE_DELAY * 2**attempt)
             continue
-        resp.raise_for_status()
+        try:
+            resp.raise_for_status()
+        except httpx.HTTPStatusError as exc:
+            # The message embeds the full URL, which can carry api_key. Strip it before it
+            # reaches logs, CI output or tracebacks.
+            raise httpx.HTTPStatusError(
+                redact(str(exc)), request=exc.request, response=exc.response
+            ) from None
         return resp
     raise AssertionError("unreachable")
 

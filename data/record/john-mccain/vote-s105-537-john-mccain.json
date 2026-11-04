@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1151",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-537-john-mccain",
+  "published_at": "1998-07-28",
+  "question": "On Passage of the Bill",
+  "rollnumber": 537,
+  "source_url": "https://voteview.com/rollcall/RS1050537",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-07-28",
+  "vote_result": "Bill Passed"
+}

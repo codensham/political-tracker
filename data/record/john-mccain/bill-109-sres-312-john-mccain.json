@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES312",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-312-john-mccain",
+  "introduced_date": "2006-06-21",
+  "policy_area": "International Affairs",
+  "published_at": "2006-06-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/312",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the need for the United States to address global climate change through the negotiation of fair and effective international commitments.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

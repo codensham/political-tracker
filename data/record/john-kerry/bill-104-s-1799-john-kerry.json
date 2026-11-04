@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1799",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1799-john-kerry",
+  "introduced_date": "1996-05-23",
+  "policy_area": "Health",
+  "published_at": "1996-05-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1799",
+  "tagged_by": "crosswalk@1",
+  "title": "Women's Health Equity Act of 1996",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

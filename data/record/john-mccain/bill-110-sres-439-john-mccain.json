@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES439",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-439-john-mccain",
+  "introduced_date": "2008-02-14",
+  "policy_area": "International Affairs",
+  "published_at": "2008-02-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/439",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the strong support of the Senate for the North Atlantic Treaty Organization to enter into a Membership Action Plan with Georgia and Ukraine.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

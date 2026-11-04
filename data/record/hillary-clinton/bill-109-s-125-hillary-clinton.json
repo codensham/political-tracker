@@ -1,0 +1,18 @@
+{
+  "bill_number": "S125",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-125-hillary-clinton",
+  "introduced_date": "2005-02-15",
+  "policy_area": "Commemorations",
+  "published_at": "2005-02-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/125",
+  "title": "A bill to designate the United States courthouse located at 501 I Street in Sacramento, California, as the \"Robert T. Matsui United States Courthouse\".",
+  "topics": [],
+  "type": "bill"
+}

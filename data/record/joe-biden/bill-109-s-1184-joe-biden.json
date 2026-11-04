@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1184",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1184-joe-biden",
+  "introduced_date": "2005-06-07",
+  "policy_area": "International Affairs",
+  "published_at": "2005-06-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1184",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to waive the passport fees for a relative of a deceased member of the Armed Forces proceeding abroad to visit the grave of such member or to attend a funeral or memorial service for such member.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

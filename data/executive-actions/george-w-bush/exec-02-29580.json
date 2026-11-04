@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-29580",
+  "document_type": "executive_order",
+  "executive_order_number": "13276",
+  "id": "exec-02-29580",
+  "published_at": "2002-11-19",
+  "signing_date": "2002-11-15",
+  "source_url": "https://www.federalregister.gov/documents/2002/11/19/02-29580/delegation-of-responsibilities-concerning-undocumented-aliens-interdicted-or-intercepted-in-the",
+  "title": "Delegation of Responsibilities Concerning Undocumented Aliens Interdicted or Intercepted in the Caribbean Region",
+  "topics": [],
+  "type": "executive_action"
+}

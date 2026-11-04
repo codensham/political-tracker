@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2731",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2731-john-mccain",
+  "introduced_date": "2008-06-18",
+  "policy_area": "International Affairs",
+  "published_at": "2008-06-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2731",
+  "tagged_by": "crosswalk@1",
+  "title": "Tom Lantos and Henry J. Hyde United States Global Leadership Against HIV/AIDS, Tuberculosis, and Malaria Reauthorization Act of 2008",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

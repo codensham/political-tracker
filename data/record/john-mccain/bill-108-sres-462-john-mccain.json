@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES462",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-462-john-mccain",
+  "introduced_date": "2004-10-10",
+  "policy_area": "International Affairs",
+  "published_at": "2004-10-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/462",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the significant achievement of the people and Government of Afghanistan since the Emergency Loya Jirga was held in June 2002 in establishing the foundation and means to hold presidential elections on October 9, 2004.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

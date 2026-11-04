@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3009",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-509-hillary-clinton",
+  "published_at": "2002-05-23",
+  "question": "On the Motion to Table",
+  "rollnumber": 509,
+  "source_url": "https://voteview.com/rollcall/RS1070509",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-05-23",
+  "vote_result": "Motion to Table Failed"
+}

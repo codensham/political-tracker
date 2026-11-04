@@ -1,0 +1,21 @@
+{
+  "bill_number": "S578",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-578-al-gore",
+  "introduced_date": "1989-05-18",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1989-05-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/578",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to provide for consideration of whether certain defense agreements adversely impact the international competitive position of United States industry.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

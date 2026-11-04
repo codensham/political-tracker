@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-11913",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-01-11913",
+  "published_at": "2001-05-10",
+  "signing_date": "2001-05-07",
+  "source_url": "https://www.federalregister.gov/documents/2001/05/10/01-11913/asianpacific-american-heritage-month-2001",
+  "title": "Asian/Pacific American Heritage Month, 2001",
+  "topics": [],
+  "type": "executive_action"
+}

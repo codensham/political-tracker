@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-3298",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-06-3298",
+  "published_at": "2006-04-04",
+  "signing_date": "2006-03-31",
+  "source_url": "https://www.federalregister.gov/documents/2006/04/04/06-3298/to-extend-nondiscriminatory-treatment-normal-trade-relations-treatment-to-the-products-of-ukraine",
+  "title": "To Extend Nondiscriminatory Treatment (Normal Trade Relations Treatment) to the Products of Ukraine, and For Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

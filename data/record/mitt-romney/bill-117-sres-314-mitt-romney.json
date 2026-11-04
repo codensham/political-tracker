@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES314",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-314-mitt-romney",
+  "introduced_date": "2021-07-22",
+  "policy_area": "Sports and Recreation",
+  "published_at": "2021-07-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/314",
+  "title": "A resolution commemorating the past success of the United States Olympic and Paralympic Teams and supporting the United States Olympic and Paralympic Teams in the 2020 Olympic Games and Paralympic Games.",
+  "topics": [],
+  "type": "bill"
+}

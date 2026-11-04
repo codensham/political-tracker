@@ -1,0 +1,21 @@
+{
+  "bill_number": "S205",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-205-john-kerry",
+  "introduced_date": "1991-01-22",
+  "policy_area": "Labor and Employment",
+  "published_at": "1991-01-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/205",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 5, United States Code, to equalize the treatment of members of the Armed Forces of the United States and former employees of the Federal Government for purposes of eligibility for payment of unemployment compensation for Federal service.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

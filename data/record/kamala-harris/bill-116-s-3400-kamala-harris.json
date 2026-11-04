@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3400",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3400-kamala-harris",
+  "introduced_date": "2020-03-05",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2020-03-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3400",
+  "title": "Ending Passenger Rail Forced Arbitration Act",
+  "topics": [],
+  "type": "bill"
+}

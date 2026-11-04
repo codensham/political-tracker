@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES183",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-183-john-mccain",
+  "introduced_date": "2015-05-21",
+  "policy_area": "International Affairs",
+  "published_at": "2015-05-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/183",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling for suspension of construction of artificial land formations on islands, reefs, shoals, and other features of the Spratly Islands and for a peaceful and multilateral resolution to the South China Sea territorial dispute.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

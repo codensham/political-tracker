@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-5725",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-06-5725",
+  "published_at": "2006-06-26",
+  "signing_date": "2006-06-15",
+  "source_url": "https://www.federalregister.gov/documents/2006/06/26/06-5725/establishment-of-the-northwestern-hawaiian-islands-marine-national-monument",
+  "title": "Establishment of the Northwestern Hawaiian Islands Marine National Monument",
+  "topics": [],
+  "type": "executive_action"
+}

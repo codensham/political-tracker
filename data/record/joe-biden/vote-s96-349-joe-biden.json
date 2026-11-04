@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4473",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 96,
+  "id": "vote-s96-349-joe-biden",
+  "published_at": "1979-10-11",
+  "question": null,
+  "rollnumber": 349,
+  "source_url": "https://voteview.com/rollcall/RS0960349",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1979-10-11",
+  "vote_result": null
+}

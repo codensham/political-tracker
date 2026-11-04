@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN247",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-43-kamala-harris",
+  "published_at": "2019-03-12",
+  "question": "On the Cloture Motion",
+  "rollnumber": 43,
+  "source_url": "https://voteview.com/rollcall/RS1160043",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2019-03-12",
+  "vote_result": "Cloture Motion Agreed to"
+}

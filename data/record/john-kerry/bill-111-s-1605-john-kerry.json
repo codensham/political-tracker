@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1605",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1605-john-kerry",
+  "introduced_date": "2009-08-06",
+  "policy_area": "Taxation",
+  "published_at": "2009-08-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1605",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to reform the rules relating to fractional charitable donations of tangible personal property.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

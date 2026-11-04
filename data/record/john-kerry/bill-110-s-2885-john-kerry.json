@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2885",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2885-john-kerry",
+  "introduced_date": "2008-04-17",
+  "policy_area": "Taxation",
+  "published_at": "2008-04-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2885",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to expand the availability of industrial development bonds to facilities manufacturing intangible property.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

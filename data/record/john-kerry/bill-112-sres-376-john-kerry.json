@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES376",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-376-john-kerry",
+  "introduced_date": "2012-06-06",
+  "policy_area": "Law",
+  "published_at": "2012-06-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/376",
+  "title": "A resolution commemorating the 225th anniversary of the signing of the Constitution of the United States and recognizing the contributions of the National Society of the Sons of the American Revolution and the National Society Daughters of the American Revolution.",
+  "topics": [],
+  "type": "bill"
+}

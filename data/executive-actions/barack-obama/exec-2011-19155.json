@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-19155",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2011-19155",
+  "published_at": "2011-07-27",
+  "signing_date": "2011-07-24",
+  "source_url": "https://www.federalregister.gov/documents/2011/07/27/2011-19155/suspension-of-entry-of-aliens-subject-to-united-nations-security-council-travel-bans-and",
+  "title": "Suspension of Entry of Aliens Subject to United Nations Security Council Travel Bans and International Emergency Economic Powers Act Sanctions",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES245",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-245-al-gore",
+  "introduced_date": "1992-01-24",
+  "policy_area": "International Affairs",
+  "published_at": "1992-01-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/245",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate in support of United States workers and objecting to attempts by the Prime Minister of Japan to undermine the President's trade mission.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

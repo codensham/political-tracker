@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1341",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1341-john-mccain",
+  "introduced_date": "1995-10-19",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1995-10-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1341",
+  "tagged_by": "crosswalk@1",
+  "title": "Saddleback Mountain-Arizona Settlement Act of 1995",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

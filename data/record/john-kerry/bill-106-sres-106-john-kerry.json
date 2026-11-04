@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES106",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-106-john-kerry",
+  "introduced_date": "2000-03-09",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2000-03-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/106",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to express the sense of the Senate regarding English plus other languages.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

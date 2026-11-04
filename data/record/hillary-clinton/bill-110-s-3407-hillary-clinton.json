@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3407",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3407-hillary-clinton",
+  "introduced_date": "2008-08-01",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2008-08-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3407",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to authorize commanders of wounded warrior battalions to accept charitable gifts on behalf of the wounded members of the Armed Forces assigned to such battalions.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

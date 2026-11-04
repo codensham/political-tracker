@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES234",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-234-hillary-clinton",
+  "introduced_date": "2002-04-10",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2002-04-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/234",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution reiterating the sense of the Senate that religious freedom is a priority of the United States Senate in the bilateral relationship with the Russian Federation, including within the context of the Jackson-Vanik Amendment.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

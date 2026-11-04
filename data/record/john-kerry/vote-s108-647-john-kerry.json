@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1308",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-647-john-kerry",
+  "published_at": "2004-09-23",
+  "question": "On the Conference Report",
+  "rollnumber": 647,
+  "source_url": "https://voteview.com/rollcall/RS1080647",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2004-09-23",
+  "vote_result": "Conference Report Agreed to"
+}

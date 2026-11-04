@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-8558",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-06-8558",
+  "published_at": "2006-10-05",
+  "signing_date": "2006-10-03",
+  "source_url": "https://www.federalregister.gov/documents/2006/10/05/06-8558/national-breast-cancer-awareness-month--2006",
+  "title": "National Breast Cancer Awareness Month , 2006",
+  "topics": [],
+  "type": "executive_action"
+}

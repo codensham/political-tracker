@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2838",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2838-hillary-clinton",
+  "introduced_date": "2004-09-23",
+  "policy_area": "Commemorations",
+  "published_at": "2004-09-23",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2838",
+  "title": "A bill to designate the facility of the United States Postal Service located at 10 West Prospect Street in Nanuet, New York, as the \"Anthony I. Lombardi Memorial Post Office Building\".",
+  "topics": [],
+  "type": "bill"
+}

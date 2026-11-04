@@ -1,0 +1,20 @@
+{
+  "bill_number": "S3114",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-461-joe-biden",
+  "published_at": "1992-08-07",
+  "question": "On the Amendment",
+  "rollnumber": 461,
+  "source_url": "https://voteview.com/rollcall/RS1020461",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-08-07",
+  "vote_result": "Amendment Agreed to"
+}

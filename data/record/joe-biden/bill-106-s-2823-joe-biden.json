@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2823",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2823-joe-biden",
+  "introduced_date": "2000-06-29",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2000-06-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2823",
+  "tagged_by": "crosswalk@1",
+  "title": "Plan Colombia Trade Act",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

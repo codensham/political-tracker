@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1200",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-474-john-kerry",
+  "policy_area": "Native Americans",
+  "published_at": "2008-02-26",
+  "question": "On Passage of the Bill",
+  "rollnumber": 474,
+  "source_url": "https://voteview.com/rollcall/RS1100474",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-02-26",
+  "vote_result": "Bill Passed"
+}

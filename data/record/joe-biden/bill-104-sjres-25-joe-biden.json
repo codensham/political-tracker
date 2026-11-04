@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES25",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-sjres-25-joe-biden",
+  "introduced_date": "1995-02-01",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "1995-02-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-joint-resolution/25",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution proposing an amendment to the Constitution of the United States relative to equal rights for women and men.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

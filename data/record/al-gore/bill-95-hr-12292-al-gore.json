@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR12292",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-hr-12292-al-gore",
+  "introduced_date": "1978-04-24",
+  "policy_area": "Health",
+  "published_at": "1978-04-24",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/house-bill/12292",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 330 of the Public Health Service Act to provide grants for developmental and demonstration projects relating to the provision of health services to medically underserved populations.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

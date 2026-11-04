@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES44",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-44-joe-biden",
+  "introduced_date": "2003-02-04",
+  "policy_area": "Commemorations",
+  "published_at": "2003-02-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/44",
+  "title": "A resolution designating the week beginning February 2, 2003, as \"National School Counseling Week\".",
+  "topics": [],
+  "type": "bill"
+}

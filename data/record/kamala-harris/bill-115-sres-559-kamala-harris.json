@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES559",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-559-kamala-harris",
+  "introduced_date": "2018-06-28",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "2018-06-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/559",
+  "title": "A resolution recognizing the contributions of African Americans to the musical heritage of the United States and the need for greater access to music education for African-American students, and expressing support for the designation of June as African-American Music Appreciation Month.",
+  "topics": [],
+  "type": "bill"
+}

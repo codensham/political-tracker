@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES211",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-211-kamala-harris",
+  "introduced_date": "2017-06-29",
+  "policy_area": "International Affairs",
+  "published_at": "2017-06-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/211",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the violence and persecution in Chechnya.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

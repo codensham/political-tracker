@@ -1,0 +1,24 @@
+{
+  "bill_number": "S295",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-802-joe-biden",
+  "policy_area": "Labor and Employment",
+  "published_at": "1996-07-10",
+  "question": "On the Amendment",
+  "rollnumber": 802,
+  "source_url": "https://voteview.com/rollcall/RS1040802",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "labor"
+  ],
+  "type": "vote",
+  "vote_date": "1996-07-10",
+  "vote_result": "Amendment Rejected"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-01256",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2015-01256",
+  "published_at": "2015-01-22",
+  "signing_date": "2015-01-16",
+  "source_url": "https://www.federalregister.gov/documents/2015/01/22/2015-01256/expanding-federal-support-for-predevelopment-activities-for-nonfederal-domestic-infrastructure",
+  "title": "Expanding Federal Support for Predevelopment Activities for Nonfederal Domestic Infrastructure Assets",
+  "topics": [],
+  "type": "executive_action"
+}

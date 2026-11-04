@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-27922",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2012-27922",
+  "published_at": "2012-11-15",
+  "signing_date": "2012-11-09",
+  "source_url": "https://www.federalregister.gov/documents/2012/11/15/2012-27922/american-education-week-2012",
+  "title": "American Education Week, 2012",
+  "topics": [],
+  "type": "executive_action"
+}

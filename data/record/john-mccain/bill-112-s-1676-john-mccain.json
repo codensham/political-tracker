@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1676",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1676-john-mccain",
+  "introduced_date": "2011-10-12",
+  "policy_area": "Taxation",
+  "published_at": "2011-10-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1676",
+  "tagged_by": "crosswalk@1",
+  "title": "Buffett Rule Act of 2011",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

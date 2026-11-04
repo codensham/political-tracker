@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES361",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-361-john-mccain",
+  "introduced_date": "2017-12-14",
+  "policy_area": "International Affairs",
+  "published_at": "2017-12-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/361",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the United States Government shall, both unilaterally and alongside the international community, consider all options for exerting maximum pressure on the Democratic People's Republic of Korea (DPRK), in order to denuclearize the DPRK, protect the lives of United States citizens and allies, and prevent further proliferation of nuclear weapons.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

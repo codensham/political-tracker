@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-26686",
+  "document_type": "executive_order",
+  "executive_order_number": "13364",
+  "id": "exec-04-26686",
+  "published_at": "2004-12-02",
+  "signing_date": "2004-11-29",
+  "source_url": "https://www.federalregister.gov/documents/2004/12/02/04-26686/modifying-the-protection-granted-to-the-development-fund-for-iraq-and-certain-property-in-which-iraq",
+  "title": "Modifying the Protection Granted to the Development Fund for Iraq and Certain Property in Which Iraq Has an Interest and Protecting the Central Bank of Iraq",
+  "topics": [],
+  "type": "executive_action"
+}

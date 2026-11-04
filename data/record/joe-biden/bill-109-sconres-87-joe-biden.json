@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES87",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-87-joe-biden",
+  "introduced_date": "2006-04-05",
+  "policy_area": "Commerce",
+  "published_at": "2006-04-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/87",
+  "title": "A concurrent resolution expressing the sense of Congress that United States intellectual property rights must be protected globally.",
+  "topics": [],
+  "type": "bill"
+}

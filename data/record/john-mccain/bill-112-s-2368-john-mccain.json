@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2368",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-2368-john-mccain",
+  "introduced_date": "2012-04-25",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2012-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/2368",
+  "tagged_by": "crosswalk@1",
+  "title": "Midnight Rule Relief Act of 2012",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

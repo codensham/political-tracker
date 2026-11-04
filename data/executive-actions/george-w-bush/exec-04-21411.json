@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-21411",
+  "document_type": "executive_order",
+  "executive_order_number": "13357",
+  "id": "exec-04-21411",
+  "published_at": "2004-09-22",
+  "signing_date": "2004-09-20",
+  "source_url": "https://www.federalregister.gov/documents/2004/09/22/04-21411/termination-of-emergency-declared-in-executive-order-12543-with-respect-to-the-policies-and-actions",
+  "title": "Termination of Emergency Declared in Executive Order 12543 With Respect to the Policies and Actions of the",
+  "topics": [],
+  "type": "executive_action"
+}

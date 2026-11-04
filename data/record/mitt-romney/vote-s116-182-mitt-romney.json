@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3401",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-182-mitt-romney",
+  "published_at": "2019-06-26",
+  "question": "On Passage of the Bill",
+  "rollnumber": 182,
+  "source_url": "https://voteview.com/rollcall/RS1160182",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2019-06-26",
+  "vote_result": "Bill Defeated"
+}

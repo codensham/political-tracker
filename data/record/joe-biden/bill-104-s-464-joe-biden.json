@@ -1,0 +1,18 @@
+{
+  "bill_number": "S464",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-464-joe-biden",
+  "introduced_date": "1995-02-23",
+  "policy_area": "Law",
+  "published_at": "1995-02-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/464",
+  "title": "A bill to make the reporting deadlines for studies conducted in Federal court demonstration districts consistent with the deadlines for pilot districts, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

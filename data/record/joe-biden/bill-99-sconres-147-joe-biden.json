@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES147",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-147-joe-biden",
+  "introduced_date": "1986-07-14",
+  "policy_area": "Animals",
+  "published_at": "1986-07-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/147",
+  "title": "A concurrent resolution to express the sense of the Congress that the monkeys known as the Silver Spring Monkeys should be transferred from the National Institutes of Health to the custody of Primarily Primates, Incorporated, animal sanctuary in San Antonio, Texas.",
+  "topics": [],
+  "type": "bill"
+}

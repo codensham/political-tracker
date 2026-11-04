@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR524",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-524-john-mccain",
+  "introduced_date": "1986-10-06",
+  "policy_area": "Social Welfare",
+  "published_at": "1986-10-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/524",
+  "title": "Alzheimer's Disease and Related Disorders Treatment Act of 1985",
+  "topics": [],
+  "type": "bill"
+}

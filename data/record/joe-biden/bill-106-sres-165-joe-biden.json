@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES165",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-165-joe-biden",
+  "introduced_date": "1999-07-27",
+  "policy_area": "Commemorations",
+  "published_at": "1999-07-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/165",
+  "title": "A resolution in memory of Senior Judge Frank M. Johnson, Jr. of the United States Court of Appeals for the Eleventh Circuit.",
+  "topics": [],
+  "type": "bill"
+}

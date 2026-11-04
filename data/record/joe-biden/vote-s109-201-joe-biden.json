@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES207",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-201-joe-biden",
+  "policy_area": "Commemorations",
+  "published_at": "2005-07-25",
+  "question": "On the Resolution",
+  "rollnumber": 201,
+  "source_url": "https://voteview.com/rollcall/RS1090201",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-07-25",
+  "vote_result": "Resolution Agreed to"
+}

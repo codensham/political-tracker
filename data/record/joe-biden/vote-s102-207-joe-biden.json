@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2521",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-207-joe-biden",
+  "published_at": "1991-09-25",
+  "question": "On the Motion to Table",
+  "rollnumber": 207,
+  "source_url": "https://voteview.com/rollcall/RS1020207",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-09-25",
+  "vote_result": "Motion to Table Agreed to"
+}

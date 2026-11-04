@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1841",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1841-hillary-clinton",
+  "introduced_date": "2005-10-19",
+  "policy_area": "Health",
+  "published_at": "2005-10-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1841",
+  "tagged_by": "crosswalk@1",
+  "title": "Medicare Informed Choice Act of 2005",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

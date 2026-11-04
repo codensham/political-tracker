@@ -1,0 +1,18 @@
+{
+  "bill_number": "S962",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-962-john-mccain",
+  "introduced_date": "1991-10-02",
+  "policy_area": "Native Americans",
+  "published_at": "1991-10-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/962",
+  "title": "A bill to make permanent the legislative reinstatement, following the decision of Duro against Reina (58 U.S.L.W. 4643, May 29, 1990), of the power of Indian tribes to exercise criminal jurisdiction over Indians.",
+  "topics": [],
+  "type": "bill"
+}

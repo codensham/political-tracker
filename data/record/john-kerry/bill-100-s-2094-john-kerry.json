@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2094",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2094-john-kerry",
+  "introduced_date": "1988-02-25",
+  "policy_area": "Social Welfare",
+  "published_at": "1988-02-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2094",
+  "title": "A bill to amend title XVI of the Social Security Act, to provide that the existing requirements for deeming a parent's income and resources to his or her children under age 18 shall not apply in the case of certain severely disabled children, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

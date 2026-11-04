@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-595",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-e9-595",
+  "published_at": "2009-01-13",
+  "signing_date": "2008-12-23",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/13/E9-595/assignment-of-reporting-function-under-section-14b-of-the-tom-lantos-block-burmese-juntas-anti-",
+  "title": "Assignment of Reporting Function Under Section 14(b) of the Tom Lantos Block Burmese Junta's Anti- Democratic Efforts (JADE) Act of 2008",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES176",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-176-joe-biden",
+  "introduced_date": "1998-03-19",
+  "policy_area": "Commemorations",
+  "published_at": "1998-03-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/176",
+  "title": "A resolution proclaiming the week of October 18 through October 24, 1998, as \"National Character Counts Week\".",
+  "topics": [],
+  "type": "bill"
+}

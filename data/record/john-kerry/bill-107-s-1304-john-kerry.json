@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1304",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1304-john-kerry",
+  "introduced_date": "2001-08-02",
+  "policy_area": "Health",
+  "published_at": "2001-08-02",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1304",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title XVIII of the Social Security Act to provide for coverage under the medicare program of oral drugs to reduce serum phosphate levels in dialysis patients with end-stage renal disease.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

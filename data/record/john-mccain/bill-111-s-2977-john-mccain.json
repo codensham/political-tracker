@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2977",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-2977-john-mccain",
+  "introduced_date": "2010-02-02",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2010-02-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/2977",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit the use of Department of Justice funds for the prosecution in Article III courts of the United States of individuals involved in the September 11, 2001 terrorist attacks.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2428",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2428-john-kerry",
+  "introduced_date": "2002-04-30",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2002-04-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2428",
+  "tagged_by": "crosswalk@1",
+  "title": "National Sea Grant College Program Act Amendments of 2002 \r\n",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

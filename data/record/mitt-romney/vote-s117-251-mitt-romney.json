@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1251",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-251-mitt-romney",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2021-06-24",
+  "question": "On Passage of the Bill",
+  "rollnumber": 251,
+  "source_url": "https://voteview.com/rollcall/RS1170251",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "vote",
+  "vote_date": "2021-06-24",
+  "vote_result": "Bill Passed"
+}

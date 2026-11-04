@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES88",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-88-al-gore",
+  "introduced_date": "1985-11-14",
+  "policy_area": "International Affairs",
+  "published_at": "1985-11-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/88",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution inviting Americans to light porchlights, candles, or other lights from dusk to dawn on November 19 and 20, 1985, and for other purposes.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

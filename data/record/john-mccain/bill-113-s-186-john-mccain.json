@@ -1,0 +1,21 @@
+{
+  "bill_number": "S186",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-186-john-mccain",
+  "introduced_date": "2013-05-09",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2013-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/186",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to award posthumously a Congressional Gold Medal to Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley, in recognition of the 50th anniversary of the bombing of the Sixteenth Street Baptist Church, where the 4 little Black girls lost their lives, which served as a catalyst for the Civil Rights Movement.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

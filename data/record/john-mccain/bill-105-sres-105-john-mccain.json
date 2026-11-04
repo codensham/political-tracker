@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES105",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-105-john-mccain",
+  "introduced_date": "1997-06-27",
+  "policy_area": "International Affairs",
+  "published_at": "1997-06-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/105",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the people of the United States wish the people of Hong Kong good fortune as they embark on their historic transition of sovereignty from Great Britain to the People's Republic of China.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

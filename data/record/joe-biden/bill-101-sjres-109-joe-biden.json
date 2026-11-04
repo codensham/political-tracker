@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES109",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-109-joe-biden",
+  "introduced_date": "1989-05-31",
+  "policy_area": "Education",
+  "published_at": "1989-05-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/109",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to designate the period commencing September 11, 1989, and ending on September 15, 1989, as \"National Historically Black Colleges Week\".",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

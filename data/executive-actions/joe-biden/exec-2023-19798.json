@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-19798",
+  "document_type": "executive_order",
+  "executive_order_number": "14107",
+  "id": "exec-2023-19798",
+  "published_at": "2023-09-12",
+  "signing_date": "2023-09-06",
+  "source_url": "https://www.federalregister.gov/documents/2023/09/12/2023-19798/exemption-of-paul-h-maurer-from-mandatory-separation",
+  "title": "Exemption of Paul H. Maurer From Mandatory Separation",
+  "topics": [],
+  "type": "executive_action"
+}

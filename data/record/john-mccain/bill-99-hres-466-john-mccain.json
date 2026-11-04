@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES466",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hres-466-john-mccain",
+  "introduced_date": "1986-06-05",
+  "policy_area": "International Affairs",
+  "published_at": "1986-06-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-resolution/466",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the House of Representatives regarding the resumption of technical meetings with the Government of the Socialist Republic of Vietnam on the issues of the repatriation of remains of American servicemen, joint excavations of crash sites, and investigations of \"live sighting\" reports.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

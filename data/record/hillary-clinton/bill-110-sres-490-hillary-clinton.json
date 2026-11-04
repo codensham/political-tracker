@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES490",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-490-hillary-clinton",
+  "introduced_date": "2008-03-31",
+  "policy_area": "Commemorations",
+  "published_at": "2008-03-31",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/490",
+  "title": "A resolution recognizing the Alvin Ailey American Dance Theater for 50 years of service to the performing arts.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,24 @@
+{
+  "bill_number": "S3985",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-554-kamala-harris",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2020-06-24",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 554,
+  "source_url": "https://voteview.com/rollcall/RS1160554",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "vote",
+  "vote_date": "2020-06-24",
+  "vote_result": "Cloture on the Motion to Proceed Rejected"
+}

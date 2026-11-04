@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2358",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2358-barack-obama",
+  "introduced_date": "2006-03-02",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2006-03-02",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2358",
+  "tagged_by": "crosswalk@1",
+  "title": "VA Hospital Quality Report Card Act of 2006",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES525",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-525-john-mccain",
+  "introduced_date": "2010-05-13",
+  "policy_area": "International Affairs",
+  "published_at": "2010-05-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/525",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing sympathy to the families of those killed in the sinking of the Republic of Korea Ship Cheonan, and solidarity with the Republic of Korea in the aftermath of this tragic incident.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

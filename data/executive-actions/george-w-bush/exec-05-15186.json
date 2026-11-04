@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-15186",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-15186",
+  "published_at": "2005-07-29",
+  "signing_date": "2005-07-26",
+  "source_url": "https://www.federalregister.gov/documents/2005/07/29/05-15186/anniversary-of-the-americans-with-disabilities-act-2005",
+  "title": "Anniversary of the Americans with Disabilities Act, 2005",
+  "topics": [],
+  "type": "executive_action"
+}

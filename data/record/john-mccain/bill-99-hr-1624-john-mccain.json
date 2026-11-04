@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR1624",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-1624-john-mccain",
+  "introduced_date": "1985-03-20",
+  "policy_area": "Taxation",
+  "published_at": "1985-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/1624",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to exempt student loan bonds and pollution control bonds from the limit on the amount of tax-exempt private activity bonds which may be issued.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3054",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3054-john-kerry",
+  "introduced_date": "2008-05-22",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2008-05-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3054",
+  "title": "A bill to require all automobiles manufactured or sold in the United States to be equipped with a real time and average fuel economy display.",
+  "topics": [],
+  "type": "bill"
+}

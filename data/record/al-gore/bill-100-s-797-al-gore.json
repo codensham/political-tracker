@@ -1,0 +1,21 @@
+{
+  "bill_number": "S797",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-797-al-gore",
+  "introduced_date": "1987-10-02",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1987-10-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/797",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the Attorney General to collect data and report annually about hate crimes.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

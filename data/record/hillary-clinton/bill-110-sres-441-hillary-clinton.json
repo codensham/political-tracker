@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES441",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-441-hillary-clinton",
+  "introduced_date": "2008-02-04",
+  "policy_area": "Commemorations",
+  "published_at": "2008-02-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/441",
+  "title": "A resolution congratulating the New York Giants on their victory in Super Bowl XLII.",
+  "topics": [],
+  "type": "bill"
+}

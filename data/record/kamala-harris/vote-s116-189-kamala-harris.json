@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1790",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-189-kamala-harris",
+  "published_at": "2019-06-28",
+  "question": "On the Amendment",
+  "rollnumber": 189,
+  "source_url": "https://voteview.com/rollcall/RS1160189",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2019-06-28",
+  "vote_result": "Amendment Rejected"
+}

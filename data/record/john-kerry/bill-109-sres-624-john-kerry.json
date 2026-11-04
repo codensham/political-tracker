@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES624",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-624-john-kerry",
+  "introduced_date": "2006-12-06",
+  "policy_area": "Commemorations",
+  "published_at": "2006-12-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/624",
+  "title": "A resolution to honor the memory of Arnold \"Red\" Auerbach.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S296",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-296-kamala-harris",
+  "introduced_date": "2019-09-09",
+  "policy_area": "Health",
+  "published_at": "2019-09-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/296",
+  "tagged_by": "crosswalk@1",
+  "title": "Home Health Care Planning Improvement Act of 2019",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

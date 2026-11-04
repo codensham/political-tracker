@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2061",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2061-joe-biden",
+  "introduced_date": "2000-02-10",
+  "policy_area": "Families",
+  "published_at": "2000-02-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2061",
+  "title": "Kids 2000 Act",
+  "topics": [],
+  "type": "bill"
+}

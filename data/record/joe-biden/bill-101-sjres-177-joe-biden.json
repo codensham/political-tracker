@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES177",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-177-joe-biden",
+  "introduced_date": "1989-09-25",
+  "policy_area": "Emergency Management",
+  "published_at": "1989-09-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/177",
+  "title": "A joint resolution designating October 29, 1989, as \"Fire Safety At Home-Change Your Clock, Change Your Battery Day\".",
+  "topics": [],
+  "type": "bill"
+}

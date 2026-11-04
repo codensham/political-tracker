@@ -1,0 +1,18 @@
+{
+  "bill_number": "S739",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-739-kamala-harris",
+  "introduced_date": "2019-03-12",
+  "policy_area": "Native Americans",
+  "published_at": "2019-03-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/739",
+  "title": "Native American Voting Rights Act of 2019",
+  "topics": [],
+  "type": "bill"
+}

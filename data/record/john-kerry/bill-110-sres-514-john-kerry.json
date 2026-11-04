@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES514",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-514-john-kerry",
+  "introduced_date": "2008-04-15",
+  "policy_area": "Commemorations",
+  "published_at": "2008-04-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/514",
+  "title": "A resolution congratulating the Boston College men's ice hockey team on winning the 2008 National Collegiate Athletic Association Division I National Ice Hockey Championship.",
+  "topics": [],
+  "type": "bill"
+}

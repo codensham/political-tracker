@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES208",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-208-john-kerry",
+  "introduced_date": "2011-06-15",
+  "policy_area": "International Affairs",
+  "published_at": "2011-06-15",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/208",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding Mongolian President Tsakhiagiin Elbegdorj's visit to Washington, D.C., and its support for the growing partnership between the United States and Mongolia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

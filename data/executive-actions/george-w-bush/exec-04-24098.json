@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-24098",
+  "document_type": "executive_order",
+  "executive_order_number": "13360",
+  "id": "exec-04-24098",
+  "published_at": "2004-10-26",
+  "signing_date": "2004-10-20",
+  "source_url": "https://www.federalregister.gov/documents/2004/10/26/04-24098/providing-opportunities-for-service-disabled-veteran-businesses-to-increase-their-federal",
+  "title": "Providing Opportunities for Service-Disabled Veteran Businesses To Increase Their Federal Contracting and Subcontracting",
+  "topics": [],
+  "type": "executive_action"
+}

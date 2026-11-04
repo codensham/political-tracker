@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES4",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-4-john-kerry",
+  "introduced_date": "2011-01-05",
+  "policy_area": "Congress",
+  "published_at": "2011-01-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/4",
+  "title": "A resolution honoring Senator Barbara Mikulski for becoming the longest-serving female Senator in history.",
+  "topics": [],
+  "type": "bill"
+}

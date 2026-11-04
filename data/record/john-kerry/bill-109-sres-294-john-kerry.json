@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES294",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-294-john-kerry",
+  "introduced_date": "2005-11-02",
+  "policy_area": "Taxation",
+  "published_at": "2005-11-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/294",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate on the retention of the Federal tax deduction for State and local taxes paid.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

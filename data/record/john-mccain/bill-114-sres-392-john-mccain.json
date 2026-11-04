@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES392",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-392-john-mccain",
+  "introduced_date": "2016-03-08",
+  "policy_area": "International Affairs",
+  "published_at": "2016-03-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/392",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the prosecution and conviction of former President Mohamed Nasheed without due process and urging the Government of the Maldives to take all necessary steps to redress this injustice, to release all political prisoners, and to ensure due process and freedom from political prosecution for all the people of the Maldives.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S753",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-753-joe-biden",
+  "introduced_date": "1989-05-03",
+  "policy_area": "Taxation",
+  "published_at": "1989-05-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/753",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide a special statute of limitations for certain refund claims.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2740",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2740-john-mccain",
+  "introduced_date": "1988-08-11",
+  "policy_area": "Taxation",
+  "published_at": "1988-08-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2740",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide that for taxable years beginning before 1980 the Federal income tax deductibility of flight training expenses shall be determined without regard to whether such expenses were reimbursed through certain veterans educational assistance allowances.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

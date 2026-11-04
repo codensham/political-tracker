@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES37",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sconres-37-john-kerry",
+  "introduced_date": "1991-05-09",
+  "policy_area": "Animals",
+  "published_at": "1991-05-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-concurrent-resolution/37",
+  "title": "A concurrent resolution calling for a United States policy of strengthening and maintaining indefinitely the current International Whaling Commission moratorium on the commercial killings of whales, and otherwise expressing the sense of the Congress with respect to conserving and protecting the world's whale, dolphin, and porpoise populations.",
+  "topics": [],
+  "type": "bill"
+}

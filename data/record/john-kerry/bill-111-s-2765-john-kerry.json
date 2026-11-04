@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2765",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-2765-john-kerry",
+  "introduced_date": "2009-11-10",
+  "policy_area": "Commerce",
+  "published_at": "2009-11-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/2765",
+  "title": "Small Business Health Information Technology Financing Act of 2009",
+  "topics": [],
+  "type": "bill"
+}

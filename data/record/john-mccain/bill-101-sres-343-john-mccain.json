@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES343",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-343-john-mccain",
+  "introduced_date": "1990-10-25",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1990-10-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/343",
+  "title": "A resolution expressing the sense of the Senate regarding the 50th Anniversary of the Alaska Highway in 1992, entitled \"Rendezvous 92\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-27167",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2015-27167",
+  "published_at": "2015-10-23",
+  "signing_date": "2015-10-20",
+  "source_url": "https://www.federalregister.gov/documents/2015/10/23/2015-27167/delegation-of-authority-for-drafting-and-submission-of-the-international-trade-data-system-annual",
+  "title": "Delegation of Authority for Drafting and Submission of the International Trade Data System Annual Report to the Congress",
+  "topics": [],
+  "type": "executive_action"
+}

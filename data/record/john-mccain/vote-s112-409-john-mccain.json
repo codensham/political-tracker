@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2237",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-409-john-mccain",
+  "published_at": "2012-07-10",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 409,
+  "source_url": "https://voteview.com/rollcall/RS1120409",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2012-07-10",
+  "vote_result": "Cloture on the Motion to Proceed Agreed to"
+}

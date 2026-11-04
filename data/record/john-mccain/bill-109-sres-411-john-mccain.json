@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES411",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-411-john-mccain",
+  "introduced_date": "2006-03-28",
+  "policy_area": "Commemorations",
+  "published_at": "2006-03-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/411",
+  "title": "A resolution recognizing a milestone in the history of Gallaudet University.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES6",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-sconres-6-joe-biden",
+  "introduced_date": "1983-03-01",
+  "policy_area": "Health",
+  "published_at": "1983-03-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-concurrent-resolution/6",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the Federal government should maintain current efforts in Federal nutrition programs to prevent increases in domestic hunger.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

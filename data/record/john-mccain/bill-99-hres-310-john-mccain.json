@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES310",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hres-310-john-mccain",
+  "introduced_date": "1985-11-08",
+  "policy_area": "Immigration",
+  "published_at": "1985-11-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-resolution/310",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the United States House of Representatives that Miroslav Medvid should not be allowed to be removed from the United States until a complete investigation can determine whether he has been accorded all rights due him as a possible defector, and until he is accorded those rights.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES26",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-26-john-kerry",
+  "introduced_date": "1999-01-26",
+  "policy_area": "International Affairs",
+  "published_at": "1999-01-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/26",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution relating to Taiwan's Participation in the World Health Organization.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES68",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-68-john-kerry",
+  "introduced_date": "1989-09-07",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1989-09-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/68",
+  "title": "A concurrent resolution authorizing a concert by the American Soviet Youth Orchestra on Capitol grounds.",
+  "topics": [],
+  "type": "bill"
+}

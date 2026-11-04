@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2863",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-254-hillary-clinton",
+  "published_at": "2005-10-07",
+  "question": "On Passage of the Bill",
+  "rollnumber": 254,
+  "source_url": "https://voteview.com/rollcall/RS1090254",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-10-07",
+  "vote_result": "Bill Passed"
+}

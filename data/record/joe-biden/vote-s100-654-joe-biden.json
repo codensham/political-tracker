@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4776",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-654-joe-biden",
+  "published_at": "1988-07-08",
+  "question": null,
+  "rollnumber": 654,
+  "source_url": "https://voteview.com/rollcall/RS1000654",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1988-07-08",
+  "vote_result": null
+}

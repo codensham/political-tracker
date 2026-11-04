@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2190",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-2190-john-mccain",
+  "introduced_date": "2014-04-01",
+  "policy_area": "Taxation",
+  "published_at": "2014-04-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/2190",
+  "tagged_by": "crosswalk@1",
+  "title": "Hire More Heroes Act of 2014",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

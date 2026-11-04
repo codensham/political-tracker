@@ -1,0 +1,20 @@
+{
+  "bill_number": "SRES57",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-67-joe-biden",
+  "published_at": "1999-03-25",
+  "question": "On Passage of the Bill",
+  "rollnumber": 67,
+  "source_url": "https://voteview.com/rollcall/RS1060067",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1999-03-25",
+  "vote_result": "Bill Passed"
+}

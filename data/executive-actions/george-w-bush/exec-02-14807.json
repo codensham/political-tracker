@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-14807",
+  "document_type": "executive_order",
+  "executive_order_number": "13265",
+  "id": "exec-02-14807",
+  "published_at": "2002-06-11",
+  "signing_date": "2002-06-06",
+  "source_url": "https://www.federalregister.gov/documents/2002/06/11/02-14807/presidents-council-on-physical-fitness-and-sports",
+  "title": "President's Council on Physical Fitness and Sports",
+  "topics": [],
+  "type": "executive_action"
+}

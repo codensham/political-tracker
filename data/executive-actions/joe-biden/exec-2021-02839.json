@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-02839",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2021-02839",
+  "published_at": "2021-02-10",
+  "signing_date": "2021-01-27",
+  "source_url": "https://www.federalregister.gov/documents/2021/02/10/2021-02839/restoring-trust-in-government-through-scientific-integrity-and-evidence-based-policymaking",
+  "title": "Restoring Trust in Government Through Scientific Integrity and Evidence-Based Policymaking",
+  "topics": [],
+  "type": "executive_action"
+}

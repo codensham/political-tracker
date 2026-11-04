@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR4848",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-4848-al-gore",
+  "introduced_date": "1981-11-16",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1981-11-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/4848",
+  "title": "A bill entitled: \"The Gladys Noon Spellman Parkway\".",
+  "topics": [],
+  "type": "bill"
+}

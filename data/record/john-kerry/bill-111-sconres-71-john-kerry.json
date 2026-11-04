@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES71",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sconres-71-john-kerry",
+  "introduced_date": "2010-12-15",
+  "policy_area": "International Affairs",
+  "published_at": "2010-12-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-concurrent-resolution/71",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution recognizing the United States national interest in helping to prevent and mitigate acts of genocide and other mass atrocities against civilians, and supporting and encouraging efforts to develop a whole of government approach to prevent and mitigate such acts.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

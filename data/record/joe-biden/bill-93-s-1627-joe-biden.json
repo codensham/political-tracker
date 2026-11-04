@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1627",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 93,
+  "id": "bill-93-s-1627-joe-biden",
+  "introduced_date": "1973-04-18",
+  "policy_area": "Taxation",
+  "published_at": "1973-04-18",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/93rd-congress/senate-bill/1627",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill relative to Federal withholding of municipal and county income taxes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

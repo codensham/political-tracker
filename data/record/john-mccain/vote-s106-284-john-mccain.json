@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1059",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-284-john-mccain",
+  "published_at": "1999-09-22",
+  "question": "On the Conference Report",
+  "rollnumber": 284,
+  "source_url": "https://voteview.com/rollcall/RS1060284",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1999-09-22",
+  "vote_result": "Conference Report Agreed to"
+}

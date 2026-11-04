@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-5837",
+  "document_type": "executive_order",
+  "executive_order_number": "13534",
+  "id": "exec-2010-5837",
+  "published_at": "2010-03-16",
+  "signing_date": "2010-03-11",
+  "source_url": "https://www.federalregister.gov/documents/2010/03/16/2010-5837/national-export-initiative",
+  "title": "National Export Initiative",
+  "topics": [],
+  "type": "executive_action"
+}

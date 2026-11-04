@@ -1,0 +1,18 @@
+{
+  "bill_number": "S702",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-702-joe-biden",
+  "introduced_date": "2007-09-19",
+  "policy_area": "Law",
+  "published_at": "2007-09-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/702",
+  "title": "State Court Interpreter Grant Program Act",
+  "topics": [],
+  "type": "bill"
+}

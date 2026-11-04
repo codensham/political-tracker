@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-3265",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-02-3265",
+  "published_at": "2002-02-08",
+  "signing_date": "2002-02-01",
+  "source_url": "https://www.federalregister.gov/documents/2002/02/08/02-3265/report-to-the-congress-regarding-conditions-in-burma-and-us-policy-toward-burma",
+  "title": "Report to the Congress Regarding Conditions in Burma and U.S. Policy Toward Burma",
+  "topics": [],
+  "type": "executive_action"
+}

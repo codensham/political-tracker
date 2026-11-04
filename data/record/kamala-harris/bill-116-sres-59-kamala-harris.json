@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES59",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-59-kamala-harris",
+  "introduced_date": "2019-02-07",
+  "policy_area": "Environmental Protection",
+  "published_at": "2019-02-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/59",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the duty of the Federal Government to create a Green New Deal.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

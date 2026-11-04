@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES11",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-11-kamala-harris",
+  "introduced_date": "2017-01-11",
+  "policy_area": "Labor and Employment",
+  "published_at": "2017-01-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/11",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution encouraging the development of best business practices to fully utilize the potential of the United States.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

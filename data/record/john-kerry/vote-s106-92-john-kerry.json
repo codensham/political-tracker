@@ -1,0 +1,20 @@
+{
+  "bill_number": "HCONRES92",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-92-john-kerry",
+  "published_at": "1999-04-27",
+  "question": "On the Concurrent Resolution",
+  "rollnumber": 92,
+  "source_url": "https://voteview.com/rollcall/RS1060092",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1999-04-27",
+  "vote_result": "Concurrent Resolution Agreed to"
+}

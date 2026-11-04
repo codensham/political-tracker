@@ -1,0 +1,20 @@
+{
+  "bill_number": "S649",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-95-john-mccain",
+  "published_at": "2013-04-11",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 95,
+  "source_url": "https://voteview.com/rollcall/RS1130095",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2013-04-11",
+  "vote_result": "Cloture on the Motion to Proceed Agreed to"
+}

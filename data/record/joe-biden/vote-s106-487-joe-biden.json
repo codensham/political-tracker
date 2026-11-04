@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2603",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-487-joe-biden",
+  "published_at": "2000-05-25",
+  "question": "On the Amendment",
+  "rollnumber": 487,
+  "source_url": "https://voteview.com/rollcall/RS1060487",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-05-25",
+  "vote_result": "Amendment Agreed to"
+}

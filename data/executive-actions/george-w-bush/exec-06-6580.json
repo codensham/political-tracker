@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-6580",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-06-6580",
+  "published_at": "2006-07-28",
+  "signing_date": "2006-07-18",
+  "source_url": "https://www.federalregister.gov/documents/2006/07/28/06-6580/assignment-of-reporting-functions-related-to-russian-debt-reduction-for-nonproliferation",
+  "title": "Assignment of Reporting Functions Related to Russian Debt Reduction for Nonproliferation",
+  "topics": [],
+  "type": "executive_action"
+}

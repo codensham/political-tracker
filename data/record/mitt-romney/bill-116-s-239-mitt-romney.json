@@ -1,0 +1,21 @@
+{
+  "bill_number": "S239",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-239-mitt-romney",
+  "introduced_date": "2019-06-11",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2019-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/239",
+  "tagged_by": "crosswalk@1",
+  "title": "Christa McAuliffe Commemorative Coin Act of 2019",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

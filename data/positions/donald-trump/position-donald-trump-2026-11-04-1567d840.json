@@ -1,0 +1,25 @@
+{
+  "archive_url": null,
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "capture_date": "2026-11-04",
+  "changed": false,
+  "collected_at": "2026-11-04T15:05:28Z",
+  "collector": "manual",
+  "content_sha256": "1567d840e87ce405f3dc5cb4683764f602bf6117f00113a7a3164ebb51fa46b6",
+  "id": "position-donald-trump-2026-11-04-1567d840",
+  "key_quotes": [
+    "Grow the Economy",
+    "Strengthen National Security",
+    "Secure the Border",
+    "Make America Healthy Again",
+    "Unleash American Energy"
+  ],
+  "published_at": "2026-11-04",
+  "source_url": "https://www.whitehouse.gov/priorities/",
+  "tagged_by": "check-positions@1",
+  "topics": [],
+  "type": "position",
+  "url": "https://www.whitehouse.gov/priorities/"
+}

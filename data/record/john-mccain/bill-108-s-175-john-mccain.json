@@ -1,0 +1,18 @@
+{
+  "bill_number": "S175",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-175-john-mccain",
+  "introduced_date": "2003-01-15",
+  "policy_area": "Native Americans",
+  "published_at": "2003-01-15",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/175",
+  "title": "Indian Trust Asset and Trust Fund Management and Reform Act of 2003",
+  "topics": [],
+  "type": "bill"
+}

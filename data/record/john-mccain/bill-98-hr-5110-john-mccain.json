@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR5110",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-5110-john-mccain",
+  "introduced_date": "1984-03-29",
+  "policy_area": "Social Welfare",
+  "published_at": "1984-03-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/5110",
+  "title": "A bill to amend title II of the Social Security Act to provide that a monthly insurance benefit thereunder shall be paid for the month in which the recipient dies and that such benefit shall be payable for such month only to the extent proportionate to the number of days in such month preceding the date of the recipient's death.",
+  "topics": [],
+  "type": "bill"
+}

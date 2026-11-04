@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1145",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-s-1145-joe-biden",
+  "introduced_date": "1983-11-02",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1983-11-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-bill/1145",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to recognize the organization known as the Catholic War Veterans of the United States of America, Incorporated.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

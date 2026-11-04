@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES596",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-596-john-kerry",
+  "introduced_date": "2006-09-29",
+  "policy_area": "Commemorations",
+  "published_at": "2006-09-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/596",
+  "title": "A resolution designating Tuesday, October 10, 2006, as \"National Firefighter Appreciation Day\" to honor and celebrate the firefighters of the United States.",
+  "topics": [],
+  "type": "bill"
+}

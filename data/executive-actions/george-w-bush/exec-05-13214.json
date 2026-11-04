@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-13214",
+  "document_type": "executive_order",
+  "executive_order_number": "13382",
+  "id": "exec-05-13214",
+  "published_at": "2005-07-01",
+  "signing_date": "2005-06-28",
+  "source_url": "https://www.federalregister.gov/documents/2005/07/01/05-13214/blocking-property-of-weapons-of-mass-destruction-proliferators-and-their-supporters",
+  "title": "Blocking Property of Weapons of Mass Destruction Proliferators and Their Supporters",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,24 @@
+{
+  "bill_number": "SJRES32",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-357-mitt-romney",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2024-01-10",
+  "question": "On Overriding the Veto",
+  "rollnumber": 357,
+  "source_url": "https://voteview.com/rollcall/RS1180357",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "economy"
+  ],
+  "type": "vote",
+  "vote_date": "2024-01-10",
+  "vote_result": "Veto Sustained"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-1426",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-04-1426",
+  "published_at": "2004-01-21",
+  "signing_date": "2004-01-16",
+  "source_url": "https://www.federalregister.gov/documents/2004/01/21/04-1426/religious-freedom-day-2004",
+  "title": "Religious Freedom Day, 2004",
+  "topics": [],
+  "type": "executive_action"
+}

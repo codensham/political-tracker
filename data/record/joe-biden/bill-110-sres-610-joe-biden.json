@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES610",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-610-joe-biden",
+  "introduced_date": "2008-07-07",
+  "policy_area": "Commemorations",
+  "published_at": "2008-07-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/610",
+  "title": "A resolution honoring the men and women of the Drug Enforcement Administration on the occasion of the 35th anniversary of the Administration.",
+  "topics": [],
+  "type": "bill"
+}

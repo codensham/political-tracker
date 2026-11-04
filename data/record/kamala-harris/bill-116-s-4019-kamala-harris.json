@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4019",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-4019-kamala-harris",
+  "introduced_date": "2020-06-22",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2020-06-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4019",
+  "tagged_by": "crosswalk@1",
+  "title": "Juneteenth National Independence Day Act",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

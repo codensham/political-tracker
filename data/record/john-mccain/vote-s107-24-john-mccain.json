@@ -1,0 +1,24 @@
+{
+  "bill_number": "S420",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-24-john-mccain",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2001-03-13",
+  "question": "On the Motion to Table",
+  "rollnumber": 24,
+  "source_url": "https://voteview.com/rollcall/RS1070024",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "economy"
+  ],
+  "type": "vote",
+  "vote_date": "2001-03-13",
+  "vote_result": "Motion to Table Failed"
+}

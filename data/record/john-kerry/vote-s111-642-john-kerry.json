@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3081",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-642-john-kerry",
+  "published_at": "2010-09-29",
+  "question": "On the Amendment",
+  "rollnumber": 642,
+  "source_url": "https://voteview.com/rollcall/RS1110642",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2010-09-29",
+  "vote_result": "Amendment Rejected"
+}

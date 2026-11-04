@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1231",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1231-john-mccain",
+  "introduced_date": "1997-09-26",
+  "policy_area": "Emergency Management",
+  "published_at": "1997-09-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1231",
+  "title": "United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999",
+  "topics": [],
+  "type": "bill"
+}

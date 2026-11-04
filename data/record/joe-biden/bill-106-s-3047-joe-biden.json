@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3047",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-3047-joe-biden",
+  "introduced_date": "2000-09-14",
+  "policy_area": "Taxation",
+  "published_at": "2000-09-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/3047",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to expand the Lifetime Learning credit and provide an optional deduction for qualified tuition and related expenses.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES561",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-561-hillary-clinton",
+  "introduced_date": "2006-09-07",
+  "policy_area": "Commemorations",
+  "published_at": "2006-09-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/561",
+  "title": "A resolution designating the month of September 2006, as \"Rural America Month\".",
+  "topics": [],
+  "type": "bill"
+}

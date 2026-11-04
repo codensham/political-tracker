@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2083",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2083-hillary-clinton",
+  "introduced_date": "2005-12-12",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2005-12-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2083",
+  "title": "A bill to prohibit the Assistant Secretary of Homeland Security (Transportation Security Administration) from removing any item from the current list of items prohibited from being carried aboard a passenger aircraft.",
+  "topics": [],
+  "type": "bill"
+}

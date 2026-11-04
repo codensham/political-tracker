@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES242",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hconres-242-al-gore",
+  "introduced_date": "1984-02-22",
+  "policy_area": "International Affairs",
+  "published_at": "1984-02-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-concurrent-resolution/242",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the President should direct the United States Ambassador to the United Nations to introduce a resolution in the United Nations Security Council to establish a United Nations peacekeeping force to replace the multinational peacekeeping force now deployed in Beirut, Lebanon.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

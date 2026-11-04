@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2196",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-s-2196-joe-biden",
+  "introduced_date": "1977-10-12",
+  "policy_area": "Taxation",
+  "published_at": "1977-10-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/senate-bill/2196",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to repeal the changes in the exclusion for sick pay made by the Tax Reform Act of 1976.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

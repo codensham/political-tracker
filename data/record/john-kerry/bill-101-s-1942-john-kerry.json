@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1942",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1942-john-kerry",
+  "introduced_date": "1990-10-22",
+  "policy_area": "Health",
+  "published_at": "1990-10-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1942",
+  "tagged_by": "crosswalk@1",
+  "title": "Medicaid Home and Community Care Options Act of 1989",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

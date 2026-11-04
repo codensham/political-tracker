@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-8616",
+  "document_type": "executive_order",
+  "executive_order_number": "13334",
+  "id": "exec-04-8616",
+  "published_at": "2004-04-14",
+  "signing_date": "2004-04-10",
+  "source_url": "https://www.federalregister.gov/documents/2004/04/14/04-8616/establishing-an-emergency-board-to-investigate-a-dispute-between-the-southeastern-pennsylvania",
+  "title": "Establishing an Emergency Board To Investigate a Dispute Between the Southeastern Pennsylvania Transportation Authority and its Conductors Represented by the United Transportation Union",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-22132",
+  "document_type": "executive_order",
+  "executive_order_number": "13389",
+  "id": "exec-05-22132",
+  "published_at": "2005-11-04",
+  "signing_date": "2005-11-01",
+  "source_url": "https://www.federalregister.gov/documents/2005/11/04/05-22132/creation-of-the-gulf-coast-recovery-and-rebuilding-council",
+  "title": "Creation of the Gulf Coast Recovery and Rebuilding Council",
+  "topics": [],
+  "type": "executive_action"
+}

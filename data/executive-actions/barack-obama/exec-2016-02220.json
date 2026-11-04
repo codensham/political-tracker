@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-02220",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2016-02220",
+  "published_at": "2016-02-03",
+  "signing_date": "2016-01-29",
+  "source_url": "https://www.federalregister.gov/documents/2016/02/03/2016-02220/national-teen-dating-violence-awareness-and-prevention-month-2016",
+  "title": "National Teen Dating Violence Awareness and Prevention Month, 2016",
+  "topics": [],
+  "type": "executive_action"
+}

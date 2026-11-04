@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-08955",
+  "document_type": "executive_order",
+  "executive_order_number": "14096",
+  "id": "exec-2023-08955",
+  "published_at": "2023-04-26",
+  "signing_date": "2023-04-21",
+  "source_url": "https://www.federalregister.gov/documents/2023/04/26/2023-08955/revitalizing-our-nations-commitment-to-environmental-justice-for-all",
+  "title": "Revitalizing Our Nation's Commitment to Environmental Justice for All",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-27156",
+  "document_type": "executive_order",
+  "executive_order_number": "13746",
+  "id": "exec-2016-27156",
+  "published_at": "2016-11-08",
+  "signing_date": "2016-11-03",
+  "source_url": "https://www.federalregister.gov/documents/2016/11/08/2016-27156/advancing-the-goals-of-the-power-africa-initiative-to-expand-access-to-electricity-in-sub--saharan",
+  "title": "Advancing the Goals of the Power Africa Initiative to Expand Access to Electricity in Sub- Saharan Africa Through the Establishment of the President's Power Africa Working Group",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S674",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-674-al-gore",
+  "introduced_date": "1991-03-14",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1991-03-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/674",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to designate the United States Post Office located at 304 West Commercial Avenue in Monterey, Tennessee, as the \"J.E. 'Eddie' Russell Post Office\".",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

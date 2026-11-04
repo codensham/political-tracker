@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2202",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-2202-john-kerry",
+  "introduced_date": "1986-03-18",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1986-03-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/2202",
+  "title": "A bill to award a special gold medal to the family of Harry Chapin.",
+  "topics": [],
+  "type": "bill"
+}

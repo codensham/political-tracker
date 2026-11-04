@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-22815",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-22815",
+  "published_at": "2014-09-24",
+  "signing_date": "2014-09-19",
+  "source_url": "https://www.federalregister.gov/documents/2014/09/24/2014-22815/national-farm-safety-and-health-week-2014",
+  "title": "National Farm Safety and Health Week, 2014",
+  "topics": [],
+  "type": "executive_action"
+}

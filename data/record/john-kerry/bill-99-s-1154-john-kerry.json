@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1154",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-1154-john-kerry",
+  "introduced_date": "1986-06-10",
+  "policy_area": "Social Welfare",
+  "published_at": "1986-06-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/1154",
+  "title": "A bill to amend title XVIII of the Social Security Act to provide direct medicare reimbursement for services performed by registered nurse anesthetists.",
+  "topics": [],
+  "type": "bill"
+}

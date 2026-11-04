@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3539",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-918-joe-biden",
+  "published_at": "1996-10-03",
+  "question": "On the Decision of the Chair",
+  "rollnumber": 918,
+  "source_url": "https://voteview.com/rollcall/RS1040918",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-10-03",
+  "vote_result": "Decision of Chair Not Sustained"
+}

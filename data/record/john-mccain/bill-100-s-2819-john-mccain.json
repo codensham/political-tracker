@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2819",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2819-john-mccain",
+  "introduced_date": "1988-09-23",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1988-09-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2819",
+  "tagged_by": "crosswalk@1",
+  "title": "Chemical Warfare Control Act",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

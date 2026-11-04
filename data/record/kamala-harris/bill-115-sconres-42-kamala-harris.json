@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES42",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sconres-42-kamala-harris",
+  "introduced_date": "2018-08-01",
+  "policy_area": "Environmental Protection",
+  "published_at": "2018-08-01",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-concurrent-resolution/42",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution supporting America's clean car standards and defending State authority under the Clean Air Act to protect their citizens from harmful air pollution.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

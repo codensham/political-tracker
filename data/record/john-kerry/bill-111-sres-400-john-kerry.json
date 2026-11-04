@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES400",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-400-john-kerry",
+  "introduced_date": "2010-01-28",
+  "policy_area": "International Affairs",
+  "published_at": "2010-01-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/400",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution urging the implementation of a comprehensive strategy to address instability in Yemen.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

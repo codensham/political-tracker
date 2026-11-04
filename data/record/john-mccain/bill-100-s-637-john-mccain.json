@@ -1,0 +1,21 @@
+{
+  "bill_number": "S637",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-637-john-mccain",
+  "introduced_date": "1987-03-03",
+  "policy_area": "Labor and Employment",
+  "published_at": "1987-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/637",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Fair Labor Standards Act of 1938 to facilitate industrial homework, including sewing, knitting, and craftmaking, and for other purpose.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

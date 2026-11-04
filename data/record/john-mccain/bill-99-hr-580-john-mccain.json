@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR580",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-580-john-mccain",
+  "introduced_date": "1985-03-19",
+  "policy_area": "Social Welfare",
+  "published_at": "1985-03-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/580",
+  "title": "A bill to amend title II of the Social Security Act to provide that the waiting period for disability benefits shall not be applicable in the case of a disabled individual suffering from a terminal illness.",
+  "topics": [],
+  "type": "bill"
+}

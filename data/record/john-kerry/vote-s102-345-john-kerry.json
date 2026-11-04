@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2507",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-345-john-kerry",
+  "published_at": "1992-04-02",
+  "question": "On the Amendment",
+  "rollnumber": 345,
+  "source_url": "https://voteview.com/rollcall/RS1020345",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-04-02",
+  "vote_result": "Amendment Agreed to"
+}

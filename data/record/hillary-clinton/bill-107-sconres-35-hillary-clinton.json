@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES35",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-35-hillary-clinton",
+  "introduced_date": "2001-05-02",
+  "policy_area": "International Affairs",
+  "published_at": "2001-05-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/35",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress that Lebanon, Syria, and Iran should allow representatives of the International Committee of the Red Cross to visit the four Israelis, Adi Avitan, Binyamin Avraham, Omar Souad, and Elchanan Tannenbaum, presently held by Hezbollah forces in Lebanon.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

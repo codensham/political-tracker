@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES300",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-300-john-kerry",
+  "introduced_date": "2008-06-11",
+  "policy_area": "International Affairs",
+  "published_at": "2008-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/300",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the Former Yugoslav Republic of Macedonia (FYROM) should stop the utilization of materials that violate provisions of the United Nations-brokered Interim Agreement between FYROM and Greece regarding \"hostile activities or propaganda\" and should work with the United Nations and Greece to achieve longstanding United States and United Nations policy goals of finding a mutually-acceptable official name for FYROM.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S904",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-904-john-kerry",
+  "introduced_date": "2009-04-28",
+  "policy_area": "Labor and Employment",
+  "published_at": "2009-04-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/904",
+  "tagged_by": "crosswalk@1",
+  "title": "Fair Pay Act of 2009",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1521",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1521-john-mccain",
+  "introduced_date": "1991-10-28",
+  "policy_area": "Law",
+  "published_at": "1991-10-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1521",
+  "title": "Pornography Victims' Compensation Act of 1992",
+  "topics": [],
+  "type": "bill"
+}

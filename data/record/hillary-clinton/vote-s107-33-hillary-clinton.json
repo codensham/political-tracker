@@ -1,0 +1,24 @@
+{
+  "bill_number": "S420",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-33-hillary-clinton",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2001-03-15",
+  "question": "On the Amendment",
+  "rollnumber": 33,
+  "source_url": "https://voteview.com/rollcall/RS1070033",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "economy"
+  ],
+  "type": "vote",
+  "vote_date": "2001-03-15",
+  "vote_result": "Amendment Rejected"
+}

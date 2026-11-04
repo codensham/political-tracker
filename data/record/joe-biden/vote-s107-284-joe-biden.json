@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1450",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-284-joe-biden",
+  "published_at": "2001-09-21",
+  "question": "On Passage of the Bill",
+  "rollnumber": 284,
+  "source_url": "https://voteview.com/rollcall/RS1070284",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-09-21",
+  "vote_result": "Bill Passed"
+}

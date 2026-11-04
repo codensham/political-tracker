@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR2870",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-2870-john-mccain",
+  "introduced_date": "1985-08-01",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1985-08-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/2870",
+  "title": "A bill to amend the Federal Aviation Act of 1958 to prohibit the acquisition of an air carrier by another air carrier, or by the person controlling another air carrier, which is operating under the protection of the bankruptcy laws.",
+  "topics": [],
+  "type": "bill"
+}

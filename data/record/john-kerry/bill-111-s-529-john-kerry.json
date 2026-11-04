@@ -1,0 +1,18 @@
+{
+  "bill_number": "S529",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-529-john-kerry",
+  "introduced_date": "2009-03-05",
+  "policy_area": "Animals",
+  "published_at": "2009-03-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/529",
+  "title": "Great Cats and Rare Canids Act of 2009",
+  "topics": [],
+  "type": "bill"
+}

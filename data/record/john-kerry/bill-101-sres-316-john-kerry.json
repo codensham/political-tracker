@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES316",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-316-john-kerry",
+  "introduced_date": "1990-07-31",
+  "policy_area": "International Affairs",
+  "published_at": "1990-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/316",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution concerning the Interparliamentary Conference on the Global Environment.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

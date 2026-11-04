@@ -1,0 +1,21 @@
+{
+  "bill_number": "S331",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-331-joe-biden",
+  "introduced_date": "2001-02-14",
+  "policy_area": "Health",
+  "published_at": "2001-02-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/331",
+  "tagged_by": "crosswalk@1",
+  "title": "Breast Reconstruction Implementation Act of 2001",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

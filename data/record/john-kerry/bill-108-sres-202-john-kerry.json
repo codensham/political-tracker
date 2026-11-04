@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES202",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-202-john-kerry",
+  "introduced_date": "2003-10-30",
+  "policy_area": "Commemorations",
+  "published_at": "2003-10-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/202",
+  "title": "A resolution expressing the sense of the Senate regarding the genocidal Ukraine Famine of 1932-33.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES295",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-295-john-kerry",
+  "introduced_date": "2000-04-25",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2000-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/295",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the carrying of firearms into places of worship or educational and scholastic settings should be prohibited.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

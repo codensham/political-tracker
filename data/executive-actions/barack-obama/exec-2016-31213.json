@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-31213",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2016-31213",
+  "published_at": "2016-12-23",
+  "signing_date": "2016-12-05",
+  "source_url": "https://www.federalregister.gov/documents/2016/12/23/2016-31213/steps-for-increased-legal-and-policy-transparency-concerning-the-united-states-use-of-military-force",
+  "title": "Steps for Increased Legal and Policy Transparency Concerning the United States Use of Military Force and Related National Security Operations",
+  "topics": [],
+  "type": "executive_action"
+}

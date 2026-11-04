@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES33",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-33-john-kerry",
+  "introduced_date": "2003-01-29",
+  "policy_area": "Congress",
+  "published_at": "2003-01-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/33",
+  "title": "A resolution expressing the gratitude of the United States Senate for the service of Arthur J. Rynearson, Deputy Legislative Counsel of the United States Senate.",
+  "topics": [],
+  "type": "bill"
+}

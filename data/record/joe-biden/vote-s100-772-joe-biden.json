@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2238",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 100,
+  "id": "vote-s100-772-joe-biden",
+  "published_at": "1988-10-06",
+  "question": null,
+  "rollnumber": 772,
+  "source_url": "https://voteview.com/rollcall/RS1000772",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1988-10-06",
+  "vote_result": null
+}

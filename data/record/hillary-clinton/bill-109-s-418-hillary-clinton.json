@@ -1,0 +1,21 @@
+{
+  "bill_number": "S418",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-418-hillary-clinton",
+  "introduced_date": "2005-02-17",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2005-02-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/418",
+  "tagged_by": "crosswalk@1",
+  "title": "Military Personnel Financial Services Protection Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

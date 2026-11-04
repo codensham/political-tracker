@@ -1,0 +1,18 @@
+{
+  "bill_number": "S925",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 103,
+  "id": "bill-103-s-925-john-mccain",
+  "introduced_date": "1993-05-07",
+  "policy_area": "Native Americans",
+  "published_at": "1993-05-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/103rd-congress/senate-bill/925",
+  "title": "Native American Trust Fund Accounting and Management Reform Act of 1993",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES85",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sconres-85-john-mccain",
+  "introduced_date": "2008-05-22",
+  "policy_area": "Commemorations",
+  "published_at": "2008-05-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-concurrent-resolution/85",
+  "title": "A concurrent resolution authorizing the use of the rotunda of the Capitol to honor Frank W. Buckles, the last surviving United States veteran of the First World War.",
+  "topics": [],
+  "type": "bill"
+}

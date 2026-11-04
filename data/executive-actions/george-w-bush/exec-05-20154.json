@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-20154",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-20154",
+  "published_at": "2005-10-05",
+  "signing_date": "2005-09-30",
+  "source_url": "https://www.federalregister.gov/documents/2005/10/05/05-20154/national-domestic-violence-awareness-month-2005",
+  "title": "National Domestic Violence Awareness Month, 2005",
+  "topics": [],
+  "type": "executive_action"
+}

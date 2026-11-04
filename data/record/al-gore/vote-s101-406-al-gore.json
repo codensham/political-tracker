@@ -1,0 +1,24 @@
+{
+  "bill_number": "S2240",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-406-al-gore",
+  "policy_area": "Health",
+  "published_at": "1990-05-16",
+  "question": "On the Amendment",
+  "rollnumber": 406,
+  "source_url": "https://voteview.com/rollcall/RS1010406",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "vote",
+  "vote_date": "1990-05-16",
+  "vote_result": "Amendment Agreed to"
+}

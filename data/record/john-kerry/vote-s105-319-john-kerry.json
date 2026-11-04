@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1173",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-319-john-kerry",
+  "published_at": "1998-03-05",
+  "question": "On the Amendment",
+  "rollnumber": 319,
+  "source_url": "https://voteview.com/rollcall/RS1050319",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1998-03-05",
+  "vote_result": "Amendment Agreed to"
+}

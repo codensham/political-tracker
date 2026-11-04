@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES364",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-364-john-kerry",
+  "introduced_date": "2000-10-03",
+  "policy_area": "Commemorations",
+  "published_at": "2000-10-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/364",
+  "title": "A resolution commending Sydney, New South Wales, Australia for its successful conduct of the 2000 Summer Olympic Games and congratulating the United States Olympic Team for its outstanding accomplishments at those Olympic Games.",
+  "topics": [],
+  "type": "bill"
+}

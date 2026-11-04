@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES415",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-415-john-kerry",
+  "introduced_date": "2010-02-11",
+  "policy_area": "International Affairs",
+  "published_at": "2010-02-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/415",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling for a renewed focus on the Government of the Islamic Republic of Iran's violations of internationally-recognized human rights as found in the Universal Declaration of Human Rights.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

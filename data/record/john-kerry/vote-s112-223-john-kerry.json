@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN784",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-223-john-kerry",
+  "published_at": "2011-12-08",
+  "question": "On the Cloture Motion",
+  "rollnumber": 223,
+  "source_url": "https://voteview.com/rollcall/RS1120223",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2011-12-08",
+  "vote_result": "Cloture Motion Rejected"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES234",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-234-john-kerry",
+  "introduced_date": "1999-11-19",
+  "policy_area": "Commemorations",
+  "published_at": "1999-11-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/234",
+  "title": "A resolution recognizing the contribution of older persons to their communities and commending the work of organizations that participate in programs assisting older persons and that promote the goals of the International Year of Older Persons.",
+  "topics": [],
+  "type": "bill"
+}

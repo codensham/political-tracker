@@ -1,0 +1,18 @@
+{
+  "bill_number": "S531",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-531-john-mccain",
+  "introduced_date": "2007-02-08",
+  "policy_area": "Native Americans",
+  "published_at": "2007-02-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/531",
+  "title": "A bill to repeal section 10(f) of Public Law 93-531, commonly known as the \"Bennett Freeze\".",
+  "topics": [],
+  "type": "bill"
+}

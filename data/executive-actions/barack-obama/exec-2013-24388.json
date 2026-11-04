@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-24388",
+  "document_type": "executive_order",
+  "executive_order_number": "13652",
+  "id": "exec-2013-24388",
+  "published_at": "2013-10-04",
+  "signing_date": "2013-09-30",
+  "source_url": "https://www.federalregister.gov/documents/2013/10/04/2013-24388/continuance-of-certain-federal-advisory-committees",
+  "title": "Continuance Of Certain Federal Advisory Committees",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES82",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-82-mitt-romney",
+  "introduced_date": "2021-03-01",
+  "policy_area": "Congress",
+  "published_at": "2021-03-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/82",
+  "title": "A resolution honoring the life and legacy of John Robert Lewis and commending John Robert Lewis for his towering achievements in the nonviolent struggle for civil rights.",
+  "topics": [],
+  "type": "bill"
+}

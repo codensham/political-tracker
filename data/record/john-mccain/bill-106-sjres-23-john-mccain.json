@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES23",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sjres-23-john-mccain",
+  "introduced_date": "1999-04-29",
+  "policy_area": "Families",
+  "published_at": "1999-04-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-joint-resolution/23",
+  "title": "A joint resolution expressing the sense of the Congress regarding the need for a Surgeon General's report on media and violence.",
+  "topics": [],
+  "type": "bill"
+}

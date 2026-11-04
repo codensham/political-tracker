@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3791",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 93,
+  "id": "bill-93-s-3791-joe-biden",
+  "introduced_date": "1974-07-22",
+  "policy_area": "Environmental Protection",
+  "published_at": "1974-07-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/93rd-congress/senate-bill/3791",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Public Works and Economic Development Act of 1965 in order to assist industry and employees in complying with environmental protection programs.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

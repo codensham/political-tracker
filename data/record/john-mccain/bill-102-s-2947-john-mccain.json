@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2947",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2947-john-mccain",
+  "introduced_date": "1992-07-02",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1992-07-02",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2947",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize the transfer of certain funds from the Defense Environmental Restoration Account to the Department of Defense Base Closure Account 1990, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES44",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-44-hillary-clinton",
+  "introduced_date": "2003-05-15",
+  "policy_area": "Commemorations",
+  "published_at": "2003-05-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/44",
+  "title": "A concurrent resolution recognizing the contributions of Asian Pacific Americans to our Nation.",
+  "topics": [],
+  "type": "bill"
+}

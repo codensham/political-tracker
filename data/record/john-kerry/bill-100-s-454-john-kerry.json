@@ -1,0 +1,18 @@
+{
+  "bill_number": "S454",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-454-john-kerry",
+  "introduced_date": "1987-04-02",
+  "policy_area": "Social Welfare",
+  "published_at": "1987-04-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/454",
+  "title": "Medicare Part C: Catastrophic Health Insurance Act of 1987",
+  "topics": [],
+  "type": "bill"
+}

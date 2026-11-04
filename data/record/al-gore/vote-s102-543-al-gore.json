@@ -1,0 +1,24 @@
+{
+  "bill_number": "S2899",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-543-al-gore",
+  "policy_area": "Health",
+  "published_at": "1992-10-02",
+  "question": "On the Cloture Motion",
+  "rollnumber": 543,
+  "source_url": "https://voteview.com/rollcall/RS1020543",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "vote",
+  "vote_date": "1992-10-02",
+  "vote_result": "Cloture Motion Agreed to"
+}

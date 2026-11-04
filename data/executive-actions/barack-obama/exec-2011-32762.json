@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-32762",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2011-32762",
+  "published_at": "2011-12-20",
+  "signing_date": "2011-12-15",
+  "source_url": "https://www.federalregister.gov/documents/2011/12/20/2011-32762/determinations-under-section-1106a-of-the-omnibus-trade-and-competitiveness-act-of-1988russian",
+  "title": "Determinations Under Section 1106(a) of the Omnibus Trade and Competitiveness Act of 1988Russian Federation",
+  "topics": [],
+  "type": "executive_action"
+}

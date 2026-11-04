@@ -1,0 +1,21 @@
+{
+  "bill_number": "S669",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-669-john-kerry",
+  "introduced_date": "2001-03-30",
+  "policy_area": "Education",
+  "published_at": "2001-03-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/669",
+  "tagged_by": "crosswalk@1",
+  "title": "Empowering Parents Act of 2001",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S421",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-421-john-kerry",
+  "introduced_date": "1987-01-29",
+  "policy_area": "Private Legislation",
+  "published_at": "1987-01-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/421",
+  "title": "A bill for the relief of Richard F. Walsh.",
+  "topics": [],
+  "type": "bill"
+}

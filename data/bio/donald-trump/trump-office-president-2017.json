@@ -1,0 +1,18 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T00:00:00Z",
+  "collector": "manual",
+  "end_date": "2021-01-20",
+  "id": "trump-office-president-2017",
+  "kind": "office",
+  "location": null,
+  "organization": "United States",
+  "published_at": "2017-01-20",
+  "source_url": "https://millercenter.org/president/donald-trump",
+  "start_date": "2017-01-20",
+  "title": "President of the United States",
+  "topics": [],
+  "type": "bio"
+}

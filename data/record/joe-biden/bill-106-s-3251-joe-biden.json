@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3251",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-3251-joe-biden",
+  "introduced_date": "2000-10-26",
+  "policy_area": "International Affairs",
+  "published_at": "2000-10-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/3251",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize the Secretary of State to provide for the establishment of nonprofit entities for the Department's international educational, cultural, and arts programs.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

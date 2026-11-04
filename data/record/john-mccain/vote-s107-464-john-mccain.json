@@ -1,0 +1,20 @@
+{
+  "bill_number": "S517",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-464-john-mccain",
+  "published_at": "2002-04-24",
+  "question": "On the Motion to Table",
+  "rollnumber": 464,
+  "source_url": "https://voteview.com/rollcall/RS1070464",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-04-24",
+  "vote_result": "Motion to Table Agreed to"
+}

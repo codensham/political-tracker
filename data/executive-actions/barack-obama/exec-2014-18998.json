@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-18998",
+  "document_type": "executive_order",
+  "executive_order_number": "13675",
+  "id": "exec-2014-18998",
+  "published_at": "2014-08-08",
+  "signing_date": "2014-08-05",
+  "source_url": "https://www.federalregister.gov/documents/2014/08/08/2014-18998/establishing-the-presidents-advisory-council-on-doing-business-in-africa",
+  "title": "Establishing the President's Advisory Council on Doing Business in Africa",
+  "topics": [],
+  "type": "executive_action"
+}

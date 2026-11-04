@@ -1,0 +1,20 @@
+{
+  "bill_number": "S949",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-132-john-kerry",
+  "published_at": "1997-06-26",
+  "question": "On the Amendment",
+  "rollnumber": 132,
+  "source_url": "https://voteview.com/rollcall/RS1050132",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-06-26",
+  "vote_result": "Amendment Rejected"
+}

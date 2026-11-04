@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1690",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1690-john-mccain",
+  "introduced_date": "2011-10-12",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2011-10-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1690",
+  "tagged_by": "crosswalk@1",
+  "title": "Northern Arizona Mining Continuity Act of 2011",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

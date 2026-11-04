@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-13512",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2013-13512",
+  "published_at": "2013-06-05",
+  "signing_date": "2013-05-31",
+  "source_url": "https://www.federalregister.gov/documents/2013/06/05/2013-13512/delegation-of-functions-under-subsection-804h2a-of-the-foreign-narcotics-kingpin-designation-act",
+  "title": "Delegation of Functions Under Subsection 804(h)(2)(A) of the Foreign Narcotics Kingpin Designation Act",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2507",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2507-john-mccain",
+  "introduced_date": "1992-04-01",
+  "policy_area": "Native Americans",
+  "published_at": "1992-04-01",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2507",
+  "title": "Ak-Chin Water Use Amendments Act of 1992",
+  "topics": [],
+  "type": "bill"
+}

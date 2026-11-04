@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-05183",
+  "document_type": "executive_order",
+  "executive_order_number": "14020",
+  "id": "exec-2021-05183",
+  "published_at": "2021-03-11",
+  "signing_date": "2021-03-08",
+  "source_url": "https://www.federalregister.gov/documents/2021/03/11/2021-05183/establishment-of-the-white-house-gender-policy-council",
+  "title": "Establishment of the White House Gender Policy Council",
+  "topics": [],
+  "type": "executive_action"
+}

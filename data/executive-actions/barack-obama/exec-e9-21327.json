@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-21327",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-21327",
+  "published_at": "2009-09-02",
+  "signing_date": "2009-08-30",
+  "source_url": "https://www.federalregister.gov/documents/2009/09/02/E9-21327/national-historically-black-colleges-and-universities-week-2009",
+  "title": "National Historically Black Colleges and Universities Week, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-22279",
+  "document_type": "executive_order",
+  "executive_order_number": "13552",
+  "id": "exec-2010-22279",
+  "published_at": "2010-09-03",
+  "signing_date": "2010-08-31",
+  "source_url": "https://www.federalregister.gov/documents/2010/09/03/2010-22279/2010-amendments-to-the-manual-for-courts-martial-united-states",
+  "title": "2010 Amendments to the Manual for Courts-Martial, United States",
+  "topics": [],
+  "type": "executive_action"
+}

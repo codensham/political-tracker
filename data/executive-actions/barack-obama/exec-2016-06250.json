@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-06250",
+  "document_type": "executive_order",
+  "executive_order_number": "13721",
+  "id": "exec-2016-06250",
+  "published_at": "2016-03-17",
+  "signing_date": "2016-03-14",
+  "source_url": "https://www.federalregister.gov/documents/2016/03/17/2016-06250/developing-an-integrated-global-engagement-center-to-support-government-wide-counterterrorism",
+  "title": "Developing an Integrated Global Engagement Center To Support Government-wide Counterterrorism Communications Activities Directed Abroad and Revoking Executive Order 13584",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES276",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-276-hillary-clinton",
+  "introduced_date": "2007-07-19",
+  "policy_area": "International Affairs",
+  "published_at": "2007-07-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/276",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling for the urgent deployment of a robust and effective multinational peacekeeping mission with sufficient size, resources, leadership, and mandate to protect civilians in Darfur, Sudan, and for efforts to strengthen the renewal of a just and inclusive peace process.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

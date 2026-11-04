@@ -1,0 +1,20 @@
+{
+  "bill_number": "S320",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-12-joe-biden",
+  "published_at": "2001-02-14",
+  "question": "On Passage of the Bill",
+  "rollnumber": 12,
+  "source_url": "https://voteview.com/rollcall/RS1070012",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-02-14",
+  "vote_result": "Bill Passed"
+}

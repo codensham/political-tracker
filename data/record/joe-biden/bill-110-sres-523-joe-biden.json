@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES523",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-523-joe-biden",
+  "introduced_date": "2008-04-21",
+  "policy_area": "International Affairs",
+  "published_at": "2008-04-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/523",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the strong support of the Senate for the declaration of the North Atlantic Treaty Organization at the Bucharest Summit that Ukraine and Georgia will become members of the alliance.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

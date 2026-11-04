@@ -1,0 +1,21 @@
+{
+  "bill_number": "S185",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-185-john-kerry",
+  "introduced_date": "1990-04-04",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1990-04-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/185",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 18 of the United States Code to punish as a Federal criminal offense the crimes of international parental child abduction.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

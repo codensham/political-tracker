@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-10750",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2022-10750",
+  "published_at": "2022-05-17",
+  "signing_date": "2022-05-12",
+  "source_url": "https://www.federalregister.gov/documents/2022/05/17/2022-10750/remembering-the-1000000-americans-lost-to-covid-19",
+  "title": "Remembering the 1,000,000 Americans Lost to COVID-19",
+  "topics": [],
+  "type": "executive_action"
+}

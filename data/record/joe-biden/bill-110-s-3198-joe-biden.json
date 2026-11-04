@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3198",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3198-joe-biden",
+  "introduced_date": "2008-07-29",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2008-07-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3198",
+  "title": "A bill to amend title 46, United States Code, with respect to the navigation of submersible or semi-submersible vessels without nationality.",
+  "topics": [],
+  "type": "bill"
+}

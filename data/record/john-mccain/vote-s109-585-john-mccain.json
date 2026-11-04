@@ -1,0 +1,20 @@
+{
+  "bill_number": "S3711",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-585-john-mccain",
+  "published_at": "2006-08-01",
+  "question": "On Passage of the Bill",
+  "rollnumber": 585,
+  "source_url": "https://voteview.com/rollcall/RS1090585",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-08-01",
+  "vote_result": "Bill Passed"
+}

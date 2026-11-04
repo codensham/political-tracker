@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1237",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1237-john-kerry",
+  "introduced_date": "2010-06-21",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2010-06-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1237",
+  "tagged_by": "crosswalk@1",
+  "title": "Homeless Veterans and Other Veterans Health Care Authorities Act of 2010",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

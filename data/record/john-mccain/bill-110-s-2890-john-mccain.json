@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2890",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2890-john-mccain",
+  "introduced_date": "2008-04-17",
+  "policy_area": "Taxation",
+  "published_at": "2008-04-17",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2890",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to provide for a highway fuel tax holiday.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

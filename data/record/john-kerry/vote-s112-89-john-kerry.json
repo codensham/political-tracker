@@ -1,0 +1,20 @@
+{
+  "bill_number": "S782",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-89-john-kerry",
+  "published_at": "2011-06-14",
+  "question": "On the Cloture Motion",
+  "rollnumber": 89,
+  "source_url": "https://voteview.com/rollcall/RS1120089",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2011-06-14",
+  "vote_result": "Cloture Motion Rejected"
+}

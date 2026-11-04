@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES416",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hjres-416-al-gore",
+  "introduced_date": "1982-03-16",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1982-03-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-joint-resolution/416",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to provide for the designation of the week commencing on June 6, 1982, as \"National Child Abuse Prevention Week\".",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-27873",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-27873",
+  "published_at": "2003-11-04",
+  "signing_date": "2003-10-30",
+  "source_url": "https://www.federalregister.gov/documents/2003/11/04/03-27873/national-hospice-month-2003",
+  "title": "National Hospice Month, 2003",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES151",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-151-john-mccain",
+  "introduced_date": "2013-05-21",
+  "policy_area": "International Affairs",
+  "published_at": "2013-05-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/151",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution urging the Government of Afghanistan to ensure transparent and credible presidential and provincial elections in April 2014 by adhering to internationally accepted democratic standards, establishing a transparent electoral process, and ensuring security for voters and candidates.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

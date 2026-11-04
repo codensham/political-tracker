@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES682",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-682-mitt-romney",
+  "introduced_date": "2020-08-13",
+  "policy_area": "International Affairs",
+  "published_at": "2020-08-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/682",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the devastating explosion that rocked the Port of Beirut on August 4, 2020, and expressing solidarity with the Lebanese people.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

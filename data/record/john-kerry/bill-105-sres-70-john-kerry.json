@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES70",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-70-john-kerry",
+  "introduced_date": "1997-04-10",
+  "policy_area": "Labor and Employment",
+  "published_at": "1997-04-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/70",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding equal pay for equal work.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

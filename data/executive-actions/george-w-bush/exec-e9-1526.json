@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-1526",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-1526",
+  "published_at": "2009-01-22",
+  "signing_date": "2009-01-15",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/22/E9-1526/martin-luther-king-jr-federal-holiday-2009",
+  "title": "Martin Luther King, Jr., Federal Holiday, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES101",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-101-john-mccain",
+  "introduced_date": "2013-04-17",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2013-04-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/101",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the horrific attacks in Boston, Massachusetts, and expressing support, sympathy, and prayers for those impacted by this tragedy.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1592",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1592-john-kerry",
+  "introduced_date": "1999-11-02",
+  "policy_area": "Immigration",
+  "published_at": "1999-11-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1592",
+  "tagged_by": "crosswalk@1",
+  "title": "Central American and Haitian Parity Act of 1999",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

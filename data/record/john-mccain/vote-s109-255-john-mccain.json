@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3058",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-255-john-mccain",
+  "published_at": "2005-10-17",
+  "question": "On the Amendment",
+  "rollnumber": 255,
+  "source_url": "https://voteview.com/rollcall/RS1090255",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-10-17",
+  "vote_result": "Amendment Agreed to"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-01197",
+  "document_type": "executive_order",
+  "executive_order_number": "13761",
+  "id": "exec-2017-01197",
+  "published_at": "2017-01-18",
+  "signing_date": "2017-01-13",
+  "source_url": "https://www.federalregister.gov/documents/2017/01/18/2017-01197/recognizing-positive-actions-by-the-government-of-sudan-and-providing-for-the-revocation-of-certain",
+  "title": "Recognizing Positive Actions by the Government of Sudan and Providing for the Revocation of Certain Sudan-Related Sanctions",
+  "topics": [],
+  "type": "executive_action"
+}

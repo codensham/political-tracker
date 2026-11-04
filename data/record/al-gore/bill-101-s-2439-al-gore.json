@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2439",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2439-al-gore",
+  "introduced_date": "1990-04-05",
+  "policy_area": "Health",
+  "published_at": "1990-04-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2439",
+  "tagged_by": "crosswalk@1",
+  "title": "Sensible Advertising and Family Education Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

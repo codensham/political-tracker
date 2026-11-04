@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4891",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-4891-john-mccain",
+  "introduced_date": "1986-05-22",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1986-05-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/4891",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require United States representatives to international financial institutions to oppose assistance by such institutions for the production of copper.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

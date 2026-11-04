@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-02354",
+  "document_type": "executive_order",
+  "executive_order_number": "14115",
+  "id": "exec-2024-02354",
+  "published_at": "2024-02-05",
+  "signing_date": "2024-02-01",
+  "source_url": "https://www.federalregister.gov/documents/2024/02/05/2024-02354/imposing-certain-sanctions-on-persons-undermining-peace-security-and-stability-in-the-west-bank",
+  "title": "Imposing Certain Sanctions on Persons Undermining Peace, Security, and Stability in the West Bank",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN41",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-89-kamala-harris",
+  "published_at": "2017-03-15",
+  "question": "On the Nomination",
+  "rollnumber": 89,
+  "source_url": "https://voteview.com/rollcall/RS1150089",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2017-03-15",
+  "vote_result": "Nomination Confirmed"
+}

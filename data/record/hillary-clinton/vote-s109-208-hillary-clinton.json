@@ -1,0 +1,21 @@
+{
+  "bill_number": "S397",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-208-hillary-clinton",
+  "policy_area": "Law",
+  "published_at": "2005-07-28",
+  "question": "On the Motion to Table",
+  "rollnumber": 208,
+  "source_url": "https://voteview.com/rollcall/RS1090208",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-07-28",
+  "vote_result": "Motion to Table Agreed to"
+}

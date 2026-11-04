@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4621",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-4621-kamala-harris",
+  "introduced_date": "2020-09-17",
+  "policy_area": "Taxation",
+  "published_at": "2020-09-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/4621",
+  "tagged_by": "crosswalk@1",
+  "title": "2020 Disasters Tax Relief Act",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

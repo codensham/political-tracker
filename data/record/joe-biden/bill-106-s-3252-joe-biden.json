@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3252",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-3252-joe-biden",
+  "introduced_date": "2000-10-27",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2000-10-27",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/3252",
+  "tagged_by": "crosswalk@1",
+  "title": "National Child Protection Improvement Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

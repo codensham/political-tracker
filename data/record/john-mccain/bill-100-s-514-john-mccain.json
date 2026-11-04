@@ -1,0 +1,21 @@
+{
+  "bill_number": "S514",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-514-john-mccain",
+  "introduced_date": "1987-03-20",
+  "policy_area": "Labor and Employment",
+  "published_at": "1987-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/514",
+  "tagged_by": "crosswalk@1",
+  "title": "Jobs for Employable Dependent Individuals Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

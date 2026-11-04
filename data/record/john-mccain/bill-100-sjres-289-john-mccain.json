@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES289",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-289-john-mccain",
+  "introduced_date": "1988-06-08",
+  "policy_area": "Commemorations",
+  "published_at": "1988-06-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/289",
+  "title": "A joint resolution to designate the month of November 1988 as \"National Hospice Month\".",
+  "topics": [],
+  "type": "bill"
+}

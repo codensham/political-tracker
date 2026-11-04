@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES599",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-599-john-kerry",
+  "introduced_date": "2006-09-29",
+  "policy_area": "Commemorations",
+  "published_at": "2006-09-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/599",
+  "title": "A resolution designating the week of October 23, 2006, through October 27, 2006, as \"National Childhood Lead Poisoning Prevention Week\".",
+  "topics": [],
+  "type": "bill"
+}

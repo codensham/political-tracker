@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES218",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-218-joe-biden",
+  "introduced_date": "1985-10-16",
+  "policy_area": "Commemorations",
+  "published_at": "1985-10-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/218",
+  "title": "    A joint resolution to designate November 24, 1985, as \"National Day of Fasting to Raise Funds to Combat Hunger.\"",
+  "topics": [],
+  "type": "bill"
+}

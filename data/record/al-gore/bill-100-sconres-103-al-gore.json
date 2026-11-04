@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES103",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sconres-103-al-gore",
+  "introduced_date": "1988-05-25",
+  "policy_area": "International Affairs",
+  "published_at": "1988-05-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/103",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the President should award the Presidential Medal of Freedom to Charles E. Thornton, Lee Shapiro, and Jim Lindelof, citizens of the United States who were killed in Afghanistan.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

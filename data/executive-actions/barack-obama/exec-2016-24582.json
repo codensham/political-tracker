@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-24582",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2016-24582",
+  "published_at": "2016-10-07",
+  "signing_date": "2016-10-05",
+  "source_url": "https://www.federalregister.gov/documents/2016/10/07/2016-24582/promoting-diversity-and-inclusion-in-the-national-security-workforce",
+  "title": "Promoting Diversity and Inclusion in the National Security Workforce",
+  "topics": [],
+  "type": "executive_action"
+}

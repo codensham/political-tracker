@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES422",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-422-john-kerry",
+  "introduced_date": "1986-06-09",
+  "policy_area": "Sports and Recreation",
+  "published_at": "1986-06-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/422",
+  "title": "A resolution commending the Boston Celtics on Winning the National Basketball Association Championship for 1986.",
+  "topics": [],
+  "type": "bill"
+}

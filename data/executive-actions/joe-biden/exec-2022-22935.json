@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-22935",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2022-22935",
+  "published_at": "2022-10-20",
+  "signing_date": "2022-10-17",
+  "source_url": "https://www.federalregister.gov/documents/2022/10/20/2022-22935/50th-anniversary-of-the-clean-water-act",
+  "title": "50th Anniversary of the Clean Water Act",
+  "topics": [],
+  "type": "executive_action"
+}

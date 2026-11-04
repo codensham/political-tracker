@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from typing import Callable
+from collections.abc import Callable
 
 # Name -> factory. Filled by the collector modules listed in BUILTIN_MODULES.
 REGISTRY: dict[str, Callable[[], object]] = {}
@@ -13,4 +13,8 @@ BUILTIN_MODULES: tuple[str, ...] = (
     "tracker.collectors.fec",
     "tracker.collectors.voteview",
     "tracker.collectors.federal_register",
+    "tracker.collectors.fec_outside_spending",
+    "tracker.collectors.congress_bills",
+    "tracker.collectors.rss",
+    "tracker.collectors.house_clerk",
 )

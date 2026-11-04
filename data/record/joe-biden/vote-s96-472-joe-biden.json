@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 96,
+  "id": "vote-s96-472-joe-biden",
+  "published_at": "1979-12-12",
+  "question": null,
+  "rollnumber": 472,
+  "source_url": "https://voteview.com/rollcall/RS0960472",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1979-12-12",
+  "vote_result": null
+}

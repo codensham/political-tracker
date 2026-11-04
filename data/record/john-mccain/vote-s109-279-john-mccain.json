@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3010",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-279-john-mccain",
+  "published_at": "2005-10-27",
+  "question": "On the Motion",
+  "rollnumber": 279,
+  "source_url": "https://voteview.com/rollcall/RS1090279",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-10-27",
+  "vote_result": "Motion Rejected"
+}

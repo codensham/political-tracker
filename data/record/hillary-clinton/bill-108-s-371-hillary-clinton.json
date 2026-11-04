@@ -1,0 +1,21 @@
+{
+  "bill_number": "S371",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-371-hillary-clinton",
+  "introduced_date": "2003-02-12",
+  "policy_area": "Health",
+  "published_at": "2003-02-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/371",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Public Health Service Act to ensure an adequate supply of vaccines.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

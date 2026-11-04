@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2499",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2499-hillary-clinton",
+  "introduced_date": "2006-04-24",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2006-04-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2499",
+  "tagged_by": "crosswalk@1",
+  "title": "Martin Luther King, Jr., Records Collection Act of 2006",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

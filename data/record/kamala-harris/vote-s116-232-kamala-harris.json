@@ -1,0 +1,20 @@
+{
+  "bill_number": "SJRES37",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-232-kamala-harris",
+  "published_at": "2019-07-29",
+  "question": "On Overriding the Veto",
+  "rollnumber": 232,
+  "source_url": "https://voteview.com/rollcall/RS1160232",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2019-07-29",
+  "vote_result": "Veto Sustained"
+}

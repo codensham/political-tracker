@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-11905",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2023-11905",
+  "published_at": "2023-06-02",
+  "signing_date": "2023-05-26",
+  "source_url": "https://www.federalregister.gov/documents/2023/06/02/2023-11905/delegation-of-authority-under-section-5583-of-the-james-m-inhofe-national-defense-authorization-act",
+  "title": "Delegation of Authority Under Section 5583 of the James M. Inhofe National Defense Authorization Act for Fiscal Year 2023",
+  "topics": [],
+  "type": "executive_action"
+}

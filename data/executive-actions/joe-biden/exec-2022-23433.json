@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-23433",
+  "document_type": "executive_order",
+  "executive_order_number": "14088",
+  "id": "exec-2022-23433",
+  "published_at": "2022-10-26",
+  "signing_date": "2022-10-24",
+  "source_url": "https://www.federalregister.gov/documents/2022/10/26/2022-23433/taking-additional-steps-to-address-the-national-emergency-with-respect-to-the-situation-in-nicaragua",
+  "title": "Taking Additional Steps To Address the National Emergency With Respect to the Situation in Nicaragua",
+  "topics": [],
+  "type": "executive_action"
+}

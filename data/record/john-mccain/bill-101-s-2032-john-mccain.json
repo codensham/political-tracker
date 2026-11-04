@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2032",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2032-john-mccain",
+  "introduced_date": "1990-06-18",
+  "policy_area": "Taxation",
+  "published_at": "1990-06-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2032",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to provide for a credit for health insurance expenses.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

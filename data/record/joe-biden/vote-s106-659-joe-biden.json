@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR782",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-659-joe-biden",
+  "published_at": "2000-10-26",
+  "question": "On Passage of the Bill",
+  "rollnumber": 659,
+  "source_url": "https://voteview.com/rollcall/RS1060659",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-10-26",
+  "vote_result": "Bill Passed"
+}

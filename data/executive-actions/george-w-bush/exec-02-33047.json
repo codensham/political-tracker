@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-33047",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-02-33047",
+  "published_at": "2002-12-30",
+  "signing_date": "2002-11-26",
+  "source_url": "https://www.federalregister.gov/documents/2002/12/30/02-33047/designation-of-officers-of-the-federal-emergency-management-agency-to-act-as-director-of-the-federal",
+  "title": "Designation of Officers of the Federal Emergency Management Agency To Act as Director of the Federal Emergency Management Agency",
+  "topics": [],
+  "type": "executive_action"
+}

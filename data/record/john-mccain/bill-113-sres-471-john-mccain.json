@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES471",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-471-john-mccain",
+  "introduced_date": "2014-06-11",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2014-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/471",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution honoring former President George H.W. Bush on the occasion of his 90th birthday and Barbara Bush on the occasion of her 89th birthday and extending the best wishes of the Senate to former President Bush and Mrs. Bush.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

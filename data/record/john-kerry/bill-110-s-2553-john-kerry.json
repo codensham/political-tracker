@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2553",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2553-john-kerry",
+  "introduced_date": "2008-01-24",
+  "policy_area": "Commerce",
+  "published_at": "2008-01-24",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2553",
+  "title": "Small Business Stimulus Act of 2008",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES167",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sjres-167-al-gore",
+  "introduced_date": "1991-06-25",
+  "policy_area": "International Affairs",
+  "published_at": "1991-06-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/167",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to establish an independent Select Commission to investigate whether contacts by United States citizens during the 1980 presidential election campaign interfered with or affected in any way the release of the United States hostages held by Iran as well as subsequent relations with Iran.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2613",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2613-john-kerry",
+  "introduced_date": "1988-07-06",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1988-07-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2613",
+  "tagged_by": "crosswalk@1",
+  "title": "Omnibus Trade and Competitiveness Act of 1988",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

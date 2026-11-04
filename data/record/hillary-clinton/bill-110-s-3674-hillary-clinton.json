@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3674",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3674-hillary-clinton",
+  "introduced_date": "2008-10-01",
+  "policy_area": "Health",
+  "published_at": "2008-10-01",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3674",
+  "tagged_by": "crosswalk@1",
+  "title": "21st Century Wellness Trust Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

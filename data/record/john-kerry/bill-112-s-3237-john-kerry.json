@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3237",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-3237-john-kerry",
+  "introduced_date": "2012-07-24",
+  "policy_area": "Health",
+  "published_at": "2012-07-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/3237",
+  "tagged_by": "crosswalk@1",
+  "title": "Accelerating the End of Breast Cancer Act of 2012",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

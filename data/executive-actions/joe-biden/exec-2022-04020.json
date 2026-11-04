@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-04020",
+  "document_type": "executive_order",
+  "executive_order_number": "14065",
+  "id": "exec-2022-04020",
+  "published_at": "2022-02-23",
+  "signing_date": "2022-02-21",
+  "source_url": "https://www.federalregister.gov/documents/2022/02/23/2022-04020/blocking-property-of-certain-persons-and-prohibiting-certain-transactions-with-respect-to-continued",
+  "title": "Blocking Property of Certain Persons and Prohibiting Certain Transactions With Respect to Continued Russian Efforts To Undermine the Sovereignty and Territorial Integrity of Ukraine",
+  "topics": [],
+  "type": "executive_action"
+}

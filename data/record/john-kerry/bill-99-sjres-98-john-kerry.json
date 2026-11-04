@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES98",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-98-john-kerry",
+  "introduced_date": "1985-07-09",
+  "policy_area": "International Affairs",
+  "published_at": "1985-07-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/98",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution condemning the passage of Resolution 3379, in the United Nations General Assembly on November 10, 1975, and urging the United States Ambassador and United States Delegation to take all appropriate actions necessary to erase this shameful resolution from the record of the United Nations.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3034",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3034-john-kerry",
+  "introduced_date": "2008-05-19",
+  "policy_area": "Housing and Community Development",
+  "published_at": "2008-05-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3034",
+  "tagged_by": "crosswalk@1",
+  "title": "Protecting Tenants at Foreclosure Act of 2008",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S464",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-464-hillary-clinton",
+  "introduced_date": "2001-03-06",
+  "policy_area": "Taxation",
+  "published_at": "2001-03-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/464",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to allow a tax credit for long-term care givers.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

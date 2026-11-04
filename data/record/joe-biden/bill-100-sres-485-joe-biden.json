@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES485",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-485-joe-biden",
+  "introduced_date": "1988-10-03",
+  "policy_area": "Congress",
+  "published_at": "1988-10-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/485",
+  "title": "A resolution commending Robert C. Byrd for his exemplary service to the United States Senate, the Congress, and the people of the United States.",
+  "topics": [],
+  "type": "bill"
+}

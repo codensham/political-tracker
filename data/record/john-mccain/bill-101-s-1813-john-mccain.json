@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1813",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-1813-john-mccain",
+  "introduced_date": "1989-10-31",
+  "policy_area": "Native Americans",
+  "published_at": "1989-10-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/1813",
+  "title": "A bill to ensure that funds provided under section 4213 of the Indian Alcohol and Substances Abuse Prevention and Treatment Act of 1986 may be used to acquire land for emergency shelters.",
+  "topics": [],
+  "type": "bill"
+}

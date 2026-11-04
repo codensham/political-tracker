@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES97",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-97-john-kerry",
+  "introduced_date": "2006-06-07",
+  "policy_area": "Energy",
+  "published_at": "2006-06-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/97",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress that it is the goal of the United States that, not later than January 1, 2025, the agricultural, forestry, and working land of the United States should provide from renewable resources not less than 25 percent of the total energy consumed in the United States and continue to produce safe, abundant, and affordable food, feed, and fiber.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

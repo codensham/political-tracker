@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES209",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-209-kamala-harris",
+  "introduced_date": "2019-05-14",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2019-05-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/209",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating the week of May 12 through May 18, 2019, as \"National Police Week\".",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

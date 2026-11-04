@@ -1,0 +1,21 @@
+{
+  "bill_number": "S951",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-951-joe-biden",
+  "introduced_date": "1981-04-08",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1981-04-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/951",
+  "tagged_by": "crosswalk@1",
+  "title": "Department of Justice Appropriation Authorization Act, Fiscal Year 1982",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

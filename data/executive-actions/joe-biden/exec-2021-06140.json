@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-06140",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-06140",
+  "published_at": "2021-03-23",
+  "signing_date": "2021-03-18",
+  "source_url": "https://www.federalregister.gov/documents/2021/03/23/2021-06140/honoring-the-victims-of-the-tragedy-in-the-atlanta-metropolitan-area",
+  "title": "Honoring the Victims of the Tragedy in the Atlanta Metropolitan Area",
+  "topics": [],
+  "type": "executive_action"
+}

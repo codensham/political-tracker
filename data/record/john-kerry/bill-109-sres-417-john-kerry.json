@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES417",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-417-john-kerry",
+  "introduced_date": "2006-03-31",
+  "policy_area": "Commemorations",
+  "published_at": "2006-03-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/417",
+  "title": "A resolution honoring the National Association of State Veterans Homes and the 119 State veterans homes providing long-term care to veterans that are represented by that association for their contributions to the health care of veterans and the health-care system of the Nation.",
+  "topics": [],
+  "type": "bill"
+}

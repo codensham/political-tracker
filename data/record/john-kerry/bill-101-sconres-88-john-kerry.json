@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES88",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-88-john-kerry",
+  "introduced_date": "1990-02-22",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1990-02-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/88",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that a postage stamp should be issued in honor of Claude Denson Pepper.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

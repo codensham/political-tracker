@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES309",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-309-joe-biden",
+  "introduced_date": "2002-07-26",
+  "policy_area": "International Affairs",
+  "published_at": "2002-07-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/309",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that Bosnia and Herzegovina should be congratulated on the 10th anniversary of its recognition by the United States.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2677",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2677-hillary-clinton",
+  "introduced_date": "2008-02-28",
+  "policy_area": "Education",
+  "published_at": "2008-02-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2677",
+  "tagged_by": "crosswalk@1",
+  "title": "Supporting Education for Returning Veterans Act of 2008",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

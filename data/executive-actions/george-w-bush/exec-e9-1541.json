@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-1541",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-e9-1541",
+  "published_at": "2009-01-22",
+  "signing_date": "2009-01-16",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/22/E9-1541/designation-of-officers-to-act-as-president-of-the-overseas-private-investment-corporation",
+  "title": "Designation of Officers to Act as President of the Overseas Private Investment Corporation",
+  "topics": [],
+  "type": "executive_action"
+}

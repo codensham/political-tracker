@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES42",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sconres-42-mitt-romney",
+  "introduced_date": "2022-07-12",
+  "policy_area": "Congress",
+  "published_at": "2022-07-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-concurrent-resolution/42",
+  "title": "A concurrent resolution authorizing the use of the rotunda of the Capitol on Thursday, July 14, 2022, for the lying in honor of the remains of Hershel Woodrow \"Woody\" Williams, the last surviving Medal of Honor recipient for acts performed during World War II.",
+  "topics": [],
+  "type": "bill"
+}

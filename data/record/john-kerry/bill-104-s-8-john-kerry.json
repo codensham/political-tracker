@@ -1,0 +1,18 @@
+{
+  "bill_number": "S8",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-8-john-kerry",
+  "introduced_date": "1995-01-04",
+  "policy_area": "Social Welfare",
+  "published_at": "1995-01-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/8",
+  "title": "Teen Pregnancy Prevention and Parental Responsibility Act",
+  "topics": [],
+  "type": "bill"
+}

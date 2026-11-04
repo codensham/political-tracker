@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES310",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-310-al-gore",
+  "introduced_date": "1987-10-30",
+  "policy_area": "Energy",
+  "published_at": "1987-10-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/310",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to express the opposition of the Senate to the ruling of the Nuclear Regulatory Commission eliminating the requirement of state and local participation in emergency evacuation plans for nuclear production or utilization facilities.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

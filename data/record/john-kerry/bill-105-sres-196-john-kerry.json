@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES196",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-196-john-kerry",
+  "introduced_date": "1998-03-17",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1998-03-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/196",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing, and calling on all Americans to recognize, the courage and sacrifice of Senator John McCain and the members of the Armed Forces held as prisoners of war during the Vietnam conflict and stating that the American people will not forget that more than 2,000 members of the Armed Forces remain unaccounted for from the Vietnam conflict and will continue to press for the fullest possible accounting for all such members whose whereabouts are unknown.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

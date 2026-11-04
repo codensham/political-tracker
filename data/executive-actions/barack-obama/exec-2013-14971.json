@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-14971",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2013-14971",
+  "published_at": "2013-06-20",
+  "signing_date": "2013-06-14",
+  "source_url": "https://www.federalregister.gov/documents/2013/06/20/2013-14971/expanding-americas-leadership-in-wireless-innovation",
+  "title": "Expanding America's Leadership in Wireless Innovation",
+  "topics": [],
+  "type": "executive_action"
+}

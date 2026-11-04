@@ -1,0 +1,20 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cash_on_hand_end": 1762056.63,
+  "collected_at": "2026-11-04T13:52:32Z",
+  "collector": "fec_finance@1.0",
+  "coverage_end": "2024-12-31",
+  "coverage_start": "2023-01-01",
+  "cycle": 2024,
+  "debts_owed": 934179.58,
+  "disbursements": 1175214805.8,
+  "fec_candidate_id": "P80000722",
+  "id": "finance-joe-biden-p80000722-2024",
+  "published_at": "2024-12-31",
+  "receipts": 1175189365.41,
+  "source_url": "https://www.fec.gov/data/candidate/P80000722/?cycle=2024",
+  "topics": [],
+  "type": "finance"
+}

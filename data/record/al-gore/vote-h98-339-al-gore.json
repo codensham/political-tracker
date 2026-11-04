@@ -1,0 +1,24 @@
+{
+  "bill_number": "HR1010",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "nay",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-339-al-gore",
+  "policy_area": "Energy",
+  "published_at": "1983-09-27",
+  "question": null,
+  "rollnumber": 339,
+  "source_url": "https://voteview.com/rollcall/RH0980339",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "vote",
+  "vote_date": "1983-09-27",
+  "vote_result": null
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR5152",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-5152-al-gore",
+  "introduced_date": "1981-12-09",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1981-12-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/5152",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38 of the United States Code to make certain veterans suffering from disabilities and diseases caused by or attributable to exposure to atomic or nuclear radiation during their period of active service entitled to wartime disability compensation.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

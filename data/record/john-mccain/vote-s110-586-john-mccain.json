@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6124",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-586-john-mccain",
+  "published_at": "2008-06-05",
+  "question": "On Passage of the Bill",
+  "rollnumber": 586,
+  "source_url": "https://voteview.com/rollcall/RS1100586",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-06-05",
+  "vote_result": "Bill Passed"
+}

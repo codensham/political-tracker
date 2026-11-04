@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-9286",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-9286",
+  "published_at": "2010-04-20",
+  "signing_date": "2010-04-16",
+  "source_url": "https://www.federalregister.gov/documents/2010/04/20/2010-9286/a-21st-century-strategy-for-americas-great-outdoors",
+  "title": "A 21st Century Strategy for America's Great Outdoors",
+  "topics": [],
+  "type": "executive_action"
+}

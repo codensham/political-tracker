@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2332",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-2332-john-kerry",
+  "introduced_date": "2009-10-29",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2009-10-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/2332",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to suspend temporarily the duty on porous hollow filaments of perfluoralkoxy (PFA) copolymer resin.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

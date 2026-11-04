@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-2744",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2010-2744",
+  "published_at": "2010-02-05",
+  "signing_date": "2010-02-03",
+  "source_url": "https://www.federalregister.gov/documents/2010/02/05/2010-2744/a-comprehensive-federal-strategy-on-carbon-capture-and-storage",
+  "title": "A Comprehensive Federal Strategy on Carbon Capture and Storage",
+  "topics": [],
+  "type": "executive_action"
+}

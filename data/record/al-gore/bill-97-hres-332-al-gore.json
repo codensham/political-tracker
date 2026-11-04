@@ -1,0 +1,18 @@
+{
+  "bill_number": "HRES332",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hres-332-al-gore",
+  "introduced_date": "1982-03-11",
+  "policy_area": "Social Welfare",
+  "published_at": "1982-03-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-resolution/332",
+  "title": "A resolution expressing the sense of the House of Representatives that priority attention be given to recommendations of the 1981 White House Conference on Aging.",
+  "topics": [],
+  "type": "bill"
+}

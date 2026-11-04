@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR980",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-568-barack-obama",
+  "published_at": "2008-05-13",
+  "question": "On the Cloture Motion",
+  "rollnumber": 568,
+  "source_url": "https://voteview.com/rollcall/RS1100568",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-05-13",
+  "vote_result": "Cloture Motion Agreed to"
+}

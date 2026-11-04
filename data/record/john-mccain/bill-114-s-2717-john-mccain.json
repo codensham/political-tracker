@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2717",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2717-john-mccain",
+  "introduced_date": "2016-03-17",
+  "policy_area": "Native Americans",
+  "published_at": "2016-03-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2717",
+  "title": "DRIFT Act of 2016",
+  "topics": [],
+  "type": "bill"
+}

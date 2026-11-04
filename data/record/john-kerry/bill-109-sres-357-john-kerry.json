@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES357",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-357-john-kerry",
+  "introduced_date": "2006-01-27",
+  "policy_area": "Commemorations",
+  "published_at": "2006-01-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/357",
+  "title": "A resolution designating January 2006 as \"National Mentoring Month\".",
+  "topics": [],
+  "type": "bill"
+}

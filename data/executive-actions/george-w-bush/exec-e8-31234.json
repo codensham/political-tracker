@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-31234",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e8-31234",
+  "published_at": "2008-12-31",
+  "signing_date": "2008-12-29",
+  "source_url": "https://www.federalregister.gov/documents/2008/12/31/E8-31234/to-implement-the-united-states-oman-free-trade-agreement",
+  "title": "To Implement The United States-Oman Free Trade Agreement",
+  "topics": [],
+  "type": "executive_action"
+}

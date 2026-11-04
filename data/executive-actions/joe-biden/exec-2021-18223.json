@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-18223",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2021-18223",
+  "published_at": "2021-08-23",
+  "signing_date": "2021-08-18",
+  "source_url": "https://www.federalregister.gov/documents/2021/08/23/2021-18223/ensuring-a-safe-return-to-in-person-school-for-the-nations-children",
+  "title": "Ensuring a Safe Return to In-Person School for the Nation's Children",
+  "topics": [],
+  "type": "executive_action"
+}

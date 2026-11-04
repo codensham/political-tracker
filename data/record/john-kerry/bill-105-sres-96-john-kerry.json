@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES96",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-96-john-kerry",
+  "introduced_date": "1997-10-08",
+  "policy_area": "Commemorations",
+  "published_at": "1997-10-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/96",
+  "title": "A resolution proclaiming the week of March 15 through March 21, 1998, as \"National Safe Place Week\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2820",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-s-2820-mitt-romney",
+  "introduced_date": "2023-09-14",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2023-09-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/2820",
+  "tagged_by": "crosswalk@1",
+  "title": "Congressional Oversight of the Antiquities Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

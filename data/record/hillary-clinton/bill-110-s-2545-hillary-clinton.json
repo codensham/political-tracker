@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2545",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2545-hillary-clinton",
+  "introduced_date": "2008-01-23",
+  "policy_area": "Health",
+  "published_at": "2008-01-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2545",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title XVIII of the Social Security Act to provide for Medicare Advantage benchmark adjustment for certain local areas with VA medical centers and for certain contiguous areas.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

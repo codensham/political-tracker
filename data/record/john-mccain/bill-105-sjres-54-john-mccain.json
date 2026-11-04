@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES54",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sjres-54-john-mccain",
+  "introduced_date": "1998-06-25",
+  "policy_area": "International Affairs",
+  "published_at": "1998-06-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-joint-resolution/54",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution finding the Government of Iraq in unacceptable and material breach of its international obligations.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

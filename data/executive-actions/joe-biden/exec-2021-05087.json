@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-05087",
+  "document_type": "executive_order",
+  "executive_order_number": "14019",
+  "id": "exec-2021-05087",
+  "published_at": "2021-03-10",
+  "signing_date": "2021-03-07",
+  "source_url": "https://www.federalregister.gov/documents/2021/03/10/2021-05087/promoting-access-to-voting",
+  "title": "Promoting Access to Voting",
+  "topics": [],
+  "type": "executive_action"
+}

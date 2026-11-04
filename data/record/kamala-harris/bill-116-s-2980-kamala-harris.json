@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2980",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-2980-kamala-harris",
+  "introduced_date": "2020-03-02",
+  "policy_area": "Environmental Protection",
+  "published_at": "2020-03-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2980",
+  "tagged_by": "crosswalk@1",
+  "title": "Clean Water Standards for PFAS Act of 2019",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

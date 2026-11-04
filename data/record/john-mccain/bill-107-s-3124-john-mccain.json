@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3124",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-3124-john-mccain",
+  "introduced_date": "2002-10-16",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2002-10-16",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/3124",
+  "tagged_by": "crosswalk@1",
+  "title": "Political Campaign Broadcast Activity Improvements Act",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

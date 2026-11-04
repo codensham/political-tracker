@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-13750",
+  "document_type": "executive_order",
+  "executive_order_number": "13305",
+  "id": "exec-03-13750",
+  "published_at": "2003-05-30",
+  "signing_date": "2003-05-28",
+  "source_url": "https://www.federalregister.gov/documents/2003/05/30/03-13750/extension-of-the-presidents-information-technology-advisory-committee-and-the-presidents-council-of",
+  "title": "Extension of the President's Information Technology Advisory Committee and the President's Council of Advisors on Science and Technology",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES206",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-206-john-kerry",
+  "introduced_date": "1989-09-26",
+  "policy_area": "Environmental Protection",
+  "published_at": "1989-09-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/206",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution calling for the United States to encourage immediate negotiations toward a new agreement among Antarctic Treaty Consultative parties, for the full protection of Antarctica as a global ecological commons.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

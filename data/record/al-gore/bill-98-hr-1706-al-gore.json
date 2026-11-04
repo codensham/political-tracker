@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR1706",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-1706-al-gore",
+  "introduced_date": "1983-09-26",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "1983-09-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/1706",
+  "title": "A bill to designate the square dance as the national folk dance of the United States.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-27466",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2014-27466",
+  "published_at": "2014-11-18",
+  "signing_date": null,
+  "source_url": "https://www.federalregister.gov/documents/2014/11/18/2014-27466/authorizing-the-exercise-of-authority-under-public-law-85-804",
+  "title": "Authorizing the Exercise of Authority Under Public Law 85-804",
+  "topics": [],
+  "type": "executive_action"
+}

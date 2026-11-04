@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1989",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1989-john-kerry",
+  "introduced_date": "2011-12-14",
+  "policy_area": "Taxation",
+  "published_at": "2011-12-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1989",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to make permanent the minimum low-income housing tax credit rate for unsubsidized buildings and to provide a minimum 4 percent credit rate for existing buildings.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

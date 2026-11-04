@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1738",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1738-john-kerry",
+  "introduced_date": "2009-10-01",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2009-10-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1738",
+  "tagged_by": "crosswalk@1",
+  "title": "Roadless Area Conservation Act of 2009",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

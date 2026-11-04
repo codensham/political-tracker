@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-05554",
+  "document_type": "executive_order",
+  "executive_order_number": "14068",
+  "id": "exec-2022-05554",
+  "published_at": "2022-03-15",
+  "signing_date": "2022-03-11",
+  "source_url": "https://www.federalregister.gov/documents/2022/03/15/2022-05554/prohibiting-certain-imports-exports-and-new-investment-with-respect-to-continued-russian-federation",
+  "title": "Prohibiting Certain Imports, Exports, and New Investment With Respect to Continued Russian Federation Aggression",
+  "topics": [],
+  "type": "executive_action"
+}

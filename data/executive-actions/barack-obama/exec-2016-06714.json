@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-06714",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2016-06714",
+  "published_at": "2016-03-23",
+  "signing_date": "2016-03-18",
+  "source_url": "https://www.federalregister.gov/documents/2016/03/23/2016-06714/delegation-of-authority-pursuant-to-section-704-of-the-consolidated-appropriations-act-2016",
+  "title": "Delegation of Authority Pursuant to Section 704 of the Consolidated Appropriations Act, 2016",
+  "topics": [],
+  "type": "executive_action"
+}

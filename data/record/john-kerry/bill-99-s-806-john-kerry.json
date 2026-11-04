@@ -1,0 +1,18 @@
+{
+  "bill_number": "S806",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-806-john-kerry",
+  "introduced_date": "1985-08-01",
+  "policy_area": "Families",
+  "published_at": "1985-08-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/806",
+  "title": "Dependent Care Grants Act Amendments of 1985",
+  "topics": [],
+  "type": "bill"
+}

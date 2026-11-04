@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-15069",
+  "document_type": "executive_order",
+  "executive_order_number": "14036",
+  "id": "exec-2021-15069",
+  "published_at": "2021-07-14",
+  "signing_date": "2021-07-09",
+  "source_url": "https://www.federalregister.gov/documents/2021/07/14/2021-15069/promoting-competition-in-the-american-economy",
+  "title": "Promoting Competition in the American Economy",
+  "topics": [],
+  "type": "executive_action"
+}

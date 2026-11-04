@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2100",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2100-john-mccain",
+  "introduced_date": "1992-04-02",
+  "policy_area": "Energy",
+  "published_at": "1992-04-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2100",
+  "tagged_by": "crosswalk@1",
+  "title": "Renewable Energy and Energy Conservation Act of 1991",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

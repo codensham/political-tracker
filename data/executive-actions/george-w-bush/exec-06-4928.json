@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-4928",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-06-4928",
+  "published_at": "2006-05-26",
+  "signing_date": "2006-05-12",
+  "source_url": "https://www.federalregister.gov/documents/2006/05/26/06-4928/assignment-of-functions-relating-to-the-report-to-the-congress-on-implementation-of-humanitarian",
+  "title": "Assignment of Functions Relating to the Report to the Congress on Implementation of Humanitarian Assistance Code of Conduct",
+  "topics": [],
+  "type": "executive_action"
+}

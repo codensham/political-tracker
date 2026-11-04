@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Poll record (type-specific fields)",
+  "description": "One poll result, attributed to the named pollster and stored as published. Judgment tier. Composed with base.schema.json by tracker.validate.",
+  "type": "object",
+  "required": ["pollster", "value", "field_start", "field_end", "sample", "population"],
+  "properties": {
+    "type": { "const": "poll" },
+    "pollster": { "type": "string", "minLength": 1 },
+    "value": { "type": "number", "minimum": 0, "maximum": 100 },
+    "field_start": { "type": "string", "format": "date" },
+    "field_end": { "type": "string", "format": "date" },
+    "sample": { "type": ["integer", "null"], "minimum": 1 },
+    "population": { "type": "string", "minLength": 1 }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES562",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-562-john-kerry",
+  "introduced_date": "2006-09-08",
+  "policy_area": "Commemorations",
+  "published_at": "2006-09-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/562",
+  "title": "A resolution paying tribute to the Reverend Waitstill Sharp and Martha Sharp for their recognition by the Yad Vashem Holocaust Martyrs' and Heroes' Remembrance Authority as Righteous Among the Nations for their heroic efforts to save Jews during the Holocaust.",
+  "topics": [],
+  "type": "bill"
+}

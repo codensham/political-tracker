@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1151",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1151-barack-obama",
+  "introduced_date": "2005-07-28",
+  "policy_area": "Environmental Protection",
+  "published_at": "2005-07-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1151",
+  "tagged_by": "crosswalk@1",
+  "title": "Climate Stewardship and Innovation Act of 2005",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

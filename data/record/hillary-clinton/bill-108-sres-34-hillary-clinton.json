@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES34",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-34-hillary-clinton",
+  "introduced_date": "2003-01-29",
+  "policy_area": "Emergency Management",
+  "published_at": "2003-01-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/34",
+  "title": "A resolution expressing support for the emergency first responders and communities which are the front lines of the Nation's homeland defense.",
+  "topics": [],
+  "type": "bill"
+}

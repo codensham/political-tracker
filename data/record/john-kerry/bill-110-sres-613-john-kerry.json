@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES613",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-613-john-kerry",
+  "introduced_date": "2008-07-14",
+  "policy_area": "Commemorations",
+  "published_at": "2008-07-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/613",
+  "title": "A resolution designating the week beginning September 8, 2008, as \"National Direct Support Professionals Recognition Week\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1298",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-265-joe-biden",
+  "published_at": "1993-09-14",
+  "question": "On Passage of the Bill",
+  "rollnumber": 265,
+  "source_url": "https://voteview.com/rollcall/RS1030265",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1993-09-14",
+  "vote_result": "Bill Passed"
+}

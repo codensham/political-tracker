@@ -1,0 +1,21 @@
+{
+  "bill_number": "S98",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-98-hillary-clinton",
+  "introduced_date": "2005-01-24",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "2005-01-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/98",
+  "tagged_by": "crosswalk@1",
+  "title": "Community Choice in Real Estate Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

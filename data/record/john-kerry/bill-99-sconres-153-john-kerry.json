@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES153",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-153-john-kerry",
+  "introduced_date": "1986-06-26",
+  "policy_area": "Commemorations",
+  "published_at": "1986-06-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/153",
+  "title": "A concurrent resolution to express the sense of the Congress that a moment of silence be held during the official ceremonies for the Statue of Liberty, for the return of the American captives in Lebanon.",
+  "topics": [],
+  "type": "bill"
+}

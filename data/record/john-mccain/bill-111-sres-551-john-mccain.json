@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES551",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-551-john-mccain",
+  "introduced_date": "2010-06-14",
+  "policy_area": "International Affairs",
+  "published_at": "2010-06-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/551",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution marking the one year anniversary of the June 12, 2009, presidential election in Iran, and condemning ongoing human rights abuses in Iran.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2402",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2402-john-mccain",
+  "introduced_date": "2015-12-15",
+  "policy_area": "Immigration",
+  "published_at": "2015-12-15",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2402",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the Secretary of Homeland Security to search all public records to determine if an alien is inadmissible to the United States.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

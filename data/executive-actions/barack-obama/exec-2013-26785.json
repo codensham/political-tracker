@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-26785",
+  "document_type": "executive_order",
+  "executive_order_number": "13653",
+  "id": "exec-2013-26785",
+  "published_at": "2013-11-06",
+  "signing_date": "2013-11-01",
+  "source_url": "https://www.federalregister.gov/documents/2013/11/06/2013-26785/preparing-the-united-states-for-the-impacts-of-climate-change",
+  "title": "Preparing the United States for the Impacts of Climate Change",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S780",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-780-hillary-clinton",
+  "introduced_date": "2003-11-12",
+  "policy_area": "Commemorations",
+  "published_at": "2003-11-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/780",
+  "title": "Chief Martin Congressional Gold Medal Act",
+  "topics": [],
+  "type": "bill"
+}

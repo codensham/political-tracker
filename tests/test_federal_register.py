@@ -103,3 +103,16 @@ def test_mapped_record_validates():
 
 def test_registered_for_cli():
     assert REGISTRY["federal_register"] is FederalRegisterCollector
+
+
+def test_slugs_cover_exactly_the_presidents_who_held_office():
+    from tracker.collectors.federal_register import PRESIDENT_SLUGS
+
+    assert set(PRESIDENT_SLUGS) == {"george-w-bush", "barack-obama", "donald-trump", "joe-biden"}
+
+
+def test_non_holders_yield_no_executive_actions():
+    from tracker.collectors.federal_register import PRESIDENT_SLUGS
+
+    for cid in ("al-gore", "john-kerry", "john-mccain", "mitt-romney", "hillary-clinton", "kamala-harris"):
+        assert cid not in PRESIDENT_SLUGS

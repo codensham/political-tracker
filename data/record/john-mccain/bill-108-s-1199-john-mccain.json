@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1199",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1199-john-mccain",
+  "introduced_date": "2003-06-05",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2003-06-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1199",
+  "tagged_by": "crosswalk@1",
+  "title": "Veterans Outreach Improvement Act of 2003",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

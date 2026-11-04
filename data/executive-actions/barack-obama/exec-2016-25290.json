@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-25290",
+  "document_type": "executive_order",
+  "executive_order_number": "13744",
+  "id": "exec-2016-25290",
+  "published_at": "2016-10-18",
+  "signing_date": "2016-10-13",
+  "source_url": "https://www.federalregister.gov/documents/2016/10/18/2016-25290/coordinating-efforts-to-prepare-the-nation-for-space-weather-events",
+  "title": "Coordinating Efforts To Prepare the Nation for Space Weather Events",
+  "topics": [],
+  "type": "executive_action"
+}

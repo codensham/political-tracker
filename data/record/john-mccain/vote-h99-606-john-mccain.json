@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-h99-606-john-mccain",
+  "published_at": "1986-06-24",
+  "question": null,
+  "rollnumber": 606,
+  "source_url": "https://voteview.com/rollcall/RH0990606",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1986-06-24",
+  "vote_result": null
+}

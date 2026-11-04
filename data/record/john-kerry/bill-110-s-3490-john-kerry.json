@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3490",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3490-john-kerry",
+  "introduced_date": "2008-09-15",
+  "policy_area": "Animals",
+  "published_at": "2008-09-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3490",
+  "title": "A bill to amend the Neotropical Migratory Bird Conservation Act to reauthorize the Act.",
+  "topics": [],
+  "type": "bill"
+}

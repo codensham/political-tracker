@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES72",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-72-john-kerry",
+  "introduced_date": "2009-03-10",
+  "policy_area": "International Affairs",
+  "published_at": "2009-03-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/72",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding drug trafficking in Mexico.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S945",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-945-john-mccain",
+  "introduced_date": "2003-04-29",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2003-04-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/945",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 37, United States Code, to improve the process for adjusting the rates of pay for members of the uniformed services.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

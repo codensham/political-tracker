@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-3-john-kerry",
+  "published_at": "1999-01-26",
+  "question": "On the Motion",
+  "rollnumber": 3,
+  "source_url": "https://voteview.com/rollcall/RS1060003",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1999-01-26",
+  "vote_result": "Motion Rejected"
+}

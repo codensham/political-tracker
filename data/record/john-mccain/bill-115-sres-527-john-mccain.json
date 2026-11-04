@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES527",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-527-john-mccain",
+  "introduced_date": "2018-06-11",
+  "policy_area": "International Affairs",
+  "published_at": "2018-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/527",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution congratulating the people of Georgia on the 100th anniversary of its declaration of independence as a democratic republic and reaffirming the strength of the relationship between the United States and Georgia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

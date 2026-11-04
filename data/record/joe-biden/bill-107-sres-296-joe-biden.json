@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES296",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-296-joe-biden",
+  "introduced_date": "2002-06-28",
+  "policy_area": "Commemorations",
+  "published_at": "2002-06-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/296",
+  "title": "A resolution recognizing the accomplishment of Ignacy Jan Paderewski as a musician, composer, statesman, and philanthropist and recognizing the 10th Anniversary of the return of his remains to Poland.",
+  "topics": [],
+  "type": "bill"
+}

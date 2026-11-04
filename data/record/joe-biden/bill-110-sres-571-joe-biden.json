@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES571",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-571-joe-biden",
+  "introduced_date": "2008-05-20",
+  "policy_area": "Commemorations",
+  "published_at": "2008-05-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/571",
+  "title": "A resolution recognizing the 100th birthday of Lyndon Baines Johnson, 36th President, designer of the Great Society, politician, educator, and civil rights enforcer.",
+  "topics": [],
+  "type": "bill"
+}

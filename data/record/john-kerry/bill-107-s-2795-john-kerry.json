@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2795",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2795-john-kerry",
+  "introduced_date": "2002-07-25",
+  "policy_area": "Health",
+  "published_at": "2002-07-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2795",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title XVIII of the Social Security Act to provide for payment under the prospective payment system for hospital outpatient department services under the medicare program for new drugs administered in such departments as soon as the drugs administered in such departments as soon as the drug is approved for marketing by the Commissioner of Food and Drugs.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

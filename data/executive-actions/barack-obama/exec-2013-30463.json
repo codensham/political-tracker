@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-30463",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2013-30463",
+  "published_at": "2013-12-19",
+  "signing_date": "2013-12-16",
+  "source_url": "https://www.federalregister.gov/documents/2013/12/19/2013-30463/wright-brothers-day-2013",
+  "title": "Wright Brothers Day, 2013",
+  "topics": [],
+  "type": "executive_action"
+}

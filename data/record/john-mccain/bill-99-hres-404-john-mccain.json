@@ -1,0 +1,21 @@
+{
+  "bill_number": "HRES404",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hres-404-john-mccain",
+  "introduced_date": "1986-06-10",
+  "policy_area": "Taxation",
+  "published_at": "1986-06-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-resolution/404",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to express the sense of the House of Representatives with respect to proposals currently before the Congress to deny an income tax deduction for the Federal excise tax and tariff portion of business' cost of providing goods and services.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

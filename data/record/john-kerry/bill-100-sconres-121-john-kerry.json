@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES121",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sconres-121-john-kerry",
+  "introduced_date": "1988-05-25",
+  "policy_area": "Commemorations",
+  "published_at": "1988-05-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/121",
+  "title": "A concurrent resolution to commemorate the 50th anniversary of the Javits-Wagner-O'Day Act.",
+  "topics": [],
+  "type": "bill"
+}

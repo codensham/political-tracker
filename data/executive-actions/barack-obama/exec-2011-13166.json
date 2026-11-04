@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-13166",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2011-13166",
+  "published_at": "2011-05-25",
+  "signing_date": "2011-05-20",
+  "source_url": "https://www.federalregister.gov/documents/2011/05/25/2011-13166/national-hurricane-preparedness-week-2011",
+  "title": "National Hurricane Preparedness Week, 2011",
+  "topics": [],
+  "type": "executive_action"
+}

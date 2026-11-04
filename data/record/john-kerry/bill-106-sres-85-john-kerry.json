@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES85",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-85-john-kerry",
+  "introduced_date": "1999-04-26",
+  "policy_area": "International Affairs",
+  "published_at": "1999-04-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/85",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting the efforts of the people of Indonesia in achieving a transition to genuine democracy, and for other purposes.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

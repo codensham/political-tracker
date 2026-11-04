@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES47",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-47-john-mccain",
+  "introduced_date": "1987-03-11",
+  "policy_area": "Commemorations",
+  "published_at": "1987-03-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/47",
+  "title": "A joint resolution to designate \"National P.O.W. Recognition Day\".",
+  "topics": [],
+  "type": "bill"
+}

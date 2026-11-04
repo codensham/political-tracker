@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1960",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1960-john-mccain",
+  "introduced_date": "1991-11-13",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1991-11-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1960",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to indemnify States, political subdivisions of States, and certain other entities from liability relating to the release of hazardous substances at military installations that are closed pursuant to a base closure law.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

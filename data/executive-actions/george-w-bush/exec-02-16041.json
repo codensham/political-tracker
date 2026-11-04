@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-16041",
+  "document_type": "executive_order",
+  "executive_order_number": "13267",
+  "id": "exec-02-16041",
+  "published_at": "2002-06-24",
+  "signing_date": "2002-06-20",
+  "source_url": "https://www.federalregister.gov/documents/2002/06/24/02-16041/establishing-a-transition-planning-office-for-the-department-of-homeland-security-within-the-office",
+  "title": "Establishing a Transition Planning Office for the Department of Homeland Security Within the Office of Management and Budget",
+  "topics": [],
+  "type": "executive_action"
+}

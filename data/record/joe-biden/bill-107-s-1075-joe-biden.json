@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1075",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1075-joe-biden",
+  "introduced_date": "2001-06-20",
+  "policy_area": "Health",
+  "published_at": "2001-06-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1075",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to extend and modify the Drug-Free Communities Support Program, to authorize a National Community Antidrug Coalition Institute, and for other purposes.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

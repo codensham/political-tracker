@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-17204",
+  "document_type": "executive_order",
+  "executive_order_number": "13349",
+  "id": "exec-04-17204",
+  "published_at": "2004-07-27",
+  "signing_date": "2004-07-23",
+  "source_url": "https://www.federalregister.gov/documents/2004/07/27/04-17204/amending-executive-order-13226-to-designate-the-presidents-council-of-advisors-on-science-and",
+  "title": "Amending Executive Order 13226 To Designate the President's Council of Advisors on Science and Technology To Serve as the National Nanotechnology Advisory Panel",
+  "topics": [],
+  "type": "executive_action"
+}

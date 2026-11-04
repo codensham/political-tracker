@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-19909",
+  "document_type": "executive_order",
+  "executive_order_number": "13352",
+  "id": "exec-04-19909",
+  "published_at": "2004-08-30",
+  "signing_date": "2004-08-26",
+  "source_url": "https://www.federalregister.gov/documents/2004/08/30/04-19909/facilitation-of-cooperative-conservation",
+  "title": "Facilitation of Cooperative Conservation",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S481",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-481-hillary-clinton",
+  "introduced_date": "2003-03-05",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2003-03-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/481",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend chapter 84 of title 5, United States Code, to provide that certain Federal annuity computations are adjusted by 1 percentage point relating to periods of receiving disability payments, and for other purposes.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

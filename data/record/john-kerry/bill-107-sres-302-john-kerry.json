@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES302",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-302-john-kerry",
+  "introduced_date": "2002-07-09",
+  "policy_area": "Commemorations",
+  "published_at": "2002-07-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/302",
+  "title": "A resolution honoring Ted Williams and extending the condolences of the Senate on his death.",
+  "topics": [],
+  "type": "bill"
+}

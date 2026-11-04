@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES139",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-139-al-gore",
+  "introduced_date": "1989-05-31",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1989-05-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/139",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to designate June 6, 1989, as \"National D-Day Remembrance Day, and to recognize the sacrifices made by the American and other Allied soldiers who gave their lives to liberate Europe and save the world from Adolf Hitler.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

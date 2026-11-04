@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Article record (type-specific fields)",
+  "description": "A news item from an outlet feed that mentions a tracked candidate. Stores the outlet's own headline and metadata only, never article text (spec §5 content rules). Judgment tier. Composed with base.schema.json by tracker.validate.",
+  "type": "object",
+  "required": ["outlet_id", "headline", "author", "archive_url", "extraction_status"],
+  "properties": {
+    "type": { "const": "article" },
+    "outlet_id": { "type": "string", "pattern": "^[a-z0-9][a-z0-9-]*$" },
+    "headline": { "type": "string", "minLength": 1 },
+    "author": { "type": ["string", "null"] },
+    "archive_url": { "type": ["string", "null"], "format": "uri" },
+    "extraction_status": { "type": "string", "enum": ["pending", "done", "skipped"] }
+  }
+}

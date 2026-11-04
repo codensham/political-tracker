@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2985",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-211-john-mccain",
+  "published_at": "2005-07-29",
+  "question": "On the Conference Report",
+  "rollnumber": 211,
+  "source_url": "https://voteview.com/rollcall/RS1090211",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-07-29",
+  "vote_result": "Conference Report Agreed to"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-27759",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2016-27759",
+  "published_at": "2016-11-16",
+  "signing_date": "2016-11-10",
+  "source_url": "https://www.federalregister.gov/documents/2016/11/16/2016-27759/national-apprenticeship-week-2016",
+  "title": "National Apprenticeship Week, 2016",
+  "topics": [],
+  "type": "executive_action"
+}

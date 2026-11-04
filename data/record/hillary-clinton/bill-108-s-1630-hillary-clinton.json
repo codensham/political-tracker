@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1630",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1630-hillary-clinton",
+  "introduced_date": "2003-09-17",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2003-09-17",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1630",
+  "tagged_by": "crosswalk@1",
+  "title": "Calling for 2-1-1 Act of 2003",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

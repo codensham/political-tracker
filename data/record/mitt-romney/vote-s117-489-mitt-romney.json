@@ -1,0 +1,24 @@
+{
+  "bill_number": "SJRES29",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-489-mitt-romney",
+  "policy_area": "Labor and Employment",
+  "published_at": "2021-12-08",
+  "question": "On the Joint Resolution",
+  "rollnumber": 489,
+  "source_url": "https://voteview.com/rollcall/RS1170489",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "labor"
+  ],
+  "type": "vote",
+  "vote_date": "2021-12-08",
+  "vote_result": "Joint Resolution Passed"
+}

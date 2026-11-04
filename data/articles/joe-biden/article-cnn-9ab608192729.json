@@ -1,0 +1,17 @@
+{
+  "archive_url": null,
+  "author": null,
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T14:27:26Z",
+  "collector": "rss@1.0",
+  "extraction_status": "pending",
+  "headline": "Everything you need to know about Biden's student loan forgiveness program",
+  "id": "article-cnn-9ab608192729",
+  "outlet_id": "cnn",
+  "published_at": "2023-06-13",
+  "source_url": "https://www.cnn.com/2022/08/31/politics/biden-student-loan-forgiveness-faq/index.html",
+  "topics": [],
+  "type": "article"
+}

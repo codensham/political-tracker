@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES5",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sjres-5-kamala-harris",
+  "introduced_date": "2017-01-24",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2017-01-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-joint-resolution/5",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution removing the deadline for the ratification of the equal rights amendment.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

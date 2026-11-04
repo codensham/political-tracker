@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1567",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1567-john-kerry",
+  "introduced_date": "1996-02-27",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1996-02-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1567",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Communications Act of 1934 to repeal the amendments relating to obscene and harassing use of telecommunications facilities made by the Communications Decency Act of 1995.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

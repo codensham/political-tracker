@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES6",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sjres-6-john-mccain",
+  "introduced_date": "2011-02-16",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2011-02-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-joint-resolution/6",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution disapproving the rule submitted by the Federal Communications Commission with respect to regulating the Internet and broadband industry practices.",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

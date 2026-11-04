@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES154",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-154-joe-biden",
+  "introduced_date": "2005-05-25",
+  "policy_area": "Commemorations",
+  "published_at": "2005-05-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/154",
+  "title": "A resolution designating October 21, 2005 as \"National Mammography Day\".",
+  "topics": [],
+  "type": "bill"
+}

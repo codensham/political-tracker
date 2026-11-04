@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-38",
+  "document_type": "executive_order",
+  "executive_order_number": "13527",
+  "id": "exec-2010-38",
+  "published_at": "2010-01-06",
+  "signing_date": "2009-12-30",
+  "source_url": "https://www.federalregister.gov/documents/2010/01/06/2010-38/establishing-federal-capability-for-the-timely-provision-of-medical-countermeasures-following-a",
+  "title": "Establishing Federal Capability for the Timely Provision of Medical Countermeasures Following a Biological Attack",
+  "topics": [],
+  "type": "executive_action"
+}

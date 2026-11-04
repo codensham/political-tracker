@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-20551",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-04-20551",
+  "published_at": "2004-09-09",
+  "signing_date": "2004-09-07",
+  "source_url": "https://www.federalregister.gov/documents/2004/09/09/04-20551/to-modify-the-generalized-system-of-preferences-and-for-other-purposes",
+  "title": "To Modify the Generalized System of Preferences, and For Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

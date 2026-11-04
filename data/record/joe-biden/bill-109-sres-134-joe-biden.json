@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES134",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-134-joe-biden",
+  "introduced_date": "2005-05-09",
+  "policy_area": "International Affairs",
+  "published_at": "2005-05-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/134",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the massacre at Srebrenica in July 1995.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1505",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1505-john-mccain",
+  "introduced_date": "1991-07-19",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1991-07-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1505",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the law relating to the Martin Luther King, Jr. Federal Holiday Commission.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

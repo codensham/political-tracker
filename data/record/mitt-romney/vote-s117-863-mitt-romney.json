@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN2140",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 117,
+  "id": "vote-s117-863-mitt-romney",
+  "published_at": "2022-09-14",
+  "question": "On the Nomination",
+  "rollnumber": 863,
+  "source_url": "https://voteview.com/rollcall/RS1170863",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2022-09-14",
+  "vote_result": "Nomination Confirmed"
+}

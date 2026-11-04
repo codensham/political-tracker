@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2043",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2043-john-kerry",
+  "introduced_date": "1988-02-04",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1988-02-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2043",
+  "tagged_by": "crosswalk@1",
+  "title": "Farmer to Family Nutrition Enhancement Act",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

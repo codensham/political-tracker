@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES300",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-300-john-mccain",
+  "introduced_date": "2004-02-11",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2004-02-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/300",
+  "title": "A resolution expressing the sense of the Senate on project earmarking in surface transportation Acts.",
+  "topics": [],
+  "type": "bill"
+}

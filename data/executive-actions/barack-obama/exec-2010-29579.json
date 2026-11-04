@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-29579",
+  "document_type": "executive_order",
+  "executive_order_number": "13559",
+  "id": "exec-2010-29579",
+  "published_at": "2010-11-22",
+  "signing_date": "2010-11-17",
+  "source_url": "https://www.federalregister.gov/documents/2010/11/22/2010-29579/fundamental-principles-and-policymaking-criteria-for-partnerships-with-faith-based-and-other",
+  "title": "Fundamental Principles and Policymaking Criteria for Partnerships With Faith-Based and Other Neighborhood Organizations",
+  "topics": [],
+  "type": "executive_action"
+}

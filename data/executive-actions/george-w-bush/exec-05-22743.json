@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-22743",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-22743",
+  "published_at": "2005-11-15",
+  "signing_date": "2005-11-09",
+  "source_url": "https://www.federalregister.gov/documents/2005/11/15/05-22743/world-freedom-day-2005",
+  "title": "World Freedom Day, 2005",
+  "topics": [],
+  "type": "executive_action"
+}

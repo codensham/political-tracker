@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES475",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-475-mitt-romney",
+  "introduced_date": "2020-01-16",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2020-01-16",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/475",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the leading role of Utahns in the fight for women's suffrage and celebrating the sesquicentennial of the first votes by women under the equal suffrage law of Utah on February 14, 1870.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1967",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1967-john-mccain",
+  "introduced_date": "1996-09-03",
+  "policy_area": "Taxation",
+  "published_at": "1996-09-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1967",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide that members of the Armed Forces who performed services for the peacekeeping efforts in Somalia shall be entitled to tax benefits in the same manner as if such services were performed in a combat zone, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

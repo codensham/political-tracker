@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1418",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1418-john-kerry",
+  "introduced_date": "1991-06-27",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1991-06-27",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1418",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to designate the Federal building located at 78 Center Street in Pittsfield, Massachusetts, as the \"Silvio O. Conte Federal Building\", and for other purposes.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1709",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1709-john-mccain",
+  "introduced_date": "1999-10-07",
+  "policy_area": "Immigration",
+  "published_at": "1999-10-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1709",
+  "tagged_by": "crosswalk@1",
+  "title": "State Criminal Alien Assistance Program II and Local Medical Emergency Reimbursement Act",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

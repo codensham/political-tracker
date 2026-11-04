@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4056",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-4056-john-mccain",
+  "introduced_date": "1986-02-26",
+  "policy_area": "Taxation",
+  "published_at": "1986-02-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/4056",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to deny the benefits of section 911 of such Code to individuals who are in a foreign country in violation of an Executive order.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

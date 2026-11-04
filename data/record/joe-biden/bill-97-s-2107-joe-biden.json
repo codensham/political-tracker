@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2107",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-2107-joe-biden",
+  "introduced_date": "1982-04-26",
+  "policy_area": "Social Welfare",
+  "published_at": "1982-04-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/2107",
+  "title": "A bill to extend from May 1982 to October 1982 the month before which children not otherwise entitled to child's insurance benefits under Title II of the Social Security Act by reason of the amendments made by section 2210 of the Omnibus Budget Reconciliation Act of 1981 must attend postsecondary schools in order to qualify under subsection (c) of such section for entitlement to such benefits, to extend from August 1985 to August 1986 the month before which any such entitlement terminates, and to require the Secretary of Health and Human Services to notify all individuals who are entitled to childs benefits under title II of the Social Security Act for the month in which this Act is enacted of the changes made in the eligibility for, and the amount of, such benefits by reason of the provisions of section 2210 of the Omnibus Budget Reconciliation Act of 1981 and the provisions of this Act.",
+  "topics": [],
+  "type": "bill"
+}

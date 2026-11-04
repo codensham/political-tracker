@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2836",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2836-john-mccain",
+  "introduced_date": "1992-06-11",
+  "policy_area": "Native Americans",
+  "published_at": "1992-06-11",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2836",
+  "title": "A bill to promote economic development on Indian reservations by making loans to States to assist States in constructing roads on Indian reservations.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-32060",
+  "document_type": "executive_order",
+  "executive_order_number": "13714",
+  "id": "exec-2015-32060",
+  "published_at": "2015-12-18",
+  "signing_date": "2015-12-15",
+  "source_url": "https://www.federalregister.gov/documents/2015/12/18/2015-32060/strengthening-the-senior-executive-service",
+  "title": "Strengthening the Senior Executive Service",
+  "topics": [],
+  "type": "executive_action"
+}

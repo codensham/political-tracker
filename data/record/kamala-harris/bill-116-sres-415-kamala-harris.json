@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES415",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-415-kamala-harris",
+  "introduced_date": "2019-11-07",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2019-11-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/415",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that the United States Postal Service should issue a commemorative postage stamp series honoring women veterans of the Armed Forces and that the Citizens' Stamp Advisory Committee should recommend to the Postmaster General that such a stamp series be issued.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

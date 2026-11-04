@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-11021",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2012-11021",
+  "published_at": "2012-05-04",
+  "signing_date": "2012-05-01",
+  "source_url": "https://www.federalregister.gov/documents/2012/05/04/2012-11021/older-americans-month-2012",
+  "title": "Older Americans Month, 2012",
+  "topics": [],
+  "type": "executive_action"
+}

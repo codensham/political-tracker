@@ -1,0 +1,20 @@
+{
+  "bill_number": "SCONRES70",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 110,
+  "id": "vote-s110-524-hillary-clinton",
+  "published_at": "2008-03-14",
+  "question": "On the Amendment",
+  "rollnumber": 524,
+  "source_url": "https://voteview.com/rollcall/RS1100524",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2008-03-14",
+  "vote_result": "Amendment Rejected"
+}

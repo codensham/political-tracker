@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1061",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-221-john-mccain",
+  "published_at": "1997-09-08",
+  "question": "On the Amendment",
+  "rollnumber": 221,
+  "source_url": "https://voteview.com/rollcall/RS1050221",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-09-08",
+  "vote_result": "Amendment Agreed to"
+}

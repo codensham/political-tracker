@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2870",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-2870-john-kerry",
+  "introduced_date": "1992-06-29",
+  "policy_area": "Law",
+  "published_at": "1992-06-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/2870",
+  "title": "Legal Services Reauthorization Act of 1992",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES13",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sconres-13-john-kerry",
+  "introduced_date": "2011-05-25",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2011-05-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-concurrent-resolution/13",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution honoring the service and sacrifice of members of the United States Armed Forces who are serving in, or have served in, Operation Enduring Freedom, Operation Iraqi Freedom, and Operation New Dawn.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

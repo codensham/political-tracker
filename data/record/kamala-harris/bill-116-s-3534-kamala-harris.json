@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3534",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3534-kamala-harris",
+  "introduced_date": "2020-03-19",
+  "policy_area": "Emergency Management",
+  "published_at": "2020-03-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3534",
+  "title": "Pandemic Disaster Assistance Act of 2020",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2686",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-196-joe-biden",
+  "published_at": "1991-09-19",
+  "question": "On the Amendment",
+  "rollnumber": 196,
+  "source_url": "https://voteview.com/rollcall/RS1020196",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-09-19",
+  "vote_result": "Amendment Rejected"
+}

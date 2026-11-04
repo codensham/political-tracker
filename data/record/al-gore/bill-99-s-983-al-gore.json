@@ -1,0 +1,21 @@
+{
+  "bill_number": "S983",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-983-al-gore",
+  "introduced_date": "1985-07-09",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1985-07-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/983",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for limited extension of alternative means of providing assistance under the school lunch program and to provide for national commodity processing programs.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

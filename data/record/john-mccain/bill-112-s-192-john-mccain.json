@@ -1,0 +1,21 @@
+{
+  "bill_number": "S192",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-192-john-mccain",
+  "introduced_date": "2011-01-26",
+  "policy_area": "Health",
+  "published_at": "2011-01-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/192",
+  "tagged_by": "crosswalk@1",
+  "title": "Repealing the Job-Killing Health Care Law Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

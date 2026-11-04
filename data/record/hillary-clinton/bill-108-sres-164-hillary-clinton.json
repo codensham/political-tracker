@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES164",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-164-hillary-clinton",
+  "introduced_date": "2003-06-12",
+  "policy_area": "Commemorations",
+  "published_at": "2003-06-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/164",
+  "title": "A resolution reaffirming support of the Convention on the Prevention and Punishment of the Crime of Genocide and anticipating the commemoration of the 15th anniversary of the enactment of the Genocide Convention Implementation Act of 1987 (the Proxmire Act) on November 4, 2003.",
+  "topics": [],
+  "type": "bill"
+}

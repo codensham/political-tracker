@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2766",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-547-john-mccain",
+  "published_at": "2006-06-22",
+  "question": "On the Amendment",
+  "rollnumber": 547,
+  "source_url": "https://voteview.com/rollcall/RS1090547",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-06-22",
+  "vote_result": "Amendment Rejected"
+}

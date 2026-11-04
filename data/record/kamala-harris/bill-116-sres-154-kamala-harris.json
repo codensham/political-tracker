@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES154",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-154-kamala-harris",
+  "introduced_date": "2019-04-10",
+  "policy_area": "Health",
+  "published_at": "2019-04-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/154",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the week of April 11 through April 17, 2019, as \"Black Maternal Health Week\" to bring national attention to the maternal health crisis in the Black community and the importance of reducing maternal mortality and morbidity among Black women.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

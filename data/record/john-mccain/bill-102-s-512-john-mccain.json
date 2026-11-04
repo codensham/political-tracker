@@ -1,0 +1,21 @@
+{
+  "bill_number": "S512",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-512-john-mccain",
+  "introduced_date": "1991-05-16",
+  "policy_area": "Health",
+  "published_at": "1991-05-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/512",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to authorize an additional $25,000,000 for the National Cancer Institute to conduct certain research on breast cancer, and for other purposes.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

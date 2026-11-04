@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-8109",
+  "document_type": "executive_order",
+  "executive_order_number": "13294",
+  "id": "exec-03-8109",
+  "published_at": "2003-04-01",
+  "signing_date": "2003-03-28",
+  "source_url": "https://www.federalregister.gov/documents/2003/04/01/03-8109/regulations-relating-to-hazardous-duty-incentive-pay-aviation-career-incentive-pay-and-submarine",
+  "title": "Regulations Relating to Hazardous Duty Incentive Pay, Aviation Career Incentive Pay, and Submarine Duty Incentive Pay",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S470",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-470-joe-biden",
+  "introduced_date": "2003-05-06",
+  "policy_area": "Commemorations",
+  "published_at": "2003-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/470",
+  "title": "A bill to extend the authority for the construction of a memorial to Martin Luther King, Jr.",
+  "topics": [],
+  "type": "bill"
+}

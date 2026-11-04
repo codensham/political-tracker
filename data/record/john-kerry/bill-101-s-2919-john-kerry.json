@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2919",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2919-john-kerry",
+  "introduced_date": "1990-07-26",
+  "policy_area": "Private Legislation",
+  "published_at": "1990-07-26",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2919",
+  "title": "A bill to authorize a certificate of documentation for the vessel WEATHERBIRD II.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES20",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-20-al-gore",
+  "introduced_date": "1985-03-18",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1985-03-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/20",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that payments by the Veterans' Administration to veterans as compensation for service-connected disabilities should remain exempt from Federal income taxation.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

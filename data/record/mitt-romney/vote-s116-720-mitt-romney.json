@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6395",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-720-mitt-romney",
+  "published_at": "2021-01-01",
+  "question": "On Overriding the Veto",
+  "rollnumber": 720,
+  "source_url": "https://voteview.com/rollcall/RS1160720",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2021-01-01",
+  "vote_result": "Veto Overridden"
+}

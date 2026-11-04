@@ -1,0 +1,21 @@
+{
+  "bill_number": "S199",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-199-john-mccain",
+  "introduced_date": "1991-01-14",
+  "policy_area": "Taxation",
+  "published_at": "1991-01-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/199",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to exclude from income the compensation received for active service as a member of the Armed Forces of the United States in a dangerous foreign area.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

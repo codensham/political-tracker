@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2847",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-340-john-mccain",
+  "published_at": "2009-11-05",
+  "question": "On Passage of the Bill",
+  "rollnumber": 340,
+  "source_url": "https://voteview.com/rollcall/RS1110340",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-11-05",
+  "vote_result": "Bill Passed"
+}

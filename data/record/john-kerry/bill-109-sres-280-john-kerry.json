@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES280",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-280-john-kerry",
+  "introduced_date": "2005-10-19",
+  "policy_area": "Commemorations",
+  "published_at": "2005-10-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/280",
+  "title": "A resolution supporting \"Lights On Afterschool\", a national celebration of after school programs.",
+  "topics": [],
+  "type": "bill"
+}

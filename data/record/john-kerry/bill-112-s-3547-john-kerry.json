@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3547",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-3547-john-kerry",
+  "introduced_date": "2012-09-13",
+  "policy_area": "Animals",
+  "published_at": "2012-09-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/3547",
+  "title": "Big Cats and Public Safety Protection Act",
+  "topics": [],
+  "type": "bill"
+}

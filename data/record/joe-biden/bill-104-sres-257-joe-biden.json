@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES257",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-sres-257-joe-biden",
+  "introduced_date": "1996-06-04",
+  "policy_area": "Health",
+  "published_at": "1996-06-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-resolution/257",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to designate June 15, 1996, as \"National Race for the Cure Day.\"",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S995",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-995-john-kerry",
+  "introduced_date": "1999-05-11",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1999-05-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/995",
+  "tagged_by": "crosswalk@1",
+  "title": "Youth Gun Crime Enforcement Act of 1999",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES418",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-418-john-kerry",
+  "introduced_date": "2006-03-31",
+  "policy_area": "Commemorations",
+  "published_at": "2006-03-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/418",
+  "title": "A resolution designating the week beginning April 2, 2006, as \"Week of the Young Child\".",
+  "topics": [],
+  "type": "bill"
+}

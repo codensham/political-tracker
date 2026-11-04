@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR3167",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-496-john-kerry",
+  "published_at": "2002-05-17",
+  "question": "On Passage of the Bill",
+  "rollnumber": 496,
+  "source_url": "https://voteview.com/rollcall/RS1070496",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-05-17",
+  "vote_result": "Bill Passed"
+}

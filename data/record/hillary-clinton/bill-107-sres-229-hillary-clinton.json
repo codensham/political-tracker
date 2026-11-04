@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES229",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-229-hillary-clinton",
+  "introduced_date": "2002-03-20",
+  "policy_area": "International Affairs",
+  "published_at": "2002-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/229",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the involvement of women in suicide bombings.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

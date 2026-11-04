@@ -1,0 +1,24 @@
+{
+  "bill_number": "S2311",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-350-john-mccain",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2018-01-29",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 350,
+  "source_url": "https://voteview.com/rollcall/RS1150350",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "vote",
+  "vote_date": "2018-01-29",
+  "vote_result": "Cloture on the Motion to Proceed Rejected"
+}

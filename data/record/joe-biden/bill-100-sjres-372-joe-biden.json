@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES372",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-372-joe-biden",
+  "introduced_date": "1988-09-23",
+  "policy_area": "Commemorations",
+  "published_at": "1988-09-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/372",
+  "title": "A joint resolution to designate the week beginning November 21,1988, through November 27, 1988, as \"National Adoption Week\".",
+  "topics": [],
+  "type": "bill"
+}

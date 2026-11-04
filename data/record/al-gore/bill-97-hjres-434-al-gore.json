@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES434",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hjres-434-al-gore",
+  "introduced_date": "1982-03-11",
+  "policy_area": "International Affairs",
+  "published_at": "1982-03-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-joint-resolution/434",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution calling for a mutual and verifiable freeze and reduction in nuclear weapons.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

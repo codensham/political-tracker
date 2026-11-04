@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1046",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1046-hillary-clinton",
+  "introduced_date": "2003-07-09",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "2003-07-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1046",
+  "tagged_by": "crosswalk@1",
+  "title": "Preservation of Localism, Program Diversity, and Competition in Television Broadcast Service Act of 2003",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN640",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-285-john-mccain",
+  "published_at": "2013-12-19",
+  "question": "On the Cloture Motion",
+  "rollnumber": 285,
+  "source_url": "https://voteview.com/rollcall/RS1130285",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2013-12-19",
+  "vote_result": "Cloture Motion Agreed to"
+}

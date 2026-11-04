@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-12382",
+  "document_type": "executive_order",
+  "executive_order_number": "14033",
+  "id": "exec-2021-12382",
+  "published_at": "2021-06-10",
+  "signing_date": "2021-06-08",
+  "source_url": "https://www.federalregister.gov/documents/2021/06/10/2021-12382/blocking-property-and-suspending-entry-into-the-united-states-of-certain-persons-contributing-to-the",
+  "title": "Blocking Property and Suspending Entry Into the United States of Certain Persons Contributing to the Destabilizing Situation in the Western Balkans",
+  "topics": [],
+  "type": "executive_action"
+}

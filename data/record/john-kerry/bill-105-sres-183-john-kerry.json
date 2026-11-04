@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES183",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-183-john-kerry",
+  "introduced_date": "1998-02-25",
+  "policy_area": "Commemorations",
+  "published_at": "1998-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/183",
+  "title": "A resolution congratulating Northeastern University on providing quality higher education in the Commonwealth of Massachusetts for 100 years, from 1898-1998.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES289",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hconres-289-john-mccain",
+  "introduced_date": "1986-02-19",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1986-02-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-concurrent-resolution/289",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that the Secretary of State should consider the issuance of a travel advisory or other appropriate warning notice with respect to any foreign country in which Libyan-supported terrorists attack United States citizens if that country's government fails to act immediately to require the closing of any Libyan official missions in that country.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

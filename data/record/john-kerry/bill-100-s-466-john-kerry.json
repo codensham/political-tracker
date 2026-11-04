@@ -1,0 +1,21 @@
+{
+  "bill_number": "S466",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-466-john-kerry",
+  "introduced_date": "1987-05-05",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1987-05-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/466",
+  "tagged_by": "crosswalk@1",
+  "title": "Handgun Violence Prevention Act of 1987",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

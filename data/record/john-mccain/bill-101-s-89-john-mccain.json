@@ -1,0 +1,21 @@
+{
+  "bill_number": "S89",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-89-john-mccain",
+  "introduced_date": "1989-03-16",
+  "policy_area": "Taxation",
+  "published_at": "1989-03-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/89",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to delay for 1 year the effective date for section 89 of the Internal Revenue Code of 1986.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

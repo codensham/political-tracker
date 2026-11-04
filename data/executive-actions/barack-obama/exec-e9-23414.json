@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-23414",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-23414",
+  "published_at": "2009-09-25",
+  "signing_date": "2009-09-21",
+  "source_url": "https://www.federalregister.gov/documents/2009/09/25/E9-23414/national-farm-safety-and-health-week-2009",
+  "title": "National Farm Safety and Health Week, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

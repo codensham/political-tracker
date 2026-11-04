@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4775",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-520-john-kerry",
+  "published_at": "2002-06-06",
+  "question": "On the Amendment",
+  "rollnumber": 520,
+  "source_url": "https://voteview.com/rollcall/RS1070520",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2002-06-06",
+  "vote_result": "Amendment Agreed to"
+}

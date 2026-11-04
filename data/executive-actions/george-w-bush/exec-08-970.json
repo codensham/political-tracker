@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-970",
+  "document_type": "executive_order",
+  "executive_order_number": "13462",
+  "id": "exec-08-970",
+  "published_at": "2008-03-04",
+  "signing_date": "2008-02-29",
+  "source_url": "https://www.federalregister.gov/documents/2008/03/04/08-970/presidents-intelligence-advisory-board-and-intelligence-oversight-board",
+  "title": "President's Intelligence Advisory Board and Intelligence Oversight Board",
+  "topics": [],
+  "type": "executive_action"
+}

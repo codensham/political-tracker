@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES70",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-70-john-mccain",
+  "introduced_date": "2005-12-15",
+  "policy_area": "International Affairs",
+  "published_at": "2005-12-15",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/70",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution urging the Government of the Russian Federation to withdraw the first draft of the proposed legislation as passed in its first reading in the State Duma that would have the effect of severely restricting the establishment, operations, and activities of domestic, international, and foreign nongovernmental organizations in the Russian Federation, or to modify the proposed legislation to entirely remove these restrictions.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

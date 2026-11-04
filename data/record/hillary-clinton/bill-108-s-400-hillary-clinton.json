@@ -1,0 +1,21 @@
+{
+  "bill_number": "S400",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-400-hillary-clinton",
+  "introduced_date": "2003-02-13",
+  "policy_area": "Taxation",
+  "published_at": "2003-02-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/400",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to allow for the expansion of areas designated as renewal communities based on 2000 census data.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

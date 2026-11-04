@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES264",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-264-john-kerry",
+  "introduced_date": "2002-05-08",
+  "policy_area": "Commerce",
+  "published_at": "2002-05-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/264",
+  "title": "A resolution expressing the sense of the Senate that small business participation is vital to the defense of our Nation, and that Federal, State, and local governments should aggressively seek out and purchase innovative technologies and services from American small businesses to help in homeland defense and the fight against terrorism.",
+  "topics": [],
+  "type": "bill"
+}

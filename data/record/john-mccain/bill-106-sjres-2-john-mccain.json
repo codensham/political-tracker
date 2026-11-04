@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES2",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sjres-2-john-mccain",
+  "introduced_date": "1999-01-25",
+  "policy_area": "Taxation",
+  "published_at": "1999-01-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-joint-resolution/2",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution proposing an amendment to the Constitution of the United States to require two-thirds majorities for increasing taxes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

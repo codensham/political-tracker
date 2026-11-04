@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES146",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-146-john-kerry",
+  "introduced_date": "1987-10-08",
+  "policy_area": "Commemorations",
+  "published_at": "1987-10-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/146",
+  "title": "A joint resolution designating January 8, 1988, as \"National Skiing Day\".",
+  "topics": [],
+  "type": "bill"
+}

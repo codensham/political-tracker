@@ -1,0 +1,21 @@
+{
+  "bill_number": "S249",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-249-al-gore",
+  "introduced_date": "1987-06-26",
+  "policy_area": "Labor and Employment",
+  "published_at": "1987-06-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/249",
+  "tagged_by": "crosswalk@1",
+  "title": "Parental and Medical Leave Act of 1987",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

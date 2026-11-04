@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES224",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-224-john-kerry",
+  "introduced_date": "2003-09-11",
+  "policy_area": "Commemorations",
+  "published_at": "2003-09-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/224",
+  "title": "A resolution expressing the sense of the Senate on the second anniversary of the terrorist attacks against the United States on September 11, 2001.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES31",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-31-hillary-clinton",
+  "introduced_date": "2003-04-02",
+  "policy_area": "International Affairs",
+  "published_at": "2003-04-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/31",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the outrage of Congress at the treatment of certain American prisoners of war by the Government of Iraq.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

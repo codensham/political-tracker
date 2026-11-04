@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES63",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sjres-63-kamala-harris",
+  "introduced_date": "2020-01-08",
+  "policy_area": "International Affairs",
+  "published_at": "2020-01-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-joint-resolution/63",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to direct the removal of United States Armed Forces from hostilities against the Islamic Republic of Iran that have not been authorized by Congress.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

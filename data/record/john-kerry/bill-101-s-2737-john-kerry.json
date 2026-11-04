@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2737",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2737-john-kerry",
+  "introduced_date": "1990-07-24",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1990-07-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2737",
+  "tagged_by": "crosswalk@1",
+  "title": "Korean War Veterans Memorial Thirty-Eighth Anniversary Commemorative Coin Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

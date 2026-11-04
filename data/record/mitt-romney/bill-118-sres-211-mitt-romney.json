@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES211",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-sres-211-mitt-romney",
+  "introduced_date": "2023-05-11",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2023-05-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-resolution/211",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate that public servants should be commended for their dedication and continued service to the United States during Public Service Recognition Week.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

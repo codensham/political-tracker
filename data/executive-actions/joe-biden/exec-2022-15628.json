@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-15628",
+  "document_type": "executive_order",
+  "executive_order_number": "14077",
+  "id": "exec-2022-15628",
+  "published_at": "2022-07-20",
+  "signing_date": "2022-07-15",
+  "source_url": "https://www.federalregister.gov/documents/2022/07/20/2022-15628/establishing-an-emergency-board-to-investigate-disputes-between-certain-railroads-represented-by-the",
+  "title": "Establishing an Emergency Board To Investigate Disputes Between Certain Railroads Represented by the National Carriers' Conference Committee of the National Railway Labor Conference and Their Employees Represented by Certain Labor Organizations",
+  "topics": [],
+  "type": "executive_action"
+}

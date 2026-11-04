@@ -1,0 +1,21 @@
+{
+  "bill_number": "S734",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-734-john-mccain",
+  "introduced_date": "2003-03-27",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2003-03-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/734",
+  "tagged_by": "crosswalk@1",
+  "title": "Full Funding for the 9-11 Commission Act ",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

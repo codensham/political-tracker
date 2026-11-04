@@ -1,0 +1,21 @@
+{
+  "bill_number": "S353",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-353-john-kerry",
+  "introduced_date": "2010-06-16",
+  "policy_area": "Health",
+  "published_at": "2010-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/353",
+  "tagged_by": "crosswalk@1",
+  "title": "Pediatric Research Consortia Establishment Act",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

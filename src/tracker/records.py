@@ -3,20 +3,30 @@
 from __future__ import annotations
 
 import json
-from datetime import datetime, timezone
+from collections.abc import Iterator
+from datetime import UTC, datetime
 from pathlib import Path
-from typing import Iterator
 
 TYPE_DIRS: dict[str, str] = {
     "candidate": "candidates",
     "finance": "finance",
     "vote": "record",
     "executive_action": "executive-actions",
+    "outside_spending": "finance",
+    "bill": "record",
+    "bio": "bio",
+    "article": "articles",
+    "statement": "statements",
+    "position": "positions",
+    "endorsement": "endorsements",
+    "appearance": "appearances",
+    "poll": "polls",
+    "disclosure": "disclosures",
 }
 
 
 def now_iso() -> str:
-    return datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+    return datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
 
 
 def record_path(record: dict, root: Path) -> Path:
@@ -44,11 +54,18 @@ def write_record(record: dict, root: Path) -> bool:
 
 
 def load_records(root: Path, type: str | None = None) -> Iterator[dict]:
+    """Yield records of one type, or every type. Types may share a folder (finance)."""
     root = Path(root)
-    types = [type] if type is not None else list(TYPE_DIRS)
-    for t in types:
+    wanted = {type} if type is not None else set(TYPE_DIRS)
+    seen_dirs: set[str] = set()
+    for t in TYPE_DIRS:
+        if t not in wanted or TYPE_DIRS[t] in seen_dirs:
+            continue
+        seen_dirs.add(TYPE_DIRS[t])
         base = root / TYPE_DIRS[t]
         if not base.exists():
             continue
         for path in sorted(base.rglob("*.json")):
-            yield json.loads(path.read_text(encoding="utf-8"))
+            record = json.loads(path.read_text(encoding="utf-8"))
+            if record.get("type") in wanted:
+                yield record

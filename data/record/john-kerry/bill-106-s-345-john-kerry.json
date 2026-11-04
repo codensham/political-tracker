@@ -1,0 +1,18 @@
+{
+  "bill_number": "S345",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-345-john-kerry",
+  "introduced_date": "1999-03-15",
+  "policy_area": "Animals",
+  "published_at": "1999-03-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/345",
+  "title": "A bill to amend the Animal Welfare Act to remove the limitation that permits interstate movement of live birds, for the purpose of fighting, to States in which animal fighting is lawful.",
+  "topics": [],
+  "type": "bill"
+}

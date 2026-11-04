@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3550",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-3550-hillary-clinton",
+  "introduced_date": "2006-06-26",
+  "policy_area": "Taxation",
+  "published_at": "2006-06-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/3550",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to allow members of the Selected Reserve enrolled in the TRICARE program to pay premiums with pre-tax dollars.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

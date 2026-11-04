@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Bill record (type-specific fields)",
+  "description": "A bill a candidate sponsored or cosponsored, from Congress.gov. Composed with base.schema.json by tracker.validate.",
+  "type": "object",
+  "required": ["congress", "bill_number", "title", "policy_area", "role", "introduced_date"],
+  "properties": {
+    "type": { "const": "bill" },
+    "congress": { "type": "integer", "minimum": 1 },
+    "bill_number": { "type": "string", "pattern": "^[A-Z]+[0-9]+$" },
+    "title": { "type": "string", "minLength": 1 },
+    "policy_area": { "type": ["string", "null"] },
+    "role": { "type": "string", "enum": ["sponsor", "cosponsor"] },
+    "introduced_date": { "type": "string", "format": "date" }
+  }
+}

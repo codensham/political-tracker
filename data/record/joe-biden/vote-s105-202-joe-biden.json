@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1022",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-202-joe-biden",
+  "published_at": "1997-07-24",
+  "question": "On the Amendment",
+  "rollnumber": 202,
+  "source_url": "https://voteview.com/rollcall/RS1050202",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-07-24",
+  "vote_result": "Amendment Rejected"
+}

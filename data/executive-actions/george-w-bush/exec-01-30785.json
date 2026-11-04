@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-30785",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-01-30785",
+  "published_at": "2001-12-13",
+  "signing_date": "2001-12-07",
+  "source_url": "https://www.federalregister.gov/documents/2001/12/13/01-30785/to-implement-the-agreement-between-the-united-states-of-america-and-the-hashemite-kingdom-of-jordan",
+  "title": "To Implement the Agreement Between the United States of America and the Hashemite Kingdom of Jordan on the Establishment of a Free Trade Area",
+  "topics": [],
+  "type": "executive_action"
+}

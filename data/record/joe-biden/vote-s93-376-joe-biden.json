@@ -1,0 +1,20 @@
+{
+  "bill_number": "S386",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 93,
+  "id": "vote-s93-376-joe-biden",
+  "published_at": "1973-09-10",
+  "question": null,
+  "rollnumber": 376,
+  "source_url": "https://voteview.com/rollcall/RS0930376",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1973-09-10",
+  "vote_result": null
+}

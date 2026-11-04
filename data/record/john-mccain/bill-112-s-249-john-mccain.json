@@ -1,0 +1,18 @@
+{
+  "bill_number": "S249",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-249-john-mccain",
+  "introduced_date": "2011-02-01",
+  "policy_area": "Animals",
+  "published_at": "2011-02-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/249",
+  "title": "A bill to amend the Endangered Species Act of 1973 to provide that Act shall not apply to any gray wolf (Canis lupus).",
+  "topics": [],
+  "type": "bill"
+}

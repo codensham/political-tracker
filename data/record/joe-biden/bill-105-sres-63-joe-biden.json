@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES63",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-63-joe-biden",
+  "introduced_date": "1997-05-13",
+  "policy_area": "Commemorations",
+  "published_at": "1997-05-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/63",
+  "title": "A resolution proclaiming the week of October 19 through October 25, 1997, as \"National Character Counts Week\".",
+  "topics": [],
+  "type": "bill"
+}

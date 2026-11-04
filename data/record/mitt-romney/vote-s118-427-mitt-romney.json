@@ -1,0 +1,20 @@
+{
+  "bill_number": "S3853",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-427-mitt-romney",
+  "published_at": "2024-03-07",
+  "question": "On Passage of the Bill",
+  "rollnumber": 427,
+  "source_url": "https://voteview.com/rollcall/RS1180427",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2024-03-07",
+  "vote_result": "Bill Passed"
+}

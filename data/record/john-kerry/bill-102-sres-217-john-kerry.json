@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES217",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-217-john-kerry",
+  "introduced_date": "1991-11-07",
+  "policy_area": "Environmental Protection",
+  "published_at": "1991-11-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/217",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution urging the Administrator of the Environmental Protection Agency to accelerate the scheduled phaseout of ozone-destroying substances in the United States as required pursuant to the Clean Air Act Amendments of 1990; calling on the President to urge the Contracting Parties to the Montreal Protocol to modify the Protocol in order to accelerate the phaseout of such substances; and for other purposes based on scientific findings concerning the degradation of the stratospheric ozone layer.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

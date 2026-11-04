@@ -1,0 +1,21 @@
+{
+  "bill_number": "S640",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-640-john-mccain",
+  "introduced_date": "2015-03-03",
+  "policy_area": "Environmental Protection",
+  "published_at": "2015-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/640",
+  "tagged_by": "crosswalk@1",
+  "title": "ORDEAL Act of 2015",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

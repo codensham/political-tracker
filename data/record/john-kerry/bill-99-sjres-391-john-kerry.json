@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES391",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-391-john-kerry",
+  "introduced_date": "1986-08-11",
+  "policy_area": "Commemorations",
+  "published_at": "1986-08-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/391",
+  "title": "A joint resolution to designate August 12, 1986, as \"National Civil Rights Day\".",
+  "topics": [],
+  "type": "bill"
+}

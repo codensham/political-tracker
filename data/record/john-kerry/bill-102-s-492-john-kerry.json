@@ -1,0 +1,21 @@
+{
+  "bill_number": "S492",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-492-john-kerry",
+  "introduced_date": "1991-03-06",
+  "policy_area": "Labor and Employment",
+  "published_at": "1991-03-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/492",
+  "tagged_by": "crosswalk@1",
+  "title": "Live Performing Arts Labor Relations Amendments",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

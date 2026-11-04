@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1959",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1959-john-mccain",
+  "introduced_date": "1998-07-30",
+  "policy_area": "Health",
+  "published_at": "1998-07-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1959",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit the expenditure of Federal funds to provide or support programs to provide individuals with hypodermic needles or syringes for the use of illegal drugs.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

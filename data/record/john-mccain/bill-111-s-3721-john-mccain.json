@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3721",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3721-john-mccain",
+  "introduced_date": "2010-08-05",
+  "policy_area": "Immigration",
+  "published_at": "2010-08-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3721",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill making emergency supplemental appropriations for border security for the fiscal year ending September 30, 2010, and for other purposes.",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

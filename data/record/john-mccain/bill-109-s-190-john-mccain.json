@@ -1,0 +1,21 @@
+{
+  "bill_number": "S190",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-190-john-mccain",
+  "introduced_date": "2006-05-25",
+  "policy_area": "Housing and Community Development",
+  "published_at": "2006-05-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/190",
+  "tagged_by": "crosswalk@1",
+  "title": "Federal Housing Enterprise Regulatory Reform Act of 2005",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

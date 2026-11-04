@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-1464",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-08-1464",
+  "published_at": "2008-07-23",
+  "signing_date": "2008-07-18",
+  "source_url": "https://www.federalregister.gov/documents/2008/07/23/08-1464/captive-nations-week-2008",
+  "title": "Captive Nations Week, 2008",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES357",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-357-joe-biden",
+  "introduced_date": "1986-06-05",
+  "policy_area": "Commemorations",
+  "published_at": "1986-06-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/357",
+  "title": "A joint resolution to designate the week of September 15, 1986, through September 21, 1986, as \"National Historically Black Colleges Week\".",
+  "topics": [],
+  "type": "bill"
+}

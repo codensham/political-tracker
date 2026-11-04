@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3068",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-3068-john-mccain",
+  "introduced_date": "1990-09-18",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1990-09-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/3068",
+  "tagged_by": "crosswalk@1",
+  "title": "Take Pride in America Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

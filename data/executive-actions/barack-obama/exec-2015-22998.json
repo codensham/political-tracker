@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-22998",
+  "document_type": "executive_order",
+  "executive_order_number": "13706",
+  "id": "exec-2015-22998",
+  "published_at": "2015-09-10",
+  "signing_date": "2015-09-07",
+  "source_url": "https://www.federalregister.gov/documents/2015/09/10/2015-22998/establishing-paid-sick-leave-for-federal-contractors",
+  "title": "Establishing Paid Sick Leave for Federal Contractors",
+  "topics": [],
+  "type": "executive_action"
+}

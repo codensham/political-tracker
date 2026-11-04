@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES60",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-60-john-kerry",
+  "introduced_date": "1989-02-22",
+  "policy_area": "Environmental Protection",
+  "published_at": "1989-02-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/60",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to designate the period commencing on May 1, 1989, and ending on May 7, 1989, as \"National Drinking Water Week\".",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

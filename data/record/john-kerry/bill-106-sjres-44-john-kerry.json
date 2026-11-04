@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES44",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sjres-44-john-kerry",
+  "introduced_date": "2000-04-06",
+  "policy_area": "Commemorations",
+  "published_at": "2000-04-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-joint-resolution/44",
+  "title": "A joint resolution supporting the Day of Honor 2000 to honor and recognize the service of minority veterans in the United States Armed Forces during World War II.",
+  "topics": [],
+  "type": "bill"
+}

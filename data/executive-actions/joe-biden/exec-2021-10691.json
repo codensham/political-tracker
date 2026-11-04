@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-10691",
+  "document_type": "executive_order",
+  "executive_order_number": "14029",
+  "id": "exec-2021-10691",
+  "published_at": "2021-05-19",
+  "signing_date": "2021-05-14",
+  "source_url": "https://www.federalregister.gov/documents/2021/05/19/2021-10691/revocation-of-certain-presidential-actions-and-technical-amendment",
+  "title": "Revocation of Certain Presidential Actions and Technical Amendment",
+  "topics": [],
+  "type": "executive_action"
+}

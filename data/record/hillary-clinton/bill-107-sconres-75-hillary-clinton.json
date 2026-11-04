@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES75",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sconres-75-hillary-clinton",
+  "introduced_date": "2001-10-04",
+  "policy_area": "Commemorations",
+  "published_at": "2001-10-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-concurrent-resolution/75",
+  "title": "A concurrent resolution to express the sense of the Congress that the Public Safety Officer Medal of Valor should be presented to public safety officers killed or seriously injured as a result of the terrorist attacks perpetrated against the United States on September 11, 2001, and to those who participated in the search, rescue and recovery efforts in the aftermath of those attacks.",
+  "topics": [],
+  "type": "bill"
+}

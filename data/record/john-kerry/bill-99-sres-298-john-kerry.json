@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES298",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sres-298-john-kerry",
+  "introduced_date": "1986-01-23",
+  "policy_area": "Sports and Recreation",
+  "published_at": "1986-01-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-resolution/298",
+  "title": "A resolution expressing support and encouragement of the Senate for the United States Disabled Ski Team at the 1986 World Disabled Ski Championships to be held in Salen, Sweden, on April 6 through April 17, 1986.",
+  "topics": [],
+  "type": "bill"
+}

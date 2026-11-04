@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-21338",
+  "document_type": "executive_order",
+  "executive_order_number": "13222",
+  "id": "exec-01-21338",
+  "published_at": "2001-08-22",
+  "signing_date": "2001-08-17",
+  "source_url": "https://www.federalregister.gov/documents/2001/08/22/01-21338/continuation-of-export-control-regulations",
+  "title": "Continuation of Export Control Regulations",
+  "topics": [],
+  "type": "executive_action"
+}

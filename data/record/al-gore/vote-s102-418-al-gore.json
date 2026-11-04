@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2532",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-418-al-gore",
+  "published_at": "1992-07-01",
+  "question": "On the Amendment",
+  "rollnumber": 418,
+  "source_url": "https://voteview.com/rollcall/RS1020418",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1992-07-01",
+  "vote_result": "Amendment Agreed to"
+}

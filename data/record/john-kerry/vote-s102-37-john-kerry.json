@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1281",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-37-john-kerry",
+  "published_at": "1991-03-20",
+  "question": "Whether the Amendment is Germane",
+  "rollnumber": 37,
+  "source_url": "https://voteview.com/rollcall/RS1020037",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-03-20",
+  "vote_result": "Amendment Germane"
+}

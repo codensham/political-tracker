@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES181",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-181-john-mccain",
+  "introduced_date": "1998-02-26",
+  "policy_area": "Commemorations",
+  "published_at": "1998-02-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/181",
+  "title": "A resolution expressing the sense of the Senate that on March 2nd, every child in America should be in the company of someone who will read to him or her.",
+  "topics": [],
+  "type": "bill"
+}

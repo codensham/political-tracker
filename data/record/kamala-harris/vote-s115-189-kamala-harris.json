@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR601",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-189-kamala-harris",
+  "published_at": "2017-09-07",
+  "question": "On the Motion to Table",
+  "rollnumber": 189,
+  "source_url": "https://voteview.com/rollcall/RS1150189",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2017-09-07",
+  "vote_result": "Motion to Table Agreed to"
+}

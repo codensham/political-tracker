@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1596",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-1596-john-mccain",
+  "introduced_date": "1987-08-05",
+  "policy_area": "Families",
+  "published_at": "1987-08-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/1596",
+  "title": "A bill to extend the period for waivers of State eligibility requirements to enable certain States to qualify for child abuse and neglect assistance.",
+  "topics": [],
+  "type": "bill"
+}

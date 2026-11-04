@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1961",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 94,
+  "id": "bill-94-s-1961-joe-biden",
+  "introduced_date": "1975-06-17",
+  "policy_area": "Leases",
+  "published_at": "1975-06-17",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/94th-congress/senate-bill/1961",
+  "title": "Consumer Leasing Act",
+  "topics": [],
+  "type": "bill"
+}

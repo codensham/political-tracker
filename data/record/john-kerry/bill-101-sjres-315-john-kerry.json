@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES315",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-315-john-kerry",
+  "introduced_date": "1990-05-15",
+  "policy_area": "Families",
+  "published_at": "1990-05-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/315",
+  "title": "A joint resolution for the designation of July 22, 1990 as \"Rose Fitzgerald Kennedy Family Appreciation Day\".",
+  "topics": [],
+  "type": "bill"
+}

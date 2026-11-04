@@ -1,0 +1,24 @@
+{
+  "bill_number": "SJRES43",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-310-mitt-romney",
+  "policy_area": "Education",
+  "published_at": "2023-11-15",
+  "question": "On the Joint Resolution",
+  "rollnumber": 310,
+  "source_url": "https://voteview.com/rollcall/RS1180310",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "education"
+  ],
+  "type": "vote",
+  "vote_date": "2023-11-15",
+  "vote_result": "Joint Resolution Defeated"
+}

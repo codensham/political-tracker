@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJRES1",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-771-john-kerry",
+  "published_at": "1996-06-06",
+  "question": "On the Joint Resolution",
+  "rollnumber": 771,
+  "source_url": "https://voteview.com/rollcall/RS1040771",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-06-06",
+  "vote_result": "Joint Resolution Defeated"
+}

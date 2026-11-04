@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-1659",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-1659",
+  "published_at": "2003-01-23",
+  "signing_date": "2003-01-17",
+  "source_url": "https://www.federalregister.gov/documents/2003/01/23/03-1659/martin-luther-king-jr-federal-holiday-2003",
+  "title": "Martin Luther King, Jr., Federal Holiday, 2003",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1122",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-71-joe-biden",
+  "published_at": "1997-05-20",
+  "question": "On Passage of the Bill",
+  "rollnumber": 71,
+  "source_url": "https://voteview.com/rollcall/RS1050071",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-05-20",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES140",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-140-john-mccain",
+  "introduced_date": "1983-03-21",
+  "policy_area": "Sports and Recreation",
+  "published_at": "1983-03-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/140",
+  "title": "A joint resolution to authorize and request the President to designate May 1983 as \"National Physical Fitness and Sports Month\".",
+  "topics": [],
+  "type": "bill"
+}

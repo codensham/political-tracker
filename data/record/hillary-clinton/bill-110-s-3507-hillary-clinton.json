@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3507",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3507-hillary-clinton",
+  "introduced_date": "2008-09-24",
+  "policy_area": "Labor and Employment",
+  "published_at": "2008-09-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3507",
+  "tagged_by": "crosswalk@1",
+  "title": "Unemployment Compensation Extension Act of 2008",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

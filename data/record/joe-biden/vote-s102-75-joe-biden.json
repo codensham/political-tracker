@@ -1,0 +1,20 @@
+{
+  "bill_number": "HCONRES121",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-75-joe-biden",
+  "published_at": "1991-05-22",
+  "question": "On the Conference Report",
+  "rollnumber": 75,
+  "source_url": "https://voteview.com/rollcall/RS1020075",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-05-22",
+  "vote_result": "Conference Report Agreed to"
+}

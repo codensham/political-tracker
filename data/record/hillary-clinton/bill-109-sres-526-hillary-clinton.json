@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES526",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-526-hillary-clinton",
+  "introduced_date": "2006-06-29",
+  "policy_area": "International Affairs",
+  "published_at": "2006-06-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/526",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the murder of United States journalist Paul Klebnikov on July 9, 2004, in Moscow, and the murders of other members of the media in the Russian Federation.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-29564",
+  "document_type": "executive_order",
+  "executive_order_number": "13481",
+  "id": "exec-e8-29564",
+  "published_at": "2008-12-11",
+  "signing_date": "2008-12-09",
+  "source_url": "https://www.federalregister.gov/documents/2008/12/11/E8-29564/providing-an-order-of-succession-within-the-department-of-justice",
+  "title": "Providing An Order of Succession Within the Department of Justice",
+  "topics": [],
+  "type": "executive_action"
+}

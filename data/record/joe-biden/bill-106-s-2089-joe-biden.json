@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2089",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2089-joe-biden",
+  "introduced_date": "2000-02-24",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2000-02-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2089",
+  "tagged_by": "crosswalk@1",
+  "title": "Counterintelligence Reform Act of 2000",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

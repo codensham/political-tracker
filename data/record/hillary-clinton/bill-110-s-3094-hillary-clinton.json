@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3094",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-3094-hillary-clinton",
+  "introduced_date": "2008-06-05",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2008-06-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/3094",
+  "tagged_by": "crosswalk@1",
+  "title": "Long Path Trail Study Act of 2008",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES214",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-214-john-kerry",
+  "introduced_date": "1989-11-20",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1989-11-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/214",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution that a reward should be offered under the provisions of title 18, United States Code for any information leading to the arrest of those individuals who bombed the vehicle of Sharon Rogers of La Jolla, California.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

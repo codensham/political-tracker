@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1739",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1739-john-mccain",
+  "introduced_date": "1996-05-08",
+  "policy_area": "Taxation",
+  "published_at": "1996-05-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1739",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to repeal the 4.3-cent increase in the transportation motor fuels excise tax rates enacted by the Omnibus Budget Reconciliation Act of 1993 and dedicated to the general fund of the Treasury.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

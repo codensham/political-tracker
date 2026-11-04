@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-20508",
+  "document_type": "executive_order",
+  "executive_order_number": "14046",
+  "id": "exec-2021-20508",
+  "published_at": "2021-09-21",
+  "signing_date": "2021-09-17",
+  "source_url": "https://www.federalregister.gov/documents/2021/09/21/2021-20508/imposing-sanctions-on-certain-persons-with-respect-to-the-humanitarian-and-human-rights-crisis-in",
+  "title": "Imposing Sanctions on Certain Persons With Respect to the Humanitarian and Human Rights Crisis in Ethiopia",
+  "topics": [],
+  "type": "executive_action"
+}

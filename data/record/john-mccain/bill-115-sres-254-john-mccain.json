@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES254",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-254-john-mccain",
+  "introduced_date": "2017-09-13",
+  "policy_area": "Congress",
+  "published_at": "2017-09-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/254",
+  "title": "A resolution relative to the death of Pietro \"Pete\" Vichi Domenici, former United States Senator for the State of New Mexico.",
+  "topics": [],
+  "type": "bill"
+}

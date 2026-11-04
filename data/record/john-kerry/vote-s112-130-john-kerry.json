@@ -1,0 +1,24 @@
+{
+  "bill_number": "SJRES25",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-130-john-kerry",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2011-09-08",
+  "question": "On the Motion to Proceed",
+  "rollnumber": 130,
+  "source_url": "https://voteview.com/rollcall/RS1120130",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "economy"
+  ],
+  "type": "vote",
+  "vote_date": "2011-09-08",
+  "vote_result": "Motion to Proceed Rejected"
+}

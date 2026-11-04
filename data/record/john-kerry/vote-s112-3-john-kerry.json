@@ -1,0 +1,20 @@
+{
+  "bill_number": "SRES29",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-3-john-kerry",
+  "published_at": "2011-01-27",
+  "question": "On the Resolution",
+  "rollnumber": 3,
+  "source_url": "https://voteview.com/rollcall/RS1120003",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2011-01-27",
+  "vote_result": "Resolution Agreed to"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-1442",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-07-1442",
+  "published_at": "2007-03-22",
+  "signing_date": "2007-03-19",
+  "source_url": "https://www.federalregister.gov/documents/2007/03/22/07-1442/to-implement-modifications-to-the-caribbean-basin-economic-recovery-act-and-the-african-growth-and",
+  "title": "To Implement Modifications to the Caribbean Basin Economic Recovery Act and the African Growth and Opportunity Act and for Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES45",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sjres-45-john-mccain",
+  "introduced_date": "1998-04-23",
+  "policy_area": "Commemorations",
+  "published_at": "1998-04-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-joint-resolution/45",
+  "title": "A joint resolution designating March 1, 1999 as \"United States Navy Asiatic Fleet Memorial Day\", and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

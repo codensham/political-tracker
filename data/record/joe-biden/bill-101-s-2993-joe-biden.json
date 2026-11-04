@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2993",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2993-joe-biden",
+  "introduced_date": "1990-09-20",
+  "policy_area": "Taxation",
+  "published_at": "1990-09-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2993",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to extend the solar, geothermal, ocean thermal energy tax credits through 1995.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

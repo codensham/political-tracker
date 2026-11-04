@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-1195",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-07-1195",
+  "published_at": "2007-03-13",
+  "signing_date": "2007-03-05",
+  "source_url": "https://www.federalregister.gov/documents/2007/03/13/07-1195/assignment-of-certain-functions-relating-to-procurement-sanctions-on-persons-engaging-in-export",
+  "title": "Assignment of Certain Functions Relating to Procurement Sanctions on Persons Engaging in Export Activities that Contribute to Proliferation",
+  "topics": [],
+  "type": "executive_action"
+}

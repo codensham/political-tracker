@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3055",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-3055-kamala-harris",
+  "introduced_date": "2018-06-12",
+  "policy_area": "Emergency Management",
+  "published_at": "2018-06-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3055",
+  "title": "Disaster Victims Passport and ID Relief Act of 2018",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES94",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-94-john-mccain",
+  "introduced_date": "2001-05-24",
+  "policy_area": "Commemorations",
+  "published_at": "2001-05-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/94",
+  "title": "A resolution expressing the sense of the Senate to designate May 28, 2001, as a special day for recognizing the members of the Armed Forces who have been killed in hostile action since the end of the Vietnam War.",
+  "topics": [],
+  "type": "bill"
+}

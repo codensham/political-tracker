@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1471",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1471-hillary-clinton",
+  "introduced_date": "2001-09-26",
+  "policy_area": "Families",
+  "published_at": "2001-09-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1471",
+  "title": "Children's Lead SAFE Act",
+  "topics": [],
+  "type": "bill"
+}

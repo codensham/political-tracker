@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES323",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-323-john-kerry",
+  "introduced_date": "2009-10-27",
+  "policy_area": "Congress",
+  "published_at": "2009-10-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/323",
+  "title": "A resolution honoring Edward W. Brooke, III, former United States Senator for the Commonwealth of Massachusetts, on the occasion of his 90th birthday.",
+  "topics": [],
+  "type": "bill"
+}

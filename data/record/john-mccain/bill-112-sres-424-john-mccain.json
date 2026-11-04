@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES424",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-424-john-mccain",
+  "introduced_date": "2012-04-18",
+  "policy_area": "International Affairs",
+  "published_at": "2012-04-18",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/424",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the mass atrocities committed by the Government of Syria and supporting the right of the people of Syria to be safe and to defend themselves.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

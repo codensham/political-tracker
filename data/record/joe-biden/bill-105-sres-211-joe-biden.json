@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES211",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-211-joe-biden",
+  "introduced_date": "1998-04-21",
+  "policy_area": "Congress",
+  "published_at": "1998-04-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/211",
+  "title": "A resolution expressing the condolences of the Senate on the death of the Honorable Terry Sanford, former United States Senator from North Carolina.",
+  "topics": [],
+  "type": "bill"
+}

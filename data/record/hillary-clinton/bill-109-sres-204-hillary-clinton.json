@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES204",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-204-hillary-clinton",
+  "introduced_date": "2005-07-21",
+  "policy_area": "Commemorations",
+  "published_at": "2005-07-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/204",
+  "title": "A resolution recognizing the 75th anniversary of the American Academy of Pediatrics and supporting the mission and goals of the organization.",
+  "topics": [],
+  "type": "bill"
+}

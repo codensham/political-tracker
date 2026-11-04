@@ -1,0 +1,21 @@
+{
+  "bill_number": "S763",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-763-al-gore",
+  "introduced_date": "1987-03-24",
+  "policy_area": "Health",
+  "published_at": "1987-03-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/763",
+  "tagged_by": "crosswalk@1",
+  "title": "Services for Homeless Mentally Ill Individuals Act of 1987",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

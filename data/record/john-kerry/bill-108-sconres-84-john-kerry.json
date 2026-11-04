@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES84",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-84-john-kerry",
+  "introduced_date": "2003-11-21",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2003-11-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/84",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution recognizing the sacrifices made by members of the regular and reserve components of the Armed Forces, expressing concern about their safety and security, and urging the Secretary of Defense to take immediate steps to ensure that the reserve components are provided with the same equipment as regular components.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

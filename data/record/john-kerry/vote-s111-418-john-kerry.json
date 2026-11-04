@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN634",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-418-john-kerry",
+  "published_at": "2010-02-09",
+  "question": "On the Nomination",
+  "rollnumber": 418,
+  "source_url": "https://voteview.com/rollcall/RS1110418",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2010-02-09",
+  "vote_result": "Nomination Confirmed"
+}

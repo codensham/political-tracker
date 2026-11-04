@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES720",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-720-hillary-clinton",
+  "introduced_date": "2008-11-20",
+  "policy_area": "Commemorations",
+  "published_at": "2008-11-20",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/720",
+  "title": "A resolution supporting the goals and ideals of Pancreatic Cancer Awareness Month.",
+  "topics": [],
+  "type": "bill"
+}

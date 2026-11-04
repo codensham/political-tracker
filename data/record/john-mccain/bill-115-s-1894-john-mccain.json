@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1894",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-1894-john-mccain",
+  "introduced_date": "2017-09-28",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2017-09-28",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1894",
+  "title": "A bill to exempt Puerto Rico from the coastwise laws of the United States (commonly known as the \"Jones Act\").",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "SRES584",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-487-kamala-harris",
+  "published_at": "2018-07-19",
+  "question": "On the Resolution",
+  "rollnumber": 487,
+  "source_url": "https://voteview.com/rollcall/RS1150487",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2018-07-19",
+  "vote_result": "Resolution Agreed to"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HJRES42",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-87-kamala-harris",
+  "published_at": "2017-03-14",
+  "question": "On the Joint Resolution",
+  "rollnumber": 87,
+  "source_url": "https://voteview.com/rollcall/RS1150087",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2017-03-14",
+  "vote_result": "Joint Resolution Passed"
+}

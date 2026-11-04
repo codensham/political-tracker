@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES55",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sjres-55-joe-biden",
+  "introduced_date": "1998-09-01",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1998-09-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-joint-resolution/55",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution requesting the President to advance the late Rear Admiral Husband E. Kimmel on the retired list of the Navy to the highest grade held as Commander in Chief, United States Fleet, during World War II, and to advance the late Major General Walter C. Short on the retired list of the Army to the highest grade held as Commanding General, Hawaiian Department, during World War II, as was done under the Officer Personnel Act of 1947 for all other senior officers who served inpositions of command during World War II, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

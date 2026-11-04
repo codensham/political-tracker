@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES390",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-390-mitt-romney",
+  "introduced_date": "2019-10-30",
+  "policy_area": "Congress",
+  "published_at": "2019-10-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/390",
+  "title": "A resolution honoring the life, accomplishments, and legacy of Senator Kay Hagan.",
+  "topics": [],
+  "type": "bill"
+}

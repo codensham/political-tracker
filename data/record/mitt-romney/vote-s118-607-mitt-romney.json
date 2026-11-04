@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR9747",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-607-mitt-romney",
+  "published_at": "2024-09-25",
+  "question": "On Passage of the Bill",
+  "rollnumber": 607,
+  "source_url": "https://voteview.com/rollcall/RS1180607",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2024-09-25",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR3526",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-3526-john-mccain",
+  "introduced_date": "1985-10-08",
+  "policy_area": "Native Americans",
+  "published_at": "1985-10-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/3526",
+  "title": "A bill to provide for the settlement of certain claims respecting the San Carlos Apache Tribe of Arizona.",
+  "topics": [],
+  "type": "bill"
+}

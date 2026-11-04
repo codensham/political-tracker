@@ -1,0 +1,20 @@
+{
+  "archive_url": null,
+  "author": "Alexandra Petri",
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T14:27:26Z",
+  "collector": "rss@1.0",
+  "extraction_status": "pending",
+  "headline": "Maybe Donald Trump Doesn’t Want His Party to Win the Midterms",
+  "id": "article-the-atlantic-598fd18435f7",
+  "outlet_id": "the-atlantic",
+  "published_at": "2026-11-02",
+  "source_url": "https://www.theatlantic.com/newsletters/2026/11/trump-midterms-speech-reflecting-pool/689259/?utm_source=feed",
+  "tagged_by": "tag-records@1",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "article"
+}

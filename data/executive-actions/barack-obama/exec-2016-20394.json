@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-20394",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2016-20394",
+  "published_at": "2016-08-24",
+  "signing_date": "2016-08-19",
+  "source_url": "https://www.federalregister.gov/documents/2016/08/24/2016-20394/national-employer-support-of-the-guard-and-reserve-week-2016",
+  "title": "National Employer Support of the Guard and Reserve Week, 2016",
+  "topics": [],
+  "type": "executive_action"
+}

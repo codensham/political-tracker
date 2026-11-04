@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES78",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sconres-78-joe-biden",
+  "introduced_date": "2006-01-27",
+  "policy_area": "International Affairs",
+  "published_at": "2006-01-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-concurrent-resolution/78",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution condemning the Government of Iran for violating its international nuclear nonproliferation obligations and expressing support for efforts to report Iran to the United Nations Security Counsel.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

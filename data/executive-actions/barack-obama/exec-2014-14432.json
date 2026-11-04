@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-14432",
+  "document_type": "executive_order",
+  "executive_order_number": "13670",
+  "id": "exec-2014-14432",
+  "published_at": "2014-06-18",
+  "signing_date": "2014-06-14",
+  "source_url": "https://www.federalregister.gov/documents/2014/06/18/2014-14432/establishing-an-emergency-board-to-investigate-disputes-between-the-southeastern-pennsylvania",
+  "title": "Establishing an Emergency Board To Investigate Disputes Between the Southeastern Pennsylvania Transportation Authority and Certain of Its Employees Represented by Certain Labor Organizations",
+  "topics": [],
+  "type": "executive_action"
+}

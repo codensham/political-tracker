@@ -1,0 +1,21 @@
+{
+  "bill_number": "S150",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-150-john-kerry",
+  "introduced_date": "1991-01-14",
+  "policy_area": "Taxation",
+  "published_at": "1991-01-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/150",
+  "tagged_by": "crosswalk@1",
+  "title": "Higher Education Tax-Exempt Bond Reform Act of 1991",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

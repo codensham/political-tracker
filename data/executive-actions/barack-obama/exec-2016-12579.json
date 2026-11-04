@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-12579",
+  "document_type": "executive_order",
+  "executive_order_number": "13730",
+  "id": "exec-2016-12579",
+  "published_at": "2016-05-26",
+  "signing_date": "2016-05-20",
+  "source_url": "https://www.federalregister.gov/documents/2016/05/26/2016-12579/2016-amendments-to-the-manual-for-courts-martial-united-states",
+  "title": "2016 Amendments to the Manual for Courts-Martial, United States",
+  "topics": [],
+  "type": "executive_action"
+}

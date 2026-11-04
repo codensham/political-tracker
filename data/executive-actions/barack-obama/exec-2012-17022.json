@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-17022",
+  "document_type": "executive_order",
+  "executive_order_number": "13618",
+  "id": "exec-2012-17022",
+  "published_at": "2012-07-11",
+  "signing_date": "2012-07-06",
+  "source_url": "https://www.federalregister.gov/documents/2012/07/11/2012-17022/assignment-of-national-security-and-emergency-preparedness-communications-functions",
+  "title": "Assignment of National Security and Emergency Preparedness Communications Functions",
+  "topics": [],
+  "type": "executive_action"
+}

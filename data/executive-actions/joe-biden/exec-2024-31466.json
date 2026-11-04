@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-31466",
+  "document_type": "executive_order",
+  "executive_order_number": "14132",
+  "id": "exec-2024-31466",
+  "published_at": "2024-12-30",
+  "signing_date": "2024-12-23",
+  "source_url": "https://www.federalregister.gov/documents/2024/12/30/2024-31466/adjustments-of-certain-rates-of-pay",
+  "title": "Adjustments of Certain Rates of Pay",
+  "topics": [],
+  "type": "executive_action"
+}

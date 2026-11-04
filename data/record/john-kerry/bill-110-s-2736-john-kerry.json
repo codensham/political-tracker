@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2736",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2736-john-kerry",
+  "introduced_date": "2008-04-14",
+  "policy_area": "Housing and Community Development",
+  "published_at": "2008-04-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2736",
+  "tagged_by": "crosswalk@1",
+  "title": "Section 202 Supportive Housing for the Elderly Act of 2008",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

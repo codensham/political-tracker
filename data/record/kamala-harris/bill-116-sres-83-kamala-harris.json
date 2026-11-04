@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES83",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-83-kamala-harris",
+  "introduced_date": "2019-02-27",
+  "policy_area": "Health",
+  "published_at": "2019-02-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/83",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating February 2019 as \"American Heart Month\" and February 1, 2019, as \"National Wear Red Day\".",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

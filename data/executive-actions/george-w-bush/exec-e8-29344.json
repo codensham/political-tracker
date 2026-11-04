@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-29344",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e8-29344",
+  "published_at": "2008-12-10",
+  "signing_date": "2008-12-05",
+  "source_url": "https://www.federalregister.gov/documents/2008/12/10/E8-29344/establishment-of-the-world-war-ii-valor-in-the-pacific-national-monument",
+  "title": "Establishment of the World War II Valor In the Pacific National Monument",
+  "topics": [],
+  "type": "executive_action"
+}

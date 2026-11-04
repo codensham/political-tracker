@@ -1,0 +1,21 @@
+{
+  "bill_number": "S914",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-914-joe-biden",
+  "introduced_date": "1991-04-24",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1991-04-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/914",
+  "tagged_by": "crosswalk@1",
+  "title": "Hatch Act Reform Amendments of 1992",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

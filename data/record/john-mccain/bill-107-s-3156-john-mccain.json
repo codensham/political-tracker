@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3156",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-3156-john-mccain",
+  "introduced_date": "2002-11-14",
+  "policy_area": "Commemorations",
+  "published_at": "2002-11-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/3156",
+  "title": "Paul and Sheila Wellstone Center for Community Building Act",
+  "topics": [],
+  "type": "bill"
+}

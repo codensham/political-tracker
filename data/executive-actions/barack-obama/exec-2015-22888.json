@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-22888",
+  "document_type": "executive_order",
+  "executive_order_number": "13705",
+  "id": "exec-2015-22888",
+  "published_at": "2015-09-09",
+  "signing_date": "2015-09-03",
+  "source_url": "https://www.federalregister.gov/documents/2015/09/09/2015-22888/designating-the-international-renewable-energy-agency-as-a-public-international-organization",
+  "title": "Designating the International Renewable Energy Agency as a Public International Organization Entitled To Enjoy Certain Privileges, Exemptions, and Immunities",
+  "topics": [],
+  "type": "executive_action"
+}

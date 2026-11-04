@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-27002",
+  "document_type": "executive_order",
+  "executive_order_number": "13629",
+  "id": "exec-2012-27002",
+  "published_at": "2012-11-02",
+  "signing_date": "2012-10-26",
+  "source_url": "https://www.federalregister.gov/documents/2012/11/02/2012-27002/establishing-the-white-house-homeland-security-partnership-council",
+  "title": "Establishing the White House Homeland Security Partnership Council",
+  "topics": [],
+  "type": "executive_action"
+}

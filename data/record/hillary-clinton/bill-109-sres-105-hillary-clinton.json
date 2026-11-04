@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES105",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-105-hillary-clinton",
+  "introduced_date": "2005-04-12",
+  "policy_area": "Commemorations",
+  "published_at": "2005-04-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/105",
+  "title": "A resolution designating April 15, 2005, as National Youth Service Day, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

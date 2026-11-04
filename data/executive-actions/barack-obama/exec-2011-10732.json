@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-10732",
+  "document_type": "executive_order",
+  "executive_order_number": "13571",
+  "id": "exec-2011-10732",
+  "published_at": "2011-05-02",
+  "signing_date": "2011-04-27",
+  "source_url": "https://www.federalregister.gov/documents/2011/05/02/2011-10732/streamlining-service-delivery-and-improving-customer-service",
+  "title": "Streamlining Service Delivery and Improving Customer Service",
+  "topics": [],
+  "type": "executive_action"
+}

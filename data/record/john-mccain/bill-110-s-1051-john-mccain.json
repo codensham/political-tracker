@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1051",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-1051-john-mccain",
+  "introduced_date": "2008-04-17",
+  "policy_area": "Commemorations",
+  "published_at": "2008-04-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/1051",
+  "title": "National Liberty Memorial Act",
+  "topics": [],
+  "type": "bill"
+}

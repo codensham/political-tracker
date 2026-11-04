@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-14198",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2022-14198",
+  "published_at": "2022-06-30",
+  "signing_date": "2022-06-26",
+  "source_url": "https://www.federalregister.gov/documents/2022/06/30/2022-14198/partnership-for-global-infrastructure-and-investment",
+  "title": "Partnership for Global Infrastructure and Investment",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S64",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-64-john-kerry",
+  "introduced_date": "1999-01-19",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1999-01-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/64",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 313 of the Tariff Act of 1930 to allow duty drawback for grape juice concentrates, regardless of color or variety.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

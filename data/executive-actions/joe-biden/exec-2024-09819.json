@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-09819",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2024-09819",
+  "published_at": "2024-05-03",
+  "signing_date": "2024-04-30",
+  "source_url": "https://www.federalregister.gov/documents/2024/05/03/2024-09819/national-mental-health-awareness-month-2024",
+  "title": "National Mental Health Awareness Month, 2024",
+  "topics": [],
+  "type": "executive_action"
+}

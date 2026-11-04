@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES773",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-773-kamala-harris",
+  "introduced_date": "2020-11-12",
+  "policy_area": "Sports and Recreation",
+  "published_at": "2020-11-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/773",
+  "title": "A resolution congratulating the Los Angeles Dodgers for winning the 2020 Major League Baseball World Series.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S284",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-284-john-mccain",
+  "introduced_date": "1999-01-21",
+  "policy_area": "Taxation",
+  "published_at": "1999-01-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/284",
+  "tagged_by": "crosswalk@1",
+  "title": "Marriage Penalty Elimination Act of 1999",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

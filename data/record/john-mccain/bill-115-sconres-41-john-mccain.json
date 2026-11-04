@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES41",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sconres-41-john-mccain",
+  "introduced_date": "2018-07-10",
+  "policy_area": "International Affairs",
+  "published_at": "2018-07-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-concurrent-resolution/41",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution recognizing 100 years of the United States-Australia relationship -- 100 years of Mateship.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

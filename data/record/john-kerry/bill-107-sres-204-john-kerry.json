@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES204",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-204-john-kerry",
+  "introduced_date": "2002-02-05",
+  "policy_area": "International Affairs",
+  "published_at": "2002-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/204",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the importance of United States foreign  assistance programs as a diplomatic tool for fighting global terrorism and promoting United States security interests.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

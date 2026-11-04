@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES241",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-241-joe-biden",
+  "introduced_date": "1987-06-26",
+  "policy_area": "International Affairs",
+  "published_at": "1987-06-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/241",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate concerning support for the evolution to full democracy in the Republic of Korea.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

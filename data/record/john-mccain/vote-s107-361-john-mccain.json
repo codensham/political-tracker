@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN906",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-361-john-mccain",
+  "published_at": "2001-12-11",
+  "question": "On the Nomination",
+  "rollnumber": 361,
+  "source_url": "https://voteview.com/rollcall/RS1070361",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-12-11",
+  "vote_result": "Nomination Confirmed"
+}

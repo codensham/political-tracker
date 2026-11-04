@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3172",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-3172-kamala-harris",
+  "introduced_date": "2018-08-23",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2018-08-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3172",
+  "tagged_by": "crosswalk@1",
+  "title": "Restore Our Parks Act",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

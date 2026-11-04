@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES54",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sconres-54-john-kerry",
+  "introduced_date": "2010-03-10",
+  "policy_area": "International Affairs",
+  "published_at": "2010-03-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-concurrent-resolution/54",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution recognizing the life of Orlando Zapata Tamayo, who died on February 23, 2010, in the custody of the Government of Cuba, and calling for a continued focus on the promotion of internationally recognized human rights, listed in the Universal Declaration of Human Rights, in Cuba.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

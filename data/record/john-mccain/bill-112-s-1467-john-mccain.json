@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1467",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1467-john-mccain",
+  "introduced_date": "2012-02-09",
+  "policy_area": "Health",
+  "published_at": "2012-02-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1467",
+  "tagged_by": "crosswalk@1",
+  "title": "Respect for Rights of Conscience Act of 2011",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

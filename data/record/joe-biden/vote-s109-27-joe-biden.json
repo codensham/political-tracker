@@ -1,0 +1,20 @@
+{
+  "bill_number": "S256",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-27-joe-biden",
+  "published_at": "2005-03-07",
+  "question": "On the Amendment",
+  "rollnumber": 27,
+  "source_url": "https://voteview.com/rollcall/RS1090027",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-03-07",
+  "vote_result": "Amendment Rejected"
+}

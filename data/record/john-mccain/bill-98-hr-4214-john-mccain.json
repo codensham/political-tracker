@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4214",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-4214-john-mccain",
+  "introduced_date": "1983-10-25",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1983-10-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/4214",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to establish a State Mining and Mineral Resources Research Institute program, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

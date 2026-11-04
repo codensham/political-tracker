@@ -1,0 +1,20 @@
+{
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cash_on_hand_end": 32587.85,
+  "collected_at": "2026-11-04T13:52:32Z",
+  "collector": "fec_finance@1.0",
+  "coverage_end": "2008-12-31",
+  "coverage_start": "2006-10-25",
+  "cycle": 2008,
+  "debts_owed": 250000.0,
+  "disbursements": 113627217.23,
+  "fec_candidate_id": "P80003353",
+  "id": "finance-mitt-romney-p80003353-2008",
+  "published_at": "2008-12-31",
+  "receipts": 113659805.08,
+  "source_url": "https://www.fec.gov/data/candidate/P80003353/?cycle=2008",
+  "topics": [],
+  "type": "finance"
+}

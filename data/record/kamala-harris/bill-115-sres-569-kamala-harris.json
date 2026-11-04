@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES569",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-569-kamala-harris",
+  "introduced_date": "2018-07-09",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2018-07-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/569",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution recognizing the importance of public park and recreation facilities and activities and providing for the designation of the month of July 2018 as \"Park and Recreation Month\".",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

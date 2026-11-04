@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES413",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-413-john-kerry",
+  "introduced_date": "2010-02-09",
+  "policy_area": "Congress",
+  "published_at": "2010-02-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/413",
+  "title": "A resolution relative to the death of Representative John P. Murtha, of Pennsylvania.",
+  "topics": [],
+  "type": "bill"
+}

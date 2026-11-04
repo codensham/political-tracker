@@ -1,0 +1,21 @@
+{
+  "bill_number": "S880",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-880-john-mccain",
+  "introduced_date": "1989-06-01",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1989-06-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/880",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Child Nutrition Act of 1966 to require the Secretary of Agriculture to provide startup funds to State educational agencies for distribution to schools to establish or expand school breakfast programs, to require the Secretary to collect and disseminate certain information concerning the school breakfast program, and for other purposes.",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

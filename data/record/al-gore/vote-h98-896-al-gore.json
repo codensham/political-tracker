@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2565",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-896-al-gore",
+  "published_at": "1984-10-09",
+  "question": null,
+  "rollnumber": 896,
+  "source_url": "https://voteview.com/rollcall/RH0980896",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-10-09",
+  "vote_result": null
+}

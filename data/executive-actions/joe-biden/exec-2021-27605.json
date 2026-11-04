@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-27605",
+  "document_type": "executive_order",
+  "executive_order_number": "14060",
+  "id": "exec-2021-27605",
+  "published_at": "2021-12-20",
+  "signing_date": "2021-12-15",
+  "source_url": "https://www.federalregister.gov/documents/2021/12/20/2021-27605/establishing-the-united-states-council-on-transnational-organized-crime",
+  "title": "Establishing the United States Council on Transnational Organized Crime",
+  "topics": [],
+  "type": "executive_action"
+}

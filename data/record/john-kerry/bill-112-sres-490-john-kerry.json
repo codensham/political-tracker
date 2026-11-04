@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES490",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-490-john-kerry",
+  "introduced_date": "2012-07-31",
+  "policy_area": "Health",
+  "published_at": "2012-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/490",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution designating the week of September 16, 2012, as \"Mitochondrial Disease Awareness Week\", reaffirming the importance of an enhanced and coordinated research effort on mitochondrial diseases, and commending the National Institutes of Health for its efforts to improve the understanding of mitochondrial diseases.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

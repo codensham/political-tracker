@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES129",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-129-al-gore",
+  "introduced_date": "1986-04-17",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1986-04-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/129",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress in opposition to certain import restrictions imposed by the European Community that adversely affect United States agricultural exports and urging the President to use to the fullest extent his authority to respond to these practices.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01858",
+  "document_type": "executive_order",
+  "executive_order_number": "13997",
+  "id": "exec-2021-01858",
+  "published_at": "2021-01-26",
+  "signing_date": "2021-01-21",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/26/2021-01858/improving-and-expanding-access-to-care-and-treatments-for-covid-19",
+  "title": "Improving and Expanding Access to Care and Treatments for COVID-19",
+  "topics": [],
+  "type": "executive_action"
+}

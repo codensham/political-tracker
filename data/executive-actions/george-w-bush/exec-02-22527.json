@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-22527",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-02-22527",
+  "published_at": "2002-09-03",
+  "signing_date": "2002-08-28",
+  "source_url": "https://www.federalregister.gov/documents/2002/09/03/02-22527/to-modify-duty-free-treatment-under-the-generalized",
+  "title": "To Modify Duty-Free Treatment Under the Generalized",
+  "topics": [],
+  "type": "executive_action"
+}

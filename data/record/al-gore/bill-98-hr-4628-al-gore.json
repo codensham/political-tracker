@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4628",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-4628-al-gore",
+  "introduced_date": "1984-01-24",
+  "policy_area": "Education",
+  "published_at": "1984-01-24",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/4628",
+  "tagged_by": "crosswalk@1",
+  "title": "National Educational Software Act of 1984",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

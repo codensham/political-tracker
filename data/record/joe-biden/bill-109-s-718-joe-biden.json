@@ -1,0 +1,21 @@
+{
+  "bill_number": "S718",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-718-joe-biden",
+  "introduced_date": "2005-04-06",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2005-04-06",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/718",
+  "tagged_by": "crosswalk@1",
+  "title": "State and Local Law Enforcement Discipline, Accountability, and Due Process Act of 2005",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

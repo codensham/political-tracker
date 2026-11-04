@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1755",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-s-1755-john-kerry",
+  "introduced_date": "2012-07-30",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2012-07-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-bill/1755",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38, United States Code, to provide for coverage under the beneficiary travel program of the Department of Veterans Affairs of certain disabled veterans for travel for certain special disabilities rehabilitation, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

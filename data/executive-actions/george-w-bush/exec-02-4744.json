@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-4744",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-02-4744",
+  "published_at": "2002-02-26",
+  "signing_date": "2002-02-22",
+  "source_url": "https://www.federalregister.gov/documents/2002/02/26/02-4744/suspension-of-entry-as-immigrants-and-nonimmigrants-of-persons-responsible-for-actions-that-threaten",
+  "title": "Suspension of Entry as Immigrants and Nonimmigrants of Persons Responsible for Actions That Threaten Zimbabwe's Democratic Institutions and Transition to a Multi-Party Democracy",
+  "topics": [],
+  "type": "executive_action"
+}

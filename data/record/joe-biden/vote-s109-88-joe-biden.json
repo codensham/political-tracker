@@ -1,0 +1,24 @@
+{
+  "bill_number": "SCONRES25",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-88-joe-biden",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2005-04-11",
+  "question": "On the Resolution",
+  "rollnumber": 88,
+  "source_url": "https://voteview.com/rollcall/RS1090088",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "trade"
+  ],
+  "type": "vote",
+  "vote_date": "2005-04-11",
+  "vote_result": "Resolution Agreed to"
+}

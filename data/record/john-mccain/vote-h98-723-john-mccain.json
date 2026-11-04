@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1510",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 98,
+  "id": "vote-h98-723-john-mccain",
+  "published_at": "1984-06-20",
+  "question": null,
+  "rollnumber": 723,
+  "source_url": "https://voteview.com/rollcall/RH0980723",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1984-06-20",
+  "vote_result": null
+}

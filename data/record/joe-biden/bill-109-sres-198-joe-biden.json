@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES198",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-198-joe-biden",
+  "introduced_date": "2005-07-18",
+  "policy_area": "Commemorations",
+  "published_at": "2005-07-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/198",
+  "title": "A resolution commemorating the 25th anniversary of the 1980 worker's strike in Poland and the birth of the Solidarity Trade Union, the first free and independent trade union established in the Soviet-dominated countries of Europe.",
+  "topics": [],
+  "type": "bill"
+}

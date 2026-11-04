@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2024-31143",
+  "document_type": "executive_order",
+  "executive_order_number": "14129",
+  "id": "exec-2024-31143",
+  "published_at": "2024-12-26",
+  "signing_date": "2024-12-18",
+  "source_url": "https://www.federalregister.gov/documents/2024/12/26/2024-31143/providing-for-the-closing-of-executive-departments-and-agencies-of-the-federal-government-on",
+  "title": "Providing for the Closing of Executive Departments and Agencies of the Federal Government on December 24, 2024",
+  "topics": [],
+  "type": "executive_action"
+}

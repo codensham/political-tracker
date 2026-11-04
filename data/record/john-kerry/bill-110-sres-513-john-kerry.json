@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES513",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-513-john-kerry",
+  "introduced_date": "2008-04-14",
+  "policy_area": "Commemorations",
+  "published_at": "2008-04-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/513",
+  "title": "A resolution congratulating the Army Reserve on its centennial, which will be formally celebrated on April 23, 2008, and commemorating the historic contributions of its veterans and continuing contributions of its soldiers to the vital national security interests and homeland defense missions of the United States.",
+  "topics": [],
+  "type": "bill"
+}

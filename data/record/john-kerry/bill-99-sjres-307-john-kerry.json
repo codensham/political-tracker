@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES307",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-307-john-kerry",
+  "introduced_date": "1986-04-08",
+  "policy_area": "Commemorations",
+  "published_at": "1986-04-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/307",
+  "title": "A joint resolution to designate the week of April 18 through April 27, 1986 as \"National Carpet and Floorcovering Week\".",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,24 @@
+{
+  "bill_number": "S744",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-147-john-mccain",
+  "policy_area": "Immigration",
+  "published_at": "2013-06-11",
+  "question": "On the Motion to Proceed",
+  "rollnumber": 147,
+  "source_url": "https://voteview.com/rollcall/RS1130147",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "immigration"
+  ],
+  "type": "vote",
+  "vote_date": "2013-06-11",
+  "vote_result": "Motion to Proceed Agreed to"
+}

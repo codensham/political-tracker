@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES29",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sconres-29-john-mccain",
+  "introduced_date": "2009-06-16",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2009-06-16",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-concurrent-resolution/29",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress that John Arthur \"Jack\" Johnson should receive a posthumous pardon for the racially motivated conviction in 1913 that diminished the athletic, cultural, and historic significance of Jack Johnson and unduly tarnished his reputation.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

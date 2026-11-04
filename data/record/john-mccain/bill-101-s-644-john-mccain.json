@@ -1,0 +1,21 @@
+{
+  "bill_number": "S644",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-644-john-mccain",
+  "introduced_date": "1989-03-17",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1989-03-17",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/644",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the National Science and Technology Policy, Organization, and Priorities Act of 1976 in order to provide for improved coordination of national scientific research efforts to develop substitutes for certain substances, and for other purposes.",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

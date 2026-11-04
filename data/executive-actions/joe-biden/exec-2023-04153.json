@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-04153",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2023-04153",
+  "published_at": "2023-02-27",
+  "signing_date": "2023-02-20",
+  "source_url": "https://www.federalregister.gov/documents/2023/02/27/2023-04153/delegation-of-authority-under-sections-506a1-and-552c2-of-the-foreign-assistance-act-of-1961",
+  "title": "Delegation of Authority Under Sections 506(a)(1) and 552(c)(2) of the Foreign Assistance Act of 1961",
+  "topics": [],
+  "type": "executive_action"
+}

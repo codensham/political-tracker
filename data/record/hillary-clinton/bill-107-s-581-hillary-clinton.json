@@ -1,0 +1,21 @@
+{
+  "bill_number": "S581",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-581-hillary-clinton",
+  "introduced_date": "2001-03-20",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2001-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/581",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 10, United States Code, to authorize Army arsenals to undertake to fulfill orders or contracts for articles or services in advance of the receipt of payment under certain circumstances.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

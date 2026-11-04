@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-26753",
+  "document_type": "executive_order",
+  "executive_order_number": "13745",
+  "id": "exec-2016-26753",
+  "published_at": "2016-11-03",
+  "signing_date": "2016-10-31",
+  "source_url": "https://www.federalregister.gov/documents/2016/11/03/2016-26753/delegation-of-function-to-the-director-of-the-office-of-personnel-management",
+  "title": "Delegation of Function to the Director of the Office of Personnel Management",
+  "topics": [],
+  "type": "executive_action"
+}

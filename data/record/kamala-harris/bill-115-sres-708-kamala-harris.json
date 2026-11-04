@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES708",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-708-kamala-harris",
+  "introduced_date": "2018-11-27",
+  "policy_area": "Environmental Protection",
+  "published_at": "2018-11-27",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/708",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the need for bold climate action in response to the release of the United Nations report entitled \"Global Warming of 1.5 C, an IPCC special report on the impacts of global warming of 1.5 C above pre-industrial levels and related global greenhouse gas emission pathways, in the context of strengthening the global response to the threat of climate change, sustainable development, and efforts to eradicate poverty\" and the Fourth National Climate Assessment report entitled \"Volume II: Impacts, Risks, and Adaptation in the United States\" by the United States Global Change Research Program.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

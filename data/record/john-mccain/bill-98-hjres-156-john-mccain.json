@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES156",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hjres-156-john-mccain",
+  "introduced_date": "1983-03-22",
+  "policy_area": "Social Welfare",
+  "published_at": "1983-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-joint-resolution/156",
+  "title": "A joint resolution to recognize Senior Center Week during Senior Citizen Month as proclaimed by the President.",
+  "topics": [],
+  "type": "bill"
+}

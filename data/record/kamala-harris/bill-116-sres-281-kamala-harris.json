@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES281",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-sres-281-kamala-harris",
+  "introduced_date": "2019-07-23",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2019-07-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-resolution/281",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution committing to elevate the voices, leadership, and needs of communities that face systemic barriers in the effort to end sexual violence and support all survivors of sexual violence and gender-based violence, including immigrant survivors, survivors who are incarcerated, survivors with disabilities, survivors of color, American Indian or Alaska Native survivors, survivors of child sexual abuse, and lesbian, gay, bisexual, transgender, queer, and intersex survivors.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

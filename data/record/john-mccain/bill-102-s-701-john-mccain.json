@@ -1,0 +1,21 @@
+{
+  "bill_number": "S701",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-701-john-mccain",
+  "introduced_date": "1991-06-11",
+  "policy_area": "Taxation",
+  "published_at": "1991-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/701",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to increase the amount of the exemption for dependent children under age 18 to $3,500, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

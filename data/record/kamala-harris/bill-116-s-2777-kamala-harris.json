@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2777",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-2777-kamala-harris",
+  "introduced_date": "2019-12-18",
+  "policy_area": "Families",
+  "published_at": "2019-12-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2777",
+  "title": "Family First Transition Act",
+  "topics": [],
+  "type": "bill"
+}

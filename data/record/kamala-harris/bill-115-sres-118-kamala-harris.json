@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES118",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-118-kamala-harris",
+  "introduced_date": "2017-04-05",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2017-04-05",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/118",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning hate crime and any other form of racism, religious or ethnic bias, discrimination, incitement to violence, or animus targeting a minority in the United States.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1061",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1061-joe-biden",
+  "introduced_date": "2003-05-14",
+  "policy_area": "Law",
+  "published_at": "2003-05-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1061",
+  "title": "Bankruptcy Judgeship Act of 2003",
+  "topics": [],
+  "type": "bill"
+}

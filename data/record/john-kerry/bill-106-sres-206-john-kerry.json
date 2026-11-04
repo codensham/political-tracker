@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES206",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-206-john-kerry",
+  "introduced_date": "1999-10-25",
+  "policy_area": "Congress",
+  "published_at": "1999-10-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/206",
+  "title": "A resolution relative to the death of the Honorable John H. Chafee, of Rhode Island.",
+  "topics": [],
+  "type": "bill"
+}

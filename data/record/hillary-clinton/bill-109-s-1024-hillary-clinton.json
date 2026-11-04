@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1024",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1024-hillary-clinton",
+  "introduced_date": "2005-05-12",
+  "policy_area": "Housing and Community Development",
+  "published_at": "2005-05-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1024",
+  "tagged_by": "crosswalk@1",
+  "title": "Suburban Core Opportunity, Restoration, and Enhancement (SCORE) Act of 2005",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

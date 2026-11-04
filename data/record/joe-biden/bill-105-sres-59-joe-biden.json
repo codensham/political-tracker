@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES59",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-sres-59-joe-biden",
+  "introduced_date": "1997-03-12",
+  "policy_area": "Commemorations",
+  "published_at": "1997-03-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-resolution/59",
+  "title": "A resolution designating the month of March of each year as \"Irish American Heritage Month\".",
+  "topics": [],
+  "type": "bill"
+}

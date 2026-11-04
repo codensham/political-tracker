@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1402",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1402-john-mccain",
+  "introduced_date": "2003-07-14",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2003-07-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1402",
+  "title": "Federal Railroad Safety Improvement Act",
+  "topics": [],
+  "type": "bill"
+}

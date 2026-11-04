@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES120",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-sres-120-joe-biden",
+  "introduced_date": "1981-05-21",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "1981-05-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-resolution/120",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution disapproving the proposed deferral of budget authority for Veterans' Administration Medical Care.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

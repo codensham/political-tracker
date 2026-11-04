@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2746",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-2746-kamala-harris",
+  "introduced_date": "2018-04-25",
+  "policy_area": "Labor and Employment",
+  "published_at": "2018-04-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/2746",
+  "tagged_by": "crosswalk@1",
+  "title": "Federal Jobs Guarantee Development Act of 2018",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

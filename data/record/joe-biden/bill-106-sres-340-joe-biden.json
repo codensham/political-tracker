@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES340",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-340-joe-biden",
+  "introduced_date": "2000-09-07",
+  "policy_area": "Commemorations",
+  "published_at": "2000-09-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/340",
+  "title": "A resolution designating December 10, 2000, as \"National Children's Memorial Day\".",
+  "topics": [],
+  "type": "bill"
+}

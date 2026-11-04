@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1461",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1461-john-mccain",
+  "introduced_date": "1995-12-08",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1995-12-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1461",
+  "title": "A bill to amend title 49, United States Code, relating to required employment investigations of pilots.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES332",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-332-joe-biden",
+  "introduced_date": "2004-04-07",
+  "policy_area": "International Affairs",
+  "published_at": "2004-04-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/332",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution observing the tenth anniversary of the Rwandan Genocide of 1994.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

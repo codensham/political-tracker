@@ -1,0 +1,18 @@
+{
+  "amount": 2003186.1,
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C90011156",
+  "committee_name": "WORKING AMERICA",
+  "cycle": 2016,
+  "fec_candidate_id": "P00003392",
+  "id": "outside-hillary-clinton-p00003392-2016-c90011156-support",
+  "published_at": "2016-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P00003392/?cycle=2016",
+  "support_oppose": "support",
+  "topics": [],
+  "type": "outside_spending"
+}

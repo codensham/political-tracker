@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES335",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-335-joe-biden",
+  "introduced_date": "2004-04-08",
+  "policy_area": "Sports and Recreation",
+  "published_at": "2004-04-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/335",
+  "title": "A resolution expressing the sense of the Senate that Major League Baseball clubs and their players should take immediate action to adopt a drug-testing policy that effectively deters Major League Baseball players from using anabolic steroids and any other performance-enhancing substances that create a competitive advantage for, and pose a serious health risk to, such players and the children and teenagers who emulate them.",
+  "topics": [],
+  "type": "bill"
+}

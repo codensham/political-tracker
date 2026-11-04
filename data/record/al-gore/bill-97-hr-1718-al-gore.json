@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR1718",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-1718-al-gore",
+  "introduced_date": "1981-02-05",
+  "policy_area": "Health",
+  "published_at": "1981-02-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/1718",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to direct that a clinical investigation of the safety and efficacy of dimethyl sulfoxide as a drug to be used by persons with arthritis be conducted through the National Institute of Arthritis, Metabolism, and Digestive Diseases.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

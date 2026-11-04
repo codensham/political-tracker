@@ -1,0 +1,21 @@
+{
+  "bill_number": "S510",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-510-kamala-harris",
+  "introduced_date": "2017-03-02",
+  "policy_area": "Health",
+  "published_at": "2017-03-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/510",
+  "tagged_by": "crosswalk@1",
+  "title": "Women's Health Protection Act of 2017",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

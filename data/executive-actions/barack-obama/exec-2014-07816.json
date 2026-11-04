@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-07816",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-07816",
+  "published_at": "2014-04-07",
+  "signing_date": "2014-04-01",
+  "source_url": "https://www.federalregister.gov/documents/2014/04/07/2014-07816/world-autism-awareness-day-2014",
+  "title": "World Autism Awareness Day, 2014",
+  "topics": [],
+  "type": "executive_action"
+}

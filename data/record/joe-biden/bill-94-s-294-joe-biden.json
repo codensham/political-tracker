@@ -1,0 +1,21 @@
+{
+  "bill_number": "S294",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 94,
+  "id": "bill-94-s-294-joe-biden",
+  "introduced_date": "1975-01-21",
+  "policy_area": "Taxation",
+  "published_at": "1975-01-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/94th-congress/senate-bill/294",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to increase the effectiveness of the minimum tax for tax preferences.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

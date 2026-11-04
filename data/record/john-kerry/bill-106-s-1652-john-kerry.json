@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1652",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-1652-john-kerry",
+  "introduced_date": "1999-10-19",
+  "policy_area": "Commemorations",
+  "published_at": "1999-10-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/1652",
+  "title": "A bill to designate the Old Executive Office Building located at 17th Street and Pennsylvania Avenue, NW, in Washington, District of Columbia, as the Dwight D. Eisenhower Executive Office Building.",
+  "topics": [],
+  "type": "bill"
+}

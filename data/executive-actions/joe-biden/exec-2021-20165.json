@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-20165",
+  "document_type": "executive_order",
+  "executive_order_number": "14045",
+  "id": "exec-2021-20165",
+  "published_at": "2021-09-16",
+  "signing_date": "2021-09-13",
+  "source_url": "https://www.federalregister.gov/documents/2021/09/16/2021-20165/white-house-initiative-on-advancing-educational-equity-excellence-and-economic-opportunity-for",
+  "title": "White House Initiative on Advancing Educational Equity, Excellence, and Economic Opportunity for Hispanics",
+  "topics": [],
+  "type": "executive_action"
+}

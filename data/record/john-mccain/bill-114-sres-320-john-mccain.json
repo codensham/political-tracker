@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES320",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-320-john-mccain",
+  "introduced_date": "2015-11-19",
+  "policy_area": "International Affairs",
+  "published_at": "2015-11-19",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/320",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution congratulating the people of Burma on their commitment to peaceful elections.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

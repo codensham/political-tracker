@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES133",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-133-john-kerry",
+  "introduced_date": "1991-05-22",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1991-05-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/133",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to designate May 21, 1991, as \"National Land Trust Appreciation Day\", and to recognize the 100th anniversary of the establishment of the Trustees of Reservations.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

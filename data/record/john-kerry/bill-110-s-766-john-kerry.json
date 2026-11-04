@@ -1,0 +1,21 @@
+{
+  "bill_number": "S766",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-766-john-kerry",
+  "introduced_date": "2007-03-15",
+  "policy_area": "Labor and Employment",
+  "published_at": "2007-03-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/766",
+  "tagged_by": "crosswalk@1",
+  "title": "Paycheck Fairness Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

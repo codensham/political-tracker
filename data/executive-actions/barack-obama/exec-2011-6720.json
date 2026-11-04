@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-6720",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2011-6720",
+  "published_at": "2011-03-21",
+  "signing_date": "2011-03-16",
+  "source_url": "https://www.federalregister.gov/documents/2011/03/21/2011-6720/150th-anniversary-of-the-unification-of-italy-2011",
+  "title": "150th Anniversary of the Unification of Italy, 2011",
+  "topics": [],
+  "type": "executive_action"
+}

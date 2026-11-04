@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-1472",
+  "document_type": "executive_order",
+  "executive_order_number": "13468",
+  "id": "exec-08-1472",
+  "published_at": "2008-07-28",
+  "signing_date": "2008-07-24",
+  "source_url": "https://www.federalregister.gov/documents/2008/07/28/08-1472/2008-amendments-to-the-manual-for-courts-martial-united-states",
+  "title": "2008 Amendments to the Manual for Courts-Martial, United States",
+  "topics": [],
+  "type": "executive_action"
+}

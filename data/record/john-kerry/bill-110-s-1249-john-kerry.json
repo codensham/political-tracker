@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1249",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-1249-john-kerry",
+  "introduced_date": "2007-10-17",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2007-10-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/1249",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the President to close the Department of Defense detention facility at Guantanamo Bay, Cuba, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

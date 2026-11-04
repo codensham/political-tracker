@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1871",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-s-1871-mitt-romney",
+  "introduced_date": "2023-06-08",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2023-06-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/1871",
+  "tagged_by": "crosswalk@1",
+  "title": "Intergovernmental Critical Minerals Task Force Act",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

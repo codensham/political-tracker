@@ -2,7 +2,21 @@ import asyncio
 
 from tracker.mcp_server import server
 
-TOOLS = {"list_candidates", "get_candidate", "search_evidence", "position_timeline", "get_finance"}
+TOOLS = {
+    "list_candidates",
+    "get_candidate",
+    "search_evidence",
+    "position_timeline",
+    "get_finance",
+    "get_outside_spending",
+    "get_bio",
+    "get_disclosures",
+    "get_endorsements",
+    "get_appearances",
+    "get_polls",
+    "media_attention",
+    "compare",
+}
 
 
 def test_tools_registered():

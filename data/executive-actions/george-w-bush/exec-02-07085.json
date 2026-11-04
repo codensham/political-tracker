@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-07085",
+  "document_type": "executive_order",
+  "executive_order_number": "13259",
+  "id": "exec-02-07085",
+  "published_at": "2002-03-21",
+  "signing_date": "2002-03-19",
+  "source_url": "https://www.federalregister.gov/documents/2002/03/21/02-07085/designation-of-public-international-organizations-for-purposes-of-the-securities-exchange-act-of",
+  "title": "Designation of Public International Organizations for Purposes of the Securities Exchange Act of 1934 and the Foreign Corrupt Practices Act of 1977",
+  "topics": [],
+  "type": "executive_action"
+}

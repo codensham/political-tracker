@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3423",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-3423-john-kerry",
+  "introduced_date": "2010-05-25",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2010-05-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/3423",
+  "tagged_by": "crosswalk@1",
+  "title": "Veto Wasteful Spending and Protect Taxpayers Act of 2010",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

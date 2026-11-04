@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "02-24252",
+  "document_type": "executive_order",
+  "executive_order_number": "13274",
+  "id": "exec-02-24252",
+  "published_at": "2002-09-23",
+  "signing_date": "2002-09-18",
+  "source_url": "https://www.federalregister.gov/documents/2002/09/23/02-24252/environmental-stewardship-and-transportation-infrastructure-project-reviews",
+  "title": "Environmental Stewardship and Transportation Infrastructure Project Reviews",
+  "topics": [],
+  "type": "executive_action"
+}

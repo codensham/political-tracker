@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-3530",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-06-3530",
+  "published_at": "2006-04-11",
+  "signing_date": "2006-04-07",
+  "source_url": "https://www.federalregister.gov/documents/2006/04/11/06-3530/pan-american-day-and-pan-american-week-2006",
+  "title": "Pan American Day and Pan American Week, 2006",
+  "topics": [],
+  "type": "executive_action"
+}

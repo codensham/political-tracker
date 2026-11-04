@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2002",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2002-john-mccain",
+  "introduced_date": "2015-10-19",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2015-10-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2002",
+  "tagged_by": "crosswalk@1",
+  "title": "Mental Health and Safe Communities Act of 2015",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

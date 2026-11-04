@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-2937",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-2937",
+  "published_at": "2005-02-14",
+  "signing_date": "2005-02-09",
+  "source_url": "https://www.federalregister.gov/documents/2005/02/14/05-2937/to-modify-rules-of-origin-under-the-north-american-free-trade-agreement",
+  "title": "To Modify Rules of Origin Under the North American Free Trade Agreement",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1031",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-1031-hillary-clinton",
+  "introduced_date": "2007-03-29",
+  "policy_area": "Agriculture and Food",
+  "published_at": "2007-03-29",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/1031",
+  "tagged_by": "crosswalk@1",
+  "title": "School Food Fresh Act of 2007",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES326",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-326-john-mccain",
+  "introduced_date": "1988-06-29",
+  "policy_area": "Commemorations",
+  "published_at": "1988-06-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/326",
+  "title": "A joint resolution designating July 24 through 30, 1988, as \"Lyme Disease Awareness Week\".",
+  "topics": [],
+  "type": "bill"
+}

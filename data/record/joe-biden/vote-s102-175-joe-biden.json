@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1507",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 102,
+  "id": "vote-s102-175-joe-biden",
+  "published_at": "1991-08-02",
+  "question": "On the Motion to Table",
+  "rollnumber": 175,
+  "source_url": "https://voteview.com/rollcall/RS1020175",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1991-08-02",
+  "vote_result": "Motion to Table Failed"
+}

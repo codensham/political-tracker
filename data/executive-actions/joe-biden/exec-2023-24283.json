@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-24283",
+  "document_type": "executive_order",
+  "executive_order_number": "14110",
+  "id": "exec-2023-24283",
+  "published_at": "2023-11-01",
+  "signing_date": "2023-10-30",
+  "source_url": "https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence",
+  "title": "Safe, Secure, and Trustworthy Development and Use of Artificial Intelligence",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES304",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-304-john-kerry",
+  "introduced_date": "1988-05-20",
+  "policy_area": "Commemorations",
+  "published_at": "1988-05-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/304",
+  "title": "A joint resolution designating July 2, 1988, as \"National Literacy Day.\"",
+  "topics": [],
+  "type": "bill"
+}

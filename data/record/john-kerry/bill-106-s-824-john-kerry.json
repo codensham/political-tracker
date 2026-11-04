@@ -1,0 +1,21 @@
+{
+  "bill_number": "S824",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-824-john-kerry",
+  "introduced_date": "1999-04-15",
+  "policy_area": "Education",
+  "published_at": "1999-04-15",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/824",
+  "tagged_by": "crosswalk@1",
+  "title": "Comprehensive School Improvement and Accountability Act of 1999",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

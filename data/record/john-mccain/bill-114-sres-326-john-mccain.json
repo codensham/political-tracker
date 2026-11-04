@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES326",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-326-john-mccain",
+  "introduced_date": "2015-12-03",
+  "policy_area": "International Affairs",
+  "published_at": "2015-12-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/326",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution celebrating the 135th anniversary of diplomatic relations between the United States and Romania.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

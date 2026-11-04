@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES368",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-sres-368-john-mccain",
+  "introduced_date": "2016-02-25",
+  "policy_area": "International Affairs",
+  "published_at": "2016-02-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-resolution/368",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting efforts by the Government of Colombia to pursue peace and the end of the country's enduring internal armed conflict and recognizing United States support for Colombia at the 15th anniversary of Plan Colombia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

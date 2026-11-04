@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2545",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-2545-hillary-clinton",
+  "introduced_date": "2006-04-05",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2006-04-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/2545",
+  "tagged_by": "crosswalk@1",
+  "title": "Great Lakes Collaboration Implementation Act of 2006",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

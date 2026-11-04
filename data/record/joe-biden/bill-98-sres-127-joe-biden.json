@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES127",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-sres-127-joe-biden",
+  "introduced_date": "1983-11-16",
+  "policy_area": "Congress",
+  "published_at": "1983-11-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/senate-resolution/127",
+  "title": "A resolution to make the Select Committee on Indian Affairs a permanent Committee of the Senate.",
+  "topics": [],
+  "type": "bill"
+}

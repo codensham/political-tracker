@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1265",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1265-john-kerry",
+  "introduced_date": "2003-07-31",
+  "policy_area": "Education",
+  "published_at": "2003-07-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1265",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to limit the applicability of the annual updates to the allowance for State and other taxes in the tables used in the Federal Needs Analysis Methodology for the award year 2004-2005, published in the Federal Register on May 30, 2003.",
+  "topics": [
+    "education"
+  ],
+  "type": "bill"
+}

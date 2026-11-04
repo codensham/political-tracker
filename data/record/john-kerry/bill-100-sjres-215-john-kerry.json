@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES215",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-215-john-kerry",
+  "introduced_date": "1987-12-01",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1987-12-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/215",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to authorize the Vietnam Women's Memorial Project, Inc., to establish a memorial to women of the Armed Forces of the United States who served in the Vietnam war.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

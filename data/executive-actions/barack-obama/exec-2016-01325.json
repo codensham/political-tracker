@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-01325",
+  "document_type": "executive_order",
+  "executive_order_number": "13716",
+  "id": "exec-2016-01325",
+  "published_at": "2016-01-21",
+  "signing_date": "2016-01-16",
+  "source_url": "https://www.federalregister.gov/documents/2016/01/21/2016-01325/revocation-of-executive-orders-13574-13590-13622-and-13645-with-respect-to-iran-amendment-of",
+  "title": "Revocation of Executive Orders 13574, 13590, 13622, and 13645 With Respect to Iran, Amendment of Executive Order 13628 With Respect to Iran, and Provision of Implementation Authorities for Aspects of Certain Statutory Sanctions Outside the Scope of U.S. Commitments Under the Joint Comprehensive Plan of Action of July 14, 2015",
+  "topics": [],
+  "type": "executive_action"
+}

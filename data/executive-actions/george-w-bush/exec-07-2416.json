@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-2416",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-07-2416",
+  "published_at": "2007-05-15",
+  "signing_date": "2007-05-11",
+  "source_url": "https://www.federalregister.gov/documents/2007/05/15/07-2416/peace-officers-memorial-day-and-police-week-2007",
+  "title": "Peace Officers Memorial Day and Police Week, 2007",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2012-22799",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2012-22799",
+  "published_at": "2012-09-13",
+  "signing_date": "2012-09-10",
+  "source_url": "https://www.federalregister.gov/documents/2012/09/13/2012-22799/patriot-day-and-national-day-of-service-and-remembrance-2012",
+  "title": "Patriot Day and National Day of Service and Remembrance, 2012",
+  "topics": [],
+  "type": "executive_action"
+}

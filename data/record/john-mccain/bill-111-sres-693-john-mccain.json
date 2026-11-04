@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES693",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-693-john-mccain",
+  "introduced_date": "2010-12-02",
+  "policy_area": "International Affairs",
+  "published_at": "2010-12-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/693",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution condemning the attack by the Democratic People's Republic of Korea against the Republic of Korea, and affirming support for the United States-Republic of Korea alliance.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2231",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2231-john-mccain",
+  "introduced_date": "2015-11-03",
+  "policy_area": "International Affairs",
+  "published_at": "2015-11-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2231",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to express the sense of Congress that the Government of the Maldives should immediately release former President Mohamed Nasheed from prison and release all other political prisoners in the country, as well as guarantee due process for and respect the human rights of all of the people of the Maldives.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES488",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-488-john-kerry",
+  "introduced_date": "2012-06-07",
+  "policy_area": "Emergency Management",
+  "published_at": "2012-06-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/488",
+  "title": "A resolution commending the efforts of the firefighters and emergency response personnel of Maine, New Hampshire, Massachusetts, and Connecticut, who came together to extinguish the May 23, 2012, fire at Portsmouth Naval Shipyard in Kittery, Maine.",
+  "topics": [],
+  "type": "bill"
+}

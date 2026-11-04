@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1958",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-1958-john-mccain",
+  "introduced_date": "1996-07-16",
+  "policy_area": "Energy",
+  "published_at": "1996-07-16",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/1958",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to terminate the advanced light water reactor program, and for other purposes.",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

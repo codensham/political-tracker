@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-28593",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2011-28593",
+  "published_at": "2011-11-02",
+  "signing_date": "2011-10-28",
+  "source_url": "https://www.federalregister.gov/documents/2011/11/02/2011-28593/making-it-easier-for-americas-small-businesses-and-americas-exporters-to-access-government-services",
+  "title": "Making It Easier for America's Small Businesses and America's Exporters to Access Government Services to Help Them Grow and Hire",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR4478",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-4478-al-gore",
+  "introduced_date": "1984-07-25",
+  "policy_area": "Private Legislation",
+  "published_at": "1984-07-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/4478",
+  "title": "A bill to waive the statute of limitations to award the Congressional Medal of Honor to Ensign George Gay.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-496",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-496",
+  "published_at": "2009-01-12",
+  "signing_date": "2009-01-06",
+  "source_url": "https://www.federalregister.gov/documents/2009/01/12/E9-496/establishment-of-the-marianas-trench-marine-national-monument",
+  "title": "Establishment of the Marianas Trench Marine National Monument",
+  "topics": [],
+  "type": "executive_action"
+}

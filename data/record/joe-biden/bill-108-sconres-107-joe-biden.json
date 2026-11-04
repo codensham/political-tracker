@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES107",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sconres-107-joe-biden",
+  "introduced_date": "2004-05-12",
+  "policy_area": "Commemorations",
+  "published_at": "2004-05-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-concurrent-resolution/107",
+  "title": "A concurrent resolution recognizing the significance of the 30th anniversary of the American Association for the Advancement of Science Congressional Science and Engineering Fellowship Program, and reaffirming the commitment of Congress to support the use of science in governmental decision-making through such program.",
+  "topics": [],
+  "type": "bill"
+}

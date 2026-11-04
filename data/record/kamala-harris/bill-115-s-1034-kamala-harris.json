@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1034",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-1034-kamala-harris",
+  "introduced_date": "2017-05-03",
+  "policy_area": "Immigration",
+  "published_at": "2017-05-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1034",
+  "tagged_by": "crosswalk@1",
+  "title": "Agricultural Worker Program Act of 2017",
+  "topics": [
+    "immigration"
+  ],
+  "type": "bill"
+}

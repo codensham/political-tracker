@@ -1,0 +1,20 @@
+{
+  "bill_number": "S1292",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-287-john-mccain",
+  "published_at": "1997-10-30",
+  "question": "On Passage of the Bill",
+  "rollnumber": 287,
+  "source_url": "https://voteview.com/rollcall/RS1050287",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-10-30",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "06-4121",
+  "document_type": "executive_order",
+  "executive_order_number": "13400",
+  "id": "exec-06-4121",
+  "published_at": "2006-05-01",
+  "signing_date": "2006-04-26",
+  "source_url": "https://www.federalregister.gov/documents/2006/05/01/06-4121/blocking-property-of-persons-in-connection-with-the-conflict-in-sudans-darfur-region",
+  "title": "Blocking Property of Persons in Connection With the Conflict in Sudan's Darfur Region",
+  "topics": [],
+  "type": "executive_action"
+}

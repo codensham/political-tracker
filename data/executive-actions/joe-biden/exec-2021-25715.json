@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-25715",
+  "document_type": "executive_order",
+  "executive_order_number": "14055",
+  "id": "exec-2021-25715",
+  "published_at": "2021-11-23",
+  "signing_date": "2021-11-18",
+  "source_url": "https://www.federalregister.gov/documents/2021/11/23/2021-25715/nondisplacement-of-qualified-workers-under-service-contracts",
+  "title": "Nondisplacement of Qualified Workers Under Service Contracts",
+  "topics": [],
+  "type": "executive_action"
+}

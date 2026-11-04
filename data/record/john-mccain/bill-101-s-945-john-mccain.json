@@ -1,0 +1,21 @@
+{
+  "bill_number": "S945",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-945-john-mccain",
+  "introduced_date": "1989-05-09",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1989-05-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/945",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 38, United States Code, to ensure that all veterans eligible to receive educational assistance under the Veterans' Educational Assistance Program have 10 years after discharge or release from active duty in which to pursue a program of education with such assistance.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

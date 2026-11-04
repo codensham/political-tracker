@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES137",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-137-john-mccain",
+  "introduced_date": "1990-06-12",
+  "policy_area": "International Affairs",
+  "published_at": "1990-06-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/137",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to express the sense of Congress that the 1990 Nuclear Non-Proliferation Treaty (NPT) Review Conference should reaffirm the support of the parties for the objectives of the NPT, in particular preventing the spread of nuclear weapons to additional countries.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

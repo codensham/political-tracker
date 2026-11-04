@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES5",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sjres-5-john-mccain",
+  "introduced_date": "2005-02-16",
+  "policy_area": "International Affairs",
+  "published_at": "2005-02-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-joint-resolution/5",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution expressing the sense of Congress that the United States should act to reduce greenhouse gas emissions.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

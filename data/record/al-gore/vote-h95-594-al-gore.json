@@ -1,0 +1,20 @@
+{
+  "bill_number": "HRE819",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 95,
+  "id": "vote-h95-594-al-gore",
+  "published_at": "1977-10-12",
+  "question": null,
+  "rollnumber": 594,
+  "source_url": "https://voteview.com/rollcall/RH0950594",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1977-10-12",
+  "vote_result": null
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HCONRES290",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-453-joe-biden",
+  "published_at": "2000-04-07",
+  "question": "On the Concurrent Resolution",
+  "rollnumber": 453,
+  "source_url": "https://voteview.com/rollcall/RS1060453",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-04-07",
+  "vote_result": "Concurrent Resolution Agreed to"
+}

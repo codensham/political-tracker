@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1588",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-446-john-mccain",
+  "published_at": "2003-11-11",
+  "question": "On the Motion to Proceed",
+  "rollnumber": 446,
+  "source_url": "https://voteview.com/rollcall/RS1080446",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2003-11-11",
+  "vote_result": "Motion to Proceed Agreed to"
+}

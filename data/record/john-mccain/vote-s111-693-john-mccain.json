@@ -1,0 +1,20 @@
+{
+  "bill_number": "TREATYDOC1115",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-693-john-mccain",
+  "published_at": "2010-12-21",
+  "question": "On the Amendment",
+  "rollnumber": 693,
+  "source_url": "https://voteview.com/rollcall/RS1110693",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2010-12-21",
+  "vote_result": "Amendment Rejected"
+}

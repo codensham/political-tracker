@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES84",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sconres-84-john-kerry",
+  "introduced_date": "2000-03-28",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2000-03-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-concurrent-resolution/84",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of Congress regarding the naming of aircraft carrier CVN-77, the last vessel of the historic \"NIMITZ\"  class of aircraft carriers, as the U.S.S. Lexington.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

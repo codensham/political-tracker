@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-6907",
+  "document_type": "executive_order",
+  "executive_order_number": "13375",
+  "id": "exec-05-6907",
+  "published_at": "2005-04-05",
+  "signing_date": "2005-04-01",
+  "source_url": "https://www.federalregister.gov/documents/2005/04/05/05-6907/amendment-to-executive-order-13295-relating-to-certaininfluenza-viruses-and-quarantinable",
+  "title": "Amendment to Executive Order 13295 Relating to Certain\nInfluenza Viruses and Quarantinable Communicable Diseases",
+  "topics": [],
+  "type": "executive_action"
+}

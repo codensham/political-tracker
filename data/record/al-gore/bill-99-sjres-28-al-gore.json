@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES28",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-28-al-gore",
+  "introduced_date": "1985-01-24",
+  "policy_area": "Commemorations",
+  "published_at": "1985-01-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/28",
+  "title": "A joint resolution to designate the week of September 8-14, 1985, as \"National Independent Retail Grocer Week\".",
+  "topics": [],
+  "type": "bill"
+}

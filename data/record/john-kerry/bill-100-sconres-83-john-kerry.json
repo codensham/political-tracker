@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES83",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sconres-83-john-kerry",
+  "introduced_date": "1987-10-14",
+  "policy_area": "International Affairs",
+  "published_at": "1987-10-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/83",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution to congratulate Costa Rican President Oscar Arias Sanchez on being awarded the 1987 Nobel Peace Prize.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

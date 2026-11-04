@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES233",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-221-john-kerry",
+  "policy_area": "Emergency Management",
+  "published_at": "2005-09-06",
+  "question": "On the Resolution",
+  "rollnumber": 221,
+  "source_url": "https://voteview.com/rollcall/RS1090221",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2005-09-06",
+  "vote_result": "Resolution Agreed to"
+}

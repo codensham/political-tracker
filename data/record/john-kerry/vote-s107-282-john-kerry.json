@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN886",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-282-john-kerry",
+  "published_at": "2001-09-21",
+  "question": "On the Nomination",
+  "rollnumber": 282,
+  "source_url": "https://voteview.com/rollcall/RS1070282",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-09-21",
+  "vote_result": "Nomination Confirmed"
+}

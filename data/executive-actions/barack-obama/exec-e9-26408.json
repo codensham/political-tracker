@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-26408",
+  "document_type": "executive_order",
+  "executive_order_number": "13516",
+  "id": "exec-e9-26408",
+  "published_at": "2009-11-02",
+  "signing_date": "2009-11-02",
+  "source_url": "https://www.federalregister.gov/documents/2009/11/02/E9-26408/amending-executive-order-13462",
+  "title": "Amending Executive Order 13462",
+  "topics": [],
+  "type": "executive_action"
+}

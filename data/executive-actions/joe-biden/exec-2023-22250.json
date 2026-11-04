@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-22250",
+  "document_type": "executive_order",
+  "executive_order_number": "14109",
+  "id": "exec-2023-22250",
+  "published_at": "2023-10-04",
+  "signing_date": "2023-09-29",
+  "source_url": "https://www.federalregister.gov/documents/2023/10/04/2023-22250/continuance-of-certain-federal-advisory-committees-and-amendments-to-other-executive-orders",
+  "title": "Continuance of Certain Federal Advisory Committees and Amendments to Other Executive Orders",
+  "topics": [],
+  "type": "executive_action"
+}

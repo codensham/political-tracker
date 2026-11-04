@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2152",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2152-john-mccain",
+  "introduced_date": "1988-03-29",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1988-03-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2152",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to increase the authority to transfer unobligated balances between certain accounts of the Department of Defense in order to meet increased military personnel costs resulting from fluctuations in foreign currency exchange rates, and for other purposes.",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

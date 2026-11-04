@@ -1,0 +1,21 @@
+{
+  "bill_number": "HCONRES212",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hconres-212-john-mccain",
+  "introduced_date": "1985-10-10",
+  "policy_area": "International Affairs",
+  "published_at": "1985-10-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-concurrent-resolution/212",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution condemning the Government of the Soviet Union for the killing of Charles Thornton, an American journalist working in Afghanistan.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

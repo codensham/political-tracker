@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1876",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-1876-joe-biden",
+  "introduced_date": "2007-07-25",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2007-07-25",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/1876",
+  "tagged_by": "crosswalk@1",
+  "title": "National Security with Justice Act of 2007",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

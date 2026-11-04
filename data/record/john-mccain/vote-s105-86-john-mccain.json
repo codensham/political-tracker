@@ -1,0 +1,20 @@
+{
+  "bill_number": "SCONRES27",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-86-john-mccain",
+  "published_at": "1997-05-23",
+  "question": "On the Amendment",
+  "rollnumber": 86,
+  "source_url": "https://voteview.com/rollcall/RS1050086",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-05-23",
+  "vote_result": "Amendment Agreed to"
+}

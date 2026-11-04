@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2706",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-s99-649-al-gore",
+  "published_at": "1986-09-19",
+  "question": null,
+  "rollnumber": 649,
+  "source_url": "https://voteview.com/rollcall/RS0990649",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1986-09-19",
+  "vote_result": null
+}

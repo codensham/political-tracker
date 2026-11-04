@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES510",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-510-john-kerry",
+  "introduced_date": "2006-06-20",
+  "policy_area": "Commemorations",
+  "published_at": "2006-06-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/510",
+  "title": "A resolution designating the period beginning on June 28, 2006, and ending on July 5, 2006, as \"National Clean Beaches Week\", supporting the goals and ideals of that week, and recognizing the considerable value and role of beaches in the culture of the United States.",
+  "topics": [],
+  "type": "bill"
+}

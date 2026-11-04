@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES713",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-713-john-kerry",
+  "introduced_date": "2008-11-20",
+  "policy_area": "International Affairs",
+  "published_at": "2008-11-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/713",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling on all parties to the escalating violence in eastern Democratic Republic of Congo to implement an immediate ceasefire and work with the support of the international community toward a comprehensive and lasting solution to the crisis.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES90",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sconres-90-al-gore",
+  "introduced_date": "1986-05-07",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1986-05-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-concurrent-resolution/90",
+  "title": "A concurrent resolution urging the President to convene a Conference to develop an International Seaport Security Agreement relating to seaport and passenger vessel security among the United States, its allies, other interested nations, and the private sector.",
+  "topics": [],
+  "type": "bill"
+}

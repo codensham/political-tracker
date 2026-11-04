@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES454",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-454-kamala-harris",
+  "introduced_date": "2018-04-10",
+  "policy_area": "Congress",
+  "published_at": "2018-04-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/454",
+  "title": "A resolution relative to the death of Zell Bryan Miller, the former Governor and Senator of the State of Georgia.",
+  "topics": [],
+  "type": "bill"
+}

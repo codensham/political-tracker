@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6111",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-643-john-kerry",
+  "published_at": "2006-12-09",
+  "question": "On the Motion",
+  "rollnumber": 643,
+  "source_url": "https://voteview.com/rollcall/RS1090643",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-12-09",
+  "vote_result": "Motion Agreed to"
+}

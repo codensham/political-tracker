@@ -1,0 +1,24 @@
+{
+  "bill_number": "S2363",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-511-john-mccain",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2014-07-10",
+  "question": "On the Cloture Motion",
+  "rollnumber": 511,
+  "source_url": "https://voteview.com/rollcall/RS1130511",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "environment"
+  ],
+  "type": "vote",
+  "vote_date": "2014-07-10",
+  "vote_result": "Cloture Motion Rejected"
+}

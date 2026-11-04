@@ -1,0 +1,21 @@
+{
+  "bill_number": "S583",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-583-john-mccain",
+  "introduced_date": "1991-05-08",
+  "policy_area": "Taxation",
+  "published_at": "1991-05-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/583",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to require the recapture of certain losses of savings and loan associations, to clarify the treatment of certain Federal financial assistance to savings and loan associations, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

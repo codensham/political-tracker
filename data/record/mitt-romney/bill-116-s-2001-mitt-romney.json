@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2001",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-2001-mitt-romney",
+  "introduced_date": "2020-01-16",
+  "policy_area": "Sports and Recreation",
+  "published_at": "2020-01-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/2001",
+  "title": "Willie O’Ree Congressional Gold Medal Act",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2844",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2844-hillary-clinton",
+  "introduced_date": "2008-07-22",
+  "policy_area": "Environmental Protection",
+  "published_at": "2008-07-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2844",
+  "tagged_by": "crosswalk@1",
+  "title": "Beach Protection Act of 2008",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

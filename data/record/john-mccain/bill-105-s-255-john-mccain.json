@@ -1,0 +1,21 @@
+{
+  "bill_number": "S255",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-255-john-mccain",
+  "introduced_date": "1997-02-04",
+  "policy_area": "Science, Technology, Communications",
+  "published_at": "1997-02-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/255",
+  "tagged_by": "crosswalk@1",
+  "title": "Law Enforcement and Public Safety Telecommunications Empowerment Act",
+  "topics": [
+    "technology"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4048",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-4048-al-gore",
+  "introduced_date": "1983-09-30",
+  "policy_area": "Taxation",
+  "published_at": "1983-09-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/4048",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to allow an additional 10 percent investment credit for section 38 property which is a robot or part of an automated system.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES456",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-456-joe-biden",
+  "introduced_date": "2008-04-02",
+  "policy_area": "International Affairs",
+  "published_at": "2008-04-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/456",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution directing the United States to undertake bilateral discussions with Canada to negotiate an agreement to conserve populations of large whales at risk of extinction that migrate along the Atlantic seaboard of North America.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

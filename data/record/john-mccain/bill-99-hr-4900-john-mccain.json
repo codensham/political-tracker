@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR4900",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-4900-john-mccain",
+  "introduced_date": "1986-05-22",
+  "policy_area": "Native Americans",
+  "published_at": "1986-05-22",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/4900",
+  "title": "A bill to provide for the proper administration of justice within the boundaries of the Salt River Pima-Maricopa Indian Community.",
+  "topics": [],
+  "type": "bill"
+}

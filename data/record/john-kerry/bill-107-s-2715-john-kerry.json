@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2715",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2715-john-kerry",
+  "introduced_date": "2002-07-15",
+  "policy_area": "Labor and Employment",
+  "published_at": "2002-07-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2715",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide an additional extension of the period of availability of unemployment assistance under the Robert T. Stafford Disaster Relief an Emergency Assistance Act in the case of victims of the terrorist attacks of September 11, 2001.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

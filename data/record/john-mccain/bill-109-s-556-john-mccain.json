@@ -1,0 +1,21 @@
+{
+  "bill_number": "S556",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-556-john-mccain",
+  "introduced_date": "2005-03-08",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2005-03-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/556",
+  "tagged_by": "crosswalk@1",
+  "title": "Walnut Canyon Study Act of 2005",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

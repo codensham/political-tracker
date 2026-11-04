@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-27241",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-04-27241",
+  "published_at": "2004-12-09",
+  "signing_date": "2004-12-06",
+  "source_url": "https://www.federalregister.gov/documents/2004/12/09/04-27241/national-pearl-harbor-remembrance-day-2004",
+  "title": "National Pearl Harbor Remembrance Day, 2004",
+  "topics": [],
+  "type": "executive_action"
+}

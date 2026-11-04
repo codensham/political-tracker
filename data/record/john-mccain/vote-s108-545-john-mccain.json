@@ -1,0 +1,24 @@
+{
+  "bill_number": "SRES356",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 108,
+  "id": "vote-s108-545-john-mccain",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2004-05-10",
+  "question": "On the Resolution",
+  "rollnumber": 545,
+  "source_url": "https://voteview.com/rollcall/RS1080545",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "defense"
+  ],
+  "type": "vote",
+  "vote_date": "2004-05-10",
+  "vote_result": "Resolution Agreed to"
+}

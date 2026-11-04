@@ -1,0 +1,24 @@
+{
+  "bill_number": "S2",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-466-joe-biden",
+  "policy_area": "Education",
+  "published_at": "2000-05-04",
+  "question": "On the Amendment",
+  "rollnumber": 466,
+  "source_url": "https://voteview.com/rollcall/RS1060466",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "education"
+  ],
+  "type": "vote",
+  "vote_date": "2000-05-04",
+  "vote_result": "Amendment Agreed to"
+}

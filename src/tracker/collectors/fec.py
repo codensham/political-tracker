@@ -2,13 +2,13 @@
 
 from __future__ import annotations
 
-import os
 import time
-from typing import Callable, Iterable
+from collections.abc import Callable, Iterable
 
 import httpx
 
 from tracker.collectors import REGISTRY
+from tracker.config import get_key
 from tracker.http import get_json
 
 BASE_URL = "https://api.open.fec.gov/v1"
@@ -26,7 +26,7 @@ class FecFinanceCollector:
     ):
         self._client = client or httpx.Client(timeout=30)
         self._sleep = sleep
-        self._api_key = os.environ.get("FEC_API_KEY") or "DEMO_KEY"
+        self._api_key = get_key("FEC_API_KEY") or "DEMO_KEY"
 
     def collect(self, candidates: list[dict]) -> Iterable[dict]:
         for cand in candidates:

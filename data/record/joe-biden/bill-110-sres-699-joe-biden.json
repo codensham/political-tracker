@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES699",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-699-joe-biden",
+  "introduced_date": "2008-09-30",
+  "policy_area": "Commemorations",
+  "published_at": "2008-09-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/699",
+  "title": "A resolution supporting the work of firefighters to educate and protect the Nation's communities, and the goals and ideals of Fire Prevention Week, October 5-11, 2008, as designated by the National Fire Protection Association.",
+  "topics": [],
+  "type": "bill"
+}

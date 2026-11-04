@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN511",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-279-john-kerry",
+  "published_at": "1997-10-27",
+  "question": "On the Nomination",
+  "rollnumber": 279,
+  "source_url": "https://voteview.com/rollcall/RS1050279",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1997-10-27",
+  "vote_result": "Nomination Confirmed"
+}

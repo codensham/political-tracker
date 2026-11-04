@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES48",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sjres-48-john-mccain",
+  "introduced_date": "2002-10-08",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2002-10-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-joint-resolution/48",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution disapproving the rule submitted by the Federal Election Commission under chapter 8 of title 5, United States Code, relating to prohibited and excessive contributions.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

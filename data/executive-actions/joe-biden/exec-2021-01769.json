@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01769",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2021-01769",
+  "published_at": "2021-01-25",
+  "signing_date": "2021-01-20",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01769/preserving-and-fortifying-deferred-action-for-childhood-arrivals-daca",
+  "title": "Preserving and Fortifying Deferred Action for Childhood Arrivals (DACA)",
+  "topics": [],
+  "type": "executive_action"
+}

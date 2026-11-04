@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES12",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-12-joe-biden",
+  "introduced_date": "1991-01-12",
+  "policy_area": "International Affairs",
+  "published_at": "1991-01-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/12",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution calling upon President Gorbachev to refrain from further use of force against the democratically elected government of Lithuania, Latvia, or Estonia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

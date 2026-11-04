@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2013-07919",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2013-07919",
+  "published_at": "2013-04-04",
+  "signing_date": "2013-03-29",
+  "source_url": "https://www.federalregister.gov/documents/2013/04/04/2013-07919/national-cancer-control-month-2013",
+  "title": "National Cancer Control Month, 2013",
+  "topics": [],
+  "type": "executive_action"
+}

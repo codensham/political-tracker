@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1647",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1647-john-kerry",
+  "introduced_date": "2009-08-07",
+  "policy_area": "Labor and Employment",
+  "published_at": "2009-08-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1647",
+  "tagged_by": "crosswalk@1",
+  "title": "Assistance for Unemployed Workers Extension Act",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

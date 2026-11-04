@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2364",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 101,
+  "id": "vote-s101-427-joe-biden",
+  "published_at": "1990-06-12",
+  "question": "On Overriding the Veto",
+  "rollnumber": 427,
+  "source_url": "https://voteview.com/rollcall/RS1010427",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1990-06-12",
+  "vote_result": "Veto Sustained"
+}

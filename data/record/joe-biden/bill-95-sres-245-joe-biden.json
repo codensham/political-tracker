@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES245",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-sres-245-joe-biden",
+  "introduced_date": "1977-08-04",
+  "policy_area": "Congress",
+  "published_at": "1977-08-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/senate-resolution/245",
+  "title": "A resolution relating to the consideration of S. 1682.",
+  "topics": [],
+  "type": "bill"
+}

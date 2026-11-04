@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2016-08970",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2016-08970",
+  "published_at": "2016-04-15",
+  "signing_date": "2016-04-12",
+  "source_url": "https://www.federalregister.gov/documents/2016/04/15/2016-08970/establishment-of-the-belmont-paul-womens-equality-national-monument",
+  "title": "Establishment of the Belmont-Paul Women's Equality National Monument",
+  "topics": [],
+  "type": "executive_action"
+}

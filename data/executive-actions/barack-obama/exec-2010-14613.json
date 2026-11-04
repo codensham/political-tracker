@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-14613",
+  "document_type": "executive_order",
+  "executive_order_number": "13544",
+  "id": "exec-2010-14613",
+  "published_at": "2010-06-16",
+  "signing_date": "2010-06-10",
+  "source_url": "https://www.federalregister.gov/documents/2010/06/16/2010-14613/establishing-the-national-prevention-health-promotion-and-public-health-council",
+  "title": "Establishing the National Prevention, Health Promotion, and Public Health Council",
+  "topics": [],
+  "type": "executive_action"
+}

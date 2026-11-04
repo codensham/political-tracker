@@ -1,0 +1,20 @@
+{
+  "bill_number": null,
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 94,
+  "id": "vote-s94-804-joe-biden",
+  "published_at": "1976-05-26",
+  "question": null,
+  "rollnumber": 804,
+  "source_url": "https://voteview.com/rollcall/RS0940804",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1976-05-26",
+  "vote_result": null
+}

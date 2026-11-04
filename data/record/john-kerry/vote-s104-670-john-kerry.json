@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2854",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-670-john-kerry",
+  "published_at": "1996-03-28",
+  "question": "On the Conference Report",
+  "rollnumber": 670,
+  "source_url": "https://voteview.com/rollcall/RS1040670",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1996-03-28",
+  "vote_result": "Conference Report Agreed to"
+}

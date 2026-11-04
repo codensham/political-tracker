@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E8-25880",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e8-25880",
+  "published_at": "2008-10-28",
+  "signing_date": "2008-10-23",
+  "source_url": "https://www.federalregister.gov/documents/2008/10/28/E8-25880/united-nations-day-2008",
+  "title": "United Nations Day, 2008",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1404",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1404-john-mccain",
+  "introduced_date": "2003-07-15",
+  "policy_area": "Sports and Recreation",
+  "published_at": "2003-07-15",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1404",
+  "title": "United States Olympic Committee Reform Act",
+  "topics": [],
+  "type": "bill"
+}

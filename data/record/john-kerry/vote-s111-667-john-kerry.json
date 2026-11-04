@@ -1,0 +1,20 @@
+{
+  "bill_number": "S3454",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-667-john-kerry",
+  "published_at": "2010-12-09",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 667,
+  "source_url": "https://voteview.com/rollcall/RS1110667",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2010-12-09",
+  "vote_result": "Cloture on the Motion to Proceed Rejected"
+}

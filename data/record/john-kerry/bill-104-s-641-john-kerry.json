@@ -1,0 +1,21 @@
+{
+  "bill_number": "S641",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-641-john-kerry",
+  "introduced_date": "1995-04-06",
+  "policy_area": "Health",
+  "published_at": "1995-04-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/641",
+  "tagged_by": "crosswalk@1",
+  "title": "Ryan White CARE Act Amendments of 1996",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-06837",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2023-06837",
+  "published_at": "2023-03-30",
+  "signing_date": "2023-03-24",
+  "source_url": "https://www.federalregister.gov/documents/2023/03/30/2023-06837/conserving-the-natural-and-cultural-heritage-of-the-pacific-remote-islands",
+  "title": "Conserving the Natural and Cultural Heritage of the Pacific Remote Islands",
+  "topics": [],
+  "type": "executive_action"
+}

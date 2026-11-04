@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES470",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-sres-470-mitt-romney",
+  "introduced_date": "2021-12-06",
+  "policy_area": "Congress",
+  "published_at": "2021-12-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-resolution/470",
+  "title": "A resolution relating to the death of the Honorable Robert \"Bob\" J. Dole, former United States Senator for the State of Kansas.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES232",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-232-joe-biden",
+  "introduced_date": "1987-12-15",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1987-12-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/232",
+  "tagged_by": "crosswalk@1",
+  "title": "Raoul Wallenberg Monument Resolution",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

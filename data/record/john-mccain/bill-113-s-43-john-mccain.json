@@ -1,0 +1,21 @@
+{
+  "bill_number": "S43",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-s-43-john-mccain",
+  "introduced_date": "2013-01-30",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2013-01-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-bill/43",
+  "tagged_by": "crosswalk@1",
+  "title": "Dollar-for-Dollar Deficit Reduction Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

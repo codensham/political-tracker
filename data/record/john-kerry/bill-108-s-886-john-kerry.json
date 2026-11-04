@@ -1,0 +1,21 @@
+{
+  "bill_number": "S886",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-886-john-kerry",
+  "introduced_date": "2003-04-10",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2003-04-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/886",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to ratify otherwise legal appointments and promotions in the commissioned corps of the National Oceanic and Atmospheric Administration that failed to be submitted to the Senate for its advice and consent as required by law, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

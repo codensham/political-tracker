@@ -1,0 +1,21 @@
+{
+  "bill_number": "S308",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 118,
+  "id": "bill-118-s-308-mitt-romney",
+  "introduced_date": "2023-02-09",
+  "policy_area": "International Affairs",
+  "published_at": "2023-02-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/118th-congress/senate-bill/308",
+  "tagged_by": "crosswalk@1",
+  "title": "Ending China's Developing Nation Status Act",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

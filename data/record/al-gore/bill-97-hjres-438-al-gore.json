@@ -1,0 +1,18 @@
+{
+  "bill_number": "HJRES438",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hjres-438-al-gore",
+  "introduced_date": "1982-05-06",
+  "policy_area": "Social Welfare",
+  "published_at": "1982-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-joint-resolution/438",
+  "title": "A joint resolution acknowledging the Big Brothers/Big Sisters of America for its achievements and recognizing its volunteers for their service to children.",
+  "topics": [],
+  "type": "bill"
+}

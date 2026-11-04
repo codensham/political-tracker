@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR1883",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-1883-al-gore",
+  "introduced_date": "1983-04-26",
+  "policy_area": "Taxation",
+  "published_at": "1983-04-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/1883",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to provide a tax credit to homebuilders for the construction of residences incorporating certain solar energy utilization characteristics.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

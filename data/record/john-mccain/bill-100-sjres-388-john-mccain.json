@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES388",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-388-john-mccain",
+  "introduced_date": "1988-10-13",
+  "policy_area": "Commemorations",
+  "published_at": "1988-10-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/388",
+  "title": "A joint resolution designating October 15, 1988, as \"National Fire Fighters Day\".",
+  "topics": [],
+  "type": "bill"
+}

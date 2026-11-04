@@ -1,0 +1,18 @@
+{
+  "bill_number": "S3501",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-3501-john-mccain",
+  "introduced_date": "2006-06-13",
+  "policy_area": "Native Americans",
+  "published_at": "2006-06-13",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/3501",
+  "title": "A bill to amend the Shivwits Band of the Paiute Indian Tribe of Utah Water Rights Settlement Act to establish an acquisition fund for the water rights and habitat acquisition program.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1745",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1745-hillary-clinton",
+  "introduced_date": "2001-12-05",
+  "policy_area": "Health",
+  "published_at": "2001-12-05",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1745",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to delay until at least January 1, 2003, any changes in medicaid regulations that modify the medicaid upper payment limit for non-State Government-owned or operated hospitals.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

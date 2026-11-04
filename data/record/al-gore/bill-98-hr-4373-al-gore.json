@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR4373",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-4373-al-gore",
+  "introduced_date": "1984-03-29",
+  "policy_area": "Finance and Financial Sector",
+  "published_at": "1984-03-29",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/4373",
+  "tagged_by": "crosswalk@1",
+  "title": "Interlocking Ownership Disclosure Act",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

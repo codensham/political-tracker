@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-24454",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-01-24454",
+  "published_at": "2001-09-27",
+  "signing_date": "2001-09-25",
+  "source_url": "https://www.federalregister.gov/documents/2001/09/27/01-24454/delegation-of-authority-to-compensate-air-carriers-for-losses-resulting-from-the-terrorist-attacks",
+  "title": "Delegation of Authority To Compensate Air Carriers for Losses Resulting From the Terrorist Attacks of September 11, 2001",
+  "topics": [],
+  "type": "executive_action"
+}

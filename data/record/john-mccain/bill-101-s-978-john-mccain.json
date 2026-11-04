@@ -1,0 +1,18 @@
+{
+  "bill_number": "S978",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-978-john-mccain",
+  "introduced_date": "1989-05-11",
+  "policy_area": "Native Americans",
+  "published_at": "1989-05-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/978",
+  "title": "National Museum of the American Indian Act",
+  "topics": [],
+  "type": "bill"
+}

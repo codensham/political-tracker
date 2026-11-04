@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1589",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "not_voting",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 94,
+  "id": "vote-s94-7-joe-biden",
+  "published_at": "1975-02-05",
+  "question": null,
+  "rollnumber": 7,
+  "source_url": "https://voteview.com/rollcall/RS0940007",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1975-02-05",
+  "vote_result": null
+}

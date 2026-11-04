@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES94",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sres-94-john-mccain",
+  "introduced_date": "1989-04-06",
+  "policy_area": "Congress",
+  "published_at": "1989-04-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-resolution/94",
+  "title": "A resolution to express the Senate's confidence, hope, and trust for those who will serve in the Senate during its third century.",
+  "topics": [],
+  "type": "bill"
+}

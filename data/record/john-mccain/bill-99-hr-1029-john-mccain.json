@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR1029",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-1029-john-mccain",
+  "introduced_date": "1985-03-19",
+  "policy_area": "Energy",
+  "published_at": "1985-03-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/1029",
+  "tagged_by": "crosswalk@1",
+  "title": "Nuclear Powerplant Standardization Act of 1985",
+  "topics": [
+    "climate-energy"
+  ],
+  "type": "bill"
+}

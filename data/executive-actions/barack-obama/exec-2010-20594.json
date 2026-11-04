@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2010-20594",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2010-20594",
+  "published_at": "2010-08-18",
+  "signing_date": "2010-08-13",
+  "source_url": "https://www.federalregister.gov/documents/2010/08/18/2010-20594/75th-anniversary-of-the-social-security-act",
+  "title": "75th Anniversary of the Social Security Act",
+  "topics": [],
+  "type": "executive_action"
+}

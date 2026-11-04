@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN185",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-385-mitt-romney",
+  "published_at": "2019-12-05",
+  "question": "On the Nomination",
+  "rollnumber": 385,
+  "source_url": "https://voteview.com/rollcall/RS1160385",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2019-12-05",
+  "vote_result": "Nomination Confirmed"
+}

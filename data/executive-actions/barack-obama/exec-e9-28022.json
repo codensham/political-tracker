@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-28022",
+  "document_type": "executive_order",
+  "executive_order_number": "13519",
+  "id": "exec-e9-28022",
+  "published_at": "2009-11-19",
+  "signing_date": "2009-11-17",
+  "source_url": "https://www.federalregister.gov/documents/2009/11/19/E9-28022/establishment-of-the-financial-fraud-enforcement-task-force",
+  "title": "Establishment of the Financial Fraud Enforcement Task Force",
+  "topics": [],
+  "type": "executive_action"
+}

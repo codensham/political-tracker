@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-61-john-kerry",
+  "published_at": "2009-02-10",
+  "question": "On Passage of the Bill",
+  "rollnumber": 61,
+  "source_url": "https://voteview.com/rollcall/RS1110061",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-02-10",
+  "vote_result": "Bill Passed"
+}

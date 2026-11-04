@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-25568",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2014-25568",
+  "published_at": "2014-10-24",
+  "signing_date": "2014-10-17",
+  "source_url": "https://www.federalregister.gov/documents/2014/10/24/2014-25568/providing-an-order-of-succession-within-the-social-security-administration",
+  "title": "Providing an Order of Succession Within the Social Security Administration",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES329",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-329-john-kerry",
+  "introduced_date": "1990-09-18",
+  "policy_area": "International Affairs",
+  "published_at": "1990-09-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/329",
+  "tagged_by": "crosswalk@1",
+  "title": "An Act to designate the week of November 3, 1990, to November 10, 1990, as \"National Week to Commemorate the Victims of the Famine in the Ukraine, 1932-1933,\" and to commemorate the Ukrainian famine of 1932-1933 and the policies of Russification to suppress Ukrainian identity.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES152",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-152-joe-biden",
+  "introduced_date": "2003-05-21",
+  "policy_area": "International Affairs",
+  "published_at": "2003-05-21",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/152",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution welcoming the President of the Philippines to the United States, expressing gratitude to the Government of the Philippines for its strong cooperation with the United States in the campaign against terrorism and its membership in the coalition to disarm Iraq, and reaffirming the commitment of Congress to the continues expansion of friendship and cooperation between the United States and the Philippines.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

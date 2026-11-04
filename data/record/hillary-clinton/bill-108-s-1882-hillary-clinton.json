@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1882",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1882-hillary-clinton",
+  "introduced_date": "2003-11-18",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2003-11-18",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1882",
+  "tagged_by": "crosswalk@1",
+  "title": "Terrorist Apprehension Act",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

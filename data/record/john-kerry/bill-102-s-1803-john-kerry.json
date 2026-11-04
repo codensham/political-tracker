@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1803",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1803-john-kerry",
+  "introduced_date": "1991-10-03",
+  "policy_area": "Health",
+  "published_at": "1991-10-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1803",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit recoupment of certain medicare payments to certain Uniformed Services Treatment Facilities.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

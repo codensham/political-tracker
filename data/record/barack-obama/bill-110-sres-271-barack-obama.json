@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES271",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-sres-271-barack-obama",
+  "introduced_date": "2007-07-13",
+  "policy_area": "Commemorations",
+  "published_at": "2007-07-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-resolution/271",
+  "title": "A resolution honoring Lady Bird Johnson.",
+  "topics": [],
+  "type": "bill"
+}

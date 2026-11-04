@@ -1,0 +1,20 @@
+{
+  "bill_number": "HRES755",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 116,
+  "id": "vote-s116-461-kamala-harris",
+  "published_at": "2020-02-05",
+  "question": "Guilty or Not Guilty",
+  "rollnumber": 461,
+  "source_url": "https://voteview.com/rollcall/RS1160461",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2020-02-05",
+  "vote_result": "Not Guilty"
+}

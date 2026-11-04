@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-14429",
+  "document_type": "executive_order",
+  "executive_order_number": "13669",
+  "id": "exec-2014-14429",
+  "published_at": "2014-06-18",
+  "signing_date": "2014-06-13",
+  "source_url": "https://www.federalregister.gov/documents/2014/06/18/2014-14429/2014-amendments-to-the-manual-for-courts-martial-united-states",
+  "title": "2014 Amendments to the Manual for Courts-Martial, United States",
+  "topics": [],
+  "type": "executive_action"
+}

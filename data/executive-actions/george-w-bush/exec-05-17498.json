@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-17498",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-05-17498",
+  "published_at": "2005-08-31",
+  "signing_date": "2005-08-29",
+  "source_url": "https://www.federalregister.gov/documents/2005/08/31/05-17498/national-prostate-cancer-awareness-month-2005",
+  "title": "National Prostate Cancer Awareness Month, 2005",
+  "topics": [],
+  "type": "executive_action"
+}

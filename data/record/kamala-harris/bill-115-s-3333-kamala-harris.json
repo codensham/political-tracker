@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3333",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-3333-kamala-harris",
+  "introduced_date": "2018-08-01",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "2018-08-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/3333",
+  "tagged_by": "crosswalk@1",
+  "title": "Roadless Area Conservation Act of 2018",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

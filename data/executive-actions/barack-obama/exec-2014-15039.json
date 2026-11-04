@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2014-15039",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2014-15039",
+  "published_at": "2014-06-25",
+  "signing_date": "2014-06-20",
+  "source_url": "https://www.federalregister.gov/documents/2014/06/25/2014-15039/70th-anniversary-of-the-gi-bill-of-rights",
+  "title": "70th Anniversary of the GI Bill of Rights",
+  "topics": [],
+  "type": "executive_action"
+}

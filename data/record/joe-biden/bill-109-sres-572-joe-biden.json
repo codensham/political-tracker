@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES572",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-572-joe-biden",
+  "introduced_date": "2006-09-26",
+  "policy_area": "Commemorations",
+  "published_at": "2006-09-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/572",
+  "title": "A resolution expressing the sense of the Senate with respect to raising awareness and enhancing the state of computer security in the United States, and supporting the goals and ideals of National Cyber Security Awareness Month.",
+  "topics": [],
+  "type": "bill"
+}

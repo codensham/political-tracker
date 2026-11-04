@@ -1,0 +1,18 @@
+{
+  "amount": 43090.11,
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C00390658",
+  "committee_name": "TRUEMAJORITYACTIONPAC",
+  "cycle": 2004,
+  "fec_candidate_id": "P00003335",
+  "id": "outside-george-w-bush-p00003335-2004-c00390658-oppose",
+  "published_at": "2004-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P00003335/?cycle=2004",
+  "support_oppose": "oppose",
+  "topics": [],
+  "type": "outside_spending"
+}

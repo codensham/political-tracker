@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1648",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-s-1648-john-mccain",
+  "introduced_date": "2009-08-07",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2009-08-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-bill/1648",
+  "tagged_by": "crosswalk@1",
+  "title": "Federal Election Administration Act of 2009",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

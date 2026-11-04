@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-3883",
+  "document_type": "executive_order",
+  "executive_order_number": "13200",
+  "id": "exec-01-3883",
+  "published_at": "2001-02-14",
+  "signing_date": "2001-02-11",
+  "source_url": "https://www.federalregister.gov/documents/2001/02/14/01-3883/presidents-information-technology-advisory-committee-further-amendment-to-executive-order-13035-as",
+  "title": "President's Information Technology Advisory Committee, Further Amendment to Executive Order 13035, as Amended",
+  "topics": [],
+  "type": "executive_action"
+}

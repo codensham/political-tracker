@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2936",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2936-john-kerry",
+  "introduced_date": "2000-07-26",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "2000-07-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2936",
+  "tagged_by": "crosswalk@1",
+  "title": "Creating New Markets and Empowering America Act of 2000",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-26831",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-03-26831",
+  "published_at": "2003-10-22",
+  "signing_date": "2003-10-18",
+  "source_url": "https://www.federalregister.gov/documents/2003/10/22/03-26831/national-character-counts-week-2003",
+  "title": "National Character Counts Week, 2003",
+  "topics": [],
+  "type": "executive_action"
+}

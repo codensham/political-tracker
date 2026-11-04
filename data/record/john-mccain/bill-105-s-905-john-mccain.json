@@ -1,0 +1,18 @@
+{
+  "bill_number": "S905",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-905-john-mccain",
+  "introduced_date": "1997-06-16",
+  "policy_area": "Sports and Recreation",
+  "published_at": "1997-06-16",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/905",
+  "title": "National Physical Fitness and Sports Foundation Establishment Act",
+  "topics": [],
+  "type": "bill"
+}

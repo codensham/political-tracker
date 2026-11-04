@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES271",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-sres-271-hillary-clinton",
+  "introduced_date": "2002-05-16",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2002-05-16",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-resolution/271",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate regarding the effectiveness of the AMBER plan in responding to child abductions.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

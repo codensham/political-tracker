@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "03-28358",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-03-28358",
+  "published_at": "2003-11-10",
+  "signing_date": "2003-10-20",
+  "source_url": "https://www.federalregister.gov/documents/2003/11/10/03-28358/certification-concerning-us-participation-in-the-un-mission-in-liberia-consistent-with-section-2005",
+  "title": "Certification Concerning U.S. Participation in the U.N. Mission in Liberia Consistent With Section 2005 of the American Servicemembers' Protection Act",
+  "topics": [],
+  "type": "executive_action"
+}

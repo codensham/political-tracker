@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2328",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2328-hillary-clinton",
+  "introduced_date": "2002-07-09",
+  "policy_area": "Health",
+  "published_at": "2002-07-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2328",
+  "tagged_by": "crosswalk@1",
+  "title": "Women's Health Act of 2002",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

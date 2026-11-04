@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2011-14474",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2011-14474",
+  "published_at": "2011-06-09",
+  "signing_date": "2011-06-06",
+  "source_url": "https://www.federalregister.gov/documents/2011/06/09/2011-14474/designation-of-officers-of-the-overseas-private-investment-corporation-to-act-as-president-of-the",
+  "title": "Designation of Officers of the Overseas Private Investment Corporation To Act as President of the Overseas Private Investment Corporation",
+  "topics": [],
+  "type": "executive_action"
+}

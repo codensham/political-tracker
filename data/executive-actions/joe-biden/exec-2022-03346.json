@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-03346",
+  "document_type": "executive_order",
+  "executive_order_number": "14064",
+  "id": "exec-2022-03346",
+  "published_at": "2022-02-15",
+  "signing_date": "2022-02-11",
+  "source_url": "https://www.federalregister.gov/documents/2022/02/15/2022-03346/protecting-certain-property-of-da-afghanistan-bank-for-the-benefit-of-the-people-of-afghanistan",
+  "title": "Protecting Certain Property of Da Afghanistan Bank for the Benefit of the People of Afghanistan",
+  "topics": [],
+  "type": "executive_action"
+}

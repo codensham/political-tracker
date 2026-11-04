@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES293",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-293-john-kerry",
+  "introduced_date": "2000-04-13",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "2000-04-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/293",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution encouraging all residents of the United States to complete their census forms to ensure the most accurate enumeration of the population possible.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2819",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-2819-john-kerry",
+  "introduced_date": "2008-04-07",
+  "policy_area": "Health",
+  "published_at": "2008-04-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/2819",
+  "tagged_by": "crosswalk@1",
+  "title": "Economic Recovery in Health Care Act of 2008",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

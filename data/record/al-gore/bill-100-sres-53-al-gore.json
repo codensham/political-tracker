@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES53",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sres-53-al-gore",
+  "introduced_date": "1987-01-16",
+  "policy_area": "Housing and Community Development",
+  "published_at": "1987-01-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-resolution/53",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution to express the sense of the Senate regarding the Community Development Block Grant Program.",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

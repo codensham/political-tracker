@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR5631",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 109,
+  "id": "vote-s109-599-john-kerry",
+  "published_at": "2006-09-06",
+  "question": "On the Motion to Table",
+  "rollnumber": 599,
+  "source_url": "https://voteview.com/rollcall/RS1090599",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2006-09-06",
+  "vote_result": "Motion to Table Agreed to"
+}

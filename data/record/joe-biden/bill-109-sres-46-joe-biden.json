@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES46",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-sres-46-joe-biden",
+  "introduced_date": "2005-02-08",
+  "policy_area": "International Affairs",
+  "published_at": "2005-02-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-resolution/46",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution commemorating the life of the late Zurab Zhvania, former Prime Minister of the Republic of Georgia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES343",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 113,
+  "id": "bill-113-sres-343-john-mccain",
+  "introduced_date": "2014-02-04",
+  "policy_area": "Congress",
+  "published_at": "2014-02-04",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/113th-congress/senate-resolution/343",
+  "title": "A resolution establishing a Select Committee of the Senate to make a full and thorough investigation of the unauthorized disclosures of apparently classified information concerning the National Security Agency intelligence-collection programs, operations, and activities, including programs affecting Americans, to make findings based upon the investigation, and to make recommendations based on the investigation and findings.",
+  "topics": [],
+  "type": "bill"
+}

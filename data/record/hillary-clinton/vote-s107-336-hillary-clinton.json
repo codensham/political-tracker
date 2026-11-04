@@ -1,0 +1,20 @@
+{
+  "bill_number": "SJRES28",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-336-hillary-clinton",
+  "published_at": "2001-11-13",
+  "question": "On the Joint Resolution",
+  "rollnumber": 336,
+  "source_url": "https://voteview.com/rollcall/RS1070336",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-11-13",
+  "vote_result": "Joint Resolution Defeated"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR2226",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hr-2226-al-gore",
+  "introduced_date": "1981-04-01",
+  "policy_area": "Health",
+  "published_at": "1981-04-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-bill/2226",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend section 402 of the Social Security Amendments of 1967 to provide for demonstration projects for provision of preventive health services to the elderly.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-957",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-04-957",
+  "published_at": "2004-01-14",
+  "signing_date": "2004-01-12",
+  "source_url": "https://www.federalregister.gov/documents/2004/01/14/04-957/to-suspend-entry-as-immigrants-or-nonimmigrants-of-persons-engaged-in-or-benefiting-from-corruption",
+  "title": "To Suspend Entry as Immigrants or Nonimmigrants of Persons Engaged in or Benefiting from Corruption",
+  "topics": [],
+  "type": "executive_action"
+}

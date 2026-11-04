@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-05677",
+  "document_type": "executive_order",
+  "executive_order_number": "13692",
+  "id": "exec-2015-05677",
+  "published_at": "2015-03-11",
+  "signing_date": "2015-03-08",
+  "source_url": "https://www.federalregister.gov/documents/2015/03/11/2015-05677/blocking-property-and-suspending-entry-of-certain-persons-contributing-to-the-situation-in-venezuela",
+  "title": "Blocking Property and Suspending Entry of Certain Persons Contributing to the Situation in Venezuela",
+  "topics": [],
+  "type": "executive_action"
+}

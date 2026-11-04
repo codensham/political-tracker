@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2724",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-2724-john-kerry",
+  "introduced_date": "2004-07-22",
+  "policy_area": "Commerce",
+  "published_at": "2004-07-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/2724",
+  "title": "A bill to amend section 33(a) of the Small Business Act (15 U. S. C. 657c(a)) to clarify that the National Veterans Business Development Corporation is a private entity.",
+  "topics": [],
+  "type": "bill"
+}

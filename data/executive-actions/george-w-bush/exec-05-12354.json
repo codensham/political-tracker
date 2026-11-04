@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "05-12354",
+  "document_type": "executive_order",
+  "executive_order_number": "13380",
+  "id": "exec-05-12354",
+  "published_at": "2005-06-21",
+  "signing_date": "2005-06-17",
+  "source_url": "https://www.federalregister.gov/documents/2005/06/21/05-12354/implementing-amendments-to-agreement-on-border",
+  "title": "Implementing Amendments to Agreement on Border",
+  "topics": [],
+  "type": "executive_action"
+}

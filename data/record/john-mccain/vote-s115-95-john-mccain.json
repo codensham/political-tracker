@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN53",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-95-john-mccain",
+  "published_at": "2017-03-23",
+  "question": "On the Cloture Motion",
+  "rollnumber": 95,
+  "source_url": "https://voteview.com/rollcall/RS1150095",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2017-03-23",
+  "vote_result": "Cloture Motion Agreed to"
+}

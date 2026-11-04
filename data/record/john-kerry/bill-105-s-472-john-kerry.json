@@ -1,0 +1,21 @@
+{
+  "bill_number": "S472",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-472-john-kerry",
+  "introduced_date": "1998-04-30",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1998-04-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/472",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to provide for referenda in which the residents of Puerto Rico may express democratically their preferences regarding the political status of the territory, and for other purposes.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

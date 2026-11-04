@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2491",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 104,
+  "id": "vote-s104-556-john-kerry",
+  "published_at": "1995-10-27",
+  "question": "On Passage of the Bill",
+  "rollnumber": 556,
+  "source_url": "https://voteview.com/rollcall/RS1040556",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1995-10-27",
+  "vote_result": "Bill Passed"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S549",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-549-john-kerry",
+  "introduced_date": "1985-10-16",
+  "policy_area": "Social Welfare",
+  "published_at": "1985-10-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/549",
+  "title": "A bill to amend title II of the Social Security Act to repeal the separate definition of disability presently applicable to widows and widowers, and to provide in turn that the months of a widow's or widower's entitlement to SSI benefits on the basis of disability may be used in establishing his or her entitlement to medicare benefits on that basis.",
+  "topics": [],
+  "type": "bill"
+}

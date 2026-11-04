@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES86",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sconres-86-john-kerry",
+  "introduced_date": "1987-11-03",
+  "policy_area": "International Affairs",
+  "published_at": "1987-11-03",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-concurrent-resolution/86",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the support of the Congress for the implementation of the July 29, 1987, accord with respect to Sri Lanka as the best hope for peace.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

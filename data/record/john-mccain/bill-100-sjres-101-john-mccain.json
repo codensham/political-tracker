@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES101",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-101-john-mccain",
+  "introduced_date": "1987-06-16",
+  "policy_area": "Commemorations",
+  "published_at": "1987-06-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/101",
+  "title": "A joint resolution designating June 19, 1987 as \"American Gospel Arts Day\".",
+  "topics": [],
+  "type": "bill"
+}

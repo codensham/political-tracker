@@ -1,0 +1,21 @@
+{
+  "bill_number": "S493",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-493-john-mccain",
+  "introduced_date": "2017-04-24",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2017-04-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/493",
+  "tagged_by": "crosswalk@1",
+  "title": "Department of Veterans Affairs Accountability First Act of 2017",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

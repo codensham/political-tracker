@@ -1,0 +1,21 @@
+{
+  "bill_number": "S962",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 95,
+  "id": "bill-95-s-962-joe-biden",
+  "introduced_date": "1977-03-09",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1977-03-09",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/95th-congress/senate-bill/962",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Federal Election Campaign Act of 1971, and the Internal Revenue Code of 1954, to provide for the disposition of excess campaign contributions held by a defeated candidate for Federal elective office or a retired, resigned, or deceased holder of such office.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

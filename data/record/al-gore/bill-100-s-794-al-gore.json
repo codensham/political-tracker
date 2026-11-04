@@ -1,0 +1,21 @@
+{
+  "bill_number": "S794",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-794-al-gore",
+  "introduced_date": "1987-10-02",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "1987-10-02",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/794",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend chapter 13 of title 18, United States Code, to impose criminal penalties and provide a civil action for damage to religious property and for injury to persons in the free exercise of religious beliefs.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-17253",
+  "document_type": "executive_order",
+  "executive_order_number": "14038",
+  "id": "exec-2021-17253",
+  "published_at": "2021-08-11",
+  "signing_date": "2021-08-09",
+  "source_url": "https://www.federalregister.gov/documents/2021/08/11/2021-17253/blocking-property-of-additional-persons-contributing-to-the-situation-in-belarus",
+  "title": "Blocking Property of Additional Persons Contributing to the Situation in Belarus",
+  "topics": [],
+  "type": "executive_action"
+}

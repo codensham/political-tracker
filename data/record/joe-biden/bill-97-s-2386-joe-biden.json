@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2386",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-2386-joe-biden",
+  "introduced_date": "1982-04-15",
+  "policy_area": "Economics and Public Finance",
+  "published_at": "1982-04-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/2386",
+  "tagged_by": "crosswalk@1",
+  "title": "An act to require the Director of the Office of Management and Budget to prepare an annual report consolidating the available data on the geographic distribution of Federal funds, and for other purposes.",
+  "topics": [
+    "economy"
+  ],
+  "type": "bill"
+}

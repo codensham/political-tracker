@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES30",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-30-john-kerry",
+  "introduced_date": "2003-07-30",
+  "policy_area": "Commemorations",
+  "published_at": "2003-07-30",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/30",
+  "title": "A resolution expressing the sense of the Senate that the President should designate the week beginning September 14, 2003, as \"National Historically Black Colleges and Universities Week\".",
+  "topics": [],
+  "type": "bill"
+}

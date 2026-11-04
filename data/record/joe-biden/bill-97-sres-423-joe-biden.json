@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES423",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-sres-423-joe-biden",
+  "introduced_date": "1982-07-13",
+  "policy_area": "Sports and Recreation",
+  "published_at": "1982-07-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-resolution/423",
+  "title": "A resolution to congratulate the Italian National Soccer team for winning the World Cup Championship.",
+  "topics": [],
+  "type": "bill"
+}

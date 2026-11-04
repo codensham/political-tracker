@@ -1,0 +1,18 @@
+{
+  "bill_number": "S849",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-849-john-kerry",
+  "introduced_date": "1987-03-26",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1987-03-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/849",
+  "title": "Commercial Fishing Industry Vessel Safety and Compensation Act of 1987",
+  "topics": [],
+  "type": "bill"
+}

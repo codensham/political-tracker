@@ -1,0 +1,20 @@
+{
+  "bill_number": "S2230",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 112,
+  "id": "vote-s112-300-john-mccain",
+  "published_at": "2012-04-16",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 300,
+  "source_url": "https://voteview.com/rollcall/RS1120300",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2012-04-16",
+  "vote_result": "Cloture on the Motion to Proceed Rejected"
+}

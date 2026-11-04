@@ -1,0 +1,21 @@
+{
+  "bill_number": "S607",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-607-al-gore",
+  "introduced_date": "1987-02-26",
+  "policy_area": "Housing and Community Development",
+  "published_at": "1987-02-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/607",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the National Housing Act to limit the fees that may be charged by the Government National Mortgage Association for the guaranty of mortgage-backed securities.",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

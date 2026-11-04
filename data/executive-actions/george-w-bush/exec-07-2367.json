@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "07-2367",
+  "document_type": "executive_order",
+  "executive_order_number": "13431",
+  "id": "exec-07-2367",
+  "published_at": "2007-05-11",
+  "signing_date": "2007-05-08",
+  "source_url": "https://www.federalregister.gov/documents/2007/05/11/07-2367/establishment-of-temporary-organization-to-facilitate-united-states-government-assistance-for",
+  "title": "Establishment of Temporary Organization To Facilitate United States Government Assistance for Transition in Iraq",
+  "topics": [],
+  "type": "executive_action"
+}

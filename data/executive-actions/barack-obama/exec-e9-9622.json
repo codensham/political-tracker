@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-9622",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-e9-9622",
+  "published_at": "2009-04-24",
+  "signing_date": "2009-04-22",
+  "source_url": "https://www.federalregister.gov/documents/2009/04/24/E9-9622/earth-day-2009",
+  "title": "Earth Day, 2009",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR4444",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-605-john-mccain",
+  "published_at": "2000-07-27",
+  "question": "On Cloture on the Motion to Proceed",
+  "rollnumber": 605,
+  "source_url": "https://voteview.com/rollcall/RS1060605",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-07-27",
+  "vote_result": "Cloture on the Motion to Proceed Agreed to"
+}

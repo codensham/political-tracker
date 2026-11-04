@@ -1,0 +1,21 @@
+{
+  "bill_number": "S129",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-129-hillary-clinton",
+  "introduced_date": "2002-02-12",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2002-02-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/129",
+  "tagged_by": "crosswalk@1",
+  "title": "Gold Star Parents Annuity Act",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES323",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sres-323-joe-biden",
+  "introduced_date": "2000-06-14",
+  "policy_area": "Commemorations",
+  "published_at": "2000-06-14",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-resolution/323",
+  "title": "A resolution to designating Monday, June 19, 2000, as National Eat-Dinner-With-Your-Children Day.",
+  "topics": [],
+  "type": "bill"
+}

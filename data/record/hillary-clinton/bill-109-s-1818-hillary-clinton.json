@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1818",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-1818-hillary-clinton",
+  "introduced_date": "2005-10-04",
+  "policy_area": "Taxation",
+  "published_at": "2005-10-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/1818",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to allow the manufacturing deduction provided by the American Jobs Creation Act of 2004 with respect to income attributable to domestic production activities in any possession of the United States, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-23670",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2023-23670",
+  "published_at": "2023-10-25",
+  "signing_date": "2023-10-20",
+  "source_url": "https://www.federalregister.gov/documents/2023/10/25/2023-23670/minority-enterprise-development-week-2023",
+  "title": "Minority Enterprise Development Week, 2023",
+  "topics": [],
+  "type": "executive_action"
+}

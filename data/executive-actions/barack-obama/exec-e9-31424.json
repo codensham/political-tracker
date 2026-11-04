@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-31424",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-e9-31424",
+  "published_at": "2010-01-05",
+  "signing_date": "2009-12-29",
+  "source_url": "https://www.federalregister.gov/documents/2010/01/05/E9-31424/implementation-of-the-executive-order-classified-national-security-information",
+  "title": "Implementation of the Executive Order, \"Classified National Security Information\"",
+  "topics": [],
+  "type": "executive_action"
+}

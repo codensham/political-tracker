@@ -1,0 +1,21 @@
+{
+  "bill_number": "S4507",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 117,
+  "id": "bill-117-s-4507-mitt-romney",
+  "introduced_date": "2022-07-12",
+  "policy_area": "Labor and Employment",
+  "published_at": "2022-07-12",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/117th-congress/senate-bill/4507",
+  "tagged_by": "crosswalk@1",
+  "title": "Chase COVID Unemployment Fraud Act of 2022",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

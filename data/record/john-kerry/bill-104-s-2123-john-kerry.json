@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2123",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 104,
+  "id": "bill-104-s-2123-john-kerry",
+  "introduced_date": "1996-09-25",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1996-09-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/104th-congress/senate-bill/2123",
+  "title": "Highway Funding Fairness Act of 1996",
+  "topics": [],
+  "type": "bill"
+}

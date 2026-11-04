@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES248",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 112,
+  "id": "bill-112-sres-248-john-kerry",
+  "introduced_date": "2011-08-01",
+  "policy_area": "Health",
+  "published_at": "2011-08-01",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/112th-congress/senate-resolution/248",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution supporting the goals and ideals of National Brain Aneurysm Awareness Month.",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES345",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-345-john-kerry",
+  "introduced_date": "2004-04-28",
+  "policy_area": "Families",
+  "published_at": "2004-04-28",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/345",
+  "title": "A resolution expressing the Sense of the Senate that Congress should expand the supports and services available to grandparents and other relatives who are raising children when their biological parents have died or can no longer take care of them.",
+  "topics": [],
+  "type": "bill"
+}

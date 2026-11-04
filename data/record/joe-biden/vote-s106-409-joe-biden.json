@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR1000",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 106,
+  "id": "vote-s106-409-joe-biden",
+  "published_at": "2000-03-08",
+  "question": "On the Conference Report",
+  "rollnumber": 409,
+  "source_url": "https://voteview.com/rollcall/RS1060409",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2000-03-08",
+  "vote_result": "Conference Report Agreed to"
+}

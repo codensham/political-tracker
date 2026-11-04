@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2023-02757",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2023-02757",
+  "published_at": "2023-02-07",
+  "signing_date": "2023-02-03",
+  "source_url": "https://www.federalregister.gov/documents/2023/02/07/2023-02757/30th-anniversary-of-the-family-and-medical-leave-act",
+  "title": "30th Anniversary of the Family and Medical Leave Act",
+  "topics": [],
+  "type": "executive_action"
+}

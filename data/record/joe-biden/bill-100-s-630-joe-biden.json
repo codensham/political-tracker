@@ -1,0 +1,21 @@
+{
+  "bill_number": "S630",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-630-joe-biden",
+  "introduced_date": "1987-03-03",
+  "policy_area": "International Affairs",
+  "published_at": "1987-03-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/630",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to prohibit the use on Cyprus of military equipment provided to Turkey by the United States and to require that certain information regarding activities on Cyprus of the Turkish armed forces be included in the periodic reports submitted to Congress.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

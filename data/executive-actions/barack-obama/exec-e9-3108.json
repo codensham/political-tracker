@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-3108",
+  "document_type": "executive_order",
+  "executive_order_number": "13500",
+  "id": "exec-e9-3108",
+  "published_at": "2009-02-11",
+  "signing_date": "2009-02-05",
+  "source_url": "https://www.federalregister.gov/documents/2009/02/11/E9-3108/further-amendments-to-executive-order-12859-establishment-of-the-domestic-policy-council",
+  "title": "Further Amendments to Executive Order 12859, Establishment of the Domestic Policy Council",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2412",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-s-2412-john-mccain",
+  "introduced_date": "2000-04-12",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2000-04-12",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-bill/2412",
+  "title": "National Transportation Safety Board Amendments Act of 2000\r\n",
+  "topics": [],
+  "type": "bill"
+}

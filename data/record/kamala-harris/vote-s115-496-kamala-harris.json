@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR6147",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 115,
+  "id": "vote-s115-496-kamala-harris",
+  "published_at": "2018-07-25",
+  "question": "On the Amendment",
+  "rollnumber": 496,
+  "source_url": "https://voteview.com/rollcall/RS1150496",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2018-07-25",
+  "vote_result": "Amendment Rejected"
+}

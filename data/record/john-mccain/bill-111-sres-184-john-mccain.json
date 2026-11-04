@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES184",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-184-john-mccain",
+  "introduced_date": "2009-06-11",
+  "policy_area": "Civil Rights and Liberties, Minority Issues",
+  "published_at": "2009-06-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/184",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution offering deepest condolences to the family and friends of Officer Stephen T. Johns and calling on the leaders of all Nations to speak out against the manifestations of anti-Semitism, bigotry, and hatred.",
+  "topics": [
+    "civil-rights"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-15296",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-04-15296",
+  "published_at": "2004-07-02",
+  "signing_date": "2004-06-29",
+  "source_url": "https://www.federalregister.gov/documents/2004/07/02/04-15296/administration-of-certain-appropriations-relating-to-iraq",
+  "title": "Administration of Certain Appropriations Relating to Iraq",
+  "topics": [],
+  "type": "executive_action"
+}

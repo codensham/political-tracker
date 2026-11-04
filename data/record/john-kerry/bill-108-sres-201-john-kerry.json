@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES201",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-201-john-kerry",
+  "introduced_date": "2003-07-25",
+  "policy_area": "Commemorations",
+  "published_at": "2003-07-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/201",
+  "title": "A resolution designating the month of September 2003 as \"National Prostate Cancer Awareness Month\".",
+  "topics": [],
+  "type": "bill"
+}

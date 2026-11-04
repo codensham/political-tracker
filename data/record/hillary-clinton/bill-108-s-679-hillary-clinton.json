@@ -1,0 +1,21 @@
+{
+  "bill_number": "S679",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-679-hillary-clinton",
+  "introduced_date": "2003-03-20",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2003-03-20",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/679",
+  "tagged_by": "crosswalk@1",
+  "title": "PROTECTION Act  ",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

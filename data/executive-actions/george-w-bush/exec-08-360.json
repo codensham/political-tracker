@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "08-360",
+  "document_type": "executive_order",
+  "executive_order_number": "13456",
+  "id": "exec-08-360",
+  "published_at": "2008-01-25",
+  "signing_date": "2008-01-23",
+  "source_url": "https://www.federalregister.gov/documents/2008/01/25/08-360/further-amendment-of-executive-order-11858-concerning-foreign-investment-in-the-united-states",
+  "title": "Further Amendment of Executive Order 11858 Concerning Foreign Investment in the United States",
+  "topics": [],
+  "type": "executive_action"
+}

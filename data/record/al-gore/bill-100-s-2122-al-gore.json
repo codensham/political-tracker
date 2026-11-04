@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2122",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-2122-al-gore",
+  "introduced_date": "1988-03-25",
+  "policy_area": "Social Welfare",
+  "published_at": "1988-03-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/2122",
+  "title": "Medicaid Infant Mortality Amendments of 1988",
+  "topics": [],
+  "type": "bill"
+}

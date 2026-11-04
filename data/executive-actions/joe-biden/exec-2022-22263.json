@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2022-22263",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2022-22263",
+  "published_at": "2022-10-12",
+  "signing_date": "2022-10-06",
+  "source_url": "https://www.federalregister.gov/documents/2022/10/12/2022-22263/national-manufacturing-day-2022",
+  "title": "National Manufacturing Day, 2022",
+  "topics": [],
+  "type": "executive_action"
+}

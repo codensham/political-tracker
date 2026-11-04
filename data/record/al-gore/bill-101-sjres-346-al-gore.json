@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES346",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sjres-346-al-gore",
+  "introduced_date": "1990-09-10",
+  "policy_area": "Health",
+  "published_at": "1990-09-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-joint-resolution/346",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to designate October 20 through 28, 1990, as \"National Red Ribbon Week for a Drug-Free America\".",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

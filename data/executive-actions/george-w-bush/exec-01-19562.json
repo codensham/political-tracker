@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "01-19562",
+  "document_type": "executive_order",
+  "executive_order_number": "13221",
+  "id": "exec-01-19562",
+  "published_at": "2001-08-02",
+  "signing_date": "2001-07-31",
+  "source_url": "https://www.federalregister.gov/documents/2001/08/02/01-19562/energy-efficient-standby-power-devices",
+  "title": "Energy Efficient Standby Power Devices",
+  "topics": [],
+  "type": "executive_action"
+}

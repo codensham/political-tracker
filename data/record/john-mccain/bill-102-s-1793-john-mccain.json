@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1793",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1793-john-mccain",
+  "introduced_date": "1991-11-06",
+  "policy_area": "International Affairs",
+  "published_at": "1991-11-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1793",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to restrict United States assistance for Serbia or any part of Yugoslavia controlled by Serbia until certain conditions are met, and for other purposes.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

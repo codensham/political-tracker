@@ -1,0 +1,20 @@
+{
+  "bill_number": "S49",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 99,
+  "id": "vote-s99-142-joe-biden",
+  "published_at": "1985-07-09",
+  "question": null,
+  "rollnumber": 142,
+  "source_url": "https://voteview.com/rollcall/RS0990142",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1985-07-09",
+  "vote_result": null
+}

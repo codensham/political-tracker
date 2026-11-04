@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1830",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-s-1830-john-mccain",
+  "introduced_date": "1991-11-25",
+  "policy_area": "Congress",
+  "published_at": "1991-11-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-bill/1830",
+  "title": "A bill to require Senators and Members of the House of Representatives to pay for medical services provided by the Office of the Attending Physician, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}

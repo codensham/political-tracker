@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES234",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sres-234-al-gore",
+  "introduced_date": "1991-11-26",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1991-11-26",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-resolution/234",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution expressing the sense of the Senate on the sale of 40 percent of McDonnell Douglas' commercial aircraft division to the Taiwan Aerospace Corporation.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

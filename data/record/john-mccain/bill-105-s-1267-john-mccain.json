@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1267",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-1267-john-mccain",
+  "introduced_date": "1997-10-08",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "1997-10-08",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/1267",
+  "title": "Intermodal Transportation Safety Act of 1997",
+  "topics": [],
+  "type": "bill"
+}

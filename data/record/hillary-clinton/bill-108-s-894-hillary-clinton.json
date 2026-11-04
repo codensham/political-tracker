@@ -1,0 +1,18 @@
+{
+  "bill_number": "S894",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-894-hillary-clinton",
+  "introduced_date": "2003-06-10",
+  "policy_area": "Commemorations",
+  "published_at": "2003-06-10",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/894",
+  "title": "Marine Corps 230th Anniversary Commemorative Coin Act",
+  "topics": [],
+  "type": "bill"
+}

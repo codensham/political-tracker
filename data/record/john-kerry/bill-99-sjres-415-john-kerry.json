@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES415",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-sjres-415-john-kerry",
+  "introduced_date": "1986-09-16",
+  "policy_area": "Labor and Employment",
+  "published_at": "1986-09-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-joint-resolution/415",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to provide for a settlement to the Maine Central Railroad Company and Portland Terminal Company labor-management dispute.",
+  "topics": [
+    "labor"
+  ],
+  "type": "bill"
+}

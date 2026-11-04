@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1503",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-1503-john-kerry",
+  "introduced_date": "2001-11-15",
+  "policy_area": "Families",
+  "published_at": "2001-11-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/1503",
+  "title": "Promoting Safe and Stable Families Amendments Act of 2001",
+  "topics": [],
+  "type": "bill"
+}

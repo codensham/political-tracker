@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3633",
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 116,
+  "id": "bill-116-s-3633-kamala-harris",
+  "introduced_date": "2020-05-06",
+  "policy_area": "Environmental Protection",
+  "published_at": "2020-05-06",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/116th-congress/senate-bill/3633",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to require the Administrator of the Environmental Protection Agency to continue to update and make publicly available EJScreen or an equivalent tool, and for other purposes.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

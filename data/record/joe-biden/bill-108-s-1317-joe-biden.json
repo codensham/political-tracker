@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1317",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-s-1317-joe-biden",
+  "introduced_date": "2003-06-24",
+  "policy_area": "International Affairs",
+  "published_at": "2003-06-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-bill/1317",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the American Servicemember's Protection Act of 2002 to provide clarification with respect to the eligibility of certain countries for United States military assistance.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

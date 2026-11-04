@@ -1,0 +1,20 @@
+{
+  "bill_number": "TREATYDOC1128",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-172-mitt-romney",
+  "published_at": "2023-06-22",
+  "question": "On the Resolution of Ratification",
+  "rollnumber": 172,
+  "source_url": "https://voteview.com/rollcall/RS1180172",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2023-06-22",
+  "vote_result": "Resolution of Ratification Agreed to"
+}

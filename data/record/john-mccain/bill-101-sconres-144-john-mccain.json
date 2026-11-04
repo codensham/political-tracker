@@ -1,0 +1,21 @@
+{
+  "bill_number": "SCONRES144",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-sconres-144-john-mccain",
+  "introduced_date": "1990-08-03",
+  "policy_area": "International Affairs",
+  "published_at": "1990-08-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-concurrent-resolution/144",
+  "tagged_by": "crosswalk@1",
+  "title": "A concurrent resolution expressing the sense of the Congress regarding the need to account as fully as possible for Americans still missing or otherwise unaccounted for in Southeast Asia and to secure the return of Americans who may still be held captive in Southeast Asia.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

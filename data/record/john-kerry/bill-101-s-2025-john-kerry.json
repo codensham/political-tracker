@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2025",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2025-john-kerry",
+  "introduced_date": "1990-09-25",
+  "policy_area": "Taxation",
+  "published_at": "1990-09-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2025",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to make permanent certain expiring tax provisions.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

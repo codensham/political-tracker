@@ -1,0 +1,21 @@
+{
+  "bill_number": "S160",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "nay",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 111,
+  "id": "vote-s111-68-john-mccain",
+  "policy_area": "Congress",
+  "published_at": "2009-02-25",
+  "question": "On the Amendment",
+  "rollnumber": 68,
+  "source_url": "https://voteview.com/rollcall/RS1110068",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2009-02-25",
+  "vote_result": "Amendment Rejected"
+}

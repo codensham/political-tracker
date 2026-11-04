@@ -1,0 +1,21 @@
+{
+  "bill_number": "S901",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-901-john-mccain",
+  "introduced_date": "2016-02-23",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "2016-02-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/901",
+  "tagged_by": "crosswalk@1",
+  "title": "Toxic Exposure Research Act of 2015",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

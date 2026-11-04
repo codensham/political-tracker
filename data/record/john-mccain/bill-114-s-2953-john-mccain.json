@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2953",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2953-john-mccain",
+  "introduced_date": "2016-09-19",
+  "policy_area": "Native Americans",
+  "published_at": "2016-09-19",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2953",
+  "title": "IHS Accountability Act of 2016",
+  "topics": [],
+  "type": "bill"
+}

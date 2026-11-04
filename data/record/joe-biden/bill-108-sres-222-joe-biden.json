@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES222",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 108,
+  "id": "bill-108-sres-222-joe-biden",
+  "introduced_date": "2003-09-10",
+  "policy_area": "Commemorations",
+  "published_at": "2003-09-10",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/108th-congress/senate-resolution/222",
+  "title": "A resolution designating October 17, 2003 as \"National Mammography Day\".",
+  "topics": [],
+  "type": "bill"
+}

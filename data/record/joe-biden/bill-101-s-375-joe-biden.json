@@ -1,0 +1,21 @@
+{
+  "bill_number": "S375",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-375-joe-biden",
+  "introduced_date": "1989-03-07",
+  "policy_area": "International Affairs",
+  "published_at": "1989-03-07",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/375",
+  "tagged_by": "crosswalk@1",
+  "title": "Television Broadcasting to Cuba Act",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

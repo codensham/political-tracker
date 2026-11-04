@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES61",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-61-john-kerry",
+  "introduced_date": "1987-04-23",
+  "policy_area": "Commemorations",
+  "published_at": "1987-04-23",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/61",
+  "title": "A joint resolution to authorize and request the President to issue a proclamation designating May 3 through May 10, 1987, as \"Jewish Heritage Week\".",
+  "topics": [],
+  "type": "bill"
+}

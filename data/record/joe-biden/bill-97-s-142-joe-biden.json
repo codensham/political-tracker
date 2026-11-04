@@ -1,0 +1,21 @@
+{
+  "bill_number": "S142",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-s-142-joe-biden",
+  "introduced_date": "1981-05-14",
+  "policy_area": "Taxation",
+  "published_at": "1981-05-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/senate-bill/142",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to increase the amount of the exemption of certain interest and dividend income from taxation, and to make permanent the exemption of interest from taxation.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

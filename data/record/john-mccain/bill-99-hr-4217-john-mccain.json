@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR4217",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-hr-4217-john-mccain",
+  "introduced_date": "1986-02-24",
+  "policy_area": "Native Americans",
+  "published_at": "1986-02-24",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/house-bill/4217",
+  "title": "Tohono O'odham Tat Momolikot Dam Settlement Act",
+  "topics": [],
+  "type": "bill"
+}

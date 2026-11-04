@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2387",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 105,
+  "id": "bill-105-s-2387-joe-biden",
+  "introduced_date": "1998-07-30",
+  "policy_area": "International Affairs",
+  "published_at": "1998-07-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/105th-congress/senate-bill/2387",
+  "tagged_by": "crosswalk@1",
+  "title": "Use of Force Act",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

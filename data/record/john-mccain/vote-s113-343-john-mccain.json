@@ -1,0 +1,20 @@
+{
+  "bill_number": "PN1190",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 113,
+  "id": "vote-s113-343-john-mccain",
+  "published_at": "2014-03-05",
+  "question": "On the Nomination",
+  "rollnumber": 343,
+  "source_url": "https://voteview.com/rollcall/RS1130343",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2014-03-05",
+  "vote_result": "Nomination Confirmed"
+}

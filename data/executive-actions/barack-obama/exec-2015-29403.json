@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2015-29403",
+  "document_type": "executive_order",
+  "executive_order_number": "13710",
+  "id": "exec-2015-29403",
+  "published_at": "2015-11-16",
+  "signing_date": "2015-11-12",
+  "source_url": "https://www.federalregister.gov/documents/2015/11/16/2015-29403/termination-of-emergency-with-respect-to-the-actions-and-policies-of-former-liberian-president",
+  "title": "Termination of Emergency With Respect to the Actions and Policies of Former Liberian President Charles Taylor",
+  "topics": [],
+  "type": "executive_action"
+}

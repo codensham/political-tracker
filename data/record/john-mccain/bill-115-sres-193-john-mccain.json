@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES193",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-193-john-mccain",
+  "introduced_date": "2017-06-15",
+  "policy_area": "Congress",
+  "published_at": "2017-06-15",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/193",
+  "title": "A resolution commending the bravery of the United States Capitol Police, the Police Department of Alexandria, Virginia, and all first responders who protected Members of Congress, their staff, and others during the shooting on June 14, 2017, at Eugene Simpson Stadium Park in the Del Ray neighborhood of Alexandria, Virginia.",
+  "topics": [],
+  "type": "bill"
+}

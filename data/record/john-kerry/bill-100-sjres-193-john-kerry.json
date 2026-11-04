@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES193",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-193-john-kerry",
+  "introduced_date": "1987-09-30",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "1987-09-30",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/193",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to establish a bipartisan commission on Third World debt.",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

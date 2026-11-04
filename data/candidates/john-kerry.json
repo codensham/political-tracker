@@ -1,0 +1,36 @@
+{
+  "aliases": [
+    "John Kerry",
+    "John F. Kerry"
+  ],
+  "bioguide_id": "K000148",
+  "candidacies": [
+    {
+      "fec_candidate_id": "P80000235",
+      "office": "president",
+      "party": "DEM",
+      "result": "lost",
+      "source_url": "https://www.fec.gov/data/candidate/P80000235/",
+      "year": 2004
+    }
+  ],
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T14:39:31Z",
+  "collector": "candidates@1.0",
+  "disclosure_names": [],
+  "fec_candidate_ids": [
+    "P80000235"
+  ],
+  "icpsr": 14920,
+  "id": "john-kerry",
+  "inclusion_reason": "Major-party nominee 2004 (FEC candidate P80000235, election years 1988, 2004; checked 2026-11-04). D-004.",
+  "name": "John Kerry",
+  "official_site": null,
+  "published_at": "2026-11-04",
+  "social_accounts": [],
+  "source_url": "https://www.fec.gov/data/candidate/P80000235/",
+  "topics": [],
+  "type": "candidate"
+}

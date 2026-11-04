@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR2446",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-316-john-kerry",
+  "published_at": "1993-10-19",
+  "question": "On the Conference Report",
+  "rollnumber": 316,
+  "source_url": "https://voteview.com/rollcall/RS1030316",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1993-10-19",
+  "vote_result": "Conference Report Agreed to"
+}

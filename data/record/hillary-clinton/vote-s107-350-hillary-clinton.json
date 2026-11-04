@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR10",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 107,
+  "id": "vote-s107-350-hillary-clinton",
+  "published_at": "2001-12-05",
+  "question": "On the Motion",
+  "rollnumber": 350,
+  "source_url": "https://voteview.com/rollcall/RS1070350",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2001-12-05",
+  "vote_result": "Motion Agreed to"
+}

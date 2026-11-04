@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "E9-23886",
+  "document_type": "executive_order",
+  "executive_order_number": "13511",
+  "id": "exec-e9-23886",
+  "published_at": "2009-10-01",
+  "signing_date": "2009-09-29",
+  "source_url": "https://www.federalregister.gov/documents/2009/10/01/E9-23886/continuance-of-certain-federal-advisory-committees",
+  "title": "Continuance of Certain Federal Advisory Committees",
+  "topics": [],
+  "type": "executive_action"
+}

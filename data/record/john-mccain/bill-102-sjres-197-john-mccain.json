@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES197",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 102,
+  "id": "bill-102-sjres-197-john-mccain",
+  "introduced_date": "1991-10-03",
+  "policy_area": "Armed Forces and National Security",
+  "published_at": "1991-10-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/102nd-congress/senate-joint-resolution/197",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution acknowledging the sacrifices that military families have made on behalf of the Nation and designating November 25, 1991, as \"National Military Families Recognition Day\".",
+  "topics": [
+    "defense"
+  ],
+  "type": "bill"
+}

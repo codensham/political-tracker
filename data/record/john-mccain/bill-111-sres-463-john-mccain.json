@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES463",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-463-john-mccain",
+  "introduced_date": "2010-03-22",
+  "policy_area": "Arts, Culture, Religion",
+  "published_at": "2010-03-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/463",
+  "title": "A resolution recognizing the cultural and historical significance of Nowruz, expressing appreciation to Iranian-Americans for their contributions to society, and wishing Iranian-Americans and the people of Iran a prosperous new year.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,20 @@
+{
+  "bill_number": "HRES115",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "cast": "yea",
+  "chamber": "house",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 97,
+  "id": "vote-h97-12-al-gore",
+  "published_at": "1981-03-25",
+  "question": null,
+  "rollnumber": 12,
+  "source_url": "https://voteview.com/rollcall/RH0970012",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "1981-03-25",
+  "vote_result": null
+}

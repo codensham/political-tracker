@@ -1,0 +1,18 @@
+{
+  "bill_number": "SCONRES102",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 106,
+  "id": "bill-106-sconres-102-john-kerry",
+  "introduced_date": "2000-07-11",
+  "policy_area": "Commemorations",
+  "published_at": "2000-07-11",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/106th-congress/senate-concurrent-resolution/102",
+  "title": "A concurrent resolution to commend the bravery and honor of the citizens of Remy, France, for their actions with respect to Lieutenant Houston Braly and to recognize the efforts of the 364th Fighter Group to raise funds to restore the stained glass windows of a church in Remy.",
+  "topics": [],
+  "type": "bill"
+}

@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES172",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-172-joe-biden",
+  "introduced_date": "1987-10-22",
+  "policy_area": "Commemorations",
+  "published_at": "1987-10-22",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/172",
+  "title": "A joint resolution to designate the period commencing February 21, 1988, and ending February 27, 1988, as \"National Visiting Nurse Association Week\".",
+  "topics": [],
+  "type": "bill"
+}

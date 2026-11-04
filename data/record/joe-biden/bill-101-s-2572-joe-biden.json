@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2572",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-2572-joe-biden",
+  "introduced_date": "1990-05-03",
+  "policy_area": "Law",
+  "published_at": "1990-05-03",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/2572",
+  "title": "A bill to provide for the extension of certain authority for the Marshal of the Supreme Court and the Supreme Court Police.",
+  "topics": [],
+  "type": "bill"
+}

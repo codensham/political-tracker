@@ -1,0 +1,20 @@
+{
+  "bill_number": "HR7888",
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 118,
+  "id": "vote-s118-502-mitt-romney",
+  "published_at": "2024-04-19",
+  "question": "On Passage of the Bill",
+  "rollnumber": 502,
+  "source_url": "https://voteview.com/rollcall/RS1180502",
+  "topics": [],
+  "type": "vote",
+  "vote_date": "2024-04-19",
+  "vote_result": "Bill Passed"
+}

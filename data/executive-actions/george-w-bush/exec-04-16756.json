@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-16756",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-04-16756",
+  "published_at": "2004-07-21",
+  "signing_date": "2004-07-08",
+  "source_url": "https://www.federalregister.gov/documents/2004/07/21/04-16756/delegation-of-responsibility-under-section-1523-of-the-strom-thurmond-national-defense-authorization",
+  "title": "Delegation of Responsibility under Section 1523 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, As Amended",
+  "topics": [],
+  "type": "executive_action"
+}

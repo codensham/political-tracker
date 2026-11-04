@@ -1,0 +1,21 @@
+{
+  "bill_number": "S2534",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 107,
+  "id": "bill-107-s-2534-john-kerry",
+  "introduced_date": "2002-06-04",
+  "policy_area": "Foreign Trade and International Finance",
+  "published_at": "2002-06-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/107th-congress/senate-bill/2534",
+  "tagged_by": "crosswalk@1",
+  "title": "Reducing Crime and Terrorism at America's Seaports Act of 2002",
+  "topics": [
+    "trade"
+  ],
+  "type": "bill"
+}

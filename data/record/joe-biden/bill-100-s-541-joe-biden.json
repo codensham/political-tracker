@@ -1,0 +1,21 @@
+{
+  "bill_number": "S541",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-s-541-joe-biden",
+  "introduced_date": "1987-06-25",
+  "policy_area": "Government Operations and Politics",
+  "published_at": "1987-06-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-bill/541",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend title 39, United States Code, to extend to certain officers and employees of the United States Postal Service the same procedural and appeal rights with respect to certain adverse personnel actions as are afforded under title 5, United States Code, to Federal employees in the competitive services.",
+  "topics": [
+    "elections-democracy"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES285",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-285-john-kerry",
+  "introduced_date": "1988-03-31",
+  "policy_area": "International Affairs",
+  "published_at": "1988-03-31",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/285",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution expressing the sense of Congress that Haiti falls under the definition of \"major drug-transit country\" as stated in section 481(i)(5) of the Foreign Assistance Act of 1961, and therefore should be subject to the certification process mandated by section 481(h) of that Act.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

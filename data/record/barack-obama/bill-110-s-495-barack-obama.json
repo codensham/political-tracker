@@ -1,0 +1,21 @@
+{
+  "bill_number": "S495",
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-495-barack-obama",
+  "introduced_date": "2008-04-01",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2008-04-01",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/495",
+  "tagged_by": "crosswalk@1",
+  "title": "Personal Data Privacy and Security Act of 2007",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

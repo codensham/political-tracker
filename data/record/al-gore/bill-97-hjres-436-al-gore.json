@@ -1,0 +1,21 @@
+{
+  "bill_number": "HJRES436",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 97,
+  "id": "bill-97-hjres-436-al-gore",
+  "introduced_date": "1982-03-31",
+  "policy_area": "Housing and Community Development",
+  "published_at": "1982-03-31",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/97th-congress/house-joint-resolution/436",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to designate the week of April 18 as: \"National Architecture Week\".",
+  "topics": [
+    "housing"
+  ],
+  "type": "bill"
+}

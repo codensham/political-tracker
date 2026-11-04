@@ -1,0 +1,21 @@
+{
+  "bill_number": "S19",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 110,
+  "id": "bill-110-s-19-hillary-clinton",
+  "introduced_date": "2008-11-20",
+  "policy_area": "Taxation",
+  "published_at": "2008-11-20",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/110th-congress/senate-bill/19",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1986 to allow taxpayers to designate a portion of their income tax payment to provide assistance to homeless veterans, and for other purposes.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

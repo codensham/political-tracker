@@ -1,0 +1,18 @@
+{
+  "bill_number": "S2406",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 114,
+  "id": "bill-114-s-2406-john-mccain",
+  "introduced_date": "2015-12-16",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2015-12-16",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/114th-congress/senate-bill/2406",
+  "title": "A bill to require the Administrator of the Federal Aviation Administration to review certain decisions to grant categorical exclusions for Next Generation flight procedures and to consult with the airports at which such procedures will be implemented.",
+  "topics": [],
+  "type": "bill"
+}

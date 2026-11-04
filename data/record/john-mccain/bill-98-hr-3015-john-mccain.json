@@ -1,0 +1,18 @@
+{
+  "bill_number": "HR3015",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-3015-john-mccain",
+  "introduced_date": "1983-06-08",
+  "policy_area": "Commerce",
+  "published_at": "1983-06-08",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/3015",
+  "title": "Consumer Product Safety Amendments of 1983",
+  "topics": [],
+  "type": "bill"
+}

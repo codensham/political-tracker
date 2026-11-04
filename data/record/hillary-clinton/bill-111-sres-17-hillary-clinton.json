@@ -1,0 +1,18 @@
+{
+  "bill_number": "SRES17",
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 111,
+  "id": "bill-111-sres-17-hillary-clinton",
+  "introduced_date": "2009-01-16",
+  "policy_area": "Transportation and Public Works",
+  "published_at": "2009-01-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/111th-congress/senate-resolution/17",
+  "title": "A resolution recognizing and honoring Captain Chesley \"Sully\" Sullenberger III, his co-pilot Jeffrey Skiles, the crewmembers of U.S. Airways Flight 1549, and the first responders, ferry operators and tug boat drivers of New York City, for their heroic and intuitive roles in the safe emergency landing of U.S. Airways Flight 1549.",
+  "topics": [],
+  "type": "bill"
+}

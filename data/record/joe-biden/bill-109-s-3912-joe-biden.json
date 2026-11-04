@@ -1,0 +1,21 @@
+{
+  "bill_number": "S3912",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 109,
+  "id": "bill-109-s-3912-joe-biden",
+  "introduced_date": "2006-11-09",
+  "policy_area": "Health",
+  "published_at": "2006-11-09",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/109th-congress/senate-bill/3912",
+  "tagged_by": "crosswalk@1",
+  "title": "Securing Effective and Necessary Individual Outpatient Rehabilitation Services (SENIORS) Act of 2006",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "bill"
+}

@@ -1,0 +1,21 @@
+{
+  "bill_number": "SJRES182",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-182-john-mccain",
+  "introduced_date": "1988-02-16",
+  "policy_area": "Public Lands and Natural Resources",
+  "published_at": "1988-02-16",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/182",
+  "tagged_by": "crosswalk@1",
+  "title": "A joint resolution to authorize the National Committee of American Airmen Rescued by General Mihailovich to erect a monument to General Draza Mihailovich in Washington, District of Columbia, or its environs, in recognition of the role he played in saving the lives of more than five hundred United States airmen in Yugoslavia during World War II.",
+  "topics": [
+    "environment"
+  ],
+  "type": "bill"
+}

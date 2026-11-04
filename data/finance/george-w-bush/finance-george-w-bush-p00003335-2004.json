@@ -1,0 +1,20 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "cash_on_hand_end": 19291233.1,
+  "collected_at": "2026-11-04T13:52:32Z",
+  "collector": "fec_finance@1.0",
+  "coverage_end": "2004-12-31",
+  "coverage_start": "2003-01-01",
+  "cycle": 2004,
+  "debts_owed": 1710965.63,
+  "disbursements": 359189842.22,
+  "fec_candidate_id": "P00003335",
+  "id": "finance-george-w-bush-p00003335-2004",
+  "published_at": "2004-12-31",
+  "receipts": 374659476.3,
+  "source_url": "https://www.fec.gov/data/candidate/P00003335/?cycle=2004",
+  "topics": [],
+  "type": "finance"
+}

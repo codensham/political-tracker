@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "george-w-bush"
+  ],
+  "collected_at": "2026-11-04T13:55:03Z",
+  "collector": "federal_register@1.0",
+  "document_number": "04-6477",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-04-6477",
+  "published_at": "2004-03-22",
+  "signing_date": "2004-03-18",
+  "source_url": "https://www.federalregister.gov/documents/2004/03/22/04-6477/delegation-of-certain-authority-under-the-national-defense-authorization-act-for-fiscal-year-2004",
+  "title": "Delegation of Certain Authority Under the National Defense Authorization Act for Fiscal Year 2004, Public Law 108-136",
+  "topics": [],
+  "type": "executive_action"
+}

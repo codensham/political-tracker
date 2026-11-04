@@ -1,0 +1,24 @@
+{
+  "bill_number": "S978",
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 103,
+  "id": "vote-s103-503-john-kerry",
+  "policy_area": "Environmental Protection",
+  "published_at": "1994-05-11",
+  "question": "On Passage of the Bill",
+  "rollnumber": 503,
+  "source_url": "https://voteview.com/rollcall/RS1030503",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "environment"
+  ],
+  "type": "vote",
+  "vote_date": "1994-05-11",
+  "vote_result": "Bill Passed"
+}

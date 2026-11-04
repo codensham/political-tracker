@@ -1,0 +1,21 @@
+{
+  "bill_number": "HR765",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 98,
+  "id": "bill-98-hr-765-john-mccain",
+  "introduced_date": "1983-07-14",
+  "policy_area": "Taxation",
+  "published_at": "1983-07-14",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/98th-congress/house-bill/765",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to amend the Internal Revenue Code of 1954 to increase to $2,500 the maximum deduction for contributions to retirement savings and to allow individuals to compute the amount of the deduction for payments into retirement savings on the basis of the compensation of their spouses.",
+  "topics": [
+    "taxes"
+  ],
+  "type": "bill"
+}

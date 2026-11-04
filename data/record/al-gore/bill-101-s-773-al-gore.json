@@ -1,0 +1,21 @@
+{
+  "bill_number": "S773",
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 101,
+  "id": "bill-101-s-773-al-gore",
+  "introduced_date": "1989-04-13",
+  "policy_area": "Agriculture and Food",
+  "published_at": "1989-04-13",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/101st-congress/senate-bill/773",
+  "tagged_by": "crosswalk@1",
+  "title": "Agricultural Program Reporting, Recordkeeping, and Service Center Improvement Act of 1989",
+  "topics": [
+    "agriculture"
+  ],
+  "type": "bill"
+}

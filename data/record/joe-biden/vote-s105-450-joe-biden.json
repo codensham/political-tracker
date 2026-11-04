@@ -1,0 +1,24 @@
+{
+  "bill_number": "S1415",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "cast": "yea",
+  "chamber": "senate",
+  "collected_at": "2026-11-04T14:14:12Z",
+  "collector": "voteview@1.0",
+  "congress": 105,
+  "id": "vote-s105-450-joe-biden",
+  "policy_area": "Health",
+  "published_at": "1998-06-09",
+  "question": "On the Amendment",
+  "rollnumber": 450,
+  "source_url": "https://voteview.com/rollcall/RS1050450",
+  "tagged_by": "crosswalk@1",
+  "topics": [
+    "healthcare"
+  ],
+  "type": "vote",
+  "vote_date": "1998-06-09",
+  "vote_result": "Amendment Rejected"
+}

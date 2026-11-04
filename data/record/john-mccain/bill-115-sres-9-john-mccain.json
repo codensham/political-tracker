@@ -1,0 +1,21 @@
+{
+  "bill_number": "SRES9",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-sres-9-john-mccain",
+  "introduced_date": "2017-01-17",
+  "policy_area": "International Affairs",
+  "published_at": "2017-01-17",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-resolution/9",
+  "tagged_by": "crosswalk@1",
+  "title": "A resolution honoring in praise and remembrance the extraordinary life, steady leadership, and remarkable, 70-year reign of King Bhumibol Adulyadej of Thailand.",
+  "topics": [
+    "foreign-policy"
+  ],
+  "type": "bill"
+}

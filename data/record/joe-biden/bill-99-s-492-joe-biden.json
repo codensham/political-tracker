@@ -1,0 +1,18 @@
+{
+  "bill_number": "S492",
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 99,
+  "id": "bill-99-s-492-joe-biden",
+  "introduced_date": "1985-02-21",
+  "policy_area": "Law",
+  "published_at": "1985-02-21",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/99th-congress/senate-bill/492",
+  "title": "Law Enforcement and Intelligence Officer's Tort Liability Protection Act",
+  "topics": [],
+  "type": "bill"
+}

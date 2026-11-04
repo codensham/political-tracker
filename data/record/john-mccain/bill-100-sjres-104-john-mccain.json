@@ -1,0 +1,18 @@
+{
+  "bill_number": "SJRES104",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 100,
+  "id": "bill-100-sjres-104-john-mccain",
+  "introduced_date": "1987-03-25",
+  "policy_area": "Commemorations",
+  "published_at": "1987-03-25",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/100th-congress/senate-joint-resolution/104",
+  "title": "A joint resolution to designate the week of May 31, 1987 through June 6, 1987, as \"National Intelligence Community Week\".",
+  "topics": [],
+  "type": "bill"
+}

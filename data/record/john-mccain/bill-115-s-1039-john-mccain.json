@@ -1,0 +1,21 @@
+{
+  "bill_number": "S1039",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 115,
+  "id": "bill-115-s-1039-john-mccain",
+  "introduced_date": "2017-05-04",
+  "policy_area": "Crime and Law Enforcement",
+  "published_at": "2017-05-04",
+  "role": "cosponsor",
+  "source_url": "https://www.congress.gov/bill/115th-congress/senate-bill/1039",
+  "tagged_by": "crosswalk@1",
+  "title": "A bill to indemnify local law enforcement entities for complying with valid detainers issued by immigration officers.",
+  "topics": [
+    "criminal-justice"
+  ],
+  "type": "bill"
+}

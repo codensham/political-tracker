@@ -1,0 +1,18 @@
+{
+  "bill_number": "S1894",
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:58:21Z",
+  "collector": "congress_bills@1.0",
+  "congress": 103,
+  "id": "bill-103-s-1894-john-mccain",
+  "introduced_date": "1994-03-07",
+  "policy_area": "Congress",
+  "published_at": "1994-03-07",
+  "role": "sponsor",
+  "source_url": "https://www.congress.gov/bill/103rd-congress/senate-bill/1894",
+  "title": "A bill to amend chapters 83 and 84 of title 5, United States Code, to provide that the cost-of-living adjustment of the annuities of Members of Congress may not exceed the cost-of-living adjustment of certain social security benefits, and for other purposes.",
+  "topics": [],
+  "type": "bill"
+}
