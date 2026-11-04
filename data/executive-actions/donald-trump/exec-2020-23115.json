@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-23115",
+  "document_type": "executive_order",
+  "executive_order_number": "13955",
+  "id": "exec-2020-23115",
+  "published_at": "2020-10-16",
+  "signing_date": "2020-10-13",
+  "source_url": "https://www.federalregister.gov/documents/2020/10/16/2020-23115/establishing-the-one-trillion-trees-interagency-council",
+  "title": "Establishing the One Trillion Trees Interagency Council",
+  "topics": [],
+  "type": "executive_action"
+}

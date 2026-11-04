@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-21389",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-21389",
+  "published_at": "2020-09-25",
+  "signing_date": "2020-09-04",
+  "source_url": "https://www.federalregister.gov/documents/2020/09/25/2020-21389/delegation-of-certain-functions-and-authorities-under-the-global-fragility-act-of-2019",
+  "title": "Delegation of Certain Functions and Authorities Under the Global Fragility Act of 2019",
+  "topics": [],
+  "type": "executive_action"
+}

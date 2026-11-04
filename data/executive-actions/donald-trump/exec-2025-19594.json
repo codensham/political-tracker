@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-19594",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-19594",
+  "published_at": "2025-10-17",
+  "signing_date": "2025-10-14",
+  "source_url": "https://www.federalregister.gov/documents/2025/10/17/2025-19594/national-day-of-remembrance-for-charlie-kirk",
+  "title": "National Day of Remembrance for Charlie Kirk",
+  "topics": [],
+  "type": "executive_action"
+}

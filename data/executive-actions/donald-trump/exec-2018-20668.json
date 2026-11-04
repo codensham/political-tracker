@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-20668",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2018-20668",
+  "published_at": "2018-09-20",
+  "signing_date": "2018-08-31",
+  "source_url": "https://www.federalregister.gov/documents/2018/09/20/2018-20668/delegation-of-authorities-under-the-reinforcing-education-accountability-in-development-act",
+  "title": "Delegation of Authorities Under the Reinforcing Education Accountability in Development Act",
+  "topics": [],
+  "type": "executive_action"
+}

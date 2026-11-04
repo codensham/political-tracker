@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-08818",
+  "document_type": "executive_order",
+  "executive_order_number": "13790",
+  "id": "exec-2017-08818",
+  "published_at": "2017-04-28",
+  "signing_date": "2017-04-25",
+  "source_url": "https://www.federalregister.gov/documents/2017/04/28/2017-08818/promoting-agriculture-and-rural-prosperity-in-america",
+  "title": "Promoting Agriculture and Rural Prosperity in America",
+  "topics": [],
+  "type": "executive_action"
+}

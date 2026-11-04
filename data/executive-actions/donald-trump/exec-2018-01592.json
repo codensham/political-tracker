@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-01592",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2018-01592",
+  "published_at": "2018-01-25",
+  "signing_date": "2018-01-23",
+  "source_url": "https://www.federalregister.gov/documents/2018/01/25/2018-01592/to-facilitate-positive-adjustment-to-competition-from-imports-of-certain-crystalline-silicon",
+  "title": "To Facilitate Positive Adjustment to Competition From Imports of Certain Crystalline Silicon Photovoltaic Cells (Whether or Not Partially or Fully Assembled Into Other Products) and for Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

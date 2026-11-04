@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-00534",
+  "document_type": "executive_order",
+  "executive_order_number": "13902",
+  "id": "exec-2020-00534",
+  "published_at": "2020-01-14",
+  "signing_date": "2020-01-10",
+  "source_url": "https://www.federalregister.gov/documents/2020/01/14/2020-00534/imposing-sanctions-with-respect-to-additional-sectors-of-iran",
+  "title": "Imposing Sanctions With Respect to Additional Sectors of Iran",
+  "topics": [],
+  "type": "executive_action"
+}

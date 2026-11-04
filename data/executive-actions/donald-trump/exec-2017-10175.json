@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-10175",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2017-10175",
+  "published_at": "2017-05-17",
+  "signing_date": "2017-05-12",
+  "source_url": "https://www.federalregister.gov/documents/2017/05/17/2017-10175/national-defense-transportation-day-and-national-transportation-week-2017",
+  "title": "National Defense Transportation Day and National Transportation Week, 2017",
+  "topics": [],
+  "type": "executive_action"
+}

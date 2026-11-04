@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-23787",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2017-23787",
+  "published_at": "2017-10-31",
+  "signing_date": "2017-10-26",
+  "source_url": "https://www.federalregister.gov/documents/2017/10/31/2017-23787/combatting-the-national-drug-demand-and-opioid-crisis",
+  "title": "Combatting the National Drug Demand and Opioid Crisis",
+  "topics": [],
+  "type": "executive_action"
+}

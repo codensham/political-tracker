@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-25156",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2018-25156",
+  "published_at": "2018-11-16",
+  "signing_date": "2018-10-26",
+  "source_url": "https://www.federalregister.gov/documents/2018/11/16/2018-25156/delegation-of-authorities-under-section-1294-of-the-national-defense-authorization-act-for-fiscal",
+  "title": "Delegation of Authorities Under Section 1294 of the National Defense Authorization Act for Fiscal Year 2019",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-10403",
+  "document_type": "executive_order",
+  "executive_order_number": "13832",
+  "id": "exec-2018-10403",
+  "published_at": "2018-05-14",
+  "signing_date": "2018-05-09",
+  "source_url": "https://www.federalregister.gov/documents/2018/05/14/2018-10403/enhancing-noncompetitive-civil-service-appointments-of-military-spouses",
+  "title": "Enhancing Noncompetitive Civil Service Appointments of Military Spouses",
+  "topics": [],
+  "type": "executive_action"
+}

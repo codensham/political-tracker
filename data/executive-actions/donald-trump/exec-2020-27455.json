@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-27455",
+  "document_type": "executive_order",
+  "executive_order_number": "13962",
+  "id": "exec-2020-27455",
+  "published_at": "2020-12-11",
+  "signing_date": "2020-12-08",
+  "source_url": "https://www.federalregister.gov/documents/2020/12/11/2020-27455/ensuring-access-to-united-states-government-covid-19-vaccines",
+  "title": "Ensuring Access to United States Government COVID-19 Vaccines",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-04866",
+  "document_type": "executive_order",
+  "executive_order_number": "14236",
+  "id": "exec-2025-04866",
+  "published_at": "2025-03-20",
+  "signing_date": "2025-03-14",
+  "source_url": "https://www.federalregister.gov/documents/2025/03/20/2025-04866/additional-rescissions-of-harmful-executive-orders-and-actions",
+  "title": "Additional Rescissions of Harmful Executive Orders and Actions",
+  "topics": [],
+  "type": "executive_action"
+}

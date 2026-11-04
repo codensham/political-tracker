@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-04645",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2026-04645",
+  "published_at": "2026-03-09",
+  "signing_date": "2026-03-04",
+  "source_url": "https://www.federalregister.gov/documents/2026/03/09/2026-04645/ratepayer-protection-pledge",
+  "title": "Ratepayer Protection Pledge",
+  "topics": [],
+  "type": "executive_action"
+}

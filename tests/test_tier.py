@@ -45,3 +45,9 @@ def test_rename_is_judgment():
 
 def test_empty_name_status_is_judgment():
     assert classify_name_status([]) == "judgment"
+
+
+def test_executive_actions_are_official():
+    assert classify_paths([
+        "data/executive-actions/donald-trump/exec-2017-01799.json",
+    ]) == "official"

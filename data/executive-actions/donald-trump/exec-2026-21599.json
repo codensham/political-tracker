@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-21599",
+  "document_type": "executive_order",
+  "executive_order_number": "14436",
+  "id": "exec-2026-21599",
+  "published_at": "2026-10-21",
+  "signing_date": "2026-10-16",
+  "source_url": "https://www.federalregister.gov/documents/2026/10/21/2026-21599/implementing-the-lindsey-o-graham-sanctioning-russia-and-iran-act-of-2026",
+  "title": "Implementing the Lindsey O. Graham Sanctioning Russia and Iran Act of 2026",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-00013",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2019-00013",
+  "published_at": "2019-01-07",
+  "signing_date": "2018-12-21",
+  "source_url": "https://www.federalregister.gov/documents/2019/01/07/2019-00013/to-take-certain-actions-under-the-african-growth-and-opportunity-act-and-for-other-purposes",
+  "title": "To Take Certain Actions Under the African Growth and Opportunity Act and for Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

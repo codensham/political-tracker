@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-12505",
+  "document_type": "executive_order",
+  "executive_order_number": "14311",
+  "id": "exec-2025-12505",
+  "published_at": "2025-07-03",
+  "signing_date": "2025-06-30",
+  "source_url": "https://www.federalregister.gov/documents/2025/07/03/2025-12505/establishing-a-white-house-office-for-special-peace-missions",
+  "title": "Establishing a White House Office for Special Peace Missions",
+  "topics": [],
+  "type": "executive_action"
+}

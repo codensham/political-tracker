@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-18679",
+  "document_type": "executive_order",
+  "executive_order_number": "13809",
+  "id": "exec-2017-18679",
+  "published_at": "2017-08-31",
+  "signing_date": "2017-08-28",
+  "source_url": "https://www.federalregister.gov/documents/2017/08/31/2017-18679/restoring-state-tribal-and-local-law-enforcements-access-to-life-saving-equipment-and-resources",
+  "title": "Restoring State, Tribal, and Local Law Enforcement's Access to Life-Saving Equipment and Resources",
+  "topics": [],
+  "type": "executive_action"
+}

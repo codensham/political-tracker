@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-05580",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-05580",
+  "published_at": "2020-03-16",
+  "signing_date": "2020-03-11",
+  "source_url": "https://www.federalregister.gov/documents/2020/03/16/2020-05580/making-general-use-respirators-available",
+  "title": "Making General Use Respirators Available",
+  "topics": [],
+  "type": "executive_action"
+}

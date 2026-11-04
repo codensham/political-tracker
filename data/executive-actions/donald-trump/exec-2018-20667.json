@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-20667",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2018-20667",
+  "published_at": "2018-09-20",
+  "signing_date": "2018-08-23",
+  "source_url": "https://www.federalregister.gov/documents/2018/09/20/2018-20667/modernizing-the-monetary-reimbursement-model-for-the-delivery-of-goods-through-the-international",
+  "title": "Modernizing the Monetary Reimbursement Model for the Delivery of Goods Through the International Postal System and Enhancing the Security and Safety of International Mail",
+  "topics": [],
+  "type": "executive_action"
+}

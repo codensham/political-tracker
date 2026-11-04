@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-17947",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2017-17947",
+  "published_at": "2017-08-23",
+  "signing_date": "2017-08-15",
+  "source_url": "https://www.federalregister.gov/documents/2017/08/23/2017-17947/elevation-of-us-cyber-command-to-a-unified-combatant-command",
+  "title": "Elevation of U.S. Cyber Command to a Unified Combatant Command",
+  "topics": [],
+  "type": "executive_action"
+}

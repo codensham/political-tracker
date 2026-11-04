@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-22623",
+  "document_type": "executive_order",
+  "executive_order_number": "13891",
+  "id": "exec-2019-22623",
+  "published_at": "2019-10-15",
+  "signing_date": "2019-10-09",
+  "source_url": "https://www.federalregister.gov/documents/2019/10/15/2019-22623/promoting-the-rule-of-law-through-improved-agency-guidance-documents",
+  "title": "Promoting the Rule of Law Through Improved Agency Guidance Documents",
+  "topics": [],
+  "type": "executive_action"
+}

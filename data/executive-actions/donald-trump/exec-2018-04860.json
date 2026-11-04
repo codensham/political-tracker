@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-04860",
+  "document_type": "executive_order",
+  "executive_order_number": "13825",
+  "id": "exec-2018-04860",
+  "published_at": "2018-03-08",
+  "signing_date": "2018-03-01",
+  "source_url": "https://www.federalregister.gov/documents/2018/03/08/2018-04860/2018-amendments-to-the-manual-for-courts-martial-united-states",
+  "title": "2018 Amendments to the Manual for Courts-Martial, United States",
+  "topics": [],
+  "type": "executive_action"
+}

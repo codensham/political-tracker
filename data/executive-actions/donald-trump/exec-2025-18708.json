@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-18708",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-18708",
+  "published_at": "2025-09-25",
+  "signing_date": "2025-09-22",
+  "source_url": "https://www.federalregister.gov/documents/2025/09/25/2025-18708/national-hispanic-heritage-month-2025",
+  "title": "National Hispanic Heritage Month, 2025",
+  "topics": [],
+  "type": "executive_action"
+}

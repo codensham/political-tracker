@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-18134",
+  "document_type": "executive_order",
+  "executive_order_number": "13807",
+  "id": "exec-2017-18134",
+  "published_at": "2017-08-24",
+  "signing_date": "2017-08-15",
+  "source_url": "https://www.federalregister.gov/documents/2017/08/24/2017-18134/establishing-discipline-and-accountability-in-the-environmental-review-and-permitting-process-for",
+  "title": "Establishing Discipline and Accountability in the Environmental Review and Permitting Process for Infrastructure Projects",
+  "topics": [],
+  "type": "executive_action"
+}

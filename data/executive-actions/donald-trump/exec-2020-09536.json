@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-09536",
+  "document_type": "executive_order",
+  "executive_order_number": "13917",
+  "id": "exec-2020-09536",
+  "published_at": "2020-05-01",
+  "signing_date": "2020-04-28",
+  "source_url": "https://www.federalregister.gov/documents/2020/05/01/2020-09536/delegating-authority-under-the-defense-production-act-with-respect-to-food-supply-chain-resources",
+  "title": "Delegating Authority Under the Defense Production Act With Respect to Food Supply Chain Resources During the National Emergency Caused by the Outbreak of COVID- 19",
+  "topics": [],
+  "type": "executive_action"
+}

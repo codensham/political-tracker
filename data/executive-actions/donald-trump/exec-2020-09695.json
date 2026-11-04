@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-09695",
+  "document_type": "executive_order",
+  "executive_order_number": "13920",
+  "id": "exec-2020-09695",
+  "published_at": "2020-05-04",
+  "signing_date": "2020-05-01",
+  "source_url": "https://www.federalregister.gov/documents/2020/05/04/2020-09695/securing-the-united-states-bulk-power-system",
+  "title": "Securing the United States Bulk-Power System",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-13696",
+  "document_type": "executive_order",
+  "executive_order_number": "13841",
+  "id": "exec-2018-13696",
+  "published_at": "2018-06-25",
+  "signing_date": "2018-06-20",
+  "source_url": "https://www.federalregister.gov/documents/2018/06/25/2018-13696/affording-congress-an-opportunity-to-address-family-separation",
+  "title": "Affording Congress an Opportunity To Address Family Separation",
+  "topics": [],
+  "type": "executive_action"
+}

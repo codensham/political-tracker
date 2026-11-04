@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-13458",
+  "document_type": "executive_order",
+  "executive_order_number": "13802",
+  "id": "exec-2017-13458",
+  "published_at": "2017-06-26",
+  "signing_date": "2017-06-21",
+  "source_url": "https://www.federalregister.gov/documents/2017/06/26/2017-13458/amending-executive-order-13597",
+  "title": "Amending Executive Order 13597",
+  "topics": [],
+  "type": "executive_action"
+}

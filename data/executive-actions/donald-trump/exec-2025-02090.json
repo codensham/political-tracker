@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02090",
+  "document_type": "executive_order",
+  "executive_order_number": "14168",
+  "id": "exec-2025-02090",
+  "published_at": "2025-01-30",
+  "signing_date": "2025-01-20",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/30/2025-02090/defending-women-from-gender-ideology-extremism-and-restoring-biological-truth-to-the-federal",
+  "title": "Defending Women From Gender Ideology Extremism and Restoring Biological Truth to the Federal Government",
+  "topics": [],
+  "type": "executive_action"
+}

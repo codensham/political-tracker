@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-08267",
+  "document_type": "executive_order",
+  "executive_order_number": "14293",
+  "id": "exec-2025-08267",
+  "published_at": "2025-05-08",
+  "signing_date": "2025-05-05",
+  "source_url": "https://www.federalregister.gov/documents/2025/05/08/2025-08267/regulatory-relief-to-promote-domestic-production-of-critical-medicines",
+  "title": "Regulatory Relief To Promote Domestic Production of Critical Medicines",
+  "topics": [],
+  "type": "executive_action"
+}

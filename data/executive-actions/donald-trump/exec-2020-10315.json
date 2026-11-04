@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-10315",
+  "document_type": "executive_order",
+  "executive_order_number": "13921",
+  "id": "exec-2020-10315",
+  "published_at": "2020-05-12",
+  "signing_date": "2020-05-07",
+  "source_url": "https://www.federalregister.gov/documents/2020/05/12/2020-10315/promoting-american-seafood-competitiveness-and-economic-growth",
+  "title": "Promoting American Seafood Competitiveness and Economic Growth",
+  "topics": [],
+  "type": "executive_action"
+}

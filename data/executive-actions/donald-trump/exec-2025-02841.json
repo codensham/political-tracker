@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02841",
+  "document_type": "executive_order",
+  "executive_order_number": "14211",
+  "id": "exec-2025-02841",
+  "published_at": "2025-02-18",
+  "signing_date": "2025-02-12",
+  "source_url": "https://www.federalregister.gov/documents/2025/02/18/2025-02841/one-voice-for-americas-foreign-relations",
+  "title": "One Voice for America's Foreign Relations",
+  "topics": [],
+  "type": "executive_action"
+}

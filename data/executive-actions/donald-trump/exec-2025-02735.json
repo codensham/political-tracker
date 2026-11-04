@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02735",
+  "document_type": "executive_order",
+  "executive_order_number": "14208",
+  "id": "exec-2025-02735",
+  "published_at": "2025-02-14",
+  "signing_date": "2025-02-10",
+  "source_url": "https://www.federalregister.gov/documents/2025/02/14/2025-02735/ending-procurement-and-forced-use-of-paper-straws",
+  "title": "Ending Procurement and Forced Use of Paper Straws",
+  "topics": [],
+  "type": "executive_action"
+}

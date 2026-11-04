@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-11555",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-11555",
+  "published_at": "2025-06-23",
+  "signing_date": "2025-06-17",
+  "source_url": "https://www.federalregister.gov/documents/2025/06/23/2025-11555/250th-anniversary-of-the-battle-of-bunker-hill",
+  "title": "250th Anniversary of the Battle of Bunker Hill",
+  "topics": [],
+  "type": "executive_action"
+}

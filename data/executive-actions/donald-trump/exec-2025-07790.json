@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-07790",
+  "document_type": "executive_order",
+  "executive_order_number": "14288",
+  "id": "exec-2025-07790",
+  "published_at": "2025-05-02",
+  "signing_date": "2025-04-28",
+  "source_url": "https://www.federalregister.gov/documents/2025/05/02/2025-07790/strengthening-and-unleashing-americas-law-enforcement-to-pursue-criminals-and-protect-innocent",
+  "title": "Strengthening and Unleashing America's Law Enforcement To Pursue Criminals and Protect Innocent Citizens",
+  "topics": [],
+  "type": "executive_action"
+}

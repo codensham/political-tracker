@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-10538",
+  "document_type": "executive_order",
+  "executive_order_number": "13873",
+  "id": "exec-2019-10538",
+  "published_at": "2019-05-17",
+  "signing_date": "2019-05-15",
+  "source_url": "https://www.federalregister.gov/documents/2019/05/17/2019-10538/securing-the-information-and-communications-technology-and-services-supply-chain",
+  "title": "Securing the Information and Communications Technology and Services Supply Chain",
+  "topics": [],
+  "type": "executive_action"
+}

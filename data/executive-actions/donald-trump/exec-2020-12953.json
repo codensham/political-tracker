@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-12953",
+  "document_type": "executive_order",
+  "executive_order_number": "13928",
+  "id": "exec-2020-12953",
+  "published_at": "2020-06-15",
+  "signing_date": "2020-06-11",
+  "source_url": "https://www.federalregister.gov/documents/2020/06/15/2020-12953/blocking-property-of-certain-persons-associated-with-the-international-criminal-court",
+  "title": "Blocking Property of Certain Persons Associated With the International Criminal Court",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-06837",
+  "document_type": "executive_order",
+  "executive_order_number": "14273",
+  "id": "exec-2025-06837",
+  "published_at": "2025-04-18",
+  "signing_date": "2025-04-15",
+  "source_url": "https://www.federalregister.gov/documents/2025/04/18/2025-06837/lowering-drug-prices-by-once-again-putting-americans-first",
+  "title": "Lowering Drug Prices by Once Again Putting Americans First",
+  "topics": [],
+  "type": "executive_action"
+}

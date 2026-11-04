@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-10130",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2019-10130",
+  "published_at": "2019-05-14",
+  "signing_date": "2019-05-09",
+  "source_url": "https://www.federalregister.gov/documents/2019/05/14/2019-10130/military-spouse-day-2019",
+  "title": "Military Spouse Day, 2019",
+  "topics": [],
+  "type": "executive_action"
+}

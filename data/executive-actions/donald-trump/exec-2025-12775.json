@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-12775",
+  "document_type": "executive_order",
+  "executive_order_number": "14314",
+  "id": "exec-2025-12775",
+  "published_at": "2025-07-09",
+  "signing_date": "2025-07-03",
+  "source_url": "https://www.federalregister.gov/documents/2025/07/09/2025-12775/making-america-beautiful-again-by-improving-our-national-parks",
+  "title": "Making America Beautiful Again by Improving Our National Parks",
+  "topics": [],
+  "type": "executive_action"
+}

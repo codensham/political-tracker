@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-15827",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-15827",
+  "published_at": "2025-08-19",
+  "signing_date": "2025-08-14",
+  "source_url": "https://www.federalregister.gov/documents/2025/08/19/2025-15827/90th-anniversary-of-the-social-security-act",
+  "title": "90th Anniversary of the Social Security Act",
+  "topics": [],
+  "type": "executive_action"
+}

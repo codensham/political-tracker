@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01476",
+  "document_type": "executive_order",
+  "executive_order_number": "13976",
+  "id": "exec-2021-01476",
+  "published_at": "2021-01-21",
+  "signing_date": "2021-01-14",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/21/2021-01476/establishing-the-wildland-fire-management-policy-committee",
+  "title": "Establishing the Wildland Fire Management Policy Committee",
+  "topics": [],
+  "type": "executive_action"
+}

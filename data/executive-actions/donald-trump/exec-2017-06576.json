@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-06576",
+  "document_type": "executive_order",
+  "executive_order_number": "13783",
+  "id": "exec-2017-06576",
+  "published_at": "2017-03-31",
+  "signing_date": "2017-03-28",
+  "source_url": "https://www.federalregister.gov/documents/2017/03/31/2017-06576/promoting-energy-independence-and-economic-growth",
+  "title": "Promoting Energy Independence and Economic Growth",
+  "topics": [],
+  "type": "executive_action"
+}

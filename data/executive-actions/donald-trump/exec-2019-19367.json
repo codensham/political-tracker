@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-19367",
+  "document_type": "executive_order",
+  "executive_order_number": "13885",
+  "id": "exec-2019-19367",
+  "published_at": "2019-09-05",
+  "signing_date": "2019-08-30",
+  "source_url": "https://www.federalregister.gov/documents/2019/09/05/2019-19367/establishing-the-national-quantum-initiative-advisory-committee",
+  "title": "Establishing the National Quantum Initiative Advisory Committee",
+  "topics": [],
+  "type": "executive_action"
+}

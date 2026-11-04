@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-27925",
+  "document_type": "executive_order",
+  "executive_order_number": "13818",
+  "id": "exec-2017-27925",
+  "published_at": "2017-12-26",
+  "signing_date": "2017-12-20",
+  "source_url": "https://www.federalregister.gov/documents/2017/12/26/2017-27925/blocking-the-property-of-persons-involved-in-serious-human-rights-abuse-or-corruption",
+  "title": "Blocking the Property of Persons Involved in Serious Human Rights Abuse or Corruption",
+  "topics": [],
+  "type": "executive_action"
+}

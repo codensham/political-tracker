@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-22049",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2026-22049",
+  "published_at": "2026-10-28",
+  "signing_date": "2026-10-22",
+  "source_url": "https://www.federalregister.gov/documents/2026/10/28/2026-22049/adjusting-imports-of-wind-turbines-and-their-parts-and-components-into-the-united-states",
+  "title": "Adjusting Imports of Wind Turbines and Their Parts and Components Into the United States",
+  "topics": [],
+  "type": "executive_action"
+}

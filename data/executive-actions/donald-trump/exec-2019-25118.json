@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-25118",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2019-25118",
+  "published_at": "2019-11-18",
+  "signing_date": "2019-11-12",
+  "source_url": "https://www.federalregister.gov/documents/2019/11/18/2019-25118/delegation-of-removal-authority-over-the-federal-service-impasses-panel",
+  "title": "Delegation of Removal Authority Over the Federal Service Impasses Panel",
+  "topics": [],
+  "type": "executive_action"
+}

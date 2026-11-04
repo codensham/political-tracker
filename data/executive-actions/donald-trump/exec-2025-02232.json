@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02232",
+  "document_type": "executive_order",
+  "executive_order_number": "14190",
+  "id": "exec-2025-02232",
+  "published_at": "2025-02-03",
+  "signing_date": "2025-01-29",
+  "source_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02232/ending-radical-indoctrination-in-k-12-schooling",
+  "title": "Ending Radical Indoctrination in K-12 Schooling",
+  "topics": [],
+  "type": "executive_action"
+}

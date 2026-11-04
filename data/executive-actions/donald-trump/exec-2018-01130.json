@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-01130",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2018-01130",
+  "published_at": "2018-01-19",
+  "signing_date": "2018-01-12",
+  "source_url": "https://www.federalregister.gov/documents/2018/01/19/2018-01130/martin-luther-king-jr-federal-holiday-2018",
+  "title": "Martin Luther King, Jr., Federal Holiday, 2018",
+  "topics": [],
+  "type": "executive_action"
+}

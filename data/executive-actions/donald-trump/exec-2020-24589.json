@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-24589",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2020-24589",
+  "published_at": "2020-11-04",
+  "signing_date": "2020-10-30",
+  "source_url": "https://www.federalregister.gov/documents/2020/11/04/2020-24589/to-modify-duty-free-treatment-under-the-generalized-system-of-preferences-and-for-other-purposes",
+  "title": "To Modify Duty-Free Treatment Under the Generalized System of Preferences and for Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-07962",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2018-07962",
+  "published_at": "2018-04-13",
+  "signing_date": "2018-04-06",
+  "source_url": "https://www.federalregister.gov/documents/2018/04/13/2018-07962/ending-catch-and-release-at-the-border-of-the-united-states-and-directing-other-enhancements-to",
+  "title": "Ending \"Catch and Release\" at the Border of the United States and Directing Other Enhancements to Immigration Enforcement",
+  "topics": [],
+  "type": "executive_action"
+}

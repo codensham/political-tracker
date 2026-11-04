@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-26156",
+  "document_type": "executive_order",
+  "executive_order_number": "13851",
+  "id": "exec-2018-26156",
+  "published_at": "2018-11-29",
+  "signing_date": "2018-11-27",
+  "source_url": "https://www.federalregister.gov/documents/2018/11/29/2018-26156/blocking-property-of-certain-persons-contributing-to-the-situation-in-nicaragua",
+  "title": "Blocking Property of Certain Persons Contributing to the Situation in Nicaragua",
+  "topics": [],
+  "type": "executive_action"
+}

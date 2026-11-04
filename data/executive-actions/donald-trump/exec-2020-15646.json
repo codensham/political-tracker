@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-15646",
+  "document_type": "executive_order",
+  "executive_order_number": "13936",
+  "id": "exec-2020-15646",
+  "published_at": "2020-07-17",
+  "signing_date": "2020-07-14",
+  "source_url": "https://www.federalregister.gov/documents/2020/07/17/2020-15646/the-presidents-executive-order-on-hong-kong-normalization",
+  "title": "The President's Executive Order on Hong Kong Normalization",
+  "topics": [],
+  "type": "executive_action"
+}

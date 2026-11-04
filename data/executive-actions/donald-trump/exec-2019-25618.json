@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-25618",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2019-25618",
+  "published_at": "2019-11-22",
+  "signing_date": "2019-11-19",
+  "source_url": "https://www.federalregister.gov/documents/2019/11/22/2019-25618/ocean-mapping-of-the-united-states-exclusive-economic-zone-and-the-shoreline-and-nearshore-of-alaska",
+  "title": "Ocean Mapping of the United States Exclusive Economic Zone and the Shoreline and Nearshore of Alaska",
+  "topics": [],
+  "type": "executive_action"
+}

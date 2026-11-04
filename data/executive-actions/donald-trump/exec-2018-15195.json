@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-15195",
+  "document_type": "executive_order",
+  "executive_order_number": "13842",
+  "id": "exec-2018-15195",
+  "published_at": "2018-07-13",
+  "signing_date": "2018-07-10",
+  "source_url": "https://www.federalregister.gov/documents/2018/07/13/2018-15195/establishing-an-exception-to-competitive-examining-rules-for-appointment-to-certain-positions-in-the",
+  "title": "Establishing an Exception to Competitive Examining Rules for Appointment to Certain Positions in the United States Marshals Service, Department of Justice",
+  "topics": [],
+  "type": "executive_action"
+}

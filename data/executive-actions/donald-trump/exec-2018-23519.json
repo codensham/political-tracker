@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-23519",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2018-23519",
+  "published_at": "2018-10-25",
+  "signing_date": "2018-10-19",
+  "source_url": "https://www.federalregister.gov/documents/2018/10/25/2018-23519/promoting-the-reliable-supply-and-delivery-of-water-in-the-west",
+  "title": "Promoting the Reliable Supply and Delivery of Water in the West",
+  "topics": [],
+  "type": "executive_action"
+}

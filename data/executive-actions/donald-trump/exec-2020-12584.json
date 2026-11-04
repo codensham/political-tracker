@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-12584",
+  "document_type": "executive_order",
+  "executive_order_number": "13927",
+  "id": "exec-2020-12584",
+  "published_at": "2020-06-09",
+  "signing_date": "2020-06-04",
+  "source_url": "https://www.federalregister.gov/documents/2020/06/09/2020-12584/accelerating-the-nations-economic-recovery-from-the-covid-19-emergency-by-expediting-infrastructure",
+  "title": "Accelerating the Nation's Economic Recovery From the COVID-19 Emergency by Expediting Infrastructure Investments and Other Activities",
+  "topics": [],
+  "type": "executive_action"
+}

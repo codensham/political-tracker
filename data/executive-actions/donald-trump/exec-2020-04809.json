@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-04809",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-04809",
+  "published_at": "2020-03-06",
+  "signing_date": "2020-03-03",
+  "source_url": "https://www.federalregister.gov/documents/2020/03/06/2020-04809/delegation-of-authority-to-re-establish-the-presidential-advisory-council-on-combating-antibiotic-",
+  "title": "Delegation of Authority to Re-establish the Presidential Advisory Council on Combating Antibiotic- Resistant Bacteria",
+  "topics": [],
+  "type": "executive_action"
+}

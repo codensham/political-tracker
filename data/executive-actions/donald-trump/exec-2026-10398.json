@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-10398",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2026-10398",
+  "published_at": "2026-05-22",
+  "signing_date": "2026-05-19",
+  "source_url": "https://www.federalregister.gov/documents/2026/05/22/2026-10398/to-implement-certain-provisions-in-the-consolidated-appropriations-act-2026-and-for-other-purposes",
+  "title": "To Implement Certain Provisions in the Consolidated Appropriations Act, 2026, and for Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

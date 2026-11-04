@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-01902",
+  "document_type": "executive_order",
+  "executive_order_number": "14149",
+  "id": "exec-2025-01902",
+  "published_at": "2025-01-28",
+  "signing_date": "2025-01-20",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/28/2025-01902/restoring-freedom-of-speech-and-ending-federal-censorship",
+  "title": "Restoring Freedom of Speech and Ending Federal Censorship",
+  "topics": [],
+  "type": "executive_action"
+}

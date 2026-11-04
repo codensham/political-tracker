@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-17363",
+  "document_type": "executive_order",
+  "executive_order_number": "13940",
+  "id": "exec-2020-17363",
+  "published_at": "2020-08-06",
+  "signing_date": "2020-08-03",
+  "source_url": "https://www.federalregister.gov/documents/2020/08/06/2020-17363/aligning-federal-contracting-and-hiring-practices-with-the-interests-of-american-workers",
+  "title": "Aligning Federal Contracting and Hiring Practices With the Interests of American Workers",
+  "topics": [],
+  "type": "executive_action"
+}

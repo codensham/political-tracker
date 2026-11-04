@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-04859",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2017-04859",
+  "published_at": "2017-03-09",
+  "signing_date": "2017-03-06",
+  "source_url": "https://www.federalregister.gov/documents/2017/03/09/2017-04859/national-consumer-protection-week-2017",
+  "title": "National Consumer Protection Week, 2017",
+  "topics": [],
+  "type": "executive_action"
+}

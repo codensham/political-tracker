@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-06811",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2019-06811",
+  "published_at": "2019-04-04",
+  "signing_date": "2019-04-01",
+  "source_url": "https://www.federalregister.gov/documents/2019/04/04/2019-06811/delaying-submission-of-the-small-business-report-under-the-trade-facilitation-and-trade-enforcement",
+  "title": "Delaying Submission of the Small Business Report Under the Trade Facilitation and Trade Enforcement Act of 2015",
+  "topics": [],
+  "type": "executive_action"
+}

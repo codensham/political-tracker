@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-06969",
+  "document_type": "executive_order",
+  "executive_order_number": "13911",
+  "id": "exec-2020-06969",
+  "published_at": "2020-04-01",
+  "signing_date": "2020-03-27",
+  "source_url": "https://www.federalregister.gov/documents/2020/04/01/2020-06969/delegating-additional-authority-under-the-defense-production-act-with-respect-to-health-and-medical",
+  "title": "Delegating Additional Authority Under the Defense Production Act With Respect to Health and Medical Resources To Respond to the Spread of COVID-19",
+  "topics": [],
+  "type": "executive_action"
+}

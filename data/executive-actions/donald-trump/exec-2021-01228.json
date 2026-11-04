@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01228",
+  "document_type": "executive_order",
+  "executive_order_number": "13974",
+  "id": "exec-2021-01228",
+  "published_at": "2021-01-19",
+  "signing_date": "2021-01-13",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/19/2021-01228/amending-executive-order-13959addressing-the-threat-from-securities-investments-that-finance",
+  "title": "Amending Executive Order 13959Addressing the Threat From Securities Investments That Finance Communist Chinese Military Companies",
+  "topics": [],
+  "type": "executive_action"
+}

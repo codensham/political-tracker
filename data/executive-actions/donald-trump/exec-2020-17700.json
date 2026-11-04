@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-17700",
+  "document_type": "executive_order",
+  "executive_order_number": "13943",
+  "id": "exec-2020-17700",
+  "published_at": "2020-08-11",
+  "signing_date": "2020-08-06",
+  "source_url": "https://www.federalregister.gov/documents/2020/08/11/2020-17700/addressing-the-threat-posed-by-wechat-and-taking-additional-steps-to-address-the-national-emergency",
+  "title": "Addressing the Threat Posed by WeChat, and Taking Additional Steps To Address the National Emergency With Respect to the Information and Communications Technology and Services Supply Chain",
+  "topics": [],
+  "type": "executive_action"
+}

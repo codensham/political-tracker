@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-01426",
+  "document_type": "executive_order",
+  "executive_order_number": "13858",
+  "id": "exec-2019-01426",
+  "published_at": "2019-02-05",
+  "signing_date": "2019-01-31",
+  "source_url": "https://www.federalregister.gov/documents/2019/02/05/2019-01426/strengthening-buy-american-preferences-for-infrastructure-projects",
+  "title": "Strengthening Buy-American Preferences for Infrastructure Projects",
+  "topics": [],
+  "type": "executive_action"
+}

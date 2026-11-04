@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02174",
+  "document_type": "executive_order",
+  "executive_order_number": "14181",
+  "id": "exec-2025-02174",
+  "published_at": "2025-01-31",
+  "signing_date": "2025-01-24",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02174/emergency-measures-to-provide-water-resources-in-california-and-improve-disaster-response-in-certain",
+  "title": "Emergency Measures To Provide Water Resources in California and Improve Disaster Response in Certain Areas",
+  "topics": [],
+  "type": "executive_action"
+}

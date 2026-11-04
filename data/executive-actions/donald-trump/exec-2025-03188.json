@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-03188",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2025-03188",
+  "published_at": "2025-02-26",
+  "signing_date": "2025-02-21",
+  "source_url": "https://www.federalregister.gov/documents/2025/02/26/2025-03188/defending-american-companies-and-innovators-from-overseas-extortion-and-unfair-fines-and-penalties",
+  "title": "Defending American Companies and Innovators From Overseas Extortion and Unfair Fines and Penalties",
+  "topics": [],
+  "type": "executive_action"
+}

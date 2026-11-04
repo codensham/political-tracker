@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-02292",
+  "document_type": "executive_order",
+  "executive_order_number": "14381",
+  "id": "exec-2026-02292",
+  "published_at": "2026-02-04",
+  "signing_date": "2026-01-30",
+  "source_url": "https://www.federalregister.gov/documents/2026/02/04/2026-02292/celebrating-american-greatness-with-american-motor-racing",
+  "title": "Celebrating American Greatness With American Motor Racing",
+  "topics": [],
+  "type": "executive_action"
+}

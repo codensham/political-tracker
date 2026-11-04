@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-12585",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-12585",
+  "published_at": "2020-06-09",
+  "signing_date": "2020-06-04",
+  "source_url": "https://www.federalregister.gov/documents/2020/06/09/2020-12585/protecting-united-states-investors-from-significant-risks-from-chinese-companies",
+  "title": "Protecting United States Investors From Significant Risks From Chinese Companies",
+  "topics": [],
+  "type": "executive_action"
+}

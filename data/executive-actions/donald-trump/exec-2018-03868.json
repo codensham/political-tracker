@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-03868",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2018-03868",
+  "published_at": "2018-02-23",
+  "signing_date": "2018-02-20",
+  "source_url": "https://www.federalregister.gov/documents/2018/02/23/2018-03868/application-of-the-definition-of-machinegun-to-bump-fire-stocks-and-other-similar-devices",
+  "title": "Application of the Definition of Machinegun to \"Bump Fire\" Stocks and Other Similar Devices",
+  "topics": [],
+  "type": "executive_action"
+}

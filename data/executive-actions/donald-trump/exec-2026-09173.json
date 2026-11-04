@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-09173",
+  "document_type": "executive_order",
+  "executive_order_number": "14404",
+  "id": "exec-2026-09173",
+  "published_at": "2026-05-07",
+  "signing_date": "2026-05-01",
+  "source_url": "https://www.federalregister.gov/documents/2026/05/07/2026-09173/imposing-sanctions-on-those-responsible-for-repression-in-cuba-and-for-threats-to-united-states",
+  "title": "Imposing Sanctions on Those Responsible for Repression in Cuba and for Threats to United States National Security and Foreign Policy",
+  "topics": [],
+  "type": "executive_action"
+}

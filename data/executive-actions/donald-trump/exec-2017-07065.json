@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-07065",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2017-07065",
+  "published_at": "2017-04-06",
+  "signing_date": "2017-04-03",
+  "source_url": "https://www.federalregister.gov/documents/2017/04/06/2017-07065/national-crime-victims-rights-week-2017",
+  "title": "National Crime Victims' Rights Week, 2017",
+  "topics": [],
+  "type": "executive_action"
+}

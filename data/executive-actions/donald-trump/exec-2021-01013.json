@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01013",
+  "document_type": "executive_order",
+  "executive_order_number": "13972",
+  "id": "exec-2021-01013",
+  "published_at": "2021-01-14",
+  "signing_date": "2021-01-05",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/14/2021-01013/promoting-small-modular-reactors-for-national-defense-and-space-exploration",
+  "title": "Promoting Small Modular Reactors for National Defense and Space Exploration",
+  "topics": [],
+  "type": "executive_action"
+}

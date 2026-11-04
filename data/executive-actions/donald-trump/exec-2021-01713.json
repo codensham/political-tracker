@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-01713",
+  "document_type": "executive_order",
+  "executive_order_number": "13983",
+  "id": "exec-2021-01713",
+  "published_at": "2021-01-25",
+  "signing_date": "2021-01-19",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/25/2021-01713/revocation-of-executive-order-13770",
+  "title": "Revocation of Executive Order 13770",
+  "topics": [],
+  "type": "executive_action"
+}

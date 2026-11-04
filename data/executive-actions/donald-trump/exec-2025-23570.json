@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-23570",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-23570",
+  "published_at": "2025-12-19",
+  "signing_date": "2025-12-16",
+  "source_url": "https://www.federalregister.gov/documents/2025/12/19/2025-23570/restricting-and-limiting-the-entry-of-foreign-nationals-to-protect-the-security-of-the-united-states",
+  "title": "Restricting and Limiting the Entry of Foreign Nationals To Protect the Security of the United States",
+  "topics": [],
+  "type": "executive_action"
+}

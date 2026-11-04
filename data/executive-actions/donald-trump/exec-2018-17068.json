@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-17068",
+  "document_type": "executive_order",
+  "executive_order_number": "13846",
+  "id": "exec-2018-17068",
+  "published_at": "2018-08-07",
+  "signing_date": "2018-08-06",
+  "source_url": "https://www.federalregister.gov/documents/2018/08/07/2018-17068/reimposing-certain-sanctions-with-respect-to-iran",
+  "title": "Reimposing Certain Sanctions With Respect to Iran",
+  "topics": [],
+  "type": "executive_action"
+}

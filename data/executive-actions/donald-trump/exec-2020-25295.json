@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-25295",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-25295",
+  "published_at": "2020-11-13",
+  "signing_date": "2020-11-09",
+  "source_url": "https://www.federalregister.gov/documents/2020/11/13/2020-25295/delegation-of-authority-for-fiscal-year-2021-cost-estimates-and-annual-reports-to-the-congress-for",
+  "title": "Delegation of Authority for Fiscal Year 2021 Cost Estimates and Annual Reports to the Congress for the Land and Water Conservation Fund",
+  "topics": [],
+  "type": "executive_action"
+}

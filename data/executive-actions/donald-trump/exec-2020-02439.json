@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-02439",
+  "document_type": "executive_order",
+  "executive_order_number": "13904",
+  "id": "exec-2020-02439",
+  "published_at": "2020-02-05",
+  "signing_date": "2020-01-31",
+  "source_url": "https://www.federalregister.gov/documents/2020/02/05/2020-02439/ensuring-safe-and-lawful-e-commerce-for-united-states-consumers-businesses-government-supply-chains",
+  "title": "Ensuring Safe and Lawful E-Commerce for United States Consumers, Businesses, Government Supply Chains, and Intellectual Property Rights Holders",
+  "topics": [],
+  "type": "executive_action"
+}

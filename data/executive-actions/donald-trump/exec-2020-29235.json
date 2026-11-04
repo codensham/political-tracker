@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-29235",
+  "document_type": "executive_order",
+  "executive_order_number": "13969",
+  "id": "exec-2020-29235",
+  "published_at": "2021-01-04",
+  "signing_date": "2020-12-28",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/04/2020-29235/expanding-educational-opportunity-through-school-choice",
+  "title": "Expanding Educational Opportunity Through School Choice",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-17364",
+  "document_type": "executive_order",
+  "executive_order_number": "13941",
+  "id": "exec-2020-17364",
+  "published_at": "2020-08-06",
+  "signing_date": "2020-08-03",
+  "source_url": "https://www.federalregister.gov/documents/2020/08/06/2020-17364/improving-rural-health-and-telehealth-access",
+  "title": "Improving Rural Health and Telehealth Access",
+  "topics": [],
+  "type": "executive_action"
+}

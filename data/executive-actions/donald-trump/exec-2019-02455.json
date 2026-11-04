@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-02455",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2019-02455",
+  "published_at": "2019-02-13",
+  "signing_date": "2018-12-21",
+  "source_url": "https://www.federalregister.gov/documents/2019/02/13/2019-02455/delegation-of-functions-and-authorities-under-section-1238-of-the-faa-reauthorization-act-of-2018",
+  "title": "Delegation of Functions and Authorities Under Section 1238 of the FAA Reauthorization Act of 2018",
+  "topics": [],
+  "type": "executive_action"
+}

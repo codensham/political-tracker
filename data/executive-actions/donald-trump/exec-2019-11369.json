@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-11369",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2019-11369",
+  "published_at": "2019-05-29",
+  "signing_date": "2019-05-23",
+  "source_url": "https://www.federalregister.gov/documents/2019/05/29/2019-11369/agency-cooperation-with-attorney-generals-review-of-intelligence-activities-relating-to-the-2016",
+  "title": "Agency Cooperation With Attorney General's Review of Intelligence Activities Relating to the 2016 Presidential Campaigns",
+  "topics": [],
+  "type": "executive_action"
+}

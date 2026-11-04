@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-05113",
+  "document_type": "executive_order",
+  "executive_order_number": "13826",
+  "id": "exec-2018-05113",
+  "published_at": "2018-03-12",
+  "signing_date": "2018-03-07",
+  "source_url": "https://www.federalregister.gov/documents/2018/03/12/2018-05113/federal-interagency-council-on-crime-prevention-and-improving-reentry",
+  "title": "Federal Interagency Council on Crime Prevention and Improving Reentry",
+  "topics": [],
+  "type": "executive_action"
+}

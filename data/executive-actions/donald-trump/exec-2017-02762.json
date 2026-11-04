@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-02762",
+  "document_type": "executive_order",
+  "executive_order_number": "13772",
+  "id": "exec-2017-02762",
+  "published_at": "2017-02-08",
+  "signing_date": "2017-02-03",
+  "source_url": "https://www.federalregister.gov/documents/2017/02/08/2017-02762/core-principles-for-regulating-the-united-states-financial-system",
+  "title": "Core Principles for Regulating the United States Financial System",
+  "topics": [],
+  "type": "executive_action"
+}

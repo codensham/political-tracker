@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-16922",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-16922",
+  "published_at": "2025-09-03",
+  "signing_date": "2025-08-28",
+  "source_url": "https://www.federalregister.gov/documents/2025/09/03/2025-16922/overdose-prevention-week-2025",
+  "title": "Overdose Prevention Week, 2025",
+  "topics": [],
+  "type": "executive_action"
+}

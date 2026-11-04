@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-00245",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2026-00245",
+  "published_at": "2026-01-08",
+  "signing_date": "2025-12-29",
+  "source_url": "https://www.federalregister.gov/documents/2026/01/08/2026-00245/to-implement-the-united-states-israel-agreement-on-trade-in-agricultural-products-and-for-other",
+  "title": "To Implement the United States-Israel Agreement on Trade in Agricultural Products and for Other Purposes",
+  "topics": [],
+  "type": "executive_action"
+}

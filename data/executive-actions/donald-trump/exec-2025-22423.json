@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-22423",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-22423",
+  "published_at": "2025-12-09",
+  "signing_date": "2025-12-04",
+  "source_url": "https://www.federalregister.gov/documents/2025/12/09/2025-22423/honoring-the-memory-of-specialist-sarah-beckstrom-west-virginia-army-national-guard",
+  "title": "Honoring the Memory of Specialist Sarah Beckstrom, West Virginia Army National Guard",
+  "topics": [],
+  "type": "executive_action"
+}

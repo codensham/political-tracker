@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-00831",
+  "document_type": "executive_order",
+  "executive_order_number": "14373",
+  "id": "exec-2026-00831",
+  "published_at": "2026-01-15",
+  "signing_date": "2026-01-09",
+  "source_url": "https://www.federalregister.gov/documents/2026/01/15/2026-00831/safeguarding-venezuelan-oil-revenue-for-the-good-of-the-american-and-venezuelan-people",
+  "title": "Safeguarding Venezuelan Oil Revenue for the Good of the American and Venezuelan People",
+  "topics": [],
+  "type": "executive_action"
+}

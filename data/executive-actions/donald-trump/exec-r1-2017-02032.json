@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "R1-2017-02032",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-r1-2017-02032",
+  "published_at": "2017-02-17",
+  "signing_date": "2017-01-24",
+  "source_url": "https://www.federalregister.gov/documents/2017/02/17/R1-2017-02032/construction-of-the-dakota-access-pipeline",
+  "title": "Construction of the Dakota Access Pipeline",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-08908",
+  "document_type": "executive_order",
+  "executive_order_number": "13792",
+  "id": "exec-2017-08908",
+  "published_at": "2017-05-01",
+  "signing_date": "2017-04-26",
+  "source_url": "https://www.federalregister.gov/documents/2017/05/01/2017-08908/review-of-designations-under-the-antiquities-act",
+  "title": "Review of Designations Under the Antiquities Act",
+  "topics": [],
+  "type": "executive_action"
+}

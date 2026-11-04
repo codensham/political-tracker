@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-12910",
+  "document_type": "executive_order",
+  "executive_order_number": "14413",
+  "id": "exec-2026-12910",
+  "published_at": "2026-06-25",
+  "signing_date": "2026-06-22",
+  "source_url": "https://www.federalregister.gov/documents/2026/06/25/2026-12910/ushering-in-the-next-frontier-of-quantum-innovation",
+  "title": "Ushering in the Next Frontier of Quantum Innovation",
+  "topics": [],
+  "type": "executive_action"
+}

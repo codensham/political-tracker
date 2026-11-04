@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-17897",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-17897",
+  "published_at": "2020-08-13",
+  "signing_date": "2020-08-08",
+  "source_url": "https://www.federalregister.gov/documents/2020/08/13/2020-17897/continued-student-loan-payment-relief-during-the-covid-19-pandemic",
+  "title": "Continued Student Loan Payment Relief During the COVID-19 Pandemic",
+  "topics": [],
+  "type": "executive_action"
+}

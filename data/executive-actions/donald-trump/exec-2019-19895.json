@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-19895",
+  "document_type": "executive_order",
+  "executive_order_number": "13886",
+  "id": "exec-2019-19895",
+  "published_at": "2019-09-12",
+  "signing_date": "2019-09-09",
+  "source_url": "https://www.federalregister.gov/documents/2019/09/12/2019-19895/modernizing-sanctions-to-combat-terrorism",
+  "title": "Modernizing Sanctions To Combat Terrorism",
+  "topics": [],
+  "type": "executive_action"
+}

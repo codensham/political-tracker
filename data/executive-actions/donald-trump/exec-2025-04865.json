@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-04865",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-04865",
+  "published_at": "2025-03-20",
+  "signing_date": "2025-03-14",
+  "source_url": "https://www.federalregister.gov/documents/2025/03/20/2025-04865/invocation-of-the-alien-enemies-act-regarding-the-invasion-of-the-united-states-by-tren-de-aragua",
+  "title": "Invocation of the Alien Enemies Act Regarding the Invasion of the United States by Tren de Aragua",
+  "topics": [],
+  "type": "executive_action"
+}

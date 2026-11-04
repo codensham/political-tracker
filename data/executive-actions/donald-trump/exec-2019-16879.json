@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-16879",
+  "document_type": "executive_order",
+  "executive_order_number": "13883",
+  "id": "exec-2019-16879",
+  "published_at": "2019-08-05",
+  "signing_date": "2019-08-01",
+  "source_url": "https://www.federalregister.gov/documents/2019/08/05/2019-16879/administration-of-proliferation-sanctions-and-amendment-of-executive-order-12851",
+  "title": "Administration of Proliferation Sanctions and Amendment of Executive Order 12851",
+  "topics": [],
+  "type": "executive_action"
+}

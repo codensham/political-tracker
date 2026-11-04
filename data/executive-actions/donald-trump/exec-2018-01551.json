@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-01551",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2018-01551",
+  "published_at": "2018-01-25",
+  "signing_date": "2018-01-19",
+  "source_url": "https://www.federalregister.gov/documents/2018/01/25/2018-01551/national-sanctity-of-human-life-day-2018",
+  "title": "National Sanctity of Human Life Day, 2018",
+  "topics": [],
+  "type": "executive_action"
+}

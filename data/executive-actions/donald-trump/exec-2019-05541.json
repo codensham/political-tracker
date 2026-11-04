@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-05541",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2019-05541",
+  "published_at": "2019-03-21",
+  "signing_date": "2019-03-18",
+  "source_url": "https://www.federalregister.gov/documents/2019/03/21/2019-05541/greek-independence-day-a-national-day-of-celebration-of-greek-and-american-democracy-2019",
+  "title": "Greek Independence Day: A National Day of Celebration of Greek and American Democracy, 2019",
+  "topics": [],
+  "type": "executive_action"
+}

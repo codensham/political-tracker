@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-09574",
+  "document_type": "executive_order",
+  "executive_order_number": "13798",
+  "id": "exec-2017-09574",
+  "published_at": "2017-05-09",
+  "signing_date": "2017-05-04",
+  "source_url": "https://www.federalregister.gov/documents/2017/05/09/2017-09574/promoting-free-speech-and-religious-liberty",
+  "title": "Promoting Free Speech and Religious Liberty",
+  "topics": [],
+  "type": "executive_action"
+}

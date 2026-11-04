@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-21666",
+  "document_type": "executive_order",
+  "executive_order_number": "14437",
+  "id": "exec-2026-21666",
+  "published_at": "2026-10-22",
+  "signing_date": "2026-10-19",
+  "source_url": "https://www.federalregister.gov/documents/2026/10/22/2026-21666/advancing-womens-health-to-improve-outcomes-in-all-phases-of-life",
+  "title": "Advancing Women's Health To Improve Outcomes in All Phases of Life",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-10953",
+  "document_type": "executive_order",
+  "executive_order_number": "13922",
+  "id": "exec-2020-10953",
+  "published_at": "2020-05-19",
+  "signing_date": "2020-05-14",
+  "source_url": "https://www.federalregister.gov/documents/2020/05/19/2020-10953/delegating-authority-under-the-defense-production-act-to-the-chief-executive-officer-of-the-united",
+  "title": "Delegating Authority Under the Defense Production Act to the Chief Executive Officer of the United States International Development Finance Corporation To Respond to the COVID-19 Outbreak",
+  "topics": [],
+  "type": "executive_action"
+}

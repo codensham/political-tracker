@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-07800",
+  "document_type": "executive_order",
+  "executive_order_number": "13914",
+  "id": "exec-2020-07800",
+  "published_at": "2020-04-10",
+  "signing_date": "2020-04-06",
+  "source_url": "https://www.federalregister.gov/documents/2020/04/10/2020-07800/encouraging-international-support-for-the-recovery-and-use-of-space-resources",
+  "title": "Encouraging International Support for the Recovery and Use of Space Resources",
+  "topics": [],
+  "type": "executive_action"
+}

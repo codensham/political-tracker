@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-27740",
+  "document_type": "executive_order",
+  "executive_order_number": "13964",
+  "id": "exec-2020-27740",
+  "published_at": "2020-12-15",
+  "signing_date": "2020-12-10",
+  "source_url": "https://www.federalregister.gov/documents/2020/12/15/2020-27740/rebranding-united-states-foreign-assistance-to-advance-american-influence",
+  "title": "Rebranding United States Foreign Assistance To Advance American Influence",
+  "topics": [],
+  "type": "executive_action"
+}

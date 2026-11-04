@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02087",
+  "document_type": "executive_order",
+  "executive_order_number": "14166",
+  "id": "exec-2025-02087",
+  "published_at": "2025-01-30",
+  "signing_date": "2025-01-20",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/30/2025-02087/application-of-protecting-americans-from-foreign-adversary-controlled-applications-act-to-tiktok",
+  "title": "Application of Protecting Americans From Foreign Adversary Controlled Applications Act to TikTok",
+  "topics": [],
+  "type": "executive_action"
+}

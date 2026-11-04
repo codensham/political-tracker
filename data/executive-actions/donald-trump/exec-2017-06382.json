@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-06382",
+  "document_type": "executive_order",
+  "executive_order_number": "13782",
+  "id": "exec-2017-06382",
+  "published_at": "2017-03-30",
+  "signing_date": "2017-03-27",
+  "source_url": "https://www.federalregister.gov/documents/2017/03/30/2017-06382/revocation-of-federal-contracting-executive-orders",
+  "title": "Revocation of Federal Contracting Executive Orders",
+  "topics": [],
+  "type": "executive_action"
+}

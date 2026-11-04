@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-24040",
+  "document_type": "executive_order",
+  "executive_order_number": "13896",
+  "id": "exec-2019-24040",
+  "published_at": "2019-11-01",
+  "signing_date": "2019-10-28",
+  "source_url": "https://www.federalregister.gov/documents/2019/11/01/2019-24040/commission-on-law-enforcement-and-the-administration-of-justice",
+  "title": "Commission on Law Enforcement and the Administration of Justice",
+  "topics": [],
+  "type": "executive_action"
+}

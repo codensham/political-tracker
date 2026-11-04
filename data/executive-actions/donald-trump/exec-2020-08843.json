@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-08843",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2020-08843",
+  "published_at": "2020-04-23",
+  "signing_date": "2020-04-17",
+  "source_url": "https://www.federalregister.gov/documents/2020/04/23/2020-08843/days-of-remembrance-of-victims-of-the-holocaust-2020",
+  "title": "Days of Remembrance of Victims of the Holocaust, 2020",
+  "topics": [],
+  "type": "executive_action"
+}

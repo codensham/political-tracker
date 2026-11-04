@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2021-00039",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2021-00039",
+  "published_at": "2021-01-06",
+  "signing_date": "2020-12-31",
+  "source_url": "https://www.federalregister.gov/documents/2021/01/06/2021-00039/suspension-of-entry-of-immigrants-and-nonimmigrants-who-continue-to-present-a-risk-to-the-united",
+  "title": "Suspension of Entry of Immigrants and Nonimmigrants Who Continue To Present a Risk to the United States Labor Market During the Economic Recovery Following the 2019 Novel Coronavirus Outbreak",
+  "topics": [],
+  "type": "executive_action"
+}

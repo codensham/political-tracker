@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-21244",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2018-21244",
+  "published_at": "2018-09-27",
+  "signing_date": "2018-09-21",
+  "source_url": "https://www.federalregister.gov/documents/2018/09/27/2018-21244/national-hunting-and-fishing-day-2018",
+  "title": "National Hunting and Fishing Day, 2018",
+  "topics": [],
+  "type": "executive_action"
+}

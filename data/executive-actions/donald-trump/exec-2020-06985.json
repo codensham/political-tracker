@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-06985",
+  "document_type": "executive_order",
+  "executive_order_number": "13912",
+  "id": "exec-2020-06985",
+  "published_at": "2020-04-01",
+  "signing_date": "2020-03-27",
+  "source_url": "https://www.federalregister.gov/documents/2020/04/01/2020-06985/national-emergency-authority-to-order-the-selected-reserve-and-certain-members-of-the-individual",
+  "title": "National Emergency Authority To Order the Selected Reserve and Certain Members of the Individual Ready Reserve of the Armed Forces to Active Duty",
+  "topics": [],
+  "type": "executive_action"
+}

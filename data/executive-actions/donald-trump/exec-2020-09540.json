@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-09540",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-09540",
+  "published_at": "2020-05-01",
+  "signing_date": "2020-04-28",
+  "source_url": "https://www.federalregister.gov/documents/2020/05/01/2020-09540/providing-continued-federal-support-for-governors-use-of-the-national-guard-to-respond-to-covid-19",
+  "title": "Providing Continued Federal Support for Governors' Use of the National Guard To Respond to COVID-19 and To Facilitate Economic Recovery",
+  "topics": [],
+  "type": "executive_action"
+}

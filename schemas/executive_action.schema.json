@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Executive action record (type-specific fields)",
+  "description": "Composed with base.schema.json by tracker.validate; unevaluatedProperties is false over the union.",
+  "type": "object",
+  "required": [
+    "document_type",
+    "document_number",
+    "title",
+    "signing_date",
+    "executive_order_number"
+  ],
+  "properties": {
+    "type": { "const": "executive_action" },
+    "document_type": {
+      "type": "string",
+      "enum": ["executive_order", "proclamation", "memorandum"]
+    },
+    "document_number": { "type": "string", "minLength": 1 },
+    "title": { "type": "string", "minLength": 1 },
+    "signing_date": { "type": ["string", "null"], "format": "date" },
+    "executive_order_number": { "type": ["string", "null"] }
+  }
+}
