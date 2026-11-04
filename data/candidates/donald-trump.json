@@ -33,8 +33,9 @@
   "candidate_ids": [
     "donald-trump"
   ],
-  "collected_at": "2026-11-04T13:50:31Z",
+  "collected_at": "2026-11-04T14:39:31Z",
   "collector": "candidates@1.0",
+  "disclosure_names": [],
   "fec_candidate_ids": [
     "P80001571"
   ],

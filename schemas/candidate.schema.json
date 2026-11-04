@@ -61,6 +61,7 @@
     "icpsr": { "type": ["integer", "null"] },
     "bioguide_id": { "type": ["string", "null"] },
     "official_site": { "type": ["string", "null"], "format": "uri" },
-    "inclusion_reason": { "type": "string", "minLength": 1 }
+    "inclusion_reason": { "type": "string", "minLength": 1 },
+    "disclosure_names": { "type": "array", "items": { "type": "string", "minLength": 1 } }
   }
 }

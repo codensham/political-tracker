@@ -57,6 +57,7 @@ def _build(entry: dict) -> dict:
         "bioguide_id": entry.get("bioguide_id"),
         "official_site": entry.get("official_site"),
         "inclusion_reason": entry["inclusion_reason"],
+        "disclosure_names": entry.get("disclosure_names") or [],
     }
 
 

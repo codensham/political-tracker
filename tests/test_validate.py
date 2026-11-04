@@ -162,7 +162,7 @@ def test_malformed_topic_reported_not_crash():
 
 
 def test_unknown_folder_flagged(tmp_path: Path):
-    folder = tmp_path / "disclosures" / "jane-doe"
+    folder = tmp_path / "mystery-folder" / "jane-doe"
     folder.mkdir(parents=True)
     (folder / "2026.json").write_text("{}", encoding="utf-8")
     report = validate_tree(tmp_path)

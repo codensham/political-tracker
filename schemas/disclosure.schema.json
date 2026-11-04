@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Disclosure record (type-specific fields)",
+  "description": "One annual financial disclosure filing from the House Clerk index, matched by exact filer name. Official tier. Composed with base.schema.json by tracker.validate.",
+  "type": "object",
+  "required": ["filer_name", "year", "form", "filing_date", "document_url"],
+  "properties": {
+    "type": { "const": "disclosure" },
+    "filer_name": { "type": "string", "minLength": 1 },
+    "year": { "type": "integer", "minimum": 1978 },
+    "form": { "type": "string", "minLength": 1 },
+    "filing_date": { "type": "string", "format": "date" },
+    "document_url": { "type": "string", "format": "uri" }
+  }
+}

@@ -29,6 +29,7 @@ jobs:
           python -m tracker.collectors congress_bills
           python -m tracker.tagging data
           python -m tracker.collectors federal_register
+          python -m tracker.collectors house_clerk
           python -m tracker.validate data
       - name: Compute date
         id: date

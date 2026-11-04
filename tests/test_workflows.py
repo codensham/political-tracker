@@ -33,3 +33,9 @@ def test_tier_classifies_without_renames_and_disables_auto_merge():
     text = (WF_DIR / "ci.yml").read_text(encoding="utf-8")
     assert "--name-status" in text and "--no-renames" in text
     assert "--disable-auto" in text
+
+
+def test_collect_official_runs_house_clerk():
+    steps = load("collect-official.yml")["jobs"]["collect"]["steps"]
+    runs = "\n".join(s.get("run", "") for s in steps)
+    assert "python -m tracker.collectors house_clerk" in runs
