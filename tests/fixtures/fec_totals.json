@@ -1,0 +1,16 @@
+{
+  "_note": "SYNTHETIC fixture: hand-built from FEC API field names. The DEMO_KEY rate limit was exhausted when this was written. Replace with a real /v1/candidate/{id}/totals/ response once a personal FEC key is set.",
+  "candidate_id": "P00000001",
+  "results": [
+    {
+      "candidate_id": "P00000001",
+      "cycle": 2028,
+      "receipts": 1234567.89,
+      "disbursements": 987654.32,
+      "last_cash_on_hand_end_period": 456789.01,
+      "last_debts_owed_by_committee": 0.0,
+      "coverage_start_date": "2027-01-01T00:00:00",
+      "coverage_end_date": "2027-06-30T00:00:00"
+    }
+  ]
+}

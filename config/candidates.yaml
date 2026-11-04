@@ -1,0 +1,16 @@
+# Candidates to track. Each entry becomes data/candidates/<id>.json via `python -m tracker.candidates`.
+# Inclusion criteria and sources: docs/SOURCES.md
+#
+# Entry format:
+#   - id: jane-doe                      # lowercase letters, digits, hyphens
+#     name: Jane Doe
+#     party: DEM
+#     status: potential                 # potential | declared | withdrawn | nominee
+#     as_of: "2026-11-03"              # date the inclusion facts were checked
+#     fec_candidate_ids: ["P00000001"]
+#     icpsr: 12345                      # null if no congressional career
+#     bioguide_id: null
+#     official_site: https://janedoe.example/   # or null
+#     inclusion_reason: "FEC Form 2 filed for 2028 (fec.gov)"
+
+candidates: []
