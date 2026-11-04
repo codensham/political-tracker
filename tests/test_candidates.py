@@ -11,8 +11,9 @@ CONFIG = """
 candidates:
   - id: jane-doe
     name: Jane Doe
-    party: DEM
-    status: potential
+    aliases: ["Jane Doe"]
+    candidacies:
+      - {office: president, year: 2028, party: DEM, result: potential, fec_candidate_id: P00000001, source_url: "https://www.fec.gov/data/candidate/P00000001/"}
     as_of: "2026-11-03"
     fec_candidate_ids: ["P00000001"]
     icpsr: 12345
@@ -21,8 +22,9 @@ candidates:
     inclusion_reason: "FEC Form 2 filed for 2028 (fec.gov)"
   - id: john-roe
     name: John Roe
-    party: REP
-    status: potential
+    aliases: ["John Roe"]
+    candidacies:
+      - {office: president, year: 2028, party: REP, result: potential, fec_candidate_id: P00000002, source_url: "https://www.fec.gov/data/candidate/P00000002/"}
     as_of: "2026-11-03"
     fec_candidate_ids: ["P00000002"]
     icpsr: null
@@ -62,6 +64,13 @@ def test_sync_idempotent(tmp_path: Path):
     data = tmp_path / "data"
     sync_candidates(config, data)
     assert sync_candidates(config, data) == 0
+
+
+def test_retired_status_key_rejected(tmp_path: Path):
+    old = CONFIG.replace("candidacies:", "status: potential\n    candidacies:", 1)
+    config = write_config(tmp_path, old)
+    with pytest.raises(ValueError, match="'status' is retired"):
+        sync_candidates(config, tmp_path / "data")
 
 
 def test_duplicate_id_rejected(tmp_path: Path):

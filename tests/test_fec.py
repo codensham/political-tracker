@@ -72,8 +72,17 @@ def test_records_validate(tmp_path: Path):
             "collector": "candidates@1.0",
             "topics": [],
             "name": "Jane Doe",
-            "party": "DEM",
-            "status": "potential",
+            "aliases": ["Jane Doe"],
+            "candidacies": [
+                {
+                    "office": "president",
+                    "year": 2028,
+                    "party": "DEM",
+                    "result": "potential",
+                    "fec_candidate_id": None,
+                    "source_url": "https://www.fec.gov/",
+                }
+            ],
             "icpsr": None,
             "bioguide_id": None,
             "official_site": None,
@@ -139,8 +148,17 @@ def test_cli_nonzero_on_failure(tmp_path: Path, monkeypatch):
                 "collector": "candidates@1.0",
                 "topics": [],
                 "name": cand["id"],
-                "party": "DEM",
-                "status": "potential",
+                "aliases": [cand["id"]],
+                "candidacies": [
+                    {
+                        "office": "president",
+                        "year": 2028,
+                        "party": "DEM",
+                        "result": "potential",
+                        "fec_candidate_id": None,
+                        "source_url": "https://www.fec.gov/",
+                    }
+                ],
                 "icpsr": None,
                 "bioguide_id": None,
                 "official_site": None,

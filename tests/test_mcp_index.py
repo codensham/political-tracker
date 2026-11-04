@@ -24,9 +24,16 @@ def test_unknown_candidate_lists_ids(seeded_root):
     assert "john-roe" in str(info.value)
 
 
-def test_candidates_status_filter(seeded_root):
+def test_candidates_result_filter(seeded_root):
     idx = DataIndex.load(seeded_root)
-    assert [c["id"] for c in idx.candidates(status="declared")] == ["john-roe"]
+    assert [c["id"] for c in idx.candidates(result="declared")] == ["john-roe"]
+
+
+def test_candidates_year_and_office_filter(seeded_root):
+    idx = DataIndex.load(seeded_root)
+    assert [c["id"] for c in idx.candidates(office="president", year=2028)] == ["jane-doe", "john-roe"]
+    assert idx.candidates(year=2024) == []
+    assert idx.candidates(office="senate") == []
 
 
 def test_finance_cycle_filter(seeded_root):

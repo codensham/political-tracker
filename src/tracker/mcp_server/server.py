@@ -48,15 +48,19 @@ def _error(exc: Exception) -> dict:
 
 
 @mcp.tool()
-def list_candidates(status: str | None = None) -> dict:
-    """List tracked candidates, optionally filtered by status (potential, declared, withdrawn, nominee).
-    Cite source_url for any fact you report about a candidate."""
-    return _ok(_idx().candidates(status))
+def list_candidates(
+    office: str | None = None,
+    year: int | None = None,
+    result: str | None = None,
+) -> dict:
+    """List tracked candidates with a candidacy matching the filters. office: president.
+    result: potential, declared, withdrew, nominee, won, lost. Cite source_url for any fact you report."""
+    return _ok(_idx().candidates(office=office, year=year, result=result))
 
 
 @mcp.tool()
 def get_candidate(candidate: str) -> dict:
-    """Get one candidate's record (name, party, status, IDs). Cite source_url.
+    """Get one candidate's record (name, aliases, candidacies, IDs). Cite source_url.
     Unknown ids return an error that lists the valid ids."""
     try:
         return _ok([_idx().candidate(candidate)])

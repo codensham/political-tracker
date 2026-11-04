@@ -15,35 +15,44 @@ FEC_CANDIDATE_URL = "https://www.fec.gov/data/candidate/{fec_id}/"
 CONFIG_PATH = REPO_ROOT / "config" / "candidates.yaml"
 DATA_DIR = REPO_ROOT / "data"
 
+# Replaced by `candidacies` in candidate model v2 (D-006). Old configs fail loudly.
+RETIRED_KEYS = ("status", "party")
+
 
 def load_config(path: Path) -> list[dict]:
     data = yaml.safe_load(Path(path).read_text(encoding="utf-8")) or {}
     return list(data.get("candidates", []))
 
 
+def _source_url(entry: dict) -> str | None:
+    if entry.get("official_site"):
+        return entry["official_site"]
+    fec_ids = entry.get("fec_candidate_ids") or []
+    if fec_ids:
+        return FEC_CANDIDATE_URL.format(fec_id=fec_ids[0])
+    return None
+
+
 def _build(entry: dict) -> dict:
     cid = entry["id"]
-    fec_ids = entry.get("fec_candidate_ids") or []
-    if entry.get("official_site"):
-        source = entry["official_site"]
-    elif fec_ids:
-        source = FEC_CANDIDATE_URL.format(fec_id=fec_ids[0])
-    else:
-        source = None
+    for key in RETIRED_KEYS:
+        if key in entry:
+            raise ValueError(f"{cid}: '{key}' is retired; use 'candidacies' (one entry per election)")
     return {
         "id": cid,
         "type": "candidate",
         "candidate_ids": [cid],
-        "source_url": source,
+        "source_url": _source_url(entry),
         # as_of, not today's date: reruns must stay byte-identical (see write_record).
         "published_at": str(entry["as_of"]),
         "collected_at": now_iso(),
         "collector": COLLECTOR,
         "topics": [],
         "name": entry["name"],
-        "party": entry["party"],
-        "status": entry.get("status", "potential"),
-        "fec_candidate_ids": fec_ids,
+        "aliases": entry.get("aliases") or [],
+        "social_accounts": entry.get("social_accounts") or [],
+        "candidacies": entry.get("candidacies") or [],
+        "fec_candidate_ids": entry.get("fec_candidate_ids") or [],
         "icpsr": entry.get("icpsr"),
         "bioguide_id": entry.get("bioguide_id"),
         "official_site": entry.get("official_site"),

@@ -8,7 +8,6 @@ CANDIDATE_BASE = {
     "collected_at": "2026-11-03T09:00:00Z",
     "collector": "candidates@1.0",
     "topics": [],
-    "party": "DEM",
     "fec_candidate_ids": [],
     "icpsr": None,
     "bioguide_id": None,
@@ -17,14 +16,24 @@ CANDIDATE_BASE = {
 }
 
 
-def candidate(cid: str, name: str, status: str) -> dict:
+def candidate(cid: str, name: str, result: str, year: int = 2028) -> dict:
     return {
         **CANDIDATE_BASE,
         "id": cid,
         "type": "candidate",
         "candidate_ids": [cid],
         "name": name,
-        "status": status,
+        "aliases": [name],
+        "candidacies": [
+            {
+                "office": "president",
+                "year": year,
+                "party": "DEM",
+                "result": result,
+                "fec_candidate_id": None,
+                "source_url": "https://www.fec.gov/data/candidate/P00000001/",
+            }
+        ],
     }
 
 

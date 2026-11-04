@@ -42,3 +42,26 @@ def test_non_retryable_status_raises_immediately():
 def test_get_bytes_returns_content():
     client = client_from([(200, b"abc")])
     assert get_bytes(client, "https://example.test/x", sleep=lambda s: None) == b"abc"
+
+
+def test_api_key_redacted_from_http_error():
+    import httpx
+
+    from tracker.http import get_json
+
+    client = httpx.Client(
+        transport=httpx.MockTransport(lambda req: httpx.Response(500, json={})),
+    )
+    try:
+        get_json(client, "https://api.example/x", {"api_key": "SECRET123"}, sleep=lambda s: None)
+    except httpx.HTTPStatusError as exc:
+        assert "SECRET123" not in str(exc)
+        assert "REDACTED" in str(exc) or "api_key" not in str(exc)
+    else:
+        raise AssertionError("expected HTTPStatusError")
+
+
+def test_redact_helper():
+    from tracker.http import redact
+
+    assert redact("https://x/y?api_key=ABC&per_page=1") == "https://x/y?api_key=REDACTED&per_page=1"

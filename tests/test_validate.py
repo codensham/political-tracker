@@ -41,8 +41,17 @@ def candidate(**overrides):
         "collector": "candidates@1.0",
         "topics": [],
         "name": "Jane Doe",
-        "party": "DEM",
-        "status": "potential",
+        "aliases": ["Jane Doe"],
+        "candidacies": [
+            {
+                "office": "president",
+                "year": 2028,
+                "party": "DEM",
+                "result": "potential",
+                "fec_candidate_id": "P00000001",
+                "source_url": "https://www.fec.gov/data/candidate/P00000001/",
+            }
+        ],
         "fec_candidate_ids": ["P00000001"],
         "icpsr": 12345,
         "bioguide_id": None,
@@ -75,7 +84,20 @@ def test_stance_field_rejected():
 
 
 def test_bad_status_fails():
-    errors = validate_record(candidate(status="frontrunner"))
+    errors = validate_record(
+        candidate(
+            candidacies=[
+                {
+                    "office": "president",
+                    "year": 2028,
+                    "party": "DEM",
+                    "result": "frontrunner",
+                    "fec_candidate_id": None,
+                    "source_url": "https://www.fec.gov/x",
+                }
+            ]
+        )
+    )
     assert any("frontrunner" in e for e in errors)
 
 

@@ -30,8 +30,23 @@ class DataIndex:
         records = [r for r in load_records(root) if r["type"] != "candidate"]
         return cls(candidates, records)
 
-    def candidates(self, status: str | None = None) -> list[dict]:
-        found = [c for c in self._candidates.values() if status is None or c.get("status") == status]
+    def candidates(
+        self,
+        office: str | None = None,
+        year: int | None = None,
+        result: str | None = None,
+    ) -> list[dict]:
+        """Candidates with at least one candidacy matching every filter given."""
+
+        def matches(c: dict) -> bool:
+            return any(
+                (office is None or k.get("office") == office)
+                and (year is None or k.get("year") == year)
+                and (result is None or k.get("result") == result)
+                for k in c.get("candidacies", [])
+            )
+
+        found = [c for c in self._candidates.values() if matches(c)]
         return sorted(found, key=lambda c: c["id"])
 
     def candidate(self, candidate_id: str) -> dict:

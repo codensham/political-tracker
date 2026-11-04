@@ -1,26 +1,35 @@
 # Candidates to track. Each entry becomes data/candidates/<id>.json via `python -m tracker.candidates`.
-# Inclusion criteria and sources: docs/SOURCES.md
+# Scope and inclusion criteria: docs/SOURCES.md, spec §4b, DECISIONS.md D-004 to D-006.
 #
 # Entry format:
-#   - id: jane-doe                      # lowercase letters, digits, hyphens
+#   - id: jane-doe                         # lowercase letters, digits, hyphens
 #     name: Jane Doe
-#     party: DEM
-#     status: potential                 # potential | declared | withdrawn | nominee
-#     as_of: "2026-11-03"              # date the inclusion facts were checked
+#     aliases: ["Jane Doe", "Jane M. Doe"] # full name forms only; a bare surname never matches (D-009)
+#     candidacies:                         # one entry per presidential election
+#       - {office: president, year: 2028, party: DEM, result: potential,
+#          fec_candidate_id: P00000001, source_url: "https://www.fec.gov/data/candidate/P00000001/"}
+#     social_accounts: []                  # optional: [{platform, handle, url}]
+#     as_of: "2026-11-03"                  # date the inclusion facts were checked
 #     fec_candidate_ids: ["P00000001"]
-#     icpsr: 12345                      # null if no congressional career
+#     icpsr: 12345                         # null if no congressional career
 #     bioguide_id: null
 #     official_site: https://janedoe.example/   # or null
-#     inclusion_reason: "FEC Form 2 filed for 2028 (fec.gov)"
+#     inclusion_reason: "Major-party nominee 2028 (FEC Form 2, checked 2026-11-03)"
+#
+# result: potential | declared | withdrew | nominee | won | lost
+# `status` and `party` at the top level are retired; the sync rejects them.
 
 candidates:
   - id: donald-trump
     name: Donald J. Trump
-    party: REP
-    status: nominee
+    aliases: ["Donald J. Trump", "Donald Trump"]
+    candidacies:
+      - {office: president, year: 2016, party: REP, result: won, fec_candidate_id: P80001571, source_url: "https://www.fec.gov/data/candidate/P80001571/"}
+      - {office: president, year: 2020, party: REP, result: lost, fec_candidate_id: P80001571, source_url: "https://www.fec.gov/data/candidate/P80001571/"}
+      - {office: president, year: 2024, party: REP, result: won, fec_candidate_id: P80001571, source_url: "https://www.fec.gov/data/candidate/P80001571/"}
     as_of: "2026-11-04"
     fec_candidate_ids: ["P80001571"]
     icpsr: null
     bioguide_id: null
     official_site: null
-    inclusion_reason: "(c) Past candidate: major-party nominee in 2016, 2020, and 2024. FEC candidate search office=P shows P80001571 with those election years (checked 2026-11-04)."
+    inclusion_reason: "Major-party nominee 2016, 2020, 2024 (FEC candidate search office=P shows P80001571 with those election years, checked 2026-11-04). D-004, D-007."
