@@ -6,7 +6,7 @@ These are official, public-domain records and feed the track record. No API key 
 from __future__ import annotations
 
 import time
-from typing import Callable, Iterable
+from collections.abc import Callable, Iterable
 
 import httpx
 

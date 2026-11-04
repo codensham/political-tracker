@@ -5,8 +5,8 @@ from __future__ import annotations
 import csv
 import io
 import time
+from collections.abc import Callable, Iterable
 from pathlib import Path
-from typing import Callable, Iterable
 
 import httpx
 
@@ -70,7 +70,9 @@ class VoteviewCollector:
             for row in self._member_rows():
                 if row["icpsr"] != icpsr or row["chamber"] not in CHAMBER_LETTER:
                     continue
-                yield from self._votes(cand["id"], icpsr, CHAMBER_LETTER[row["chamber"]], int(row["congress"]))
+                yield from self._votes(
+                    cand["id"], icpsr, CHAMBER_LETTER[row["chamber"]], int(row["congress"])
+                )
 
     def _votes(self, candidate_id: str, icpsr: str, letter: str, congress: int) -> Iterable[dict]:
         name = f"{letter}{congress:03d}"

@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import json
 import sys
-from functools import lru_cache
+from functools import cache
 from pathlib import Path
 
 from jsonschema import Draft202012Validator, FormatChecker
@@ -16,7 +16,7 @@ SCHEMA_DIR = REPO_ROOT / "schemas"
 TAXONOMY_PATH = REPO_ROOT / "taxonomy" / "topics.json"
 
 
-@lru_cache(maxsize=None)
+@cache
 def _schema_for(record_type: str) -> Draft202012Validator:
     base = json.loads((SCHEMA_DIR / "base.schema.json").read_text(encoding="utf-8"))
     typed = json.loads((SCHEMA_DIR / f"{record_type}.schema.json").read_text(encoding="utf-8"))
@@ -28,7 +28,7 @@ def _schema_for(record_type: str) -> Draft202012Validator:
     return Draft202012Validator(combined, format_checker=FormatChecker())
 
 
-@lru_cache(maxsize=None)
+@cache
 def _topic_ids() -> frozenset[str]:
     data = json.loads(TAXONOMY_PATH.read_text(encoding="utf-8"))
     return frozenset(t["id"] for t in data["topics"])
@@ -74,7 +74,7 @@ def validate_tree(root: Path) -> dict[Path, list[str]]:
             report.setdefault(path, []).append(f"no schema for folder {rel.parts[0]!r}")
         elif path.suffix != ".json":
             report.setdefault(path, []).append("not a JSON record file")
-    for record_type, dirname in TYPE_DIRS.items():
+    for dirname in TYPE_DIRS.values():
         base = root / dirname
         if not base.exists():
             continue

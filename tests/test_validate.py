@@ -3,7 +3,7 @@ import subprocess
 import sys
 from pathlib import Path
 
-from tracker.records import record_path, write_record
+from tracker.records import write_record
 from tracker.validate import validate_record, validate_tree
 
 

@@ -2,7 +2,7 @@
 
 from __future__ import annotations
 
-from typing import Callable
+from collections.abc import Callable
 
 # Name -> factory. Filled by the collector modules listed in BUILTIN_MODULES.
 REGISTRY: dict[str, Callable[[], object]] = {}
