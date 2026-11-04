@@ -53,7 +53,7 @@ def retag_votes(root) -> int:
     bills = list(load_records(root, "bill"))
     votes = list(load_records(root, "vote"))
     changed = 0
-    for old, new in zip(votes, tag_votes_from_bills(votes, bills)):
+    for old, new in zip(votes, tag_votes_from_bills(votes, bills), strict=True):
         if new != old:
             changed += write_record(new, root)
     return changed

@@ -40,8 +40,8 @@ candidates:
       - {office: president, year: 2000, party: DEM, result: lost, fec_candidate_id: P80000912, source_url: "https://www.fec.gov/data/candidate/P80000912/"}
     as_of: "2026-11-04"
     fec_candidate_ids: ["P80000912"]
-    icpsr: null
-    bioguide_id: null
+    icpsr: 14423
+    bioguide_id: G000321
     official_site: null
     inclusion_reason: "Major-party nominee 2000 (FEC candidate P80000912, election years 1988, 1996, 2000; checked 2026-11-04). D-004."
   - id: george-w-bush
@@ -63,8 +63,8 @@ candidates:
       - {office: president, year: 2004, party: DEM, result: lost, fec_candidate_id: P80000235, source_url: "https://www.fec.gov/data/candidate/P80000235/"}
     as_of: "2026-11-04"
     fec_candidate_ids: ["P80000235"]
-    icpsr: null
-    bioguide_id: null
+    icpsr: 14920
+    bioguide_id: K000148
     official_site: null
     inclusion_reason: "Major-party nominee 2004 (FEC candidate P80000235, election years 1988, 2004; checked 2026-11-04). D-004."
   - id: barack-obama
@@ -75,8 +75,8 @@ candidates:
       - {office: president, year: 2012, party: DEM, result: won, fec_candidate_id: P80003338, source_url: "https://www.fec.gov/data/candidate/P80003338/"}
     as_of: "2026-11-04"
     fec_candidate_ids: ["P80003338"]
-    icpsr: null
-    bioguide_id: null
+    icpsr: 40502
+    bioguide_id: O000167
     official_site: null
     inclusion_reason: "Major-party nominee 2008 and 2012 (FEC candidate P80003338, election years 2008, 2012; checked 2026-11-04). FEC shows the joint name with the running mate. D-004."
   - id: john-mccain
@@ -86,8 +86,8 @@ candidates:
       - {office: president, year: 2008, party: REP, result: lost, fec_candidate_id: P80002801, source_url: "https://www.fec.gov/data/candidate/P80002801/"}
     as_of: "2026-11-04"
     fec_candidate_ids: ["P80002801"]
-    icpsr: null
-    bioguide_id: null
+    icpsr: 15039
+    bioguide_id: M000303
     official_site: null
     inclusion_reason: "Major-party nominee 2008 (FEC candidate P80002801, election years 2000, 2008; checked 2026-11-04). D-004."
   - id: mitt-romney
@@ -97,8 +97,8 @@ candidates:
       - {office: president, year: 2012, party: REP, result: lost, fec_candidate_id: P80003353, source_url: "https://www.fec.gov/data/candidate/P80003353/"}
     as_of: "2026-11-04"
     fec_candidate_ids: ["P80003353"]
-    icpsr: null
-    bioguide_id: null
+    icpsr: 41902
+    bioguide_id: R000615
     official_site: null
     inclusion_reason: "Major-party nominee 2012 (FEC candidate P80003353, election years 2008, 2012; checked 2026-11-04). FEC shows the joint name with the running mate. D-004."
   - id: hillary-clinton
@@ -108,8 +108,8 @@ candidates:
       - {office: president, year: 2016, party: DEM, result: lost, fec_candidate_id: P00003392, source_url: "https://www.fec.gov/data/candidate/P00003392/"}
     as_of: "2026-11-04"
     fec_candidate_ids: ["P00003392"]
-    icpsr: null
-    bioguide_id: null
+    icpsr: 40105
+    bioguide_id: C001041
     official_site: null
     inclusion_reason: "Major-party nominee 2016 (FEC candidate P00003392, election years 2008, 2016; checked 2026-11-04). D-004."
   - id: joe-biden
@@ -120,8 +120,8 @@ candidates:
       - {office: president, year: 2024, party: DEM, result: withdrew, fec_candidate_id: P80000722, source_url: "https://www.fec.gov/data/candidate/P80000722/"}
     as_of: "2026-11-04"
     fec_candidate_ids: ["P80000722"]
-    icpsr: null
-    bioguide_id: null
+    icpsr: 14101
+    bioguide_id: B000444
     official_site: null
     inclusion_reason: "Nominee 2020; 2024 candidacy withdrawn in July 2024 (FEC candidate P80000722, election years 1988, 2008, 2020, 2024; checked 2026-11-04). D-004."
   - id: kamala-harris
@@ -131,7 +131,7 @@ candidates:
       - {office: president, year: 2024, party: DEM, result: lost, fec_candidate_id: P00009423, source_url: "https://www.fec.gov/data/candidate/P00009423/"}
     as_of: "2026-11-04"
     fec_candidate_ids: ["P00009423"]
-    icpsr: null
-    bioguide_id: null
+    icpsr: 41701
+    bioguide_id: H001075
     official_site: null
     inclusion_reason: "Major-party nominee 2024 (FEC candidate P00009423, election years 2020, 2024; checked 2026-11-04). D-004."
