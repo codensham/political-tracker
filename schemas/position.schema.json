@@ -1,0 +1,20 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Official position snapshot (type-specific fields)",
+  "description": "A dated capture of a candidate's platform page: hash, change flag, and a few short verbatim key lines. No page text is stored (spec §5). Judgment tier. Composed with base.schema.json by tracker.validate.",
+  "type": "object",
+  "required": ["url", "capture_date", "archive_url", "content_sha256", "changed", "key_quotes"],
+  "properties": {
+    "type": { "const": "position" },
+    "url": { "type": "string", "format": "uri" },
+    "capture_date": { "type": "string", "format": "date" },
+    "archive_url": { "type": ["string", "null"], "format": "uri" },
+    "content_sha256": { "type": "string", "pattern": "^[0-9a-f]{64}$" },
+    "changed": { "type": "boolean" },
+    "key_quotes": {
+      "type": "array",
+      "maxItems": 5,
+      "items": { "type": "string", "minLength": 1, "maxLength": 280 }
+    }
+  }
+}

@@ -17,6 +17,7 @@ TYPE_DIRS: dict[str, str] = {
     "bio": "bio",
     "article": "articles",
     "statement": "statements",
+    "position": "positions",
 }
 
 
