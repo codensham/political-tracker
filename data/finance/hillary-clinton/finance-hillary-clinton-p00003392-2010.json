@@ -1,0 +1,20 @@
+{
+  "candidate_ids": [
+    "hillary-clinton"
+  ],
+  "cash_on_hand_end": 329979.05,
+  "collected_at": "2026-11-04T13:52:32Z",
+  "collector": "fec_finance@1.0",
+  "coverage_end": "2010-12-31",
+  "coverage_start": "2009-01-01",
+  "cycle": 2010,
+  "debts_owed": 404010.0,
+  "disbursements": 9136414.63,
+  "fec_candidate_id": "P00003392",
+  "id": "finance-hillary-clinton-p00003392-2010",
+  "published_at": "2010-12-31",
+  "receipts": 7891631.58,
+  "source_url": "https://www.fec.gov/data/candidate/P00003392/?cycle=2010",
+  "topics": [],
+  "type": "finance"
+}

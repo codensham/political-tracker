@@ -1,0 +1,20 @@
+{
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "cash_on_hand_end": 14408.4,
+  "collected_at": "2026-11-04T13:52:32Z",
+  "collector": "fec_finance@1.0",
+  "coverage_end": "2008-12-31",
+  "coverage_start": "2007-01-01",
+  "cycle": 2008,
+  "debts_owed": 0.0,
+  "disbursements": 14866993.54,
+  "fec_candidate_id": "P80000235",
+  "id": "finance-john-kerry-p80000235-2008",
+  "published_at": "2008-12-31",
+  "receipts": 2369636.14,
+  "source_url": "https://www.fec.gov/data/candidate/P80000235/?cycle=2008",
+  "topics": [],
+  "type": "finance"
+}

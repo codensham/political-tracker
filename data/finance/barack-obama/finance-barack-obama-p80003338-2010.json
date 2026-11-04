@@ -1,0 +1,20 @@
+{
+  "candidate_ids": [
+    "barack-obama"
+  ],
+  "cash_on_hand_end": 2303397.96,
+  "collected_at": "2026-11-04T13:52:32Z",
+  "collector": "fec_finance@1.0",
+  "coverage_end": "2010-12-31",
+  "coverage_start": "2009-01-01",
+  "cycle": 2010,
+  "debts_owed": 0.0,
+  "disbursements": 20067112.9,
+  "fec_candidate_id": "P80003338",
+  "id": "finance-barack-obama-p80003338-2010",
+  "published_at": "2010-12-31",
+  "receipts": 4098143.47,
+  "source_url": "https://www.fec.gov/data/candidate/P80003338/?cycle=2010",
+  "topics": [],
+  "type": "finance"
+}

@@ -1,0 +1,20 @@
+{
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "cash_on_hand_end": 69741.02,
+  "collected_at": "2026-11-04T13:52:32Z",
+  "collector": "fec_finance@1.0",
+  "coverage_end": "2022-12-31",
+  "coverage_start": "2021-01-01",
+  "cycle": 2022,
+  "debts_owed": 0.0,
+  "disbursements": 790073.65,
+  "fec_candidate_id": "P00009423",
+  "id": "finance-kamala-harris-p00009423-2022",
+  "published_at": "2022-12-31",
+  "receipts": 714427.08,
+  "source_url": "https://www.fec.gov/data/candidate/P00009423/?cycle=2022",
+  "topics": [],
+  "type": "finance"
+}

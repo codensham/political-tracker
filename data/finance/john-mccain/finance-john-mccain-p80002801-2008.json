@@ -1,0 +1,20 @@
+{
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "cash_on_hand_end": 26377840.41,
+  "collected_at": "2026-11-04T13:52:32Z",
+  "collector": "fec_finance@1.0",
+  "coverage_end": "2008-12-31",
+  "coverage_start": "2007-01-01",
+  "cycle": 2008,
+  "debts_owed": 1603973.83,
+  "disbursements": 373920700.95,
+  "fec_candidate_id": "P80002801",
+  "id": "finance-john-mccain-p80002801-2008",
+  "published_at": "2008-12-31",
+  "receipts": 399826087.12,
+  "source_url": "https://www.fec.gov/data/candidate/P80002801/?cycle=2008",
+  "topics": [],
+  "type": "finance"
+}
