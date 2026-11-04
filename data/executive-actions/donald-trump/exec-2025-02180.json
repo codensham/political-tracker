@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02180",
+  "document_type": "executive_order",
+  "executive_order_number": "14184",
+  "id": "exec-2025-02180",
+  "published_at": "2025-02-03",
+  "signing_date": "2025-01-27",
+  "source_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02180/reinstating-service-members-discharged-under-the-militarys-covid-19-vaccination-mandate",
+  "title": "Reinstating Service Members Discharged Under the Military's COVID-19 Vaccination Mandate",
+  "topics": [],
+  "type": "executive_action"
+}

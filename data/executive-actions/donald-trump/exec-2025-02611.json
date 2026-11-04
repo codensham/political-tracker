@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02611",
+  "document_type": "executive_order",
+  "executive_order_number": "14202",
+  "id": "exec-2025-02611",
+  "published_at": "2025-02-12",
+  "signing_date": "2025-02-06",
+  "source_url": "https://www.federalregister.gov/documents/2025/02/12/2025-02611/eradicating-anti-christian-bias",
+  "title": "Eradicating Anti-Christian Bias",
+  "topics": [],
+  "type": "executive_action"
+}

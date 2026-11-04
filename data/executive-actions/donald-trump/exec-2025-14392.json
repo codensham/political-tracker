@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-14392",
+  "document_type": "executive_order",
+  "executive_order_number": "14322",
+  "id": "exec-2025-14392",
+  "published_at": "2025-07-29",
+  "signing_date": "2025-07-24",
+  "source_url": "https://www.federalregister.gov/documents/2025/07/29/2025-14392/saving-college-sports",
+  "title": "Saving College Sports",
+  "topics": [],
+  "type": "executive_action"
+}

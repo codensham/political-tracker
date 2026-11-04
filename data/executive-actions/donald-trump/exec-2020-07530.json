@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-07530",
+  "document_type": "executive_order",
+  "executive_order_number": "13913",
+  "id": "exec-2020-07530",
+  "published_at": "2020-04-08",
+  "signing_date": "2020-04-04",
+  "source_url": "https://www.federalregister.gov/documents/2020/04/08/2020-07530/establishing-the-committee-for-the-assessment-of-foreign-participation-in-the-united-states",
+  "title": "Establishing the Committee for the Assessment of Foreign Participation in the United States Telecommunications Services Sector",
+  "topics": [],
+  "type": "executive_action"
+}

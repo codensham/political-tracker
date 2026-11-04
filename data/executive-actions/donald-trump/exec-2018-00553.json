@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-00553",
+  "document_type": "executive_order",
+  "executive_order_number": "13821",
+  "id": "exec-2018-00553",
+  "published_at": "2018-01-11",
+  "signing_date": "2018-01-08",
+  "source_url": "https://www.federalregister.gov/documents/2018/01/11/2018-00553/streamlining-and-expediting-requests-to-locate-broadband-facilities-in-rural-america",
+  "title": "Streamlining and Expediting Requests To Locate Broadband Facilities in Rural America",
+  "topics": [],
+  "type": "executive_action"
+}

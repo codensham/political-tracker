@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-19032",
+  "document_type": "executive_order",
+  "executive_order_number": "13946",
+  "id": "exec-2020-19032",
+  "published_at": "2020-08-27",
+  "signing_date": "2020-08-24",
+  "source_url": "https://www.federalregister.gov/documents/2020/08/27/2020-19032/targeting-opportunity-zones-and-other-distressed-communities-for-federal-site-locations",
+  "title": "Targeting Opportunity Zones and Other Distressed Communities for Federal Site Locations",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-26178",
+  "document_type": "executive_order",
+  "executive_order_number": "13898",
+  "id": "exec-2019-26178",
+  "published_at": "2019-12-02",
+  "signing_date": "2019-11-26",
+  "source_url": "https://www.federalregister.gov/documents/2019/12/02/2019-26178/establishing-the-task-force-on-missing-and-murdered-american-indians-and-alaska-natives",
+  "title": "Establishing the Task Force on Missing and Murdered American Indians and Alaska Natives",
+  "topics": [],
+  "type": "executive_action"
+}

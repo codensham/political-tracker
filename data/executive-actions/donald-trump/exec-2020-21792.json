@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-21792",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2020-21792",
+  "published_at": "2020-09-30",
+  "signing_date": "2020-09-25",
+  "source_url": "https://www.federalregister.gov/documents/2020/09/30/2020-21792/national-hunting-and-fishing-day-2020",
+  "title": "National Hunting and Fishing Day, 2020",
+  "topics": [],
+  "type": "executive_action"
+}

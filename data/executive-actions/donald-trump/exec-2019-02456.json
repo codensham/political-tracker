@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-02456",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2019-02456",
+  "published_at": "2019-02-13",
+  "signing_date": "2018-12-21",
+  "source_url": "https://www.federalregister.gov/documents/2019/02/13/2019-02456/delegation-of-functions-and-authorities-under-section-1245-of-the-national-defense-authorization-act",
+  "title": "Delegation of Functions and Authorities Under Section 1245 of the National Defense Authorization Act for Fiscal Year 2019",
+  "topics": [],
+  "type": "executive_action"
+}

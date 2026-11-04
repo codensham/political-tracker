@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-06378",
+  "document_type": "executive_order",
+  "executive_order_number": "14259",
+  "id": "exec-2025-06378",
+  "published_at": "2025-04-14",
+  "signing_date": "2025-04-08",
+  "source_url": "https://www.federalregister.gov/documents/2025/04/14/2025-06378/amendment-to-reciprocal-tariffs-and-updated-duties-as-applied-to-low-value-imports-from-the-peoples",
+  "title": "Amendment to Reciprocal Tariffs and Updated Duties as Applied to Low-Value Imports From the People's Republic of China",
+  "topics": [],
+  "type": "executive_action"
+}

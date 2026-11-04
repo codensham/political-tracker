@@ -1,0 +1,20 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "cash_on_hand_end": 0.0,
+  "collected_at": "2026-11-04T13:11:16Z",
+  "collector": "fec_finance@1.0",
+  "coverage_end": "2024-08-08",
+  "coverage_start": "2024-01-01",
+  "cycle": 2024,
+  "debts_owed": 0.0,
+  "disbursements": 29133.95,
+  "fec_candidate_id": "P80001571",
+  "id": "finance-donald-trump-p80001571-2024",
+  "published_at": "2024-08-08",
+  "receipts": 29133.95,
+  "source_url": "https://www.fec.gov/data/candidate/P80001571/?cycle=2024",
+  "topics": [],
+  "type": "finance"
+}

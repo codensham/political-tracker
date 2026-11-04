@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-22064",
+  "document_type": "executive_order",
+  "executive_order_number": "13953",
+  "id": "exec-2020-22064",
+  "published_at": "2020-10-05",
+  "signing_date": "2020-09-30",
+  "source_url": "https://www.federalregister.gov/documents/2020/10/05/2020-22064/addressing-the-threat-to-the-domestic-supply-chain-from-reliance-on-critical-minerals-from-foreign",
+  "title": "Addressing the Threat to the Domestic Supply Chain From Reliance on Critical Minerals From Foreign Adversaries and Supporting the Domestic Mining and Processing Industries",
+  "topics": [],
+  "type": "executive_action"
+}

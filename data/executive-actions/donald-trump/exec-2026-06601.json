@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-06601",
+  "document_type": "executive_order",
+  "executive_order_number": "14399",
+  "id": "exec-2026-06601",
+  "published_at": "2026-04-03",
+  "signing_date": "2026-03-31",
+  "source_url": "https://www.federalregister.gov/documents/2026/04/03/2026-06601/ensuring-citizenship-verification-and-integrity-in-federal-elections",
+  "title": "Ensuring Citizenship Verification and Integrity in Federal Elections",
+  "topics": [],
+  "type": "executive_action"
+}

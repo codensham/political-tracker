@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-20570",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-20570",
+  "published_at": "2025-11-20",
+  "signing_date": "2025-11-17",
+  "source_url": "https://www.federalregister.gov/documents/2025/11/20/2025-20570/national-adoption-month-2025",
+  "title": "National Adoption Month, 2025",
+  "topics": [],
+  "type": "executive_action"
+}

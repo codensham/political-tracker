@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-10855",
+  "document_type": "executive_order",
+  "executive_order_number": "13833",
+  "id": "exec-2018-10855",
+  "published_at": "2018-05-18",
+  "signing_date": "2018-05-15",
+  "source_url": "https://www.federalregister.gov/documents/2018/05/18/2018-10855/enhancing-the-effectiveness-of-agency-chief-information-officers",
+  "title": "Enhancing the Effectiveness of Agency Chief Information Officers",
+  "topics": [],
+  "type": "executive_action"
+}

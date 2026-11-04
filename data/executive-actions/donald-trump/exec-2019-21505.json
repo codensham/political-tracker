@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-21505",
+  "document_type": "executive_order",
+  "executive_order_number": "13888",
+  "id": "exec-2019-21505",
+  "published_at": "2019-10-01",
+  "signing_date": "2019-09-26",
+  "source_url": "https://www.federalregister.gov/documents/2019/10/01/2019-21505/enhancing-state-and-local-involvement-in-refugee-resettlement",
+  "title": "Enhancing State and Local Involvement in Refugee Resettlement",
+  "topics": [],
+  "type": "executive_action"
+}

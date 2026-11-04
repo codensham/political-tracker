@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-18138",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2019-18138",
+  "published_at": "2019-08-21",
+  "signing_date": "2019-08-16",
+  "source_url": "https://www.federalregister.gov/documents/2019/08/21/2019-18138/national-employer-support-of-the-guard-and-reserve-week-2019",
+  "title": "National Employer Support of the Guard and Reserve Week, 2019",
+  "topics": [],
+  "type": "executive_action"
+}

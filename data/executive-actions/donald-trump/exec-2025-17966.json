@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-17966",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-17966",
+  "published_at": "2025-09-16",
+  "signing_date": "2025-09-11",
+  "source_url": "https://www.federalregister.gov/documents/2025/09/16/2025-17966/patriot-day-2025-the-24th-anniversary-of-the-september-11-terrorist-attacks",
+  "title": "Patriot Day 2025, the 24th Anniversary of the September 11 Terrorist Attacks",
+  "topics": [],
+  "type": "executive_action"
+}

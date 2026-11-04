@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-10761",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2019-10761",
+  "published_at": "2019-05-21",
+  "signing_date": "2019-05-16",
+  "source_url": "https://www.federalregister.gov/documents/2019/05/21/2019-10761/to-modify-the-list-of-beneficiary-developing-countries-under-the-trade-act-of-1974",
+  "title": "To Modify the List of Beneficiary Developing Countries Under the Trade Act of 1974",
+  "topics": [],
+  "type": "executive_action"
+}

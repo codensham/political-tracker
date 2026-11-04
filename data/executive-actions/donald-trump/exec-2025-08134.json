@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-08134",
+  "document_type": "executive_order",
+  "executive_order_number": "14291",
+  "id": "exec-2025-08134",
+  "published_at": "2025-05-07",
+  "signing_date": "2025-05-01",
+  "source_url": "https://www.federalregister.gov/documents/2025/05/07/2025-08134/establishment-of-the-religious-liberty-commission",
+  "title": "Establishment of the Religious Liberty Commission",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-27678",
+  "document_type": "executive_order",
+  "executive_order_number": "13900",
+  "id": "exec-2019-27678",
+  "published_at": "2019-12-20",
+  "signing_date": "2019-12-17",
+  "source_url": "https://www.federalregister.gov/documents/2019/12/20/2019-27678/providing-for-the-closing-of-executive-departments-and-agencies-of-the-federal-government-on",
+  "title": "Providing for the Closing of Executive Departments and Agencies of the Federal Government on December 24, 2019",
+  "topics": [],
+  "type": "executive_action"
+}

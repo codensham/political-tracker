@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-02249",
+  "document_type": "executive_order",
+  "executive_order_number": "14379",
+  "id": "exec-2026-02249",
+  "published_at": "2026-02-03",
+  "signing_date": "2026-01-29",
+  "source_url": "https://www.federalregister.gov/documents/2026/02/03/2026-02249/addressing-addiction-through-the-great-american-recovery-initiative",
+  "title": "Addressing Addiction Through the Great American Recovery Initiative",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-12695",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2019-12695",
+  "published_at": "2019-06-13",
+  "signing_date": "2019-05-24",
+  "source_url": "https://www.federalregister.gov/documents/2019/06/13/2019-12695/delegation-of-functions-and-authorities-under-the-nicaragua-human-rights-and-anticorruption-act-of",
+  "title": "Delegation of Functions and Authorities Under the Nicaragua Human Rights and Anticorruption Act of 2018",
+  "topics": [],
+  "type": "executive_action"
+}

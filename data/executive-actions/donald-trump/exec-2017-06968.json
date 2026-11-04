@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-06968",
+  "document_type": "executive_order",
+  "executive_order_number": "13786",
+  "id": "exec-2017-06968",
+  "published_at": "2017-04-05",
+  "signing_date": "2017-03-31",
+  "source_url": "https://www.federalregister.gov/documents/2017/04/05/2017-06968/omnibus-report-on-significant-trade-deficits",
+  "title": "Omnibus Report on Significant Trade Deficits",
+  "topics": [],
+  "type": "executive_action"
+}

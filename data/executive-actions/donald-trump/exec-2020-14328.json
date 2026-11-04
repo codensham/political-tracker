@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-14328",
+  "document_type": "executive_order",
+  "executive_order_number": "13931",
+  "id": "exec-2020-14328",
+  "published_at": "2020-07-01",
+  "signing_date": "2020-06-26",
+  "source_url": "https://www.federalregister.gov/documents/2020/07/01/2020-14328/continuing-the-presidents-national-council-for-the-american-worker-and-the-american-workforce-policy",
+  "title": "Continuing the President's National Council for the American Worker and the American Workforce Policy Advisory Board",
+  "topics": [],
+  "type": "executive_action"
+}

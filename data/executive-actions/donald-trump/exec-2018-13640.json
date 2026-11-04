@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-13640",
+  "document_type": "executive_order",
+  "executive_order_number": "13840",
+  "id": "exec-2018-13640",
+  "published_at": "2018-06-22",
+  "signing_date": "2018-06-19",
+  "source_url": "https://www.federalregister.gov/documents/2018/06/22/2018-13640/ocean-policy-to-advance-the-economic-security-and-environmental-interests-of-the-united-states",
+  "title": "Ocean Policy To Advance the Economic, Security, and Environmental Interests of the United States",
+  "topics": [],
+  "type": "executive_action"
+}

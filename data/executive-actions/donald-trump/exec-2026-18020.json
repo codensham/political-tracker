@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-18020",
+  "document_type": "executive_order",
+  "executive_order_number": "14422",
+  "id": "exec-2026-18020",
+  "published_at": "2026-09-02",
+  "signing_date": "2026-08-27",
+  "source_url": "https://www.federalregister.gov/documents/2026/09/02/2026-18020/honoring-the-american-history-of-the-great-lakes-and-renaming-lake-ontario-as-lake-america",
+  "title": "Honoring the American History of the Great Lakes and Renaming Lake Ontario as Lake America",
+  "topics": [],
+  "type": "executive_action"
+}

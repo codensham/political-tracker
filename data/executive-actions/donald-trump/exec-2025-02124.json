@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02124",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2025-02124",
+  "published_at": "2025-01-31",
+  "signing_date": "2025-01-23",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/31/2025-02124/federal-recognition-of-the-lumbee-tribe-of-north-carolina",
+  "title": "Federal Recognition of the Lumbee Tribe of North Carolina",
+  "topics": [],
+  "type": "executive_action"
+}

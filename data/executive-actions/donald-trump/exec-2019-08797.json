@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-08797",
+  "document_type": "executive_order",
+  "executive_order_number": "13869",
+  "id": "exec-2019-08797",
+  "published_at": "2019-04-29",
+  "signing_date": "2019-04-24",
+  "source_url": "https://www.federalregister.gov/documents/2019/04/29/2019-08797/transferring-responsibility-for-background-investigations-to-the-department-of-defense",
+  "title": "Transferring Responsibility for Background Investigations to the Department of Defense",
+  "topics": [],
+  "type": "executive_action"
+}

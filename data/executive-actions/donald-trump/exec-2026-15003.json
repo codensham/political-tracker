@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-15003",
+  "document_type": "executive_order",
+  "executive_order_number": "14415",
+  "id": "exec-2026-15003",
+  "published_at": "2026-07-23",
+  "signing_date": "2026-07-20",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/23/2026-15003/securing-americas-defense-supply-chains-and-ensuring-domestic-acquisition-of-critical-materials",
+  "title": "Securing America's Defense Supply Chains and Ensuring Domestic Acquisition of Critical Materials",
+  "topics": [],
+  "type": "executive_action"
+}

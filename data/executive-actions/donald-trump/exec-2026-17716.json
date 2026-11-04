@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-17716",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2026-17716",
+  "published_at": "2026-08-28",
+  "signing_date": "2026-08-25",
+  "source_url": "https://www.federalregister.gov/documents/2026/08/28/2026-17716/honoring-the-memory-of-dolly-parton",
+  "title": "Honoring the Memory of Dolly Parton",
+  "topics": [],
+  "type": "executive_action"
+}

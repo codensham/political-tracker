@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-19726",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2019-19726",
+  "published_at": "2019-09-10",
+  "signing_date": "2019-09-05",
+  "source_url": "https://www.federalregister.gov/documents/2019/09/10/2019-19726/national-days-of-prayer-and-remembrance-2019",
+  "title": "National Days of Prayer and Remembrance, 2019",
+  "topics": [],
+  "type": "executive_action"
+}

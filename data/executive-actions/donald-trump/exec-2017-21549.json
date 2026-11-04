@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-21549",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2017-21549",
+  "published_at": "2017-10-04",
+  "signing_date": "2017-09-28",
+  "source_url": "https://www.federalregister.gov/documents/2017/10/04/2017-21549/national-disability-employment-awareness-month-2017",
+  "title": "National Disability Employment Awareness Month, 2017",
+  "topics": [],
+  "type": "executive_action"
+}

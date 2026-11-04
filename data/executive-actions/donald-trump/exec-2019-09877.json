@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-09877",
+  "document_type": "executive_order",
+  "executive_order_number": "13871",
+  "id": "exec-2019-09877",
+  "published_at": "2019-05-10",
+  "signing_date": "2019-05-08",
+  "source_url": "https://www.federalregister.gov/documents/2019/05/10/2019-09877/imposing-sanctions-with-respect-to-the-iron-steel-aluminum-and-copper-sectors-of-iran",
+  "title": "Imposing Sanctions With Respect to the Iron, Steel, Aluminum, and Copper Sectors of Iran",
+  "topics": [],
+  "type": "executive_action"
+}

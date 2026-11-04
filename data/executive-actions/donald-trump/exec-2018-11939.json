@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-11939",
+  "document_type": "executive_order",
+  "executive_order_number": "13839",
+  "id": "exec-2018-11939",
+  "published_at": "2018-06-01",
+  "signing_date": "2018-05-25",
+  "source_url": "https://www.federalregister.gov/documents/2018/06/01/2018-11939/promoting-accountability-and-streamlining-removal-procedures-consistent-with-merit-system-principles",
+  "title": "Promoting Accountability and Streamlining Removal Procedures Consistent With Merit System Principles",
+  "topics": [],
+  "type": "executive_action"
+}

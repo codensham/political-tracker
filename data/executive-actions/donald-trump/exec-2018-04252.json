@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-04252",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2018-04252",
+  "published_at": "2018-02-28",
+  "signing_date": "2018-02-08",
+  "source_url": "https://www.federalregister.gov/documents/2018/02/28/2018-04252/delegation-of-certain-functions-and-authorities-under-section-1252-of-the-national-defense",
+  "title": "Delegation of Certain Functions and Authorities Under Section 1252 of the National Defense Authorization Act for Fiscal Year 2017",
+  "topics": [],
+  "type": "executive_action"
+}

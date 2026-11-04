@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-15656",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2025-15656",
+  "published_at": "2025-08-15",
+  "signing_date": "2025-08-04",
+  "source_url": "https://www.federalregister.gov/documents/2025/08/15/2025-15656/delegation-of-authority-under-section-404-c-of-the-child-soldiers-prevention-act-of-2008",
+  "title": "Delegation of Authority Under Section 404 (c) of the Child Soldiers Prevention Act of 2008",
+  "topics": [],
+  "type": "executive_action"
+}

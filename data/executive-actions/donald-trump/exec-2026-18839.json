@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-18839",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2026-18839",
+  "published_at": "2026-09-14",
+  "signing_date": "2026-09-08",
+  "source_url": "https://www.federalregister.gov/documents/2026/09/14/2026-18839/modifying-the-scope-of-products-of-canada-subject-to-the-additional-duties-imposed-to-offset",
+  "title": "Modifying the Scope of Products of Canada Subject to the Additional Duties Imposed To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Motor Vehicles",
+  "topics": [],
+  "type": "executive_action"
+}

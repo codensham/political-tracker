@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-02819",
+  "document_type": "executive_order",
+  "executive_order_number": "14385",
+  "id": "exec-2026-02819",
+  "published_at": "2026-02-11",
+  "signing_date": "2026-02-06",
+  "source_url": "https://www.federalregister.gov/documents/2026/02/11/2026-02819/protecting-the-national-security-and-welfare-of-the-united-states-and-its-citizens-from-criminal",
+  "title": "Protecting the National Security and Welfare of the United States and Its Citizens From Criminal Actors and Other Public Safety Threats",
+  "topics": [],
+  "type": "executive_action"
+}

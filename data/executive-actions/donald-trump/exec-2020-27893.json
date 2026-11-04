@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-27893",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-27893",
+  "published_at": "2020-12-16",
+  "signing_date": "2020-12-10",
+  "source_url": "https://www.federalregister.gov/documents/2020/12/16/2020-27893/providing-an-order-of-succession-within-the-office-of-personnel-management",
+  "title": "Providing an Order of Succession Within the Office of Personnel Management",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-15338",
+  "document_type": "executive_order",
+  "executive_order_number": "13935",
+  "id": "exec-2020-15338",
+  "published_at": "2020-07-14",
+  "signing_date": "2020-07-09",
+  "source_url": "https://www.federalregister.gov/documents/2020/07/14/2020-15338/white-house-hispanic-prosperity-initiative",
+  "title": "White House Hispanic Prosperity Initiative",
+  "topics": [],
+  "type": "executive_action"
+}

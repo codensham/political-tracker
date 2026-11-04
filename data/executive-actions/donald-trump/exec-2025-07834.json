@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-07834",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-07834",
+  "published_at": "2025-05-02",
+  "signing_date": "2025-04-29",
+  "source_url": "https://www.federalregister.gov/documents/2025/05/02/2025-07834/418th-anniversary-of-the-first-landing-and-the-raising-of-the-cape-henry-cross",
+  "title": "418th Anniversary of the First Landing and the Raising of the Cape Henry Cross",
+  "topics": [],
+  "type": "executive_action"
+}

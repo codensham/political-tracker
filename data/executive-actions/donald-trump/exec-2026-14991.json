@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-14991",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2026-14991",
+  "published_at": "2026-07-23",
+  "signing_date": "2026-07-20",
+  "source_url": "https://www.federalregister.gov/documents/2026/07/23/2026-14991/imposing-additional-duties-to-offset-canadian-discrimination-against-the-commerce-of-the-united",
+  "title": "Imposing Additional Duties To Offset Canadian Discrimination Against the Commerce of the United States With Respect to Alcoholic Beverages",
+  "topics": [],
+  "type": "executive_action"
+}

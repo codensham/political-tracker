@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02005",
+  "document_type": "executive_order",
+  "executive_order_number": "14158",
+  "id": "exec-2025-02005",
+  "published_at": "2025-01-29",
+  "signing_date": "2025-01-20",
+  "source_url": "https://www.federalregister.gov/documents/2025/01/29/2025-02005/establishing-and-implementing-the-presidents-department-of-government-efficiency",
+  "title": "Establishing and Implementing the President's \"Department of Government Efficiency\"",
+  "topics": [],
+  "type": "executive_action"
+}

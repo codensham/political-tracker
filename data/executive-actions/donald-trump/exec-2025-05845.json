@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-05845",
+  "document_type": "executive_order",
+  "executive_order_number": "14250",
+  "id": "exec-2025-05845",
+  "published_at": "2025-04-03",
+  "signing_date": "2025-03-27",
+  "source_url": "https://www.federalregister.gov/documents/2025/04/03/2025-05845/addressing-risks-from-wilmerhale",
+  "title": "Addressing Risks From WilmerHale",
+  "topics": [],
+  "type": "executive_action"
+}

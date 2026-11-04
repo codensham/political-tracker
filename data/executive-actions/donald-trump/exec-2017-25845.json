@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-25845",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2017-25845",
+  "published_at": "2017-11-29",
+  "signing_date": "2017-11-21",
+  "source_url": "https://www.federalregister.gov/documents/2017/11/29/2017-25845/delegation-of-authority-under-the-foreign-aid-transparency-and-accountability-act-of-2016",
+  "title": "Delegation of Authority Under the Foreign Aid Transparency and Accountability Act of 2016",
+  "topics": [],
+  "type": "executive_action"
+}

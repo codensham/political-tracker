@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-24793",
+  "document_type": "executive_order",
+  "executive_order_number": "13958",
+  "id": "exec-2020-24793",
+  "published_at": "2020-11-05",
+  "signing_date": "2020-11-02",
+  "source_url": "https://www.federalregister.gov/documents/2020/11/05/2020-24793/establishing-the-presidents-advisory-1776-commission",
+  "title": "Establishing the President's Advisory 1776 Commission",
+  "topics": [],
+  "type": "executive_action"
+}

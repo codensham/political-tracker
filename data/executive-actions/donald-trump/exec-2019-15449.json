@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-15449",
+  "document_type": "executive_order",
+  "executive_order_number": "13881",
+  "id": "exec-2019-15449",
+  "published_at": "2019-07-18",
+  "signing_date": "2019-07-15",
+  "source_url": "https://www.federalregister.gov/documents/2019/07/18/2019-15449/maximizing-use-of-american-made-goods-products-and-materials",
+  "title": "Maximizing Use of American-Made Goods, Products, and Materials",
+  "topics": [],
+  "type": "executive_action"
+}

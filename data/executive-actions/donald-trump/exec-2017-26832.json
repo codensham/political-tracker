@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-26832",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2017-26832",
+  "published_at": "2017-12-11",
+  "signing_date": "2017-12-06",
+  "source_url": "https://www.federalregister.gov/documents/2017/12/11/2017-26832/recognizing-jerusalem-as-the-capital-of-the-state-of-israel-and-relocating-the-united-states-embassy",
+  "title": "Recognizing Jerusalem as the Capital of the State of Israel and Relocating the United States Embassy to Israel to Jerusalem",
+  "topics": [],
+  "type": "executive_action"
+}

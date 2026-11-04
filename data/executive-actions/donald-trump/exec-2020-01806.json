@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-01806",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2020-01806",
+  "published_at": "2020-01-29",
+  "signing_date": "2020-01-24",
+  "source_url": "https://www.federalregister.gov/documents/2020/01/29/2020-01806/adjusting-imports-of-derivative-aluminum-articles-and-derivative-steel-articles-into-the-united",
+  "title": "Adjusting Imports of Derivative Aluminum Articles and Derivative Steel Articles Into the United States",
+  "topics": [],
+  "type": "executive_action"
+}

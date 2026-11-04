@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-05519",
+  "document_type": "executive_order",
+  "executive_order_number": "14246",
+  "id": "exec-2025-05519",
+  "published_at": "2025-03-28",
+  "signing_date": "2025-03-25",
+  "source_url": "https://www.federalregister.gov/documents/2025/03/28/2025-05519/addressing-risks-from-jenner-and-block",
+  "title": "Addressing Risks From Jenner & Block",
+  "topics": [],
+  "type": "executive_action"
+}

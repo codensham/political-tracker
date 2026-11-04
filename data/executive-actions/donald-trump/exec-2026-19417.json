@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-19417",
+  "document_type": "executive_order",
+  "executive_order_number": "14430",
+  "id": "exec-2026-19417",
+  "published_at": "2026-09-22",
+  "signing_date": "2026-09-17",
+  "source_url": "https://www.federalregister.gov/documents/2026/09/22/2026-19417/restoring-american-saltwater-angling-and-recreation",
+  "title": "Restoring American Saltwater Angling and Recreation",
+  "topics": [],
+  "type": "executive_action"
+}

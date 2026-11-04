@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-06716",
+  "document_type": "executive_order",
+  "executive_order_number": "13784",
+  "id": "exec-2017-06716",
+  "published_at": "2017-04-03",
+  "signing_date": "2017-03-29",
+  "source_url": "https://www.federalregister.gov/documents/2017/04/03/2017-06716/establishing-the-presidents-commission-on-combating-drug-addiction-and-the-opioid-crisis",
+  "title": "Establishing the President's Commission on Combating Drug Addiction and the Opioid Crisis",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02928",
+  "document_type": "executive_order",
+  "executive_order_number": "14213",
+  "id": "exec-2025-02928",
+  "published_at": "2025-02-20",
+  "signing_date": "2025-02-14",
+  "source_url": "https://www.federalregister.gov/documents/2025/02/20/2025-02928/establishing-the-national-energy-dominance-council",
+  "title": "Establishing the National Energy Dominance Council",
+  "topics": [],
+  "type": "executive_action"
+}

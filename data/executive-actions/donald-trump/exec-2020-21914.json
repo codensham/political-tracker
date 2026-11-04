@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-21914",
+  "document_type": "executive_order",
+  "executive_order_number": "13951",
+  "id": "exec-2020-21914",
+  "published_at": "2020-10-01",
+  "signing_date": "2020-09-24",
+  "source_url": "https://www.federalregister.gov/documents/2020/10/01/2020-21914/an-america-first-healthcare-plan",
+  "title": "An America-First Healthcare Plan",
+  "topics": [],
+  "type": "executive_action"
+}

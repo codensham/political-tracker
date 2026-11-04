@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-05798",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2020-05798",
+  "published_at": "2020-03-18",
+  "signing_date": "2020-03-14",
+  "source_url": "https://www.federalregister.gov/documents/2020/03/18/2020-05798/national-day-of-prayer-for-all-americans-affected-by-the-coronavirus-pandemic-and-for-our-national",
+  "title": "National Day of Prayer for All Americans Affected by the Coronavirus Pandemic and for Our National Response Efforts",
+  "topics": [],
+  "type": "executive_action"
+}

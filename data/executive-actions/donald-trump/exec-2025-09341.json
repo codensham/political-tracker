@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-09341",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2025-09341",
+  "published_at": "2025-05-22",
+  "signing_date": "2025-05-16",
+  "source_url": "https://www.federalregister.gov/documents/2025/05/22/2025-09341/armed-forces-day-2025",
+  "title": "Armed Forces Day, 2025",
+  "topics": [],
+  "type": "executive_action"
+}

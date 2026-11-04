@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-03628",
+  "document_type": "executive_order",
+  "executive_order_number": "14387",
+  "id": "exec-2026-03628",
+  "published_at": "2026-02-23",
+  "signing_date": "2026-02-18",
+  "source_url": "https://www.federalregister.gov/documents/2026/02/23/2026-03628/promoting-the-national-defense-by-ensuring-an-adequate-supply-of-elemental-phosphorus-and",
+  "title": "Promoting the National Defense by Ensuring an Adequate Supply of Elemental Phosphorus and Glyphosate- Based Herbicides",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -5,7 +5,12 @@ from __future__ import annotations
 import sys
 from typing import Literal
 
-OFFICIAL_PREFIXES = ("data/finance/", "data/record/", "data/disclosures/")
+OFFICIAL_PREFIXES = (
+    "data/finance/",
+    "data/record/",
+    "data/disclosures/",
+    "data/executive-actions/",
+)
 
 
 def classify_paths(paths: list[str]) -> Literal["official", "judgment"]:

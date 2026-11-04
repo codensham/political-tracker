@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2026-05497",
+  "document_type": "executive_order",
+  "executive_order_number": "14395",
+  "id": "exec-2026-05497",
+  "published_at": "2026-03-19",
+  "signing_date": "2026-03-16",
+  "source_url": "https://www.federalregister.gov/documents/2026/03/19/2026-05497/establishing-the-task-force-to-eliminate-fraud",
+  "title": "Establishing the Task Force To Eliminate Fraud",
+  "topics": [],
+  "type": "executive_action"
+}

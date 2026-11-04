@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-20647",
+  "document_type": "executive_order",
+  "executive_order_number": "13810",
+  "id": "exec-2017-20647",
+  "published_at": "2017-09-25",
+  "signing_date": "2017-09-20",
+  "source_url": "https://www.federalregister.gov/documents/2017/09/25/2017-20647/imposing-additional-sanctions-with-respect-to-north-korea",
+  "title": "Imposing Additional Sanctions With Respect to North Korea",
+  "topics": [],
+  "type": "executive_action"
+}

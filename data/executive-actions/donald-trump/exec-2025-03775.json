@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-03775",
+  "document_type": "executive_order",
+  "executive_order_number": "14228",
+  "id": "exec-2025-03775",
+  "published_at": "2025-03-07",
+  "signing_date": "2025-03-03",
+  "source_url": "https://www.federalregister.gov/documents/2025/03/07/2025-03775/further-amendment-to-duties-addressing-the-synthetic-opioid-supply-chain-in-the-peoples-republic-of",
+  "title": "Further Amendment to Duties Addressing the Synthetic Opioid Supply Chain in the People's Republic of China",
+  "topics": [],
+  "type": "executive_action"
+}

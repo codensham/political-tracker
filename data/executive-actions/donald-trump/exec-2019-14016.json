@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-14016",
+  "document_type": "executive_order",
+  "executive_order_number": "13878",
+  "id": "exec-2019-14016",
+  "published_at": "2019-06-28",
+  "signing_date": "2019-06-25",
+  "source_url": "https://www.federalregister.gov/documents/2019/06/28/2019-14016/establishing-a-white-house-council-on-eliminating-regulatory-barriers-to-affordable-housing",
+  "title": "Establishing a White House Council on Eliminating Regulatory Barriers to Affordable Housing",
+  "topics": [],
+  "type": "executive_action"
+}

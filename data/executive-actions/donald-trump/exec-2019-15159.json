@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-15159",
+  "document_type": "executive_order",
+  "executive_order_number": "13879",
+  "id": "exec-2019-15159",
+  "published_at": "2019-07-15",
+  "signing_date": "2019-07-10",
+  "source_url": "https://www.federalregister.gov/documents/2019/07/15/2019-15159/advancing-american-kidney-health",
+  "title": "Advancing American Kidney Health",
+  "topics": [],
+  "type": "executive_action"
+}

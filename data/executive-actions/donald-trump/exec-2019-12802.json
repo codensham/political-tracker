@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-12802",
+  "document_type": "executive_order",
+  "executive_order_number": "13874",
+  "id": "exec-2019-12802",
+  "published_at": "2019-06-14",
+  "signing_date": "2019-06-11",
+  "source_url": "https://www.federalregister.gov/documents/2019/06/14/2019-12802/modernizing-the-regulatory-framework-for-agricultural-biotechnology-products",
+  "title": "Modernizing the Regulatory Framework for Agricultural Biotechnology Products",
+  "topics": [],
+  "type": "executive_action"
+}

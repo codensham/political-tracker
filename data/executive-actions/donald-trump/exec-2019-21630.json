@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-21630",
+  "document_type": "executive_order",
+  "executive_order_number": "13889",
+  "id": "exec-2019-21630",
+  "published_at": "2019-10-02",
+  "signing_date": "2019-09-27",
+  "source_url": "https://www.federalregister.gov/documents/2019/10/02/2019-21630/continuance-of-certain-federal-advisory-committees",
+  "title": "Continuance of Certain Federal Advisory Committees",
+  "topics": [],
+  "type": "executive_action"
+}

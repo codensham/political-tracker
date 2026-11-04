@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-26612",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2018-26612",
+  "published_at": "2018-12-06",
+  "signing_date": "2018-12-01",
+  "source_url": "https://www.federalregister.gov/documents/2018/12/06/2018-26612/announcing-the-death-of-george-herbert-walker-bush",
+  "title": "Announcing the Death of George Herbert Walker Bush",
+  "topics": [],
+  "type": "executive_action"
+}

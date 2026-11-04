@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-21616",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2019-21616",
+  "published_at": "2019-10-02",
+  "signing_date": "2019-09-27",
+  "source_url": "https://www.federalregister.gov/documents/2019/10/02/2019-21616/national-domestic-violence-awareness-month-2019",
+  "title": "National Domestic Violence Awareness Month, 2019",
+  "topics": [],
+  "type": "executive_action"
+}

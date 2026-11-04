@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-05217",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2025-05217",
+  "published_at": "2025-03-25",
+  "signing_date": "2025-03-20",
+  "source_url": "https://www.federalregister.gov/documents/2025/03/25/2025-05217/strengthening-the-suitability-and-fitness-of-the-federal-workforce",
+  "title": "Strengthening the Suitability and Fitness of the Federal Workforce",
+  "topics": [],
+  "type": "executive_action"
+}

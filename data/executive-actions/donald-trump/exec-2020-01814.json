@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-01814",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2020-01814",
+  "published_at": "2020-01-29",
+  "signing_date": "2020-01-24",
+  "source_url": "https://www.federalregister.gov/documents/2020/01/29/2020-01814/national-day-of-remembrance-of-the-75th-anniversary-of-the-liberation-of-auschwitz-2020",
+  "title": "National Day of Remembrance of the 75th Anniversary of the Liberation of Auschwitz, 2020",
+  "topics": [],
+  "type": "executive_action"
+}

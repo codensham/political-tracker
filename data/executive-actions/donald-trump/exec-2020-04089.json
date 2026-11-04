@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-04089",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-04089",
+  "published_at": "2020-02-26",
+  "signing_date": "2020-02-19",
+  "source_url": "https://www.federalregister.gov/documents/2020/02/26/2020-04089/developing-and-delivering-more-water-supplies-to-california",
+  "title": "Developing and Delivering More Water Supplies to California",
+  "topics": [],
+  "type": "executive_action"
+}

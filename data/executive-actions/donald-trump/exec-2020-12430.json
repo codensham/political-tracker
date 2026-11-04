@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-12430",
+  "document_type": "executive_order",
+  "executive_order_number": "13926",
+  "id": "exec-2020-12430",
+  "published_at": "2020-06-05",
+  "signing_date": "2020-06-02",
+  "source_url": "https://www.federalregister.gov/documents/2020/06/05/2020-12430/advancing-international-religious-freedom",
+  "title": "Advancing International Religious Freedom",
+  "topics": [],
+  "type": "executive_action"
+}

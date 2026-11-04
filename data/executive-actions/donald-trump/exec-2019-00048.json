@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-00048",
+  "document_type": "executive_order",
+  "executive_order_number": "13856",
+  "id": "exec-2019-00048",
+  "published_at": "2019-01-08",
+  "signing_date": "2018-12-28",
+  "source_url": "https://www.federalregister.gov/documents/2019/01/08/2019-00048/adjustments-of-certain-rates-of-pay",
+  "title": "Adjustments of Certain Rates of Pay",
+  "topics": [],
+  "type": "executive_action"
+}

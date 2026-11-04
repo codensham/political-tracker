@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-02603",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2018-02603",
+  "published_at": "2018-02-07",
+  "signing_date": "2018-02-05",
+  "source_url": "https://www.federalregister.gov/documents/2018/02/07/2018-02603/delegation-of-certain-functions-and-authorities-under-section-1238-of-the-national-defense",
+  "title": "Delegation of Certain Functions and Authorities Under Section 1238 of the National Defense Authorization Act for Fiscal Year 2018",
+  "topics": [],
+  "type": "executive_action"
+}

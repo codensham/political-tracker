@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-00240",
+  "document_type": "executive_order",
+  "executive_order_number": "13820",
+  "id": "exec-2018-00240",
+  "published_at": "2018-01-08",
+  "signing_date": "2018-01-03",
+  "source_url": "https://www.federalregister.gov/documents/2018/01/08/2018-00240/termination-of-presidential-advisory-commission-on-election-integrity",
+  "title": "Termination of Presidential Advisory Commission on Election Integrity",
+  "topics": [],
+  "type": "executive_action"
+}

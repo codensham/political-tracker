@@ -11,6 +11,7 @@ TYPE_DIRS: dict[str, str] = {
     "candidate": "candidates",
     "finance": "finance",
     "vote": "record",
+    "executive_action": "executive-actions",
 }
 
 

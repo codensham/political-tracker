@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-04837",
+  "document_type": "executive_order",
+  "executive_order_number": "13780",
+  "id": "exec-2017-04837",
+  "published_at": "2017-03-09",
+  "signing_date": "2017-03-06",
+  "source_url": "https://www.federalregister.gov/documents/2017/03/09/2017-04837/protecting-the-nation-from-foreign-terrorist-entry-into-the-united-states",
+  "title": "Protecting the Nation From Foreign Terrorist Entry Into the United States",
+  "topics": [],
+  "type": "executive_action"
+}

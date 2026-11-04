@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-07645",
+  "document_type": "executive_order",
+  "executive_order_number": "13867",
+  "id": "exec-2019-07645",
+  "published_at": "2019-04-15",
+  "signing_date": "2019-04-10",
+  "source_url": "https://www.federalregister.gov/documents/2019/04/15/2019-07645/issuance-of-permits-with-respect-to-facilities-and-land-transportation-crossings-at-the",
+  "title": "Issuance of Permits With Respect to Facilities and Land Transportation Crossings at the International Boundaries of the United States",
+  "topics": [],
+  "type": "executive_action"
+}

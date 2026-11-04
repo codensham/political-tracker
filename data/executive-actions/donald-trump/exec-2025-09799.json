@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-09799",
+  "document_type": "executive_order",
+  "executive_order_number": "14301",
+  "id": "exec-2025-09799",
+  "published_at": "2025-05-29",
+  "signing_date": "2025-05-23",
+  "source_url": "https://www.federalregister.gov/documents/2025/05/29/2025-09799/reforming-nuclear-reactor-testing-at-the-department-of-energy",
+  "title": "Reforming Nuclear Reactor Testing at the Department of Energy",
+  "topics": [],
+  "type": "executive_action"
+}

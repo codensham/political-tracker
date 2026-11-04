@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-27515",
+  "document_type": "executive_order",
+  "executive_order_number": "13853",
+  "id": "exec-2018-27515",
+  "published_at": "2018-12-18",
+  "signing_date": "2018-12-12",
+  "source_url": "https://www.federalregister.gov/documents/2018/12/18/2018-27515/establishing-the-white-house-opportunity-and-revitalization-council",
+  "title": "Establishing the White House Opportunity and Revitalization Council",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-14509",
+  "document_type": "executive_order",
+  "executive_order_number": "13933",
+  "id": "exec-2020-14509",
+  "published_at": "2020-07-02",
+  "signing_date": "2020-06-26",
+  "source_url": "https://www.federalregister.gov/documents/2020/07/02/2020-14509/protecting-american-monuments-memorials-and-statues-and-combating-recent-criminal-violence",
+  "title": "Protecting American Monuments, Memorials, and Statues and Combating Recent Criminal Violence",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-02233",
+  "document_type": "executive_order",
+  "executive_order_number": "14191",
+  "id": "exec-2025-02233",
+  "published_at": "2025-02-03",
+  "signing_date": "2025-01-29",
+  "source_url": "https://www.federalregister.gov/documents/2025/02/03/2025-02233/expanding-educational-freedom-and-opportunity-for-families",
+  "title": "Expanding Educational Freedom and Opportunity for Families",
+  "topics": [],
+  "type": "executive_action"
+}

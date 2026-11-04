@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-18012",
+  "document_type": "executive_order",
+  "executive_order_number": "13944",
+  "id": "exec-2020-18012",
+  "published_at": "2020-08-14",
+  "signing_date": "2020-08-06",
+  "source_url": "https://www.federalregister.gov/documents/2020/08/14/2020-18012/combating-public-health-emergencies-and-strengthening-national-security-by-ensuring-essential",
+  "title": "Combating Public Health Emergencies and Strengthening National Security by Ensuring Essential Medicines, Medical Countermeasures, and Critical Inputs Are Made in the United States",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2025-07380",
+  "document_type": "executive_order",
+  "executive_order_number": "14283",
+  "id": "exec-2025-07380",
+  "published_at": "2025-04-28",
+  "signing_date": "2025-04-23",
+  "source_url": "https://www.federalregister.gov/documents/2025/04/28/2025-07380/white-house-initiative-to-promote-excellence-and-innovation-at-historically-black-colleges-and",
+  "title": "White House Initiative To Promote Excellence and Innovation at Historically Black Colleges and Universities",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-21534",
+  "document_type": "executive_order",
+  "executive_order_number": "13950",
+  "id": "exec-2020-21534",
+  "published_at": "2020-09-28",
+  "signing_date": "2020-09-22",
+  "source_url": "https://www.federalregister.gov/documents/2020/09/28/2020-21534/combating-race-and-sex-stereotyping",
+  "title": "Combating Race and Sex Stereotyping",
+  "topics": [],
+  "type": "executive_action"
+}

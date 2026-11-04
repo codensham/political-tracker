@@ -13,4 +13,14 @@
 #     official_site: https://janedoe.example/   # or null
 #     inclusion_reason: "FEC Form 2 filed for 2028 (fec.gov)"
 
-candidates: []
+candidates:
+  - id: donald-trump
+    name: Donald J. Trump
+    party: REP
+    status: nominee
+    as_of: "2026-11-04"
+    fec_candidate_ids: ["P80001571"]
+    icpsr: null
+    bioguide_id: null
+    official_site: null
+    inclusion_reason: "(c) Past candidate: major-party nominee in 2016, 2020, and 2024. FEC candidate search office=P shows P80001571 with those election years (checked 2026-11-04)."

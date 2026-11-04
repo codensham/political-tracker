@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "R1-2026-03829",
+  "document_type": "executive_order",
+  "executive_order_number": "14388",
+  "id": "exec-r1-2026-03829",
+  "published_at": "2026-04-09",
+  "signing_date": "2026-02-20",
+  "source_url": "https://www.federalregister.gov/documents/2026/04/09/R1-2026-03829/continuing-the-suspension-of-duty-free-de-minimis-treatment-for-all-countries",
+  "title": "Continuing the Suspension of Duty-Free De Minimis Treatment for All Countries",
+  "topics": [],
+  "type": "executive_action"
+}

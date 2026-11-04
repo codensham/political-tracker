@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-17899",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-17899",
+  "published_at": "2020-08-13",
+  "signing_date": "2020-08-08",
+  "source_url": "https://www.federalregister.gov/documents/2020/08/13/2020-17899/deferring-payroll-tax-obligations-in-light-of-the-ongoing-covid-19-disaster",
+  "title": "Deferring Payroll Tax Obligations in Light of the Ongoing COVID-19 Disaster",
+  "topics": [],
+  "type": "executive_action"
+}

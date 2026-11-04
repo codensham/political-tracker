@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-03578",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2020-03578",
+  "published_at": "2020-02-21",
+  "signing_date": "2020-01-29",
+  "source_url": "https://www.federalregister.gov/documents/2020/02/21/2020-03578/delegation-of-certain-authority-under-the-federal-service-labor-management-relations-statute",
+  "title": "Delegation of Certain Authority Under the Federal Service Labor-Management Relations Statute",
+  "topics": [],
+  "type": "executive_action"
+}

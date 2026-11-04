@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-03556",
+  "document_type": "executive_order",
+  "executive_order_number": "13906",
+  "id": "exec-2020-03556",
+  "published_at": "2020-02-20",
+  "signing_date": "2020-02-13",
+  "source_url": "https://www.federalregister.gov/documents/2020/02/20/2020-03556/amending-executive-order-13803reviving-the-national-space-council",
+  "title": "Amending Executive Order 13803Reviving the National Space Council",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-18015",
+  "document_type": "executive_order",
+  "executive_order_number": "13945",
+  "id": "exec-2020-18015",
+  "published_at": "2020-08-14",
+  "signing_date": "2020-08-08",
+  "source_url": "https://www.federalregister.gov/documents/2020/08/14/2020-18015/fighting-the-spread-of-covid-19-by-providing-assistance-to-renters-and-homeowners",
+  "title": "Fighting the Spread of COVID-19 by Providing Assistance to Renters and Homeowners",
+  "topics": [],
+  "type": "executive_action"
+}

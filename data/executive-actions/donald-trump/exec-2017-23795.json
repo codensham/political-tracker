@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-23795",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2017-23795",
+  "published_at": "2017-10-31",
+  "signing_date": "2017-10-26",
+  "source_url": "https://www.federalregister.gov/documents/2017/10/31/2017-23795/temporary-certification-for-certain-records-related-to-the-assassination-of-president-john-f-kennedy",
+  "title": "Temporary Certification for Certain Records Related to the Assassination of President John F. Kennedy",
+  "topics": [],
+  "type": "executive_action"
+}

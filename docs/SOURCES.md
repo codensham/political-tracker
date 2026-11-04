@@ -2,10 +2,11 @@
 
 ## Who is tracked
 
-A person is included in the 2028 presidential tracker if either:
+A person is included in the presidential tracker if any of these apply:
 
 1. **(a) Filed.** They filed FEC Form 2 (Statement of Candidacy) for the 2028 presidential race. Source: FEC candidate search, `office=P`, `election_year=2028`.
 2. **(b) Polling.** They have not filed, but appear in at least two named national primary polls at 2% or higher. Source: the named polls, cited by URL.
+3. **(c) Past candidate.** They were a major-party presidential nominee or a general-election candidate in an earlier cycle, so their past campaigns and career are tracked as history. Source: FEC candidate search, `office=P`, for that cycle's committee ID.
 
 `inclusion_reason` in `config/candidates.yaml` records which criterion applies and where it was checked. `as_of` records the date of that check.
 

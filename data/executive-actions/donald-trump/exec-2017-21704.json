@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-21704",
+  "document_type": "memorandum",
+  "executive_order_number": null,
+  "id": "exec-2017-21704",
+  "published_at": "2017-10-05",
+  "signing_date": "2017-09-25",
+  "source_url": "https://www.federalregister.gov/documents/2017/10/05/2017-21704/delegation-of-authority-under-the-consolidated-appropriations-act-2017",
+  "title": "Delegation of Authority Under the Consolidated Appropriations Act, 2017",
+  "topics": [],
+  "type": "executive_action"
+}

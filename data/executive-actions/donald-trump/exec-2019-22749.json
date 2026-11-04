@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2019-22749",
+  "document_type": "executive_order",
+  "executive_order_number": "13893",
+  "id": "exec-2019-22749",
+  "published_at": "2019-10-16",
+  "signing_date": "2019-10-10",
+  "source_url": "https://www.federalregister.gov/documents/2019/10/16/2019-22749/increasing-government-accountability-for-administrative-actions-by-reinvigorating-administrative",
+  "title": "Increasing Government Accountability for Administrative Actions by Reinvigorating Administrative PAYGO",
+  "topics": [],
+  "type": "executive_action"
+}

@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2018-19514",
+  "document_type": "executive_order",
+  "executive_order_number": "13847",
+  "id": "exec-2018-19514",
+  "published_at": "2018-09-06",
+  "signing_date": "2018-08-31",
+  "source_url": "https://www.federalregister.gov/documents/2018/09/06/2018-19514/strengthening-retirement-security-in-america",
+  "title": "Strengthening Retirement Security in America",
+  "topics": [],
+  "type": "executive_action"
+}

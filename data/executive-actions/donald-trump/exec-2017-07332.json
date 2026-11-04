@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2017-07332",
+  "document_type": "proclamation",
+  "executive_order_number": null,
+  "id": "exec-2017-07332",
+  "published_at": "2017-04-10",
+  "signing_date": "2017-04-05",
+  "source_url": "https://www.federalregister.gov/documents/2017/04/10/2017-07332/honoring-the-memory-of-john-glenn",
+  "title": "Honoring the Memory of John Glenn",
+  "topics": [],
+  "type": "executive_action"
+}

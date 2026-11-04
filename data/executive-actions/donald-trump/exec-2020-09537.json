@@ -1,0 +1,17 @@
+{
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:15:25Z",
+  "collector": "federal_register@1.0",
+  "document_number": "2020-09537",
+  "document_type": "executive_order",
+  "executive_order_number": "13918",
+  "id": "exec-2020-09537",
+  "published_at": "2020-05-01",
+  "signing_date": "2020-04-28",
+  "source_url": "https://www.federalregister.gov/documents/2020/05/01/2020-09537/establishment-of-the-interagency-labor-committee-for-monitoring-and-enforcement-under-section-711-of",
+  "title": "Establishment of the Interagency Labor Committee for Monitoring and Enforcement Under Section 711 of the United States-Mexico-Canada Agreement Implementation Act",
+  "topics": [],
+  "type": "executive_action"
+}
