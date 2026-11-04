@@ -1,0 +1,18 @@
+{
+  "amount": 3410000.0,
+  "candidate_ids": [
+    "joe-biden"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C00532630",
+  "committee_name": "OUR AMERICAN CENTURY",
+  "cycle": 2020,
+  "fec_candidate_id": "P80000722",
+  "id": "outside-joe-biden-p80000722-2020-c00532630-oppose",
+  "published_at": "2020-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P80000722/?cycle=2020",
+  "support_oppose": "oppose",
+  "topics": [],
+  "type": "outside_spending"
+}

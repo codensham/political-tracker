@@ -1,0 +1,18 @@
+{
+  "amount": 9858.0,
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C00035451",
+  "committee_name": "AIR LINE PILOTS ASSOCIATION POLITICAL ACTION COMMITTEE",
+  "cycle": 2000,
+  "fec_candidate_id": "P80000912",
+  "id": "outside-al-gore-p80000912-2000-c00035451-support",
+  "published_at": "2000-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P80000912/?cycle=2000",
+  "support_oppose": "support",
+  "topics": [],
+  "type": "outside_spending"
+}

@@ -24,6 +24,7 @@ jobs:
         run: |
           python -m tracker.candidates
           python -m tracker.collectors fec_finance
+          python -m tracker.collectors fec_outside_spending
           python -m tracker.collectors voteview
           python -m tracker.collectors federal_register
           python -m tracker.validate data

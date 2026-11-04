@@ -1,0 +1,18 @@
+{
+  "amount": 4210.99,
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C90023029",
+  "committee_name": "LA FUERZA NC",
+  "cycle": 2024,
+  "fec_candidate_id": "P00009423",
+  "id": "outside-kamala-harris-p00009423-2024-c90023029-support",
+  "published_at": "2024-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P00009423/?cycle=2024",
+  "support_oppose": "support",
+  "topics": [],
+  "type": "outside_spending"
+}

@@ -1,0 +1,18 @@
+{
+  "amount": 5542.11,
+  "candidate_ids": [
+    "john-kerry"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C00390658",
+  "committee_name": "TRUEMAJORITYACTIONPAC",
+  "cycle": 2004,
+  "fec_candidate_id": "P80000235",
+  "id": "outside-john-kerry-p80000235-2004-c00390658-support",
+  "published_at": "2004-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P80000235/?cycle=2004",
+  "support_oppose": "support",
+  "topics": [],
+  "type": "outside_spending"
+}

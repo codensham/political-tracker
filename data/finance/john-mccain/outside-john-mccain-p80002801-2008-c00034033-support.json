@@ -1,0 +1,18 @@
+{
+  "amount": 12859.7,
+  "candidate_ids": [
+    "john-mccain"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C00034033",
+  "committee_name": "SOUTH CAROLINA REPUBLICAN PARTY",
+  "cycle": 2008,
+  "fec_candidate_id": "P80002801",
+  "id": "outside-john-mccain-p80002801-2008-c00034033-support",
+  "published_at": "2008-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P80002801/?cycle=2008",
+  "support_oppose": "support",
+  "topics": [],
+  "type": "outside_spending"
+}

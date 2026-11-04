@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Outside spending record (type-specific fields)",
+  "description": "Independent expenditures for or against a candidate, per committee per cycle (FEC Schedule E, aggregated). Composed with base.schema.json by tracker.validate.",
+  "type": "object",
+  "required": [
+    "cycle",
+    "support_oppose",
+    "amount",
+    "committee_id",
+    "committee_name",
+    "fec_candidate_id"
+  ],
+  "properties": {
+    "type": { "const": "outside_spending" },
+    "cycle": { "type": "integer", "minimum": 1980 },
+    "support_oppose": { "type": "string", "enum": ["support", "oppose"] },
+    "amount": { "type": "number" },
+    "committee_id": { "type": "string", "pattern": "^C[0-9]{8}$" },
+    "committee_name": { "type": "string", "minLength": 1 },
+    "fec_candidate_id": { "type": "string", "minLength": 1 }
+  }
+}

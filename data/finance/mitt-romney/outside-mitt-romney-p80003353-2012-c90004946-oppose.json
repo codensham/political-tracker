@@ -1,0 +1,18 @@
+{
+  "amount": 4148.51,
+  "candidate_ids": [
+    "mitt-romney"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C90004946",
+  "committee_name": "PLANNED PARENTHOOD PENNSYLVANIA ADVOCATES",
+  "cycle": 2012,
+  "fec_candidate_id": "P80003353",
+  "id": "outside-mitt-romney-p80003353-2012-c90004946-oppose",
+  "published_at": "2012-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P80003353/?cycle=2012",
+  "support_oppose": "oppose",
+  "topics": [],
+  "type": "outside_spending"
+}

@@ -1,0 +1,18 @@
+{
+  "amount": 23603816.59,
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C00608489",
+  "committee_name": "GREAT AMERICA PAC",
+  "cycle": 2016,
+  "fec_candidate_id": "P80001571",
+  "id": "outside-donald-trump-p80001571-2016-c00608489-support",
+  "published_at": "2016-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P80001571/?cycle=2016",
+  "support_oppose": "support",
+  "topics": [],
+  "type": "outside_spending"
+}

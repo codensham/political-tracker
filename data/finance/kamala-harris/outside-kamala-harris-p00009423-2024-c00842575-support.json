@@ -1,0 +1,18 @@
+{
+  "amount": 75000.0,
+  "candidate_ids": [
+    "kamala-harris"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C00842575",
+  "committee_name": "OPERATION SAVING DEMOCRACY",
+  "cycle": 2024,
+  "fec_candidate_id": "P00009423",
+  "id": "outside-kamala-harris-p00009423-2024-c00842575-support",
+  "published_at": "2024-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P00009423/?cycle=2024",
+  "support_oppose": "support",
+  "topics": [],
+  "type": "outside_spending"
+}

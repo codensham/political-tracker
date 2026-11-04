@@ -12,6 +12,7 @@ TYPE_DIRS: dict[str, str] = {
     "finance": "finance",
     "vote": "record",
     "executive_action": "executive-actions",
+    "outside_spending": "finance",
 }
 
 
@@ -44,11 +45,18 @@ def write_record(record: dict, root: Path) -> bool:
 
 
 def load_records(root: Path, type: str | None = None) -> Iterator[dict]:
+    """Yield records of one type, or every type. Types may share a folder (finance)."""
     root = Path(root)
-    types = [type] if type is not None else list(TYPE_DIRS)
-    for t in types:
+    wanted = {type} if type is not None else set(TYPE_DIRS)
+    seen_dirs: set[str] = set()
+    for t in TYPE_DIRS:
+        if t not in wanted or TYPE_DIRS[t] in seen_dirs:
+            continue
+        seen_dirs.add(TYPE_DIRS[t])
         base = root / TYPE_DIRS[t]
         if not base.exists():
             continue
         for path in sorted(base.rglob("*.json")):
-            yield json.loads(path.read_text(encoding="utf-8"))
+            record = json.loads(path.read_text(encoding="utf-8"))
+            if record.get("type") in wanted:
+                yield record

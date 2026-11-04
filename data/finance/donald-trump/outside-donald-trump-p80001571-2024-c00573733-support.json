@@ -1,0 +1,18 @@
+{
+  "amount": 95690.75,
+  "candidate_ids": [
+    "donald-trump"
+  ],
+  "collected_at": "2026-11-04T13:53:53Z",
+  "collector": "fec_outside_spending@1.0",
+  "committee_id": "C00573733",
+  "committee_name": "SECURITY IS STRENGTH PAC",
+  "cycle": 2024,
+  "fec_candidate_id": "P80001571",
+  "id": "outside-donald-trump-p80001571-2024-c00573733-support",
+  "published_at": "2024-12-31",
+  "source_url": "https://www.fec.gov/data/candidate/P80001571/?cycle=2024",
+  "support_oppose": "support",
+  "topics": [],
+  "type": "outside_spending"
+}

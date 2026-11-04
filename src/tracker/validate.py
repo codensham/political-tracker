@@ -74,7 +74,7 @@ def validate_tree(root: Path) -> dict[Path, list[str]]:
             report.setdefault(path, []).append(f"no schema for folder {rel.parts[0]!r}")
         elif path.suffix != ".json":
             report.setdefault(path, []).append("not a JSON record file")
-    for dirname in TYPE_DIRS.values():
+    for dirname in dict.fromkeys(TYPE_DIRS.values()):
         base = root / dirname
         if not base.exists():
             continue

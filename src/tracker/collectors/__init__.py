@@ -13,4 +13,5 @@ BUILTIN_MODULES: tuple[str, ...] = (
     "tracker.collectors.fec",
     "tracker.collectors.voteview",
     "tracker.collectors.federal_register",
+    "tracker.collectors.fec_outside_spending",
 )
