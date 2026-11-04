@@ -103,6 +103,7 @@ def validate_tree(root: Path) -> dict[Path, list[str]]:
         elif path.suffix != ".json":
             report.setdefault(path, []).append("not a JSON record file")
     candidates = {c["id"]: c for c in load_records(root, "candidate")}
+    seen: dict[tuple, list[Path]] = {}
     for dirname in dict.fromkeys(TYPE_DIRS.values()):
         base = root / dirname
         if not base.exists():
@@ -122,7 +123,36 @@ def validate_tree(root: Path) -> dict[Path, list[str]]:
                     errors.append(f"misplaced: expected {expected.relative_to(root)}")
             if errors:
                 report[path] = errors
+            elif (key := duplicate_keys(record)) is not None:
+                seen.setdefault(key, []).append(path)
+    for paths in seen.values():
+        if len(paths) > 1:
+            for path in paths:
+                others = [p.relative_to(root).as_posix() for p in paths if p != path]
+                report.setdefault(path, []).append(f"duplicate of {', '.join(others)}")
     return report
+
+
+def duplicate_keys(record: dict) -> tuple | None:
+    """Identity of a record for duplicate detection (spec §6). Two records with the same key are the
+    same evidence entered twice. None means the type has no duplicate rule."""
+    rtype = record.get("type")
+    url = record.get("source_url")
+    if rtype == "statement":
+        return ("statement", url, normalize_text(record.get("quote", "")))
+    if rtype == "article":
+        return ("article", url)
+    if rtype == "endorsement":
+        return ("endorsement", url, record.get("endorser"))
+    if rtype == "appearance":
+        return ("appearance", url, record.get("event"))
+    if rtype == "poll":
+        return ("poll", url, record.get("pollster"), record.get("field_end"))
+    return None
+
+
+def normalize_text(text: str) -> str:
+    return " ".join(text.split()).lower()
 
 
 def main(argv: list[str] | None = None) -> int:
