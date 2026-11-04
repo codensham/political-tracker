@@ -1,0 +1,18 @@
+{
+  "candidate_ids": [
+    "al-gore"
+  ],
+  "collected_at": "2026-11-04T00:00:00Z",
+  "collector": "manual",
+  "end_date": "1985-01-03",
+  "id": "gore-office-house-1977",
+  "kind": "office",
+  "location": "Tennessee",
+  "organization": "United States House of Representatives",
+  "published_at": "1977-01-03",
+  "source_url": "https://bioguide.congress.gov/search/bio/G000321",
+  "start_date": "1977-01-03",
+  "title": "U.S. Representative",
+  "topics": [],
+  "type": "bio"
+}

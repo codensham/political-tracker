@@ -51,6 +51,14 @@ def validate_record(record: dict) -> list[str]:
         if not isinstance(topic, str) or topic not in _topic_ids():
             errors.append(f"topics: unknown topic {topic!r}")
 
+    if (
+        record_type == "bio"
+        and isinstance(record.get("end_date"), str)
+        and isinstance(record.get("start_date"), str)
+    ):
+        if record["end_date"] < record["start_date"]:
+            errors.append("end_date: before start_date")
+
     if record_type == "candidate" and record.get("id") not in record.get("candidate_ids", []):
         errors.append("candidate_ids: must contain the candidate's own id")
 
